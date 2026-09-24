@@ -16,12 +16,22 @@ export interface AudioManifest {
 const AUDIO_BASE = `${import.meta.env.BASE_URL}audio/`;
 
 let manifestPromise: Promise<AudioManifest | null> | null = null;
+let manifestLoadedAt = 0;
 
-export function loadManifest(): Promise<AudioManifest | null> {
-  manifestPromise ??= fetch(`${AUDIO_BASE}manifest.json`)
+export function loadManifest(fresh = false): Promise<AudioManifest | null> {
+  if (fresh) manifestPromise = null;
+  manifestPromise ??= fetch(`${AUDIO_BASE}manifest.json`, { cache: "no-cache" })
     .then((r) => (r.ok ? (r.json() as Promise<AudioManifest>) : null))
-    .catch(() => null);
+    .catch(() => null)
+    .finally(() => (manifestLoadedAt = Date.now()));
   return manifestPromise;
+}
+
+/** Recorded clip for a phrase, re-checking once if the list may predate a deploy. */
+async function clipFor(text: string): Promise<string | undefined> {
+  const file = (await loadManifest())?.files[text];
+  if (file || Date.now() - manifestLoadedAt < 60_000) return file;
+  return (await loadManifest(true))?.files[text];
 }
 
 export type Source = "neural" | "device" | "none";
@@ -47,8 +57,7 @@ export async function speak(text: string, cb: Callbacks = {}): Promise<void> {
   current = null;
   const { settings } = getState();
   if (settings.voiceSource === "auto") {
-    const manifest = await loadManifest();
-    const file = manifest?.files[text];
+    const file = await clipFor(text);
     if (file) return playFile(`${AUDIO_BASE}${file}`, settings.rate, text, cb);
   }
   return speakDevice(text, settings.rate, cb);

@@ -42,9 +42,11 @@ export default defineConfig({
             options: { cacheName: "audio", expiration: { maxEntries: 5000 }, rangeRequests: true },
           },
           {
+            // Network first: a stale list would send newly recorded phrases to the
+            // device voice after a deploy. The cached copy is only for offline use.
             urlPattern: ({ url }) => url.pathname.endsWith("/audio/manifest.json"),
-            handler: "StaleWhileRevalidate",
-            options: { cacheName: "audio-manifest" },
+            handler: "NetworkFirst",
+            options: { cacheName: "audio-manifest", networkTimeoutSeconds: 4 },
           },
         ],
       },
