@@ -89,10 +89,27 @@
     },
     {
       "id": "nombres",
-      "title": "Les nombres 10–100",
-      "minutes": 10,
-      "lede": "Le point délicat : 70–99 se construisent par addition et multiplication.",
+      "title": "Les nombres 0–100",
+      "minutes": 12,
+      "lede": "D'abord les chiffres de 0 à 9, puis le point délicat : 70–99 se construisent par addition et multiplication.",
       "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les chiffres 0 à 9",
+          "note": "Attention : six et dix se prononcent « sis » et « dis » seuls, mais « si » et « di » devant une consonne (six livres).",
+          "items": [
+            { "fr": "zéro", "label": "0 — zéro" },
+            { "fr": "un", "label": "1 — un" },
+            { "fr": "deux", "label": "2 — deux" },
+            { "fr": "trois", "label": "3 — trois" },
+            { "fr": "quatre", "label": "4 — quatre" },
+            { "fr": "cinq", "label": "5 — cinq" },
+            { "fr": "six", "label": "6 — six" },
+            { "fr": "sept", "label": "7 — sept" },
+            { "fr": "huit", "label": "8 — huit" },
+            { "fr": "neuf", "label": "9 — neuf" }
+          ]
+        },
         {
           "type": "phrases",
           "title": "10 à 20, puis les dizaines",
@@ -120,6 +137,16 @@
             { "fr": "quatre-vingt-dix", "label": "90 — quatre-vingt-dix", "en": "4 × 20 + 10" },
             { "fr": "quatre-vingt-onze", "label": "91 — quatre-vingt-onze" },
             { "fr": "cent", "label": "100 — cent" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Écrivez en lettres",
+          "items": [
+            { "prompt": "3 = ___", "answers": ["trois"] },
+            { "prompt": "6 = ___", "answers": ["six"] },
+            { "prompt": "8 = ___", "answers": ["huit"] },
+            { "prompt": "0 = ___", "answers": ["zéro"] }
           ]
         },
         {
