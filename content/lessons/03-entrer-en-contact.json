@@ -1,0 +1,297 @@
+{
+  "id": "entrer-en-contact",
+  "order": 3,
+  "kicker": "Unité 2, Leçon 1",
+  "title": "Entrer en contact",
+  "summary": "Nationalités & pays · s'appeler · numéros de téléphone",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "nationalites-pays",
+      "title": "Nationalités & pays",
+      "minutes": 5,
+      "lede": "Les articles définis (le / la / l' / les) s'utilisent toujours devant un nom de pays.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Nationalité → pays",
+          "headers": [
+            "Nationalité",
+            "Pays"
+          ],
+          "rows": [
+            [
+              "Allemande",
+              "L'Allemagne"
+            ],
+            [
+              "Brésilienne",
+              "Le Brésil"
+            ],
+            [
+              "Italien",
+              "L'Italie"
+            ],
+            [
+              "Mexicain",
+              "Le Mexique"
+            ],
+            [
+              "Marocaine",
+              "Le Maroc"
+            ],
+            [
+              "Espagnol",
+              "L'Espagne"
+            ],
+            [
+              "Chinois",
+              "La Chine"
+            ],
+            [
+              "Polonais",
+              "La Pologne"
+            ],
+            [
+              "Nigériane",
+              "Le Nigéria"
+            ],
+            [
+              "Indien / Indienne",
+              "L'Inde"
+            ],
+            [
+              "Français / Française",
+              "La France"
+            ],
+            [
+              "Canadien / Canadienne",
+              "Le Canada"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les articles — écoutez les exceptions",
+          "note": "Le (masc. sing.) · La (fém. sing.) · L' (devant une voyelle) · Les (pluriel)",
+          "items": [
+            {
+              "fr": "l'Inde"
+            },
+            {
+              "fr": "le Japon"
+            },
+            {
+              "fr": "la Corée du Sud"
+            },
+            {
+              "fr": "l'Autriche"
+            },
+            {
+              "fr": "les Pays-Bas",
+              "en": "pluriel !"
+            },
+            {
+              "fr": "les États-Unis",
+              "en": "pluriel !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le bon article",
+          "items": [
+            {
+              "prompt": "___ Japon",
+              "answers": [
+                "Le"
+              ],
+              "choices": [
+                "Le",
+                "La",
+                "L'",
+                "Les"
+              ]
+            },
+            {
+              "prompt": "___ Chine",
+              "answers": [
+                "La"
+              ],
+              "choices": [
+                "Le",
+                "La",
+                "L'",
+                "Les"
+              ]
+            },
+            {
+              "prompt": "___ Inde",
+              "answers": [
+                "L'"
+              ],
+              "choices": [
+                "Le",
+                "La",
+                "L'",
+                "Les"
+              ]
+            },
+            {
+              "prompt": "___ États-Unis",
+              "answers": [
+                "Les"
+              ],
+              "choices": [
+                "Le",
+                "La",
+                "L'",
+                "Les"
+              ]
+            },
+            {
+              "prompt": "___ Pays-Bas",
+              "answers": [
+                "Les"
+              ],
+              "choices": [
+                "Le",
+                "La",
+                "L'",
+                "Les"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-appeler",
+      "title": "S'appeler & prononciation",
+      "minutes": 5,
+      "lede": "Le verbe réflexif « s'appeler », et deux règles de prononciation à connaître par cœur.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Conjugaison : s'appeler",
+          "headers": [
+            "Sujet",
+            "Forme"
+          ],
+          "rows": [
+            [
+              "Je",
+              "m'appelle"
+            ],
+            [
+              "Tu",
+              "t'appelles"
+            ],
+            [
+              "Il / Elle",
+              "s'appelle"
+            ],
+            [
+              "Nous",
+              "nous appelons"
+            ],
+            [
+              "Vous",
+              "vous appelez"
+            ],
+            [
+              "Ils / Elles",
+              "s'appellent"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Prononciation — écoutez la différence",
+          "note": "-ER, -EZ, é → se prononcent « é ». -ES, -E, -ENT → silencieuses.",
+          "items": [
+            {
+              "fr": "café",
+              "en": "é sonore"
+            },
+            {
+              "fr": "Vous allez bien ?",
+              "en": "-ez sonore"
+            },
+            {
+              "fr": "parler",
+              "en": "-er sonore"
+            },
+            {
+              "fr": "téléphone",
+              "en": "e final muet"
+            },
+            {
+              "fr": "Ils s'appellent Neeraj et Raman.",
+              "label": "Ils s'appellent…",
+              "en": "-ent muet"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez s'appeler",
+          "items": [
+            {
+              "prompt": "Tu ___ comment ?",
+              "answers": [
+                "t'appelles"
+              ]
+            },
+            {
+              "prompt": "Nous ___ Divya et Sibi.",
+              "answers": [
+                "nous appelons"
+              ]
+            },
+            {
+              "prompt": "Elles ___ Christabel et Nivedha.",
+              "answers": [
+                "s'appellent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "telephone",
+      "title": "Numéros de téléphone",
+      "minutes": 3,
+      "lede": "On dicte un numéro par groupes de deux chiffres ; « + » se dit « plus ».",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Écoutez les exemples",
+          "note": "Numéros fictifs (plages réservées à la fiction).",
+          "items": [
+            {
+              "fr": "Mon numéro de téléphone est le zéro six, trente-neuf, quatre-vingt-dix-huit, quarante-deux, dix-sept.",
+              "label": "Mon numéro est le 06 39 98 42 17"
+            },
+            {
+              "fr": "plus trente-trois, six, trente-neuf, quatre-vingt-dix-huit, soixante-quinze, quatre-vingt-onze",
+              "label": "+33 6 39 98 75 91"
+            },
+            {
+              "fr": "zéro un, quatre-vingt-dix-neuf, zéro zéro, soixante-douze, cinquante-sept",
+              "label": "01 99 00 72 57"
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Dictez à voix haute",
+          "mode": "oral",
+          "prompt": "Lisez ces numéros en français, par groupes de deux : Camille — 06 39 98 93 20 · Lucas — +33 1 99 00 59 61",
+          "model": "zéro six, trente-neuf, quatre-vingt-dix-huit, quatre-vingt-treize, vingt · plus trente-trois, un, quatre-vingt-dix-neuf, zéro zéro, cinquante-neuf, soixante et un"
+        }
+      ]
+    }
+  ]
+}

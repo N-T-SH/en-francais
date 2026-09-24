@@ -1,0 +1,156 @@
+{
+  "id": "faites-connaissance",
+  "order": 5,
+  "kicker": "Leçons 8 & 9",
+  "title": "Faites connaissance",
+  "summary": "La famille · les professions · adjectifs possessifs et descriptifs",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "famille-professions",
+      "title": "Famille & professions",
+      "minutes": 8,
+      "lede": "Vocabulaire familial, et les professions au masculin / féminin.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La famille",
+          "items": [
+            { "fr": "le grand-père", "en": "papi" },
+            { "fr": "la grand-mère", "en": "mamie" },
+            { "fr": "le père", "en": "papa" },
+            { "fr": "la mère", "en": "maman" },
+            { "fr": "le frère, la sœur", "label": "le frère / la sœur" },
+            { "fr": "le neveu, la nièce", "label": "le neveu / la nièce" },
+            { "fr": "l'oncle, la tante", "label": "l'oncle / la tante" },
+            { "fr": "le cousin, la cousine", "label": "le cousin / la cousine" }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Professions — masculin / féminin",
+          "headers": ["Masculin", "Féminin"],
+          "rows": [
+            ["journaliste", "journaliste"],
+            ["écrivain", "écrivaine"],
+            ["chanteur", "chanteuse"],
+            ["réalisateur", "réalisatrice"],
+            ["professeur", "professeure"],
+            ["ingénieur", "ingénieure"],
+            ["médecin", "médecin"],
+            ["informaticien", "informaticienne"],
+            ["avocat", "avocate"],
+            ["acteur", "actrice"],
+            ["musicien", "musicienne"]
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "La famille",
+          "items": [
+            { "prompt": "Le fils de mon oncle est mon ___.", "answers": ["cousin"] },
+            { "prompt": "La mère de ma mère est ma ___.", "answers": ["grand-mère"] },
+            { "prompt": "Le frère de mon père est mon ___.", "answers": ["oncle"] }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Présentez votre famille",
+          "mode": "oral",
+          "prompt": "Présentez votre famille (nom, âge, profession) en quelques phrases.",
+          "model": "Nous sommes quatre personnes dans la famille. Mon père s'appelle Ravi, il a soixante ans, il est médecin. Ma mère… Moi, je m'appelle…"
+        }
+      ]
+    },
+    {
+      "id": "possessifs",
+      "title": "Adjectifs possessifs",
+      "minutes": 5,
+      "lede": "Ils s'accordent avec le nom possédé, pas avec la personne qui possède.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Tableau complet",
+          "headers": ["Sujet", "Masc. sing.", "Fém. sing.", "Pluriel"],
+          "rows": [
+            ["Je", "mon", "ma", "mes"],
+            ["Tu", "ton", "ta", "tes"],
+            ["Il / Elle", "son", "sa", "ses"],
+            ["Nous", "notre", "notre", "nos"],
+            ["Vous", "votre", "votre", "vos"],
+            ["Ils / Elles", "leur", "leur", "leurs"]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez les exemples",
+          "items": [
+            { "fr": "C'est ma sœur. Sa fille s'appelle Riya." },
+            { "fr": "J'ai un ami. Sa femme s'appelle Flora." }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            { "prompt": "C'est ___ père.", "answers": ["mon"], "hint": "my" },
+            { "prompt": "Elle présente ___ famille.", "answers": ["sa"], "hint": "her" },
+            { "prompt": "Nous aimons ___ ville.", "answers": ["notre"], "hint": "our" },
+            { "prompt": "Ils adorent ___ grands-parents.", "answers": ["leurs"], "hint": "their" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adjectifs",
+      "title": "Adjectifs descriptifs",
+      "minutes": 7,
+      "lede": "L'adjectif s'accorde en genre et en nombre avec le nom qu'il décrit. On l'utilise avec « être ».",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Masculin / féminin",
+          "headers": ["Masculin", "Féminin"],
+          "rows": [
+            ["grand", "grande"],
+            ["petit", "petite"],
+            ["élégant", "élégante"],
+            ["sérieux", "sérieuse"],
+            ["sportif", "sportive"],
+            ["brun", "brune"],
+            ["beau", "belle"],
+            ["joli", "jolie"],
+            ["intelligent", "intelligente"],
+            ["triste", "triste"],
+            ["adorable", "adorable"]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            { "fr": "Il est grand et sportif." },
+            { "fr": "Elle est petite et sérieuse." },
+            { "fr": "Elle est belle et intelligente." }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Accordez l'adjectif",
+          "items": [
+            { "prompt": "Mon frère est ___.", "answers": ["sportif"], "hint": "sportif" },
+            { "prompt": "Ma sœur est ___.", "answers": ["sportive"], "hint": "sportif" },
+            { "prompt": "Elle est très ___.", "answers": ["belle"], "hint": "beau" },
+            { "prompt": "Ils sont ___.", "answers": ["intelligents"], "hint": "intelligent" }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Décrivez quelqu'un",
+          "mode": "oral",
+          "prompt": "À voix haute, décrivez un membre de votre famille en 3 phrases avec des adjectifs (taille, personnalité, apparence)."
+        }
+      ]
+    }
+  ]
+}

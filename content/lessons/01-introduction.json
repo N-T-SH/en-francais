@@ -1,0 +1,259 @@
+{
+  "id": "introduction",
+  "order": 1,
+  "kicker": "Introduction",
+  "title": "Les fondamentaux",
+  "summary": "Salutations · alphabet · nombres · jours & mois · être / avoir · objets",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "salutations",
+      "title": "Accueil & salutations",
+      "minutes": 5,
+      "lede": "Révisez formel vs informel, puis pratiquez à voix haute avec l'audio.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Selon le moment",
+          "headers": ["Moment", "Formule"],
+          "rows": [
+            ["6h–20h", "Bonjour ! (formel) / Salut, coucou (informel)"],
+            ["20h–00h", "Bonsoir !"],
+            ["Pour partir", "Bonne journée / Au revoir / À plus tard / À bientôt / À demain"],
+            ["1ère rencontre", "Enchanté(e) !"]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Formel ou informel",
+          "headers": ["Formel", "Informel"],
+          "rows": [
+            ["Comment allez-vous ? / Vous allez bien ?", "Ça va ? / Comment vas-tu ? / Quoi de neuf ?"],
+            ["Oui, je vais bien, merci !", "Ça va / Ça roule… / Métro-boulot-dodo"]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            { "fr": "Bonjour !" },
+            { "fr": "Bonsoir !" },
+            { "fr": "Comment allez-vous ?" },
+            { "fr": "Ça va, merci !" },
+            { "fr": "Enchanté !" },
+            { "fr": "À bientôt !" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Formel ou informel ?",
+          "items": [
+            { "prompt": "Vous rencontrez le directeur à 9h : « ___, comment allez-vous ? »", "answers": ["Bonjour"] },
+            { "prompt": "Vous voyez votre ami au café : « ___, ça va ? »", "answers": ["Salut | Coucou"] },
+            { "prompt": "Il est 21h, vous entrez dans un magasin : « ___ ! »", "answers": ["Bonsoir"], "hint": "après 20h" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alphabet",
+      "title": "Alphabet & se présenter",
+      "minutes": 5,
+      "lede": "Épelez votre prénom à voix haute, lettre par lettre.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les lettres difficiles",
+          "items": [
+            { "fr": "A" },
+            { "fr": "B" },
+            { "fr": "C" },
+            { "fr": "G" },
+            { "fr": "H" },
+            { "fr": "J" },
+            { "fr": "Q" },
+            { "fr": "R" },
+            { "fr": "W", "label": "W (double vé)" },
+            { "fr": "Y", "label": "Y (i grec)" },
+            { "fr": "Z" }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Épelez votre prénom",
+          "mode": "oral",
+          "prompt": "Présentez-vous en épelant votre prénom, lettre par lettre, en français.",
+          "model": "Bonjour, je m'appelle Lavanya : L-A-V-A-N-Y-A."
+        }
+      ]
+    },
+    {
+      "id": "nombres",
+      "title": "Les nombres 10–100",
+      "minutes": 10,
+      "lede": "Le point délicat : 70–99 se construisent par addition et multiplication.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "10 à 20, puis les dizaines",
+          "items": [
+            { "fr": "dix", "label": "10 — dix" },
+            { "fr": "onze", "label": "11 — onze" },
+            { "fr": "douze", "label": "12 — douze" },
+            { "fr": "seize", "label": "16 — seize" },
+            { "fr": "vingt", "label": "20 — vingt" },
+            { "fr": "vingt et un", "label": "21 — vingt et un" },
+            { "fr": "trente", "label": "30 — trente" },
+            { "fr": "quarante", "label": "40 — quarante" },
+            { "fr": "cinquante", "label": "50 — cinquante" },
+            { "fr": "soixante", "label": "60 — soixante" }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le piège 70–100",
+          "items": [
+            { "fr": "soixante-dix", "label": "70 — soixante-dix", "en": "60 + 10" },
+            { "fr": "soixante et onze", "label": "71 — soixante et onze", "en": "60 + 11" },
+            { "fr": "quatre-vingts", "label": "80 — quatre-vingts", "en": "4 × 20" },
+            { "fr": "quatre-vingt-un", "label": "81 — quatre-vingt-un" },
+            { "fr": "quatre-vingt-dix", "label": "90 — quatre-vingt-dix", "en": "4 × 20 + 10" },
+            { "fr": "quatre-vingt-onze", "label": "91 — quatre-vingt-onze" },
+            { "fr": "cent", "label": "100 — cent" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Écrivez en chiffres",
+          "items": [
+            { "prompt": "soixante et onze = ___", "answers": ["71"] },
+            { "prompt": "quatre-vingt-treize = ___", "answers": ["93"] },
+            { "prompt": "quatre-vingt-un = ___", "answers": ["81"] },
+            { "prompt": "soixante-quinze = ___", "answers": ["75"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jours-mois",
+      "title": "Jours & mois",
+      "minutes": 5,
+      "lede": "7 jours = 1 semaine · 12 mois = 1 année. Attention aux lettres muettes.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les jours — repères temporels",
+          "note": "Exemple : si aujourd'hui c'est lundi…",
+          "items": [
+            { "fr": "samedi, avant-hier", "label": "samedi — avant-hier" },
+            { "fr": "dimanche, hier", "label": "dimanche — hier" },
+            { "fr": "lundi, aujourd'hui", "label": "lundi — aujourd'hui" },
+            { "fr": "mardi, demain", "label": "mardi — demain" },
+            { "fr": "mercredi, après-demain", "label": "mercredi — après-demain" },
+            { "fr": "le week-end" }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les mois — lettres silencieuses",
+          "items": [
+            { "fr": "janvier" },
+            { "fr": "juillet", "label": "juillet", "en": "le « l » final est muet" },
+            { "fr": "août" },
+            { "fr": "septembre", "label": "septembre", "en": "le « p » est muet" },
+            { "fr": "décembre" }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "La date",
+          "mode": "written",
+          "prompt": "Format : Le + date + mois + année. Écrivez votre date d'anniversaire au format français.",
+          "model": "Ma date d'anniversaire est le 21 janvier."
+        }
+      ]
+    },
+    {
+      "id": "etre-avoir",
+      "title": "Être & avoir",
+      "minutes": 10,
+      "lede": "Type 1 : les auxiliaires. Être = description. Avoir = âge / possession.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Conjugaison",
+          "headers": ["Sujet", "Être (description)", "Avoir (âge / possession)"],
+          "rows": [
+            ["Je / j'", "suis", "j'ai"],
+            ["Tu", "es", "as"],
+            ["Il / Elle", "est", "a"],
+            ["Nous", "sommes", "avons"],
+            ["Vous", "êtes", "avez"],
+            ["Ils / Elles", "sont", "ont"]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez le modèle",
+          "items": [
+            { "fr": "Je suis Lavanya. Je suis professeure. J'ai trente-quatre ans.", "label": "Je suis Lavanya, professeure, 34 ans" },
+            { "fr": "Il est Yash. Il est chef d'administration. Il a vingt-sept ans.", "label": "Il est Yash, chef d'admin., 27 ans" },
+            { "fr": "Elle est Nancy. Elle est informaticienne. Elle a vingt-huit ans.", "label": "Elle est Nancy, informaticienne, 28 ans" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec être ou avoir",
+          "items": [
+            { "prompt": "Je m'appelle Tharun. Je ___ indien. J'___ vingt-six ans.", "answers": ["suis", "ai"] },
+            { "prompt": "Nous ___ étudiants. Nous ___ un livre chacun.", "answers": ["sommes", "avons"] },
+            { "prompt": "Vous ___ français ? Vous ___ quel âge ?", "answers": ["êtes", "avez"] },
+            { "prompt": "Ils ___ indiens. Ils ___ vingt-cinq ans.", "answers": ["sont", "ont"] }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Parlez de vous",
+          "mode": "oral",
+          "prompt": "À voix haute, présentez-vous en 4 phrases : nom, métier, nationalité, âge.",
+          "model": "Je suis Tharun. Je suis ingénieur. Je suis indien. J'ai vingt-six ans."
+        }
+      ]
+    },
+    {
+      "id": "objets",
+      "title": "Vocabulaire des objets",
+      "minutes": 5,
+      "lede": "Un / une — pratiquez le genre de chaque objet.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            { "fr": "un livre" },
+            { "fr": "un stylo" },
+            { "fr": "un ordinateur" },
+            { "fr": "un téléphone portable" },
+            { "fr": "une bouteille" },
+            { "fr": "une réunion sur Zoom" },
+            { "fr": "un chargeur" },
+            { "fr": "une tasse de café" },
+            { "fr": "l'horloge", "en": "féminin : une horloge" },
+            { "fr": "une chaise" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Un ou une ?",
+          "items": [
+            { "prompt": "___ table", "answers": ["une"], "choices": ["un", "une"] },
+            { "prompt": "___ ordinateur", "answers": ["un"], "choices": ["un", "une"] },
+            { "prompt": "___ chaise", "answers": ["une"], "choices": ["un", "une"] },
+            { "prompt": "___ livre", "answers": ["un"], "choices": ["un", "une"] },
+            { "prompt": "___ bouteille", "answers": ["une"], "choices": ["un", "une"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

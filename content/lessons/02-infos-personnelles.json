@@ -1,0 +1,93 @@
+{
+  "id": "infos-personnelles",
+  "order": 2,
+  "kicker": "Leçon 5",
+  "title": "Échanger des informations personnelles",
+  "summary": "Verbes en -ER · questions avec quel / quelle",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "verbes-er",
+      "title": "Les verbes en -ER",
+      "minutes": 10,
+      "lede": "3 étapes : supprimer « -er » → mémoriser les terminaisons → ajouter.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Modèle : parler",
+          "headers": ["Sujet", "Terminaison", "Parler"],
+          "rows": [
+            ["Je", "-e", "parle"],
+            ["Tu", "-es", "parles"],
+            ["Il / Elle", "-e", "parle"],
+            ["Nous", "-ons", "parlons"],
+            ["Vous", "-ez", "parlez"],
+            ["Ils / Elles", "-ent", "parlent"]
+          ],
+          "note": "Prononciation : -e / -es / -ent sont silencieuses. -er et -ez sonnent comme « é »."
+        },
+        {
+          "type": "phrases",
+          "title": "Autres verbes en -ER",
+          "items": [
+            { "fr": "habiter" },
+            { "fr": "communiquer" },
+            { "fr": "étudier" },
+            { "fr": "danser" },
+            { "fr": "chanter" },
+            { "fr": "regarder un film" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez",
+          "items": [
+            { "prompt": "Je ___ à Paris.", "answers": ["habite"], "hint": "habiter" },
+            { "prompt": "Nous ___ le français.", "answers": ["étudions"], "hint": "étudier" },
+            { "prompt": "Vous ___ un film ce soir ?", "answers": ["regardez"], "hint": "regarder" },
+            { "prompt": "Ils ___ très bien.", "answers": ["chantent"], "hint": "chanter" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "questions-quel",
+      "title": "Questions personnelles",
+      "minutes": 10,
+      "lede": "Quel / Quels (masculin) — Quelle / Quelles (féminin), avec les adjectifs possessifs.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Écoutez les questions",
+          "items": [
+            { "fr": "Quel est ton prénom ?" },
+            { "fr": "Quelle est ta nationalité ?" },
+            { "fr": "Quelles langues tu parles ?" },
+            { "fr": "Quelle est ta profession ?" },
+            { "fr": "Quel est ton pays d'origine ?" },
+            { "fr": "Quelle est ton adresse e-mail ?" },
+            { "fr": "Quel est ton âge ?" },
+            { "fr": "Quelle est ta cuisine favorite ?" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel, quelle, quels ou quelles ?",
+          "items": [
+            { "prompt": "___ est ta nationalité ?", "answers": ["Quelle"], "choices": ["Quel", "Quelle", "Quels", "Quelles"] },
+            { "prompt": "___ est ton numéro de téléphone ?", "answers": ["Quel"], "choices": ["Quel", "Quelle", "Quels", "Quelles"] },
+            { "prompt": "___ langues tu parles ?", "answers": ["Quelles"], "choices": ["Quel", "Quelle", "Quels", "Quelles"] },
+            { "prompt": "___ est ta langue maternelle ?", "answers": ["Quelle"], "choices": ["Quel", "Quelle", "Quels", "Quelles"] },
+            { "prompt": "___ est ton acteur favori ?", "answers": ["Quel"], "choices": ["Quel", "Quelle", "Quels", "Quelles"] }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Jeu de rôle",
+          "mode": "oral",
+          "prompt": "À deux, ou seul à voix haute : posez et répondez à 5 des questions ci-dessus, comme dans une vraie conversation. « Vous » si c'est formel, « tu » si c'est informel."
+        }
+      ]
+    }
+  ]
+}

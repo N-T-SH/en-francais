@@ -1,0 +1,198 @@
+{
+  "id": "preciser-des-informations",
+  "order": 4,
+  "kicker": "Leçons 6 & 7",
+  "title": "Préciser des informations",
+  "summary": "Réserver un hôtel · articles indéfinis · grands nombres · saisons · phonétique",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "hotel",
+      "title": "Vocabulaire de l'hôtel",
+      "minutes": 5,
+      "lede": "Types de chambres et moments de la journée (avec les repas associés).",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Types de chambres",
+          "items": [
+            { "fr": "une chambre simple" },
+            { "fr": "une chambre double" },
+            { "fr": "une chambre de famille" },
+            { "fr": "une chambre supérieure" }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les moments de la journée",
+          "headers": ["Moment", "Repas"],
+          "rows": [
+            ["Le matin (6h–11h59)", "Le petit-déjeuner"],
+            ["Le midi (12h00)", "Le déjeuner"],
+            ["L'après-midi (12h01–20h)", "La collation (chips, biscuits)"],
+            ["Le soir", "Le dîner"]
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Associez le moment et le repas",
+          "items": [
+            { "prompt": "Le matin → ___", "answers": ["le petit-déjeuner | petit-déjeuner"] },
+            { "prompt": "Le midi → ___", "answers": ["le déjeuner | déjeuner"] },
+            { "prompt": "Le soir → ___", "answers": ["le dîner | dîner"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "articles-grands-nombres",
+      "title": "Articles indéfinis & grands nombres",
+      "minutes": 5,
+      "lede": "Un / une / des — pour des choses générales (non précisées), à l'inverse des articles définis.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Un — une — des",
+          "headers": ["Genre", "Article"],
+          "rows": [
+            ["Masculin singulier", "un"],
+            ["Féminin singulier", "une"],
+            ["Pluriel (M / F)", "des"]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les grands nombres",
+          "items": [
+            { "fr": "cent", "label": "100 — cent" },
+            { "fr": "deux cents", "label": "200 — deux cents" },
+            { "fr": "trois cents", "label": "300 — trois cents" },
+            { "fr": "cinq cents", "label": "500 — cinq cents" },
+            { "fr": "neuf cents", "label": "900 — neuf cents" },
+            { "fr": "mille", "label": "1000 — mille" }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Écrivez en toutes lettres",
+          "items": [
+            { "prompt": "500 = ___", "answers": ["cinq cents"] },
+            { "prompt": "700 = ___", "answers": ["sept cents"] },
+            { "prompt": "1000 = ___", "answers": ["mille"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saisons-dates",
+      "title": "Saisons & dates",
+      "minutes": 3,
+      "lede": "Les 4 saisons, et comment lire une année complète.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les saisons",
+          "items": [
+            { "fr": "le printemps" },
+            { "fr": "l'été" },
+            { "fr": "l'automne" },
+            { "fr": "l'hiver" }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Une date complète",
+          "items": [
+            { "fr": "La date d'anniversaire est le trois mars mille neuf cent quatre-vingt-six.", "label": "le 3 mars 1986" },
+            { "fr": "mille neuf cent quatre-vingt-six", "label": "1986 — mille neuf cent quatre-vingt-six" },
+            { "fr": "deux mille vingt-six", "label": "2026 — deux mille vingt-six" }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Votre année de naissance",
+          "mode": "written",
+          "prompt": "Écrivez votre année de naissance en toutes lettres.",
+          "model": "mille neuf cent quatre-vingt-dix-huit"
+        }
+      ]
+    },
+    {
+      "id": "reservation",
+      "title": "Questions de réservation",
+      "minutes": 7,
+      "lede": "Le vocabulaire d'un site de réservation, et les questions pour réserver une chambre.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            { "fr": "Vous avez une chambre simple ?" },
+            { "fr": "Quel est le prix pour une nuit ?" },
+            { "fr": "Quelle chambre vous réservez ?" },
+            { "fr": "Vous avez une chambre disponible pour deux nuits ?" },
+            { "fr": "Quelle est l'heure d'arrivée ?" },
+            { "fr": "Quel est le prix du week-end pour deux personnes ?" },
+            { "fr": "Combien d'enfants vous avez ?" },
+            { "fr": "Quelle est l'heure de départ ?" },
+            { "fr": "Pour combien de personnes ?" },
+            { "fr": "Combien de chambres sont disponibles ?" },
+            { "fr": "Quel est votre numéro de téléphone ?" },
+            { "fr": "Quelle chambre vous préférez ?" }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Jeu de rôle : réserver une chambre",
+          "mode": "oral",
+          "prompt": "À deux (client / hôtel), ou seul à voix haute : réservez une chambre double pour 2 nuits, ce week-end, pour 2 personnes. Utilisez au moins 5 des questions ci-dessus."
+        }
+      ]
+    },
+    {
+      "id": "phonetique",
+      "title": "Phonétique",
+      "minutes": 7,
+      "lede": "Quatre sons à distinguer, plus la règle des lettres finales muettes et des liaisons.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "IN / AN — TION / SION",
+          "items": [
+            { "fr": "information" },
+            { "fr": "indien" },
+            { "fr": "institut" },
+            { "fr": "institution" }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "OU / AU",
+          "items": [
+            { "fr": "août" },
+            { "fr": "courriel" },
+            { "fr": "auteur" },
+            { "fr": "autobus" },
+            { "fr": "automatique" }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Liaisons",
+          "note": "Règle générale : on ne prononce pas la dernière consonne. Exception : les liaisons.",
+          "items": [
+            { "fr": "Nous avons", "en": "liaison : s → z" },
+            { "fr": "Nous parlons", "en": "pas de liaison" }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Répétez à voix haute",
+          "mode": "oral",
+          "prompt": "Lisez ces deux phrases en faisant la liaison quand il faut : « Nous avons deux enfants. » / « Nous parlons français. »",
+          "model": "Nou-z-avons deu-z-enfants. / Nous parlons français (pas de liaison)."
+        }
+      ]
+    }
+  ]
+}
