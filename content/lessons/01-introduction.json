@@ -112,12 +112,25 @@
         },
         {
           "type": "phrases",
-          "title": "10 à 20, puis les dizaines",
+          "title": "10 à 19",
+          "note": "11 à 16 ont leur propre mot (terminaison -ze). À partir de 17, on dit dix + chiffre : dix-sept, dix-huit, dix-neuf.",
           "items": [
             { "fr": "dix", "label": "10 — dix" },
             { "fr": "onze", "label": "11 — onze" },
             { "fr": "douze", "label": "12 — douze" },
+            { "fr": "treize", "label": "13 — treize" },
+            { "fr": "quatorze", "label": "14 — quatorze" },
+            { "fr": "quinze", "label": "15 — quinze" },
             { "fr": "seize", "label": "16 — seize" },
+            { "fr": "dix-sept", "label": "17 — dix-sept" },
+            { "fr": "dix-huit", "label": "18 — dix-huit" },
+            { "fr": "dix-neuf", "label": "19 — dix-neuf" }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "20, puis les dizaines",
+          "items": [
             { "fr": "vingt", "label": "20 — vingt" },
             { "fr": "vingt et un", "label": "21 — vingt et un" },
             { "fr": "trente", "label": "30 — trente" },
@@ -146,7 +159,9 @@
             { "prompt": "3 = ___", "answers": ["trois"] },
             { "prompt": "6 = ___", "answers": ["six"] },
             { "prompt": "8 = ___", "answers": ["huit"] },
-            { "prompt": "0 = ___", "answers": ["zéro"] }
+            { "prompt": "0 = ___", "answers": ["zéro"] },
+            { "prompt": "14 = ___", "answers": ["quatorze"] },
+            { "prompt": "17 = ___", "answers": ["dix-sept | dix sept"] }
           ]
         },
         {
