@@ -40,7 +40,9 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: .audio-cache
-          key: audio-${{ vars.TTS_ENGINE || 'edge' }}-${{ vars.TTS_VOICE }}-${{ hashFiles('content/**/*.json') }}
+          # Unique key per run so newly generated clips are always saved;
+          # restore-keys picks up the latest previous cache.
+          key: audio-${{ vars.TTS_ENGINE || 'edge' }}-${{ vars.TTS_VOICE }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: audio-${{ vars.TTS_ENGINE || 'edge' }}-${{ vars.TTS_VOICE }}-
       - run: npm run audio -- --out dist/audio
         env:

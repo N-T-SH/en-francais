@@ -34,7 +34,8 @@ export const engines: Record<string, Engine> = {
     name: "edge",
     defaultVoice: "fr-FR-DeniseNeural",
     async synthesize(text, voice, outFile) {
-      await run("edge-tts", ["--voice", voice, "--rate", "-5%", "--text", text, "--write-media", outFile]);
+      // "=" form required: argparse reads a separate "-5%" as another flag.
+      await run("edge-tts", [`--voice=${voice}`, "--rate=-5%", `--text=${text}`, `--write-media=${outFile}`]);
     },
   },
   // Google Cloud Text-to-Speech. Chirp 3 HD voices are the most natural.
@@ -86,6 +87,13 @@ function requireEnv(name: string): string {
   return v;
 }
 
+/** One-line reason, preferring a CLI's own error output over "Command failed". */
+function errorSummary(e: unknown): string {
+  const { stderr, message } = e as { stderr?: string; message: string };
+  const lines = (stderr || message).trim().split("\n").filter(Boolean);
+  return lines.at(-1) ?? message;
+}
+
 export function clipName(engine: string, voice: string, text: string): string {
   return `${createHash("sha1").update(`${engine}|${voice}|${text}`).digest("hex").slice(0, 16)}.mp3`;
 }
@@ -132,7 +140,7 @@ export async function buildAudio(opts: {
       } catch (e) {
         failed++;
         rmSync(cached, { force: true });
-        log(`  ✕ "${text}": ${(e as Error).message.split("\n")[0]}`);
+        log(`  ✕ "${text}": ${errorSummary(e)}`);
         // Engine unreachable or misconfigured: stop instead of failing every phrase.
         if (failed >= 5 && Object.keys(files).length === 0) queue.length = 0;
       }
