@@ -64,22 +64,28 @@
               "fr": "la profession"
             },
             {
-              "fr": "l'adresse postale"
+              "fr": "l'adresse postale",
+              "icon": "📮"
             },
             {
-              "fr": "le numéro de téléphone"
+              "fr": "le numéro de téléphone",
+              "icon": "📞"
             },
             {
-              "fr": "l'adresse e-mail"
+              "fr": "l'adresse e-mail",
+              "icon": "📧"
             },
             {
-              "fr": "le site Internet"
+              "fr": "le site Internet",
+              "icon": "🌐"
             },
             {
-              "fr": "le code QR"
+              "fr": "le code QR",
+              "icon": "🔳"
             },
             {
-              "fr": "les réseaux sociaux"
+              "fr": "les réseaux sociaux",
+              "icon": "📲"
             }
           ]
         },

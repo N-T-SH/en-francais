@@ -22,6 +22,11 @@ asks for them to be added. To do that:
      checkable answers, and optionally an oral/written `task`.
    - `phrases[].fr` is spoken by TTS: write numbers, years and phone numbers in
      words, and put the short form in `label`.
+   - Illustrations: give concrete vocabulary (objects, places, sports, family,
+     transport, food…) a small `icon` emoji on the `phrases` item. Skip abstract
+     words, numbers, sentences and questions. No flags (Windows doesn't draw
+     them), nothing newer than Unicode 13, and never use 🗼 for the Eiffel Tower
+     (it's the Tokyo Tower). Learners can hide icons in Réglages.
    - Exercise blanks are `___`, with exactly one entry in `answers` per blank.
      Accepted variants go in one entry as `"a | b"`. Use `choices` for closed
      choices (un/une, le/la/l'/les, quel/quelle…).

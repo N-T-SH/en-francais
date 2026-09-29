@@ -10,6 +10,7 @@ import { sectionIndex } from "../content";
 // Audio
 
 export function SpeakChip({ phrase, active }: { phrase: Phrase; active?: boolean }) {
+  const illustrations = useStore((st) => st.settings.illustrations);
   const [playing, setPlaying] = useState(false);
   const [failed, setFailed] = useState(false);
   const on = playing || active;
@@ -28,6 +29,7 @@ export function SpeakChip({ phrase, active }: { phrase: Phrase; active?: boolean
         })
       }
     >
+      {illustrations && phrase.icon && <span className="chip-icon" aria-hidden>{phrase.icon}</span>}
       <span className="chip-text">
         <span className="chip-fr">{phrase.label ?? phrase.fr}</span>
         {phrase.en && <span className="chip-en">{phrase.en}</span>}

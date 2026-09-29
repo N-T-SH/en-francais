@@ -53,19 +53,24 @@
               "fr": "la tour Eiffel"
             },
             {
-              "fr": "Notre-Dame de Paris"
+              "fr": "Notre-Dame de Paris",
+              "icon": "⛪"
             },
             {
-              "fr": "le Mont-Saint-Michel"
+              "fr": "le Mont-Saint-Michel",
+              "icon": "🏰"
             },
             {
-              "fr": "le Tour de France"
+              "fr": "le Tour de France",
+              "icon": "🚴"
             },
             {
-              "fr": "Roland-Garros"
+              "fr": "Roland-Garros",
+              "icon": "🎾"
             },
             {
-              "fr": "les fromages"
+              "fr": "les fromages",
+              "icon": "🧀"
             },
             {
               "fr": "les macarons"
@@ -74,13 +79,15 @@
               "fr": "les madeleines"
             },
             {
-              "fr": "la lavande"
+              "fr": "la lavande",
+              "icon": "🌿"
             },
             {
               "fr": "le drapeau français"
             },
             {
-              "fr": "le coq"
+              "fr": "le coq",
+              "icon": "🐓"
             }
           ]
         },
@@ -158,19 +165,24 @@
           "title": "Les continents",
           "items": [
             {
-              "fr": "l'Afrique"
+              "fr": "l'Afrique",
+              "icon": "🌍"
             },
             {
-              "fr": "l'Amérique"
+              "fr": "l'Amérique",
+              "icon": "🌎"
             },
             {
-              "fr": "l'Asie"
+              "fr": "l'Asie",
+              "icon": "🌏"
             },
             {
-              "fr": "l'Europe"
+              "fr": "l'Europe",
+              "icon": "🌍"
             },
             {
-              "fr": "l'Océanie"
+              "fr": "l'Océanie",
+              "icon": "🌏"
             }
           ]
         },

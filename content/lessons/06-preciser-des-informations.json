@@ -178,16 +178,20 @@
           "title": "Les saisons",
           "items": [
             {
-              "fr": "le printemps"
+              "fr": "le printemps",
+              "icon": "🌸"
             },
             {
-              "fr": "l'été"
+              "fr": "l'été",
+              "icon": "☀️"
             },
             {
-              "fr": "l'automne"
+              "fr": "l'automne",
+              "icon": "🍂"
             },
             {
-              "fr": "l'hiver"
+              "fr": "l'hiver",
+              "icon": "❄️"
             }
           ]
         },
@@ -229,16 +233,20 @@
           "title": "Types de chambres",
           "items": [
             {
-              "fr": "une chambre simple"
+              "fr": "une chambre simple",
+              "icon": "🛏️"
             },
             {
-              "fr": "une chambre double"
+              "fr": "une chambre double",
+              "icon": "🛏️"
             },
             {
-              "fr": "une chambre de famille"
+              "fr": "une chambre de famille",
+              "icon": "👨‍👩‍👧‍👦"
             },
             {
-              "fr": "une chambre supérieure"
+              "fr": "une chambre supérieure",
+              "icon": "⭐"
             }
           ]
         },
@@ -361,13 +369,15 @@
           "title": "IN / AN — TION / SION",
           "items": [
             {
-              "fr": "information"
+              "fr": "information",
+              "icon": "ℹ️"
             },
             {
               "fr": "indien"
             },
             {
-              "fr": "institut"
+              "fr": "institut",
+              "icon": "🏫"
             },
             {
               "fr": "institution"
@@ -382,13 +392,16 @@
               "fr": "août"
             },
             {
-              "fr": "courriel"
+              "fr": "courriel",
+              "icon": "📧"
             },
             {
-              "fr": "auteur"
+              "fr": "auteur",
+              "icon": "✍️"
             },
             {
-              "fr": "autobus"
+              "fr": "autobus",
+              "icon": "🚌"
             },
             {
               "fr": "automatique"

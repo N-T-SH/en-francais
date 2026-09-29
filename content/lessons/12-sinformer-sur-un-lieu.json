@@ -23,25 +23,31 @@
               "fr": "le MuCEM"
             },
             {
-              "fr": "la cathédrale de La Major"
+              "fr": "la cathédrale de La Major",
+              "icon": "⛪"
             },
             {
               "fr": "le Panier"
             },
             {
-              "fr": "le Vieux-Port"
+              "fr": "le Vieux-Port",
+              "icon": "⚓"
             },
             {
-              "fr": "Notre-Dame-de-la-Garde"
+              "fr": "Notre-Dame-de-la-Garde",
+              "icon": "⛪"
             },
             {
-              "fr": "le château d'If"
+              "fr": "le château d'If",
+              "icon": "🏰"
             },
             {
-              "fr": "les Calanques"
+              "fr": "les Calanques",
+              "icon": "🏞️"
             },
             {
-              "fr": "le stade Orange Vélodrome"
+              "fr": "le stade Orange Vélodrome",
+              "icon": "🏟️"
             }
           ]
         },
@@ -332,67 +338,86 @@
           "title": "Les lieux de la ville (1)",
           "items": [
             {
-              "fr": "un magasin"
+              "fr": "un magasin",
+              "icon": "🏪"
             },
             {
-              "fr": "un marché"
+              "fr": "un marché",
+              "icon": "🧺"
             },
             {
-              "fr": "un supermarché"
+              "fr": "un supermarché",
+              "icon": "🛒"
             },
             {
-              "fr": "le consulat"
+              "fr": "le consulat",
+              "icon": "🏛️"
             },
             {
               "fr": "la mairie",
-              "label": "la mairie (l'hôtel de ville)"
+              "label": "la mairie (l'hôtel de ville)",
+              "icon": "🏛️"
             },
             {
               "fr": "un café"
             },
             {
-              "fr": "un hôtel"
+              "fr": "un hôtel",
+              "icon": "🏨"
             },
             {
               "fr": "un jardin",
-              "label": "un jardin (un parc)"
+              "label": "un jardin (un parc)",
+              "icon": "🌳"
             },
             {
-              "fr": "un restaurant"
+              "fr": "un restaurant",
+              "icon": "🍽️"
             },
             {
-              "fr": "un stade"
+              "fr": "un stade",
+              "icon": "🏟️"
             },
             {
               "fr": "une cathédrale",
-              "label": "une cathédrale (une église)"
+              "label": "une cathédrale (une église)",
+              "icon": "⛪"
             },
             {
-              "fr": "un musée"
+              "fr": "un musée",
+              "icon": "🖼️"
             },
             {
-              "fr": "une pharmacie"
+              "fr": "une pharmacie",
+              "icon": "💊"
             },
             {
-              "fr": "l'arrêt de bus"
+              "fr": "l'arrêt de bus",
+              "icon": "🚏"
             },
             {
-              "fr": "la gare"
+              "fr": "la gare",
+              "icon": "🚉"
             },
             {
-              "fr": "le port"
+              "fr": "le port",
+              "icon": "⚓"
             },
             {
-              "fr": "un parking"
+              "fr": "un parking",
+              "icon": "🅿️"
             },
             {
-              "fr": "une station de métro"
+              "fr": "une station de métro",
+              "icon": "🚇"
             },
             {
-              "fr": "une station de tramway"
+              "fr": "une station de tramway",
+              "icon": "🚋"
             },
             {
-              "fr": "une station-service"
+              "fr": "une station-service",
+              "icon": "⛽"
             }
           ]
         },
@@ -402,40 +427,52 @@
           "note": "à pied, à vélo — mais en bus, en voiture, en train…",
           "items": [
             {
-              "fr": "au nord"
+              "fr": "au nord",
+              "icon": "⬆️"
             },
             {
-              "fr": "au sud"
+              "fr": "au sud",
+              "icon": "⬇️"
             },
             {
-              "fr": "à l'est"
+              "fr": "à l'est",
+              "icon": "➡️"
             },
             {
-              "fr": "à l'ouest"
+              "fr": "à l'ouest",
+              "icon": "⬅️"
             },
             {
-              "fr": "à pied"
+              "fr": "à pied",
+              "icon": "🚶"
             },
             {
-              "fr": "à vélo"
+              "fr": "à vélo",
+              "icon": "🚲"
             },
             {
-              "fr": "en bateau"
+              "fr": "en bateau",
+              "icon": "⛵"
             },
             {
-              "fr": "en bus"
+              "fr": "en bus",
+              "icon": "🚌"
             },
             {
-              "fr": "en métro"
+              "fr": "en métro",
+              "icon": "🚇"
             },
             {
-              "fr": "en train"
+              "fr": "en train",
+              "icon": "🚆"
             },
             {
-              "fr": "en tramway"
+              "fr": "en tramway",
+              "icon": "🚋"
             },
             {
-              "fr": "en voiture"
+              "fr": "en voiture",
+              "icon": "🚗"
             }
           ]
         },

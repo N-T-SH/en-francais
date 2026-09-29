@@ -21,35 +21,43 @@
           "items": [
             {
               "fr": "le grand-père",
-              "en": "papi"
+              "en": "papi",
+              "icon": "👴"
             },
             {
               "fr": "la grand-mère",
-              "en": "mamie"
+              "en": "mamie",
+              "icon": "👵"
             },
             {
               "fr": "le père",
-              "en": "papa"
+              "en": "papa",
+              "icon": "👨"
             },
             {
               "fr": "la mère",
-              "en": "maman"
+              "en": "maman",
+              "icon": "👩"
             },
             {
               "fr": "le frère, la sœur",
-              "label": "le frère / la sœur"
+              "label": "le frère / la sœur",
+              "icon": "👦"
             },
             {
               "fr": "le neveu, la nièce",
-              "label": "le neveu / la nièce"
+              "label": "le neveu / la nièce",
+              "icon": "🧒"
             },
             {
               "fr": "l'oncle, la tante",
-              "label": "l'oncle / la tante"
+              "label": "l'oncle / la tante",
+              "icon": "🧑"
             },
             {
               "fr": "le cousin, la cousine",
-              "label": "le cousin / la cousine"
+              "label": "le cousin / la cousine",
+              "icon": "👥"
             }
           ]
         },

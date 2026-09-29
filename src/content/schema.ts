@@ -12,6 +12,7 @@ export const Phrase = z.object({
   fr: z.string().min(1).describe("French text to speak aloud"),
   label: z.string().optional().describe("Display text if different from `fr`, e.g. '70 — soixante-dix'"),
   en: z.string().optional().describe("Optional English gloss"),
+  icon: z.string().max(16).optional().describe("Optional emoji shown as a small illustration. Only for concrete words (objects, places, sports…); no flags (not shown on Windows) and nothing newer than Unicode 13"),
 });
 
 export const TableBlock = z.object({

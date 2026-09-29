@@ -61,7 +61,8 @@
           "title": "Écoutez un exemple de présentation",
           "items": [
             {
-              "fr": "Bonjour !"
+              "fr": "Bonjour !",
+              "icon": "👋"
             },
             {
               "fr": "Je m'appelle Sara. Je suis indienne et je suis ingénieure.",
@@ -77,7 +78,8 @@
               "fr": "J'aime la musique, le cinéma et les chats. Je n'aime pas la télé."
             },
             {
-              "fr": "À bientôt !"
+              "fr": "À bientôt !",
+              "icon": "👋"
             }
           ]
         },
@@ -191,7 +193,8 @@
               "fr": "J'attends ta réponse."
             },
             {
-              "fr": "À bientôt !"
+              "fr": "À bientôt !",
+              "icon": "👋"
             }
           ]
         },

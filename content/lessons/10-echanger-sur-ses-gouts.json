@@ -20,23 +20,29 @@
           "title": "Les sports",
           "items": [
             {
-              "fr": "le basket"
+              "fr": "le basket",
+              "icon": "🏀"
             },
             {
-              "fr": "le cyclisme"
+              "fr": "le cyclisme",
+              "icon": "🚴"
             },
             {
-              "fr": "l'équitation"
+              "fr": "l'équitation",
+              "icon": "🏇"
             },
             {
               "fr": "la Formule un",
-              "label": "la Formule 1"
+              "label": "la Formule 1",
+              "icon": "🏎️"
             },
             {
-              "fr": "le tennis"
+              "fr": "le tennis",
+              "icon": "🎾"
             },
             {
-              "fr": "courir"
+              "fr": "courir",
+              "icon": "🏃"
             }
           ]
         },
@@ -45,22 +51,28 @@
           "title": "Les loisirs",
           "items": [
             {
-              "fr": "le cinéma"
+              "fr": "le cinéma",
+              "icon": "🎬"
             },
             {
-              "fr": "l'opéra"
+              "fr": "l'opéra",
+              "icon": "🎭"
             },
             {
-              "fr": "le théâtre"
+              "fr": "le théâtre",
+              "icon": "🎭"
             },
             {
-              "fr": "danser"
+              "fr": "danser",
+              "icon": "💃"
             },
             {
-              "fr": "lire les magazines"
+              "fr": "lire les magazines",
+              "icon": "📖"
             },
             {
-              "fr": "regarder la télé"
+              "fr": "regarder la télé",
+              "icon": "📺"
             }
           ]
         },
@@ -69,13 +81,16 @@
           "title": "Les animaux",
           "items": [
             {
-              "fr": "les chats"
+              "fr": "les chats",
+              "icon": "🐱"
             },
             {
-              "fr": "les chiens"
+              "fr": "les chiens",
+              "icon": "🐶"
             },
             {
-              "fr": "les hippopotames"
+              "fr": "les hippopotames",
+              "icon": "🦛"
             }
           ]
         },
@@ -678,10 +693,12 @@
           "title": "Écoutez chaque mot",
           "items": [
             {
-              "fr": "vélo"
+              "fr": "vélo",
+              "icon": "🚲"
             },
             {
-              "fr": "auto"
+              "fr": "auto",
+              "icon": "🚗"
             },
             {
               "fr": "beau"
@@ -693,22 +710,28 @@
               "fr": "vous"
             },
             {
-              "fr": "courir"
+              "fr": "courir",
+              "icon": "🏃"
             },
             {
-              "fr": "télé"
+              "fr": "télé",
+              "icon": "📺"
             },
             {
-              "fr": "mère"
+              "fr": "mère",
+              "icon": "👩"
             },
             {
-              "fr": "fête"
+              "fr": "fête",
+              "icon": "🎉"
             },
             {
-              "fr": "chanteur"
+              "fr": "chanteur",
+              "icon": "🎤"
             },
             {
-              "fr": "sœur"
+              "fr": "sœur",
+              "icon": "👧"
             }
           ]
         },

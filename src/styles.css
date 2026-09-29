@@ -675,3 +675,18 @@ tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--paper-2) 50%,
   padding: 3px 9px;
   border-radius: 999px;
 }
+
+/* Vocabulary illustrations */
+.chip-icon {
+  flex: none;
+  font-size: 1.55rem;
+  line-height: 1;
+  width: 1.9rem;
+  text-align: center;
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+}
+.chip:has(.chip-icon) { justify-content: flex-start; gap: 10px; }
+.chip:has(.chip-icon) .chip-text { flex: 1; }
+.check { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
+.check input { margin-top: 4px; accent-color: var(--sage); width: 18px; height: 18px; }
+.check small { display: block; color: var(--ink-soft); font-size: 0.82rem; }

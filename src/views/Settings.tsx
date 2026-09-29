@@ -102,6 +102,14 @@ export function Settings() {
       </div>
 
       <div className="card">
+        <h4>Illustrations</h4>
+        <label className="check">
+          <input type="checkbox" checked={settings.illustrations} onChange={(e) => actions.updateSettings({ illustrations: e.target.checked })} />
+          <span>Afficher les petits dessins à côté du vocabulaire <small>Décochez pour vous tester sans image.</small></span>
+        </label>
+      </div>
+
+      <div className="card">
         <h4>Thème</h4>
         <div className="segmented" role="group">
           {(["system", "light", "dark"] as const).map((t) => (

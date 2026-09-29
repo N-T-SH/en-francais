@@ -215,7 +215,8 @@
           "items": [
             {
               "fr": "café",
-              "en": "é sonore"
+              "en": "é sonore",
+              "icon": "☕"
             },
             {
               "fr": "Vous allez bien ?",
@@ -223,11 +224,13 @@
             },
             {
               "fr": "parler",
-              "en": "-er sonore"
+              "en": "-er sonore",
+              "icon": "🗣️"
             },
             {
               "fr": "téléphone",
-              "en": "e final muet"
+              "en": "e final muet",
+              "icon": "📞"
             },
             {
               "fr": "Ils s'appellent Neeraj et Raman.",

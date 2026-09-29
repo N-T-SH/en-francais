@@ -70,24 +70,28 @@
           "title": "Écoutez",
           "items": [
             {
-              "fr": "Va tout droit !"
+              "fr": "Va tout droit !",
+              "icon": "⬆️"
             },
             {
               "fr": "Continue sur deux cents mètres !",
               "label": "Continue sur 200 mètres !"
             },
             {
-              "fr": "Tourne à gauche !"
+              "fr": "Tourne à gauche !",
+              "icon": "⬅️"
             },
             {
-              "fr": "Allez tout droit !"
+              "fr": "Allez tout droit !",
+              "icon": "⬆️"
             },
             {
               "fr": "Continuez sur deux cents mètres !",
               "label": "Continuez sur 200 mètres !"
             },
             {
-              "fr": "Tournez à droite !"
+              "fr": "Tournez à droite !",
+              "icon": "➡️"
             }
           ]
         },
@@ -363,56 +367,71 @@
           "title": "Les lieux de la ville (2)",
           "items": [
             {
-              "fr": "la poste"
+              "fr": "la poste",
+              "icon": "📮"
             },
             {
-              "fr": "la police"
+              "fr": "la police",
+              "icon": "👮"
             },
             {
-              "fr": "la crèche"
+              "fr": "la crèche",
+              "icon": "🍼"
             },
             {
-              "fr": "l'école"
+              "fr": "l'école",
+              "icon": "🏫"
             },
             {
-              "fr": "le collège"
+              "fr": "le collège",
+              "icon": "🏫"
             },
             {
-              "fr": "le lycée"
+              "fr": "le lycée",
+              "icon": "🎓"
             },
             {
               "fr": "le boulodrome"
             },
             {
-              "fr": "le cinéma"
+              "fr": "le cinéma",
+              "icon": "🎬"
             },
             {
-              "fr": "les jeux pour enfants"
+              "fr": "les jeux pour enfants",
+              "icon": "🎠"
             },
             {
-              "fr": "l'hôpital"
+              "fr": "l'hôpital",
+              "icon": "🏥"
             },
             {
-              "fr": "l'office de tourisme"
+              "fr": "l'office de tourisme",
+              "icon": "ℹ️"
             },
             {
               "fr": "le distributeur de billets",
-              "label": "le distributeur de billets (la banque)"
+              "label": "le distributeur de billets (la banque)",
+              "icon": "🏧"
             },
             {
-              "fr": "les toilettes"
+              "fr": "les toilettes",
+              "icon": "🚻"
             },
             {
-              "fr": "la gare routière"
+              "fr": "la gare routière",
+              "icon": "🚌"
             },
             {
-              "fr": "le chemin"
+              "fr": "le chemin",
+              "icon": "🛤️"
             },
             {
               "fr": "l'allée"
             },
             {
-              "fr": "la rue"
+              "fr": "la rue",
+              "icon": "🏙️"
             },
             {
               "fr": "l'avenue"
@@ -430,31 +449,39 @@
           "title": "L'itinéraire et la direction",
           "items": [
             {
-              "fr": "aller"
+              "fr": "aller",
+              "icon": "🚶"
             },
             {
-              "fr": "continuer"
+              "fr": "continuer",
+              "icon": "⬆️"
             },
             {
-              "fr": "tourner"
+              "fr": "tourner",
+              "icon": "↪️"
             },
             {
-              "fr": "à droite"
+              "fr": "à droite",
+              "icon": "➡️"
             },
             {
-              "fr": "à gauche"
+              "fr": "à gauche",
+              "icon": "⬅️"
             },
             {
-              "fr": "tout droit"
+              "fr": "tout droit",
+              "icon": "⬆️"
             },
             {
               "fr": "au bout de la rue"
             },
             {
-              "fr": "ici"
+              "fr": "ici",
+              "icon": "📍"
             },
             {
-              "fr": "c'est par là"
+              "fr": "c'est par là",
+              "icon": "👉"
             },
             {
               "fr": "la première rue"
@@ -479,7 +506,8 @@
           "note": "[y] aigu, la langue est en avant (la rue, le sud). [u] grave, la langue est en arrière (au bout, tout droit).",
           "items": [
             {
-              "fr": "la rue"
+              "fr": "la rue",
+              "icon": "🏙️"
             },
             {
               "fr": "le sud"
@@ -494,7 +522,8 @@
               "fr": "C'est où ?"
             },
             {
-              "fr": "tout droit"
+              "fr": "tout droit",
+              "icon": "⬆️"
             },
             {
               "fr": "Tu es sur la rue du sud."

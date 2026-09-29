@@ -62,22 +62,28 @@
           "title": "Autres verbes en -ER",
           "items": [
             {
-              "fr": "habiter"
+              "fr": "habiter",
+              "icon": "🏠"
             },
             {
-              "fr": "communiquer"
+              "fr": "communiquer",
+              "icon": "💬"
             },
             {
-              "fr": "étudier"
+              "fr": "étudier",
+              "icon": "📚"
             },
             {
-              "fr": "danser"
+              "fr": "danser",
+              "icon": "💃"
             },
             {
-              "fr": "chanter"
+              "fr": "chanter",
+              "icon": "🎤"
             },
             {
-              "fr": "regarder un film"
+              "fr": "regarder un film",
+              "icon": "🎬"
             }
           ]
         },

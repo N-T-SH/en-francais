@@ -64,22 +64,27 @@
           "title": "Écoutez et répétez",
           "items": [
             {
-              "fr": "Bonjour !"
+              "fr": "Bonjour !",
+              "icon": "👋"
             },
             {
-              "fr": "Bonsoir !"
+              "fr": "Bonsoir !",
+              "icon": "🌙"
             },
             {
               "fr": "Comment allez-vous ?"
             },
             {
-              "fr": "Ça va, merci !"
+              "fr": "Ça va, merci !",
+              "icon": "👍"
             },
             {
-              "fr": "Enchanté !"
+              "fr": "Enchanté !",
+              "icon": "🤝"
             },
             {
-              "fr": "À bientôt !"
+              "fr": "À bientôt !",
+              "icon": "👋"
             }
           ]
         },
@@ -121,35 +126,45 @@
           "title": "Écoutez et répétez",
           "items": [
             {
-              "fr": "un livre"
+              "fr": "un livre",
+              "icon": "📖"
             },
             {
-              "fr": "un stylo"
+              "fr": "un stylo",
+              "icon": "🖊️"
             },
             {
-              "fr": "un ordinateur"
+              "fr": "un ordinateur",
+              "icon": "💻"
             },
             {
-              "fr": "un téléphone portable"
+              "fr": "un téléphone portable",
+              "icon": "📱"
             },
             {
-              "fr": "une bouteille"
+              "fr": "une bouteille",
+              "icon": "🍾"
             },
             {
-              "fr": "une réunion sur Zoom"
+              "fr": "une réunion sur Zoom",
+              "icon": "🎥"
             },
             {
-              "fr": "un chargeur"
+              "fr": "un chargeur",
+              "icon": "🔌"
             },
             {
-              "fr": "une tasse de café"
+              "fr": "une tasse de café",
+              "icon": "☕"
             },
             {
               "fr": "l'horloge",
-              "en": "féminin : une horloge"
+              "en": "féminin : une horloge",
+              "icon": "🕒"
             },
             {
-              "fr": "une chaise"
+              "fr": "une chaise",
+              "icon": "🪑"
             }
           ]
         },

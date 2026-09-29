@@ -17,6 +17,8 @@ export interface Settings {
   voiceSource: "auto" | "device";
   deviceVoice: string | null;
   theme: "system" | "light" | "dark";
+  /** Show the small emoji illustrations next to vocabulary. */
+  illustrations: boolean;
 }
 
 export interface State {
@@ -37,7 +39,7 @@ export const defaultState: State = {
   weak: [],
   done: [],
   results: {},
-  settings: { rate: 0.95, voiceSource: "auto", deviceVoice: null, theme: "system" },
+  settings: { rate: 0.95, voiceSource: "auto", deviceVoice: null, theme: "system", illustrations: true },
 };
 
 function load(): State {
