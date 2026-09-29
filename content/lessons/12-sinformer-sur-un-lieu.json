@@ -191,6 +191,225 @@
       ]
     },
     {
+      "id": "cest-vs-il-y-a",
+      "title": "C'est vs il y a",
+      "minutes": 9,
+      "lede": "Both can be translated as “it is” or “there is”, but they do completely different jobs.",
+      "blocks": [
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "The rule in one line",
+          "text": "Use c'est to identify, describe or point at a specific thing (“this is…”). Use il y a to say that something exists in a place (“there is / there are…”)."
+        },
+        {
+          "type": "table",
+          "title": "Quick comparison",
+          "headers": [
+            "",
+            "C'est",
+            "Il y a"
+          ],
+          "rows": [
+            [
+              "Job",
+              "Identifies or points out a specific thing or person",
+              "Says that something exists or is present in a place"
+            ],
+            [
+              "English",
+              "it is · this is · that is",
+              "there is · there are · there's"
+            ],
+            [
+              "Plural",
+              "ce sont",
+              "never changes"
+            ],
+            [
+              "What follows",
+              "something known: le / la / l' / les, mon / ma, a name",
+              "something new: un / une / des, a number, a quantity"
+            ],
+            [
+              "Answers",
+              "Qu'est-ce que c'est ? Qui est-ce ?",
+              "Qu'est-ce qu'il y a ?"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "info",
+          "title": "Same place, two different sentences",
+          "text": "C'est le Vieux-Port. = This is the Old Port (I'm pointing at one specific place we both know). Il y a un port à Marseille. = A port exists in Marseille (I'm telling you it's there). Notice the articles: le (known) after c'est, un (new) after il y a."
+        },
+        {
+          "type": "phrases",
+          "title": "Listen and compare",
+          "items": [
+            {
+              "fr": "C'est le Vieux-Port."
+            },
+            {
+              "fr": "Il y a un port à Marseille."
+            },
+            {
+              "fr": "C'est ma ville."
+            },
+            {
+              "fr": "Il y a trois musées dans ma ville."
+            },
+            {
+              "fr": "Ce sont mes cousins."
+            },
+            {
+              "fr": "Il y a des cousins à la maison."
+            },
+            {
+              "fr": "Il n'y a pas de parc ici."
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Watch out",
+          "text": "1) In the negative, il y a becomes il n'y a pas de + noun: Il n'y a pas de parc ici. 2) Il y a followed by a time (il y a deux ans) means “ago”. That is a different use, and you will meet it with the past tense."
+        },
+        {
+          "type": "exercise",
+          "title": "C'est, ce sont or il y a ?",
+          "items": [
+            {
+              "prompt": "___ ma ville.",
+              "answers": [
+                "C'est"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "___ un parc dans mon quartier.",
+              "answers": [
+                "Il y a"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "___ mes cousins.",
+              "answers": [
+                "Ce sont"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "Dans la rue, ___ deux cafés.",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "Là, ___ le musée.",
+              "answers": [
+                "c'est"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "___ le port de Marseille.",
+              "answers": [
+                "C'est"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "From English to French",
+          "instructions": "Pick the French beginning that matches the English sentence.",
+          "items": [
+            {
+              "prompt": "There is a museum near the station. → ___ un musée près de la gare.",
+              "answers": [
+                "Il y a"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "This is my hotel. → ___ mon hôtel.",
+              "answers": [
+                "C'est"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "These are my friends. → ___ mes amis.",
+              "answers": [
+                "Ce sont"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "There are two cafés here. → ___ deux cafés ici.",
+              "answers": [
+                "Il y a"
+              ],
+              "choices": [
+                "C'est",
+                "Ce sont",
+                "Il y a"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Describe your neighbourhood",
+          "mode": "oral",
+          "prompt": "Say four sentences about your neighbourhood: two with c'est (naming specific places) and two with il y a (saying what exists).",
+          "model": "C'est mon quartier. C'est le centre-ville. Il y a un parc et des cafés. Il y a aussi une pharmacie."
+        }
+      ]
+    },
+    {
       "id": "au-en-aux",
       "title": "Le pays où on habite : au, en, aux",
       "minutes": 5,

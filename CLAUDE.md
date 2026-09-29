@@ -16,7 +16,12 @@ asks for them to be added. To do that:
    `kicker` ("Unité 3 · Leçon 10"), following the units below.
 2. Follow the schema in `src/content/schema.ts` (the zod field descriptions are the
    spec) and the style of the existing lessons:
-   - Learner-facing text in French; English only as short `en` glosses.
+   - Language: examples, vocabulary, exercises and task instructions are in French.
+     **Explanations of grammar rules and concepts may (and often should) be in
+     English** — the learner asked for this. Put them in `note` blocks, table
+     `note`s and the `lede` of grammar sections; keep them short, with French
+     examples inside the text, and give “this vs that” contrasts a comparison
+     table (job · English equivalent · what follows). Use `en` for vocabulary glosses.
    - 2–6 sections of 3–10 minutes, in class order. Each mixes a reference
      `table`/`note`, a `phrases` block (read aloud), an `exercise` with
      checkable answers, and optionally an oral/written `task`.
