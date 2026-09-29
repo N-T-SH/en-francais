@@ -1,0 +1,559 @@
+{
+  "id": "indiquer-un-chemin",
+  "order": 13,
+  "number": 13,
+  "unit": 4,
+  "unitTitle": "Organisez une sortie !",
+  "kicker": "Unité 4 · Leçon 13",
+  "title": "Indiquer un chemin",
+  "summary": "Où ? · l'impératif · le verbe aller · les lieux de la ville (2) · les sons [y] et [u]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "ou-imperatif",
+      "title": "Demander et donner un chemin",
+      "minutes": 7,
+      "lede": "La question où ?, et l'impératif pour indiquer une direction.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Demander son chemin",
+          "items": [
+            {
+              "fr": "Où est la rue Manuel ?"
+            },
+            {
+              "fr": "Elle est où ?"
+            },
+            {
+              "fr": "Où est la poste, s'il vous plaît ?"
+            },
+            {
+              "fr": "Pardon, où est la gare ?"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "title": "L'impératif (1)",
+          "text": "Formation : le verbe au présent, sans le pronom sujet. L'impératif existe seulement pour tu, nous et vous.",
+          "tone": "info"
+        },
+        {
+          "type": "table",
+          "title": "Aller, continuer, tourner",
+          "headers": [
+            "Aller",
+            "Continuer",
+            "Tourner"
+          ],
+          "rows": [
+            [
+              "Va tout droit !",
+              "Continue sur 200 mètres !",
+              "Tourne à gauche !"
+            ],
+            [
+              "Allons !",
+              "Continuons !",
+              "Tournons !"
+            ],
+            [
+              "Allez !",
+              "Continuez !",
+              "Tournez à gauche !"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Va tout droit !"
+            },
+            {
+              "fr": "Continue sur deux cents mètres !",
+              "label": "Continue sur 200 mètres !"
+            },
+            {
+              "fr": "Tourne à gauche !"
+            },
+            {
+              "fr": "Allez tout droit !"
+            },
+            {
+              "fr": "Continuez sur deux cents mètres !",
+              "label": "Continuez sur 200 mètres !"
+            },
+            {
+              "fr": "Tournez à droite !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Donnez la direction à l'impératif",
+          "items": [
+            {
+              "prompt": "(aller, vous) ___ tout droit !",
+              "answers": [
+                "Allez"
+              ]
+            },
+            {
+              "prompt": "(tourner, tu) ___ à gauche !",
+              "answers": [
+                "Tourne"
+              ]
+            },
+            {
+              "prompt": "(continuer, vous) ___ sur 200 mètres !",
+              "answers": [
+                "Continuez"
+              ]
+            },
+            {
+              "prompt": "(aller, tu) ___ au bout de la rue !",
+              "answers": [
+                "Va"
+              ]
+            },
+            {
+              "prompt": "(tourner, nous) ___ à droite !",
+              "answers": [
+                "Tournons"
+              ]
+            },
+            {
+              "prompt": "(continuer, tu) ___ tout droit !",
+              "answers": [
+                "Continue"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verbe-aller",
+      "title": "Le verbe aller au présent",
+      "minutes": 5,
+      "lede": "à + le = au · à + les = aux · à la et à l'ne changent pas.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Aller",
+          "headers": [
+            "Sujet",
+            "aller",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Je",
+              "vais",
+              "au concert"
+            ],
+            [
+              "Tu",
+              "vas",
+              "à l'atelier"
+            ],
+            [
+              "Il / Elle",
+              "va",
+              "à la poste"
+            ],
+            [
+              "Nous",
+              "allons",
+              "aux toilettes"
+            ],
+            [
+              "Vous",
+              "allez",
+              "tout droit"
+            ],
+            [
+              "Ils / Elles",
+              "vont",
+              "au cinéma"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je vais au concert."
+            },
+            {
+              "fr": "Tu vas à l'atelier."
+            },
+            {
+              "fr": "Il va à la poste."
+            },
+            {
+              "fr": "Nous allons aux toilettes."
+            },
+            {
+              "fr": "Vous allez tout droit."
+            },
+            {
+              "fr": "Ils vont au cinéma."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez aller",
+          "items": [
+            {
+              "prompt": "Tu ___ au concert samedi soir ?",
+              "answers": [
+                "vas"
+              ]
+            },
+            {
+              "prompt": "Le dimanche, nous ___ au parc.",
+              "answers": [
+                "allons"
+              ]
+            },
+            {
+              "prompt": "Vous ___ tout droit.",
+              "answers": [
+                "allez"
+              ]
+            },
+            {
+              "prompt": "Irina et Myriam ___ en Espagne demain.",
+              "answers": [
+                "vont"
+              ]
+            },
+            {
+              "prompt": "Je ___ au cinéma à 20 heures.",
+              "answers": [
+                "vais"
+              ]
+            },
+            {
+              "prompt": "Sa sœur ___ au marché.",
+              "answers": [
+                "va"
+              ]
+            },
+            {
+              "prompt": "Arthur et Thomas ___ au restaurant.",
+              "answers": [
+                "vont"
+              ]
+            },
+            {
+              "prompt": "Nous ___ à la pharmacie.",
+              "answers": [
+                "allons"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "À la, à l', au ou aux ?",
+          "items": [
+            {
+              "prompt": "Je vais ___ concert.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Il va ___ poste.",
+              "answers": [
+                "à la"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Nous allons ___ toilettes.",
+              "answers": [
+                "aux"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Tu vas ___ atelier.",
+              "answers": [
+                "à l'"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Elles vont ___ école.",
+              "answers": [
+                "à l'"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Vous allez ___ mairie.",
+              "answers": [
+                "à la"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Ils vont ___ cinéma.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lieux-itineraire",
+      "title": "Les lieux de la ville (2) et l'itinéraire",
+      "minutes": 6,
+      "lede": "Nouveaux lieux, le vocabulaire de l'itinéraire, et les sons [y] et [u].",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les lieux de la ville (2)",
+          "items": [
+            {
+              "fr": "la poste"
+            },
+            {
+              "fr": "la police"
+            },
+            {
+              "fr": "la crèche"
+            },
+            {
+              "fr": "l'école"
+            },
+            {
+              "fr": "le collège"
+            },
+            {
+              "fr": "le lycée"
+            },
+            {
+              "fr": "le boulodrome"
+            },
+            {
+              "fr": "le cinéma"
+            },
+            {
+              "fr": "les jeux pour enfants"
+            },
+            {
+              "fr": "l'hôpital"
+            },
+            {
+              "fr": "l'office de tourisme"
+            },
+            {
+              "fr": "le distributeur de billets",
+              "label": "le distributeur de billets (la banque)"
+            },
+            {
+              "fr": "les toilettes"
+            },
+            {
+              "fr": "la gare routière"
+            },
+            {
+              "fr": "le chemin"
+            },
+            {
+              "fr": "l'allée"
+            },
+            {
+              "fr": "la rue"
+            },
+            {
+              "fr": "l'avenue"
+            },
+            {
+              "fr": "le boulevard"
+            },
+            {
+              "fr": "la place"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'itinéraire et la direction",
+          "items": [
+            {
+              "fr": "aller"
+            },
+            {
+              "fr": "continuer"
+            },
+            {
+              "fr": "tourner"
+            },
+            {
+              "fr": "à droite"
+            },
+            {
+              "fr": "à gauche"
+            },
+            {
+              "fr": "tout droit"
+            },
+            {
+              "fr": "au bout de la rue"
+            },
+            {
+              "fr": "ici"
+            },
+            {
+              "fr": "c'est par là"
+            },
+            {
+              "fr": "la première rue"
+            },
+            {
+              "fr": "la deuxième rue"
+            },
+            {
+              "fr": "la troisième rue"
+            },
+            {
+              "fr": "C'est au bout de la rue."
+            },
+            {
+              "fr": "C'est la deuxième rue à droite."
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Phonétique : les sons [y] et [u]",
+          "note": "[y] aigu, la langue est en avant (la rue, le sud). [u] grave, la langue est en arrière (au bout, tout droit).",
+          "items": [
+            {
+              "fr": "la rue"
+            },
+            {
+              "fr": "le sud"
+            },
+            {
+              "fr": "Super !"
+            },
+            {
+              "fr": "au bout"
+            },
+            {
+              "fr": "C'est où ?"
+            },
+            {
+              "fr": "tout droit"
+            },
+            {
+              "fr": "Tu es sur la rue du sud."
+            },
+            {
+              "fr": "C'est où ? Tout droit, au bout !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Trouvez l'intrus",
+          "instructions": "Un mot dans chaque groupe n'est pas à sa place.",
+          "items": [
+            {
+              "prompt": "un supermarché · un magasin · un hôpital · un marché",
+              "answers": [
+                "un hôpital"
+              ]
+            },
+            {
+              "prompt": "un stade · un parc · un jardin · un consulat",
+              "answers": [
+                "un consulat"
+              ]
+            },
+            {
+              "prompt": "une rue · un chemin · une pharmacie · une avenue",
+              "answers": [
+                "une pharmacie"
+              ]
+            },
+            {
+              "prompt": "un arrêt de bus · une station de métro · un distributeur de billets · une gare",
+              "answers": [
+                "un distributeur de billets"
+              ]
+            },
+            {
+              "prompt": "une école · un lycée · une banque · un collège",
+              "answers": [
+                "une banque"
+              ]
+            },
+            {
+              "prompt": "le boulevard · la police · la mairie · la poste",
+              "answers": [
+                "le boulevard"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "À deux : demandez et donnez un chemin",
+          "mode": "oral",
+          "prompt": "Choisissez deux lieux de votre ville. L'un demande : « Pardon, où est … ? » L'autre donne l'itinéraire : « Allez tout droit… tournez à gauche… c'est au bout de la rue. » Puis inversez les rôles."
+        }
+      ]
+    }
+  ]
+}

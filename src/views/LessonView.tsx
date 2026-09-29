@@ -35,7 +35,7 @@ export function LessonView({ id, sectionId }: { id: string; sectionId?: string }
     <div className="page">
       <a className="back" href={href.home()}><Icon name="back" /> Leçons</a>
       <header className="lesson-head">
-        <p className="kicker">Leçon {n} — {lesson.kicker}</p>
+        <p className="kicker">{/^Unité/.test(lesson.kicker) ? lesson.kicker : `Leçon ${n} — ${lesson.kicker}`}</p>
         <h1>{lesson.title}</h1>
         <p className="lesson-summary">{lesson.summary} · ~{lessonMinutes(lesson.sections)} min</p>
       </header>

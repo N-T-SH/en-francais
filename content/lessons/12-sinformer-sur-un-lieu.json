@@ -1,0 +1,467 @@
+{
+  "id": "sinformer-sur-un-lieu",
+  "order": 12,
+  "number": 12,
+  "unit": 4,
+  "unitTitle": "Organisez une sortie !",
+  "kicker": "Unité 4 · Leçon 12",
+  "title": "S'informer sur un lieu",
+  "summary": "C'est / il y a · à côté de / loin de · au / en / aux · les lieux de la ville · les déplacements",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "presenter-un-lieu",
+      "title": "Présenter et situer un lieu",
+      "minutes": 6,
+      "lede": "Marseille, les incontournables : c'est / il y a, ici / là, à côté de / loin de.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Marseille, les 8 incontournables",
+          "items": [
+            {
+              "fr": "le MuCEM"
+            },
+            {
+              "fr": "la cathédrale de La Major"
+            },
+            {
+              "fr": "le Panier"
+            },
+            {
+              "fr": "le Vieux-Port"
+            },
+            {
+              "fr": "Notre-Dame-de-la-Garde"
+            },
+            {
+              "fr": "le château d'If"
+            },
+            {
+              "fr": "les Calanques"
+            },
+            {
+              "fr": "le stade Orange Vélodrome"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "Marseille est la deuxième ville de France après Paris : environ 870 000 habitants (les Marseillais et les Marseillaises).",
+          "tone": "info"
+        },
+        {
+          "type": "table",
+          "title": "Présenter et situer",
+          "headers": [
+            "Point",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "C'est / Il y a",
+              "C'est l'appartement. · Il y a le Vieux-Port."
+            ],
+            [
+              "Ici, là",
+              "Ici, c'est l'appartement ! Là, c'est le quartier du Panier."
+            ],
+            [
+              "loin de / à côté de",
+              "Les Calanques sont loin de l'appartement. À côté de la cathédrale, le musée."
+            ],
+            [
+              "de + le = du",
+              "le port → à côté du port · loin du port"
+            ]
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "C'est ou il y a ?",
+          "items": [
+            {
+              "prompt": "Là, ___ l'hôtel.",
+              "answers": [
+                "c'est"
+              ],
+              "choices": [
+                "c'est",
+                "il y a"
+              ]
+            },
+            {
+              "prompt": "Dans ma ville, ___ un parc.",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "c'est",
+                "il y a"
+              ]
+            },
+            {
+              "prompt": "___ un supermarché à côté de la gare.",
+              "answers": [
+                "Il y a"
+              ],
+              "choices": [
+                "C'est",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "Ici, ___ la mairie.",
+              "answers": [
+                "c'est"
+              ],
+              "choices": [
+                "c'est",
+                "il y a"
+              ]
+            },
+            {
+              "prompt": "Dans le quartier, ___ des musées.",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "c'est",
+                "il y a"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "À côté de / loin de",
+          "items": [
+            {
+              "prompt": "La gare est à côté ___ port.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "de",
+                "du",
+                "de la"
+              ]
+            },
+            {
+              "prompt": "Le musée est loin ___ hôtel de ville.",
+              "answers": [
+                "de l'"
+              ],
+              "choices": [
+                "de",
+                "de l'",
+                "du"
+              ]
+            },
+            {
+              "prompt": "Le café est à côté ___ cathédrale.",
+              "answers": [
+                "de la"
+              ],
+              "choices": [
+                "de la",
+                "du",
+                "de l'"
+              ]
+            },
+            {
+              "prompt": "Les Calanques sont loin ___ centre-ville.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "de",
+                "du",
+                "de la"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "au-en-aux",
+      "title": "Le pays où on habite : au, en, aux",
+      "minutes": 5,
+      "lede": "le → au · les → aux · la / l' → en.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Habiter + pays",
+          "headers": [
+            "Type de pays",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "masculin (le Mexique)",
+              "J'habite au Mexique."
+            ],
+            [
+              "féminin (la France)",
+              "Tu habites en France."
+            ],
+            [
+              "voyelle (l'Espagne)",
+              "Nous habitons en Espagne."
+            ],
+            [
+              "pluriel (les États-Unis)",
+              "Elle habite aux États-Unis."
+            ],
+            [
+              "sans article",
+              "à Cuba · à Madagascar · à Malte · à Chypre · à Singapour"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'habite au Mexique."
+            },
+            {
+              "fr": "Tu habites en France."
+            },
+            {
+              "fr": "Nous habitons en Espagne."
+            },
+            {
+              "fr": "Elle habite aux États-Unis."
+            },
+            {
+              "fr": "J'habite à Cuba."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Au, en, aux ou à ?",
+          "items": [
+            {
+              "prompt": "Roger habite ___ Canada.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "en",
+                "aux",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Carla habite ___ Italie.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "au",
+                "en",
+                "aux",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Ando habite ___ Madagascar.",
+              "answers": [
+                "à"
+              ],
+              "choices": [
+                "au",
+                "en",
+                "aux",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Kumiko habite ___ Japon.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "en",
+                "aux",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Samuel habite ___ Nigéria.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "en",
+                "aux",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Filip habite ___ Pays-Bas.",
+              "answers": [
+                "aux"
+              ],
+              "choices": [
+                "au",
+                "en",
+                "aux",
+                "à"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lieux-deplacements",
+      "title": "Les lieux de la ville et les déplacements",
+      "minutes": 6,
+      "lede": "Le vocabulaire de la ville, les points cardinaux, et comment on s'y déplace.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les lieux de la ville (1)",
+          "items": [
+            {
+              "fr": "un magasin"
+            },
+            {
+              "fr": "un marché"
+            },
+            {
+              "fr": "un supermarché"
+            },
+            {
+              "fr": "le consulat"
+            },
+            {
+              "fr": "la mairie",
+              "label": "la mairie (l'hôtel de ville)"
+            },
+            {
+              "fr": "un café"
+            },
+            {
+              "fr": "un hôtel"
+            },
+            {
+              "fr": "un jardin",
+              "label": "un jardin (un parc)"
+            },
+            {
+              "fr": "un restaurant"
+            },
+            {
+              "fr": "un stade"
+            },
+            {
+              "fr": "une cathédrale",
+              "label": "une cathédrale (une église)"
+            },
+            {
+              "fr": "un musée"
+            },
+            {
+              "fr": "une pharmacie"
+            },
+            {
+              "fr": "l'arrêt de bus"
+            },
+            {
+              "fr": "la gare"
+            },
+            {
+              "fr": "le port"
+            },
+            {
+              "fr": "un parking"
+            },
+            {
+              "fr": "une station de métro"
+            },
+            {
+              "fr": "une station de tramway"
+            },
+            {
+              "fr": "une station-service"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Points cardinaux et déplacements",
+          "note": "à pied, à vélo — mais en bus, en voiture, en train…",
+          "items": [
+            {
+              "fr": "au nord"
+            },
+            {
+              "fr": "au sud"
+            },
+            {
+              "fr": "à l'est"
+            },
+            {
+              "fr": "à l'ouest"
+            },
+            {
+              "fr": "à pied"
+            },
+            {
+              "fr": "à vélo"
+            },
+            {
+              "fr": "en bateau"
+            },
+            {
+              "fr": "en bus"
+            },
+            {
+              "fr": "en métro"
+            },
+            {
+              "fr": "en train"
+            },
+            {
+              "fr": "en tramway"
+            },
+            {
+              "fr": "en voiture"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Phonétique : le groupe rythmique",
+          "note": "On prononce un groupe de mots comme un seul mot.",
+          "items": [
+            {
+              "fr": "J'habite au Mexique."
+            },
+            {
+              "fr": "Vous êtes espagnols ?"
+            },
+            {
+              "fr": "J'habite à Toulon. Dans ma ville, il n'y a pas le métro, il y a le tramway."
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Présentez un lieu à visiter",
+          "mode": "oral",
+          "prompt": "Choisissez une ville, repérez un hôtel, puis situez un lieu intéressant à côté : « À côté de l'hôtel Central, au nord, il y a un parc. C'est à 2 minutes à pied. » Présentez aussi 2 ou 3 lieux incontournables de votre ville."
+        }
+      ]
+    }
+  ]
+}
