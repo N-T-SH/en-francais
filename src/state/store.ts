@@ -50,11 +50,46 @@ function load(): State {
   return defaultState;
 }
 
-function merge(raw: Partial<State>): State {
+/**
+ * Sections that moved when lessons were regrouped by textbook lesson. Saved
+ * progress under the old keys is carried over to the new ones.
+ */
+export const SECTION_MOVES: Record<string, string> = {
+  "introduction/salutations": "saluer/salutations",
+  "introduction/objets": "saluer/objets",
+  "introduction/alphabet": "epeler-compter/alphabet",
+  "introduction/nombres": "epeler-compter/nombres",
+  "introduction/jours-mois": "epeler-compter/jours",
+  "introduction/etre-avoir": "se-presenter/etre-avoir",
+  "entrer-en-contact/nationalites-pays": "se-presenter/nationalites-pays",
+  "entrer-en-contact/s-appeler": "se-presenter/s-appeler",
+  "entrer-en-contact/telephone": "preciser-des-informations/telephone",
+  "faites-connaissance/famille-professions": "parler-de-la-famille/famille-professions",
+  "faites-connaissance/possessifs": "parler-de-la-famille/possessifs",
+  "faites-connaissance/adjectifs": "decrire-une-personne/adjectifs",
+};
+
+/** Map an old section key, or an exercise key ("section#block"), to its current key. */
+export function migrateKey(key: string): string {
+  const [section, ...rest] = key.split("#");
+  const moved = SECTION_MOVES[section];
+  return moved ? [moved, ...rest].join("#") : key;
+}
+
+function migrateList(list: string[] | undefined): string[] {
+  return [...new Set((list ?? []).map(migrateKey))];
+}
+
+export function merge(raw: Partial<State>): State {
+  const results: State["results"] = {};
+  for (const [k, v] of Object.entries(raw.results ?? {})) results[migrateKey(k)] = v;
   return {
     ...defaultState,
     ...raw,
     version: 1,
+    weak: migrateList(raw.weak),
+    done: migrateList(raw.done),
+    results,
     settings: { ...defaultState.settings, ...(raw.settings ?? {}) },
   };
 }

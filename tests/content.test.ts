@@ -35,3 +35,21 @@ describe("phone number guard", () => {
     expect(realLookingPhoneNumbers("le 3 mars 1986, 2026, 70 — soixante-dix")).toEqual([]);
   });
 });
+
+describe("library structure", () => {
+  const lessons = readdirSync(new URL("../content/lessons/", import.meta.url))
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => Lesson.parse(JSON.parse(readFileSync(new URL(`../content/lessons/${f}`, import.meta.url), "utf8"))));
+
+  it("has unique lesson numbers, in order, matching the file prefix", () => {
+    const numbers = lessons.map((l) => l.number);
+    expect(new Set(numbers).size).toBe(numbers.length);
+    const sorted = [...lessons].sort((a, b) => a.order - b.order).map((l) => l.number);
+    expect(sorted).toEqual([...sorted].sort((a, b) => (a as number) - (b as number)));
+  });
+
+  it("puts lessons 8–11 in unit 3", () => {
+    const unit3 = lessons.filter((l) => l.unit === 3).map((l) => l.number);
+    expect(unit3).toEqual([8, 9, 10, 11]);
+  });
+});

@@ -1,0 +1,215 @@
+{
+  "id": "saluer",
+  "order": 1,
+  "number": 1,
+  "unit": 1,
+  "unitTitle": "Découvrez !",
+  "kicker": "Unité 1 · Leçon 1",
+  "title": "Saluer",
+  "summary": "Salutations · se présenter · objets de la classe",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "salutations",
+      "title": "Accueil & salutations",
+      "minutes": 5,
+      "lede": "Révisez formel vs informel, puis pratiquez à voix haute avec l'audio.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Selon le moment",
+          "headers": [
+            "Moment",
+            "Formule"
+          ],
+          "rows": [
+            [
+              "6h–20h",
+              "Bonjour ! (formel) / Salut, coucou (informel)"
+            ],
+            [
+              "20h–00h",
+              "Bonsoir !"
+            ],
+            [
+              "Pour partir",
+              "Bonne journée / Au revoir / À plus tard / À bientôt / À demain"
+            ],
+            [
+              "1ère rencontre",
+              "Enchanté(e) !"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Formel ou informel",
+          "headers": [
+            "Formel",
+            "Informel"
+          ],
+          "rows": [
+            [
+              "Comment allez-vous ? / Vous allez bien ?",
+              "Ça va ? / Comment vas-tu ? / Quoi de neuf ?"
+            ],
+            [
+              "Oui, je vais bien, merci !",
+              "Ça va / Ça roule… / Métro-boulot-dodo"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            {
+              "fr": "Bonjour !"
+            },
+            {
+              "fr": "Bonsoir !"
+            },
+            {
+              "fr": "Comment allez-vous ?"
+            },
+            {
+              "fr": "Ça va, merci !"
+            },
+            {
+              "fr": "Enchanté !"
+            },
+            {
+              "fr": "À bientôt !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Formel ou informel ?",
+          "items": [
+            {
+              "prompt": "Vous rencontrez le directeur à 9h : « ___, comment allez-vous ? »",
+              "answers": [
+                "Bonjour"
+              ]
+            },
+            {
+              "prompt": "Vous voyez votre ami au café : « ___, ça va ? »",
+              "answers": [
+                "Salut | Coucou"
+              ]
+            },
+            {
+              "prompt": "Il est 21h, vous entrez dans un magasin : « ___ ! »",
+              "answers": [
+                "Bonsoir"
+              ],
+              "hint": "après 20h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "objets",
+      "title": "Vocabulaire des objets",
+      "minutes": 5,
+      "lede": "Un / une — pratiquez le genre de chaque objet.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            {
+              "fr": "un livre"
+            },
+            {
+              "fr": "un stylo"
+            },
+            {
+              "fr": "un ordinateur"
+            },
+            {
+              "fr": "un téléphone portable"
+            },
+            {
+              "fr": "une bouteille"
+            },
+            {
+              "fr": "une réunion sur Zoom"
+            },
+            {
+              "fr": "un chargeur"
+            },
+            {
+              "fr": "une tasse de café"
+            },
+            {
+              "fr": "l'horloge",
+              "en": "féminin : une horloge"
+            },
+            {
+              "fr": "une chaise"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Un ou une ?",
+          "items": [
+            {
+              "prompt": "___ table",
+              "answers": [
+                "une"
+              ],
+              "choices": [
+                "un",
+                "une"
+              ]
+            },
+            {
+              "prompt": "___ ordinateur",
+              "answers": [
+                "un"
+              ],
+              "choices": [
+                "un",
+                "une"
+              ]
+            },
+            {
+              "prompt": "___ chaise",
+              "answers": [
+                "une"
+              ],
+              "choices": [
+                "un",
+                "une"
+              ]
+            },
+            {
+              "prompt": "___ livre",
+              "answers": [
+                "un"
+              ],
+              "choices": [
+                "un",
+                "une"
+              ]
+            },
+            {
+              "prompt": "___ bouteille",
+              "answers": [
+                "une"
+              ],
+              "choices": [
+                "un",
+                "une"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

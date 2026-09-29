@@ -72,7 +72,7 @@ export function TableCard({ block }: { block: Extract<Block, { type: "table" }> 
     <div className="card">
       {block.title && <h4>{block.title}</h4>}
       <div className="table-wrap">
-        <table>
+        <table className={block.rows.every((r) => r[0].length <= 16) ? "first-nowrap" : undefined}>
           <thead>
             <tr>{block.headers.map((h, i) => <th key={i}>{h}</th>)}</tr>
           </thead>

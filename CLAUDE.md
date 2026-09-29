@@ -10,7 +10,10 @@ The learner usually shares notes, slides, PDFs or photos in a Claude session and
 asks for them to be added. To do that:
 
 1. Read all the material. Create `content/lessons/NN-<id>.json`, where NN is the
-   next number and `order` is one more than the current highest.
+   **textbook lesson number** (one app lesson per textbook lesson; lessons 8–10
+   and the "Techniques pour…" page 11 are separate lessons). Set `number` (same
+   as NN), `order` (sort position; same as `number`), `unit`, `unitTitle` and
+   `kicker` ("Unité 3 · Leçon 10"), following the units below.
 2. Follow the schema in `src/content/schema.ts` (the zod field descriptions are the
    spec) and the style of the existing lessons:
    - Learner-facing text in French; English only as short `en` glosses.
@@ -32,6 +35,28 @@ asks for them to be added. To do that:
      numbers, so check those by hand.
    - ids: lowercase kebab-case, no accents; section ids unique within a lesson.
 3. Run `npm run validate` and `npm test`, then build with `npm run build`.
+
+## Library structure (textbook: *Inspire 1*, Hachette, A1)
+
+The app follows the textbook's table of contents (Sommaire). Lessons the learner
+has covered so far:
+
+| Unité | Leçons in the app |
+|---|---|
+| 1 · Découvrez ! | 1 Saluer · 2 Épeler et compter (3 France & francophonie: not added) |
+| 2 · Entrez en contact ! | 4 Se présenter · 5 Échanger des informations personnelles · 6 Préciser des informations (7 Techniques pour…: not added) |
+| 3 · Faites connaissance ! | 8 Parler de la famille · 9 Décrire une personne · 10 Échanger sur ses goûts · 11 Techniques pour… |
+| 4+ | 12 S'informer sur un lieu · 13 Indiquer un chemin · 14 Proposer une sortie · 15 Techniques pour… · unit 5: 16–19 · unit 6: 20–23 (not yet covered) |
+
+Sections keep stable ids because progress is saved per `lessonId/sectionId`. If
+a section ever moves to another lesson, add it to `SECTION_MOVES` in
+`src/state/store.ts` so saved progress follows it.
+
+**Source material and copyright.** The textbook is a copyrighted PDF (scanned, so
+it has no text layer: render pages to images to read them). It lives in the
+learner's *private* repository `N-T-SH/notes` (attach it with `add_repo`).
+Never copy the PDF, its pages or its documents/exercises into this public repo:
+write revision material in your own examples and exercises on the same topics.
 
 ## Revision sheets
 

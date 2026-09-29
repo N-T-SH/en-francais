@@ -1,0 +1,349 @@
+{
+  "id": "epeler-compter",
+  "order": 2,
+  "number": 2,
+  "unit": 1,
+  "unitTitle": "Découvrez !",
+  "kicker": "Unité 1 · Leçon 2",
+  "title": "Épeler et compter",
+  "summary": "Alphabet · nombres de 0 à 100 · jours de la semaine",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "alphabet",
+      "title": "Alphabet & se présenter",
+      "minutes": 5,
+      "lede": "Épelez votre prénom à voix haute, lettre par lettre.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les lettres difficiles",
+          "items": [
+            {
+              "fr": "A"
+            },
+            {
+              "fr": "B"
+            },
+            {
+              "fr": "C"
+            },
+            {
+              "fr": "G"
+            },
+            {
+              "fr": "H"
+            },
+            {
+              "fr": "J"
+            },
+            {
+              "fr": "Q"
+            },
+            {
+              "fr": "R"
+            },
+            {
+              "fr": "W",
+              "label": "W (double vé)"
+            },
+            {
+              "fr": "Y",
+              "label": "Y (i grec)"
+            },
+            {
+              "fr": "Z"
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Épelez votre prénom",
+          "mode": "oral",
+          "prompt": "Présentez-vous en épelant votre prénom, lettre par lettre, en français.",
+          "model": "Bonjour, je m'appelle Lavanya : L-A-V-A-N-Y-A."
+        }
+      ]
+    },
+    {
+      "id": "nombres",
+      "title": "Les nombres 0–100",
+      "minutes": 12,
+      "lede": "D'abord les chiffres de 0 à 9, puis le point délicat : 70–99 se construisent par addition et multiplication.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les chiffres 0 à 9",
+          "note": "Attention : six et dix se prononcent « sis » et « dis » seuls, mais « si » et « di » devant une consonne (six livres).",
+          "items": [
+            {
+              "fr": "zéro",
+              "label": "0 — zéro"
+            },
+            {
+              "fr": "un",
+              "label": "1 — un"
+            },
+            {
+              "fr": "deux",
+              "label": "2 — deux"
+            },
+            {
+              "fr": "trois",
+              "label": "3 — trois"
+            },
+            {
+              "fr": "quatre",
+              "label": "4 — quatre"
+            },
+            {
+              "fr": "cinq",
+              "label": "5 — cinq"
+            },
+            {
+              "fr": "six",
+              "label": "6 — six"
+            },
+            {
+              "fr": "sept",
+              "label": "7 — sept"
+            },
+            {
+              "fr": "huit",
+              "label": "8 — huit"
+            },
+            {
+              "fr": "neuf",
+              "label": "9 — neuf"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "10 à 19",
+          "note": "11 à 16 ont leur propre mot (terminaison -ze). À partir de 17, on dit dix + chiffre : dix-sept, dix-huit, dix-neuf.",
+          "items": [
+            {
+              "fr": "dix",
+              "label": "10 — dix"
+            },
+            {
+              "fr": "onze",
+              "label": "11 — onze"
+            },
+            {
+              "fr": "douze",
+              "label": "12 — douze"
+            },
+            {
+              "fr": "treize",
+              "label": "13 — treize"
+            },
+            {
+              "fr": "quatorze",
+              "label": "14 — quatorze"
+            },
+            {
+              "fr": "quinze",
+              "label": "15 — quinze"
+            },
+            {
+              "fr": "seize",
+              "label": "16 — seize"
+            },
+            {
+              "fr": "dix-sept",
+              "label": "17 — dix-sept"
+            },
+            {
+              "fr": "dix-huit",
+              "label": "18 — dix-huit"
+            },
+            {
+              "fr": "dix-neuf",
+              "label": "19 — dix-neuf"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "20, puis les dizaines",
+          "items": [
+            {
+              "fr": "vingt",
+              "label": "20 — vingt"
+            },
+            {
+              "fr": "vingt et un",
+              "label": "21 — vingt et un"
+            },
+            {
+              "fr": "trente",
+              "label": "30 — trente"
+            },
+            {
+              "fr": "quarante",
+              "label": "40 — quarante"
+            },
+            {
+              "fr": "cinquante",
+              "label": "50 — cinquante"
+            },
+            {
+              "fr": "soixante",
+              "label": "60 — soixante"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le piège 70–100",
+          "items": [
+            {
+              "fr": "soixante-dix",
+              "label": "70 — soixante-dix",
+              "en": "60 + 10"
+            },
+            {
+              "fr": "soixante et onze",
+              "label": "71 — soixante et onze",
+              "en": "60 + 11"
+            },
+            {
+              "fr": "quatre-vingts",
+              "label": "80 — quatre-vingts",
+              "en": "4 × 20"
+            },
+            {
+              "fr": "quatre-vingt-un",
+              "label": "81 — quatre-vingt-un"
+            },
+            {
+              "fr": "quatre-vingt-dix",
+              "label": "90 — quatre-vingt-dix",
+              "en": "4 × 20 + 10"
+            },
+            {
+              "fr": "quatre-vingt-onze",
+              "label": "91 — quatre-vingt-onze"
+            },
+            {
+              "fr": "cent",
+              "label": "100 — cent"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Écrivez en lettres",
+          "items": [
+            {
+              "prompt": "3 = ___",
+              "answers": [
+                "trois"
+              ]
+            },
+            {
+              "prompt": "6 = ___",
+              "answers": [
+                "six"
+              ]
+            },
+            {
+              "prompt": "8 = ___",
+              "answers": [
+                "huit"
+              ]
+            },
+            {
+              "prompt": "0 = ___",
+              "answers": [
+                "zéro"
+              ]
+            },
+            {
+              "prompt": "14 = ___",
+              "answers": [
+                "quatorze"
+              ]
+            },
+            {
+              "prompt": "17 = ___",
+              "answers": [
+                "dix-sept | dix sept"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Écrivez en chiffres",
+          "items": [
+            {
+              "prompt": "soixante et onze = ___",
+              "answers": [
+                "71"
+              ]
+            },
+            {
+              "prompt": "quatre-vingt-treize = ___",
+              "answers": [
+                "93"
+              ]
+            },
+            {
+              "prompt": "quatre-vingt-un = ___",
+              "answers": [
+                "81"
+              ]
+            },
+            {
+              "prompt": "soixante-quinze = ___",
+              "answers": [
+                "75"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jours",
+      "title": "Les jours de la semaine",
+      "minutes": 3,
+      "lede": "7 jours = 1 semaine. Écoutez les repères temporels : hier, aujourd'hui, demain.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les jours — repères temporels",
+          "note": "Exemple : si aujourd'hui c'est lundi…",
+          "items": [
+            {
+              "fr": "samedi, avant-hier",
+              "label": "samedi — avant-hier"
+            },
+            {
+              "fr": "dimanche, hier",
+              "label": "dimanche — hier"
+            },
+            {
+              "fr": "lundi, aujourd'hui",
+              "label": "lundi — aujourd'hui"
+            },
+            {
+              "fr": "mardi, demain",
+              "label": "mardi — demain"
+            },
+            {
+              "fr": "mercredi, après-demain",
+              "label": "mercredi — après-demain"
+            },
+            {
+              "fr": "le week-end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

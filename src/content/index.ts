@@ -22,15 +22,34 @@ export interface SectionRef {
 }
 
 export const sectionIndex: Map<string, SectionRef> = new Map();
-lessons.forEach((lesson, li) =>
+lessons.forEach((lesson) =>
   lesson.sections.forEach((section, si) => {
     const key = `${lesson.id}/${section.id}`;
-    sectionIndex.set(key, { lesson, section, number: `${li + 1}.${si + 1}`, key });
+    sectionIndex.set(key, { lesson, section, number: `${lessonNumber(lesson)}.${si + 1}`, key });
   }),
 );
 
+/** Number shown for a lesson: the textbook's, else its position in the library. */
 export function lessonNumber(lesson: Lesson): number {
-  return lessons.indexOf(lesson) + 1;
+  return lesson.number ?? lessons.indexOf(lesson) + 1;
+}
+
+export interface UnitGroup {
+  unit: number | null;
+  title?: string;
+  lessons: Lesson[];
+}
+
+/** Lessons grouped by consecutive unit, in library order. */
+export function unitGroups(): UnitGroup[] {
+  const groups: UnitGroup[] = [];
+  for (const lesson of lessons) {
+    const unit = lesson.unit ?? null;
+    const last = groups[groups.length - 1];
+    if (last && last.unit === unit) last.lessons.push(lesson);
+    else groups.push({ unit, title: lesson.unitTitle, lessons: [lesson] });
+  }
+  return groups;
 }
 
 export function lessonMinutes(sections: Section[]): number {

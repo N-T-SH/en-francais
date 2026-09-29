@@ -25,7 +25,7 @@ export function LessonView({ id, sectionId }: { id: string; sectionId?: string }
   const key = `${lesson.id}/${section.id}`;
   const prev = lesson.sections[idx - 1];
   const next = lesson.sections[idx + 1];
-  const nextLesson = lessons[n];
+  const nextLesson = lessons[lessons.indexOf(lesson) + 1];
   const isDone = done.includes(key);
   const isWeak = weak.includes(key);
 

@@ -1,0 +1,299 @@
+{
+  "id": "techniques-pour",
+  "order": 11,
+  "number": 11,
+  "unit": 3,
+  "unitTitle": "Faites connaissance !",
+  "kicker": "Unité 3 · Leçon 11",
+  "title": "Techniques pour…",
+  "summary": "Faire une vidéo pour se présenter · écrire un e-mail amical",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "video",
+      "title": "Faire une vidéo pour se présenter",
+      "minutes": 10,
+      "lede": "Une bonne vidéo de présentation suit un plan simple en six étapes.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le plan de la vidéo",
+          "headers": [
+            "Étape",
+            "Idée",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1",
+              "Saluer",
+              "Bonjour !"
+            ],
+            [
+              "2",
+              "Dire son prénom, sa nationalité, sa profession",
+              "Je m'appelle Sara. Je suis indienne et je suis ingénieure."
+            ],
+            [
+              "3",
+              "Parler de sa personnalité",
+              "Je suis calme, sérieuse et sympa."
+            ],
+            [
+              "4",
+              "Montrer des objets personnels",
+              "Voici mes lunettes, mon stylo et mon carnet."
+            ],
+            [
+              "5",
+              "Parler de ses goûts",
+              "J'aime la musique, le cinéma et les chats. Je n'aime pas la télé."
+            ],
+            [
+              "6",
+              "Prendre congé",
+              "À bientôt !"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez un exemple de présentation",
+          "items": [
+            {
+              "fr": "Bonjour !"
+            },
+            {
+              "fr": "Je m'appelle Sara. Je suis indienne et je suis ingénieure.",
+              "label": "Je m'appelle Sara. Je suis indienne et ingénieure."
+            },
+            {
+              "fr": "Je suis calme, sérieuse et sympa."
+            },
+            {
+              "fr": "Voici mes lunettes, mon stylo et mon carnet."
+            },
+            {
+              "fr": "J'aime la musique, le cinéma et les chats. Je n'aime pas la télé."
+            },
+            {
+              "fr": "À bientôt !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la présentation",
+          "items": [
+            {
+              "prompt": "Bonjour ! Je ___ Sara.",
+              "answers": [
+                "m'appelle"
+              ]
+            },
+            {
+              "prompt": "Je ___ indienne et je ___ ingénieure.",
+              "answers": [
+                "suis",
+                "suis"
+              ]
+            },
+            {
+              "prompt": "Voici ___ lunettes et ___ stylo.",
+              "answers": [
+                "mes",
+                "mon"
+              ]
+            },
+            {
+              "prompt": "J'___ la musique. Je n'aime ___ la télé.",
+              "answers": [
+                "aime",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "À ___ !",
+              "answers": [
+                "bientôt"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Faites votre vidéo",
+          "mode": "oral",
+          "prompt": "Filmez-vous avec votre téléphone (30 secondes) en suivant les six étapes du plan. Regardez la vidéo : qu'est-ce qui est bien ? Qu'est-ce qui manque ?",
+          "model": "Bonjour ! Je m'appelle Sara. Je suis indienne et je suis ingénieure. Je suis calme, sérieuse et sympa. Voici mes lunettes, mon stylo et mon carnet. J'aime la musique, le cinéma et les chats. Je n'aime pas la télé. À bientôt !"
+        }
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Écrire un e-mail amical",
+      "minutes": 10,
+      "lede": "Un e-mail amical suit toujours le même ordre : bonjour, votre texte, une demande de réponse, au revoir et votre signature.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les parties de l'e-mail",
+          "headers": [
+            "Partie",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1",
+              "Dire bonjour",
+              "Bonjour Emma !"
+            ],
+            [
+              "2",
+              "Écrire son texte : se présenter, parler de ses goûts, poser des questions",
+              "Je m'appelle Karim et j'habite à Lyon. J'aime le cinéma. Est-ce que tu aimes le sport ?"
+            ],
+            [
+              "3",
+              "Demander une réponse",
+              "J'attends ta réponse."
+            ],
+            [
+              "4",
+              "Dire au revoir",
+              "À bientôt !"
+            ],
+            [
+              "5",
+              "Signer",
+              "Karim"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Formules utiles",
+          "items": [
+            {
+              "fr": "Bonjour Emma !"
+            },
+            {
+              "fr": "J'aime beaucoup ta vidéo !"
+            },
+            {
+              "fr": "Est-ce que tu aimes le sport ?"
+            },
+            {
+              "fr": "Qu'est-ce que tu aimes faire ?"
+            },
+            {
+              "fr": "J'attends ta réponse."
+            },
+            {
+              "fr": "À bientôt !"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "title": "La ponctuation",
+          "text": "Le point (.) termine une phrase ; le point d'interrogation (?) marque une question ; le point d'exclamation (!) exprime l'enthousiasme ; la virgule (,) sépare les idées ; le point-virgule (;) relie deux phrases proches. En français, on met une espace avant ? ! ; et :",
+          "tone": "tip"
+        },
+        {
+          "type": "exercise",
+          "title": "À quoi sert la formule ?",
+          "items": [
+            {
+              "prompt": "« Bonjour Emma ! » sert à ___.",
+              "answers": [
+                "dire bonjour"
+              ],
+              "choices": [
+                "dire bonjour",
+                "demander une réponse",
+                "dire au revoir",
+                "signer"
+              ]
+            },
+            {
+              "prompt": "« J'attends ta réponse. » sert à ___.",
+              "answers": [
+                "demander une réponse"
+              ],
+              "choices": [
+                "dire bonjour",
+                "demander une réponse",
+                "dire au revoir",
+                "signer"
+              ]
+            },
+            {
+              "prompt": "« À bientôt ! » sert à ___.",
+              "answers": [
+                "dire au revoir"
+              ],
+              "choices": [
+                "dire bonjour",
+                "demander une réponse",
+                "dire au revoir",
+                "signer"
+              ]
+            },
+            {
+              "prompt": "« Karim », à la fin de l'e-mail, sert à ___.",
+              "answers": [
+                "signer"
+              ],
+              "choices": [
+                "dire bonjour",
+                "demander une réponse",
+                "dire au revoir",
+                "signer"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'e-mail",
+          "items": [
+            {
+              "prompt": "Bonjour Emma ! J'___ beaucoup ta vidéo !",
+              "answers": [
+                "aime"
+              ]
+            },
+            {
+              "prompt": "Je ___ Karim et j'___ à Lyon.",
+              "answers": [
+                "m'appelle",
+                "habite"
+              ]
+            },
+            {
+              "prompt": "Est-ce ___ tu aimes le sport ?",
+              "answers": [
+                "que"
+              ]
+            },
+            {
+              "prompt": "J'attends ta ___.",
+              "answers": [
+                "réponse"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Écrivez votre e-mail",
+          "mode": "written",
+          "prompt": "Choisissez un(e) camarade et écrivez-lui un e-mail amical : présentez-vous, parlez de vos goûts et posez au moins deux questions.",
+          "model": "Bonjour Emma ! J'aime beaucoup ta vidéo ! Je m'appelle Karim et j'habite à Lyon. Je suis professeur. J'aime le cinéma et la musique, mais je n'aime pas le sport. Est-ce que tu aimes le cinéma ? Qu'est-ce que tu aimes faire ? J'attends ta réponse. À bientôt ! Karim"
+        }
+      ]
+    }
+  ]
+}

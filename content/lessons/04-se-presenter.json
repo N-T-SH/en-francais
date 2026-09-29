@@ -1,9 +1,12 @@
 {
-  "id": "entrer-en-contact",
-  "order": 3,
-  "kicker": "Unité 2, Leçon 1",
-  "title": "Entrer en contact",
-  "summary": "Nationalités & pays · s'appeler · numéros de téléphone",
+  "id": "se-presenter",
+  "order": 4,
+  "number": 4,
+  "unit": 2,
+  "unitTitle": "Entrez en contact !",
+  "kicker": "Unité 2 · Leçon 4",
+  "title": "Se présenter",
+  "summary": "Nationalités & pays · s'appeler · être & avoir",
   "level": "A1",
   "sections": [
     {
@@ -260,36 +263,110 @@
       ]
     },
     {
-      "id": "telephone",
-      "title": "Numéros de téléphone",
-      "minutes": 3,
-      "lede": "On dicte un numéro par groupes de deux chiffres ; « + » se dit « plus ».",
+      "id": "etre-avoir",
+      "title": "Être & avoir",
+      "minutes": 10,
+      "lede": "Type 1 : les auxiliaires. Être = description. Avoir = âge / possession.",
       "blocks": [
         {
+          "type": "table",
+          "title": "Conjugaison",
+          "headers": [
+            "Sujet",
+            "Être (description)",
+            "Avoir (âge / possession)"
+          ],
+          "rows": [
+            [
+              "Je / j'",
+              "suis",
+              "j'ai"
+            ],
+            [
+              "Tu",
+              "es",
+              "as"
+            ],
+            [
+              "Il / Elle",
+              "est",
+              "a"
+            ],
+            [
+              "Nous",
+              "sommes",
+              "avons"
+            ],
+            [
+              "Vous",
+              "êtes",
+              "avez"
+            ],
+            [
+              "Ils / Elles",
+              "sont",
+              "ont"
+            ]
+          ]
+        },
+        {
           "type": "phrases",
-          "title": "Écoutez les exemples",
-          "note": "Numéros fictifs (plages réservées à la fiction).",
+          "title": "Écoutez le modèle",
           "items": [
             {
-              "fr": "Mon numéro de téléphone est le zéro six, trente-neuf, quatre-vingt-dix-huit, quarante-deux, dix-sept.",
-              "label": "Mon numéro est le 06 39 98 42 17"
+              "fr": "Je suis Lavanya. Je suis professeure. J'ai trente-quatre ans.",
+              "label": "Je suis Lavanya, professeure, 34 ans"
             },
             {
-              "fr": "plus trente-trois, six, trente-neuf, quatre-vingt-dix-huit, soixante-quinze, quatre-vingt-onze",
-              "label": "+33 6 39 98 75 91"
+              "fr": "Il est Yash. Il est chef d'administration. Il a vingt-sept ans.",
+              "label": "Il est Yash, chef d'admin., 27 ans"
             },
             {
-              "fr": "zéro un, quatre-vingt-dix-neuf, zéro zéro, soixante-douze, cinquante-sept",
-              "label": "01 99 00 72 57"
+              "fr": "Elle est Nancy. Elle est informaticienne. Elle a vingt-huit ans.",
+              "label": "Elle est Nancy, informaticienne, 28 ans"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec être ou avoir",
+          "items": [
+            {
+              "prompt": "Je m'appelle Tharun. Je ___ indien. J'___ vingt-six ans.",
+              "answers": [
+                "suis",
+                "ai"
+              ]
+            },
+            {
+              "prompt": "Nous ___ étudiants. Nous ___ un livre chacun.",
+              "answers": [
+                "sommes",
+                "avons"
+              ]
+            },
+            {
+              "prompt": "Vous ___ français ? Vous ___ quel âge ?",
+              "answers": [
+                "êtes",
+                "avez"
+              ]
+            },
+            {
+              "prompt": "Ils ___ indiens. Ils ___ vingt-cinq ans.",
+              "answers": [
+                "sont",
+                "ont"
+              ]
             }
           ]
         },
         {
           "type": "task",
-          "title": "Dictez à voix haute",
+          "title": "Parlez de vous",
           "mode": "oral",
-          "prompt": "Lisez ces numéros en français, par groupes de deux : Camille — 06 39 98 93 20 · Lucas — +33 1 99 00 59 61",
-          "model": "zéro six, trente-neuf, quatre-vingt-dix-huit, quatre-vingt-treize, vingt · plus trente-trois, un, quatre-vingt-dix-neuf, zéro zéro, cinquante-neuf, soixante et un"
+          "prompt": "À voix haute, présentez-vous en 4 phrases : nom, métier, nationalité, âge.",
+          "model": "Je suis Tharun. Je suis ingénieur. Je suis indien. J'ai vingt-six ans."
         }
       ]
     }

@@ -83,7 +83,10 @@ export const Section = z.object({
 export const Lesson = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
   order: z.number().describe("Sort order in the library"),
-  kicker: z.string().describe("Short source label, e.g. 'Unité 2, Leçon 1'"),
+  number: z.number().int().positive().optional().describe("Lesson number in the textbook (shown in section numbers, e.g. 10.2). Defaults to the position in the library"),
+  unit: z.number().int().positive().optional().describe("Textbook unit; lessons are grouped by unit in the library"),
+  unitTitle: z.string().optional().describe("Title of the unit, e.g. 'Faites connaissance !'"),
+  kicker: z.string().describe("Short source label, e.g. 'Unité 3 · Leçon 10'"),
   title: z.string(),
   summary: z.string().describe("One line listing the topics"),
   level: z.string().default("A1"),

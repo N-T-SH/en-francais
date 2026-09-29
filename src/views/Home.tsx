@@ -1,4 +1,4 @@
-import { lessons, lessonMinutes, revisions, sectionIndex } from "../content";
+import { lessons, lessonMinutes, lessonNumber, revisions, sectionIndex, unitGroups } from "../content";
 import { useStore } from "../state/store";
 import { href } from "../ui/router";
 import { Icon } from "../ui/icons";
@@ -51,31 +51,40 @@ export function Home() {
 
       <section className="shelf">
         <h2 className="shelf-title"><Icon name="book" /> Leçons</h2>
-        <ol className="lesson-list">
-          {lessons.map((l, i) => {
-            const keys = l.sections.map((s) => `${l.id}/${s.id}`);
-            const d = keys.filter((k) => done.includes(k)).length;
-            const w = keys.filter((k) => weak.includes(k)).length;
-            return (
-              <li key={l.id}>
-                <a className="lesson-card" href={href.lesson(l.id)}>
-                  <span className="lesson-num">{i + 1}</span>
-                  <span className="lesson-body">
-                    <span className="lesson-kicker">{l.kicker}{l.date ? ` · ${formatDate(l.date)}` : ""}</span>
-                    <span className="lesson-title">{l.title}</span>
-                    <span className="lesson-summary">{l.summary}</span>
-                    <span className="lesson-meta">
-                      <span><Icon name="clock" size={14} /> ~{lessonMinutes(l.sections)} min</span>
-                      <span>{d}/{keys.length} sections</span>
-                      {w > 0 && <span className="weak-pill"><Icon name="flag" size={13} /> {w}</span>}
-                    </span>
-                    <span className="progress thin"><span style={{ width: `${(d / keys.length) * 100}%` }} /></span>
-                  </span>
-                </a>
-              </li>
-            );
-          })}
-        </ol>
+        {unitGroups().map((g) => (
+          <div className="unit" key={g.unit ?? "other"}>
+            {g.unit !== null && (
+              <h3 className="unit-title">
+                <span className="unit-num">Unité {g.unit}</span> {g.title}
+              </h3>
+            )}
+            <ol className="lesson-list">
+              {g.lessons.map((l) => {
+                const keys = l.sections.map((s) => `${l.id}/${s.id}`);
+                const d = keys.filter((k) => done.includes(k)).length;
+                const w = keys.filter((k) => weak.includes(k)).length;
+                return (
+                  <li key={l.id}>
+                    <a className="lesson-card" href={href.lesson(l.id)}>
+                      <span className="lesson-num">{lessonNumber(l)}</span>
+                      <span className="lesson-body">
+                        <span className="lesson-kicker">{l.kicker}{l.date ? ` · ${formatDate(l.date)}` : ""}</span>
+                        <span className="lesson-title">{l.title}</span>
+                        <span className="lesson-summary">{l.summary}</span>
+                        <span className="lesson-meta">
+                          <span><Icon name="clock" size={14} /> ~{lessonMinutes(l.sections)} min</span>
+                          <span>{d}/{keys.length} sections</span>
+                          {w > 0 && <span className="weak-pill"><Icon name="flag" size={13} /> {w}</span>}
+                        </span>
+                        <span className="progress thin"><span style={{ width: `${(d / keys.length) * 100}%` }} /></span>
+                      </span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ol>
+          </div>
+        ))}
       </section>
     </div>
   );

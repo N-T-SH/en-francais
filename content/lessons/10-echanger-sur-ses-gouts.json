@@ -1,0 +1,787 @@
+{
+  "id": "echanger-sur-ses-gouts",
+  "order": 10,
+  "number": 10,
+  "unit": 3,
+  "unitTitle": "Faites connaissance !",
+  "kicker": "Unité 3 · Leçon 10",
+  "title": "Échanger sur ses goûts",
+  "summary": "Dire ce qu'on aime · la négation · poser des questions · aimer & préférer · voyelles",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "gouts",
+      "title": "Dire ce qu'on aime",
+      "minutes": 8,
+      "lede": "J'aime… / Je n'aime pas… : parlez de vos goûts avec le vocabulaire des sports, des loisirs et des animaux.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les sports",
+          "items": [
+            {
+              "fr": "le basket"
+            },
+            {
+              "fr": "le cyclisme"
+            },
+            {
+              "fr": "l'équitation"
+            },
+            {
+              "fr": "la Formule un",
+              "label": "la Formule 1"
+            },
+            {
+              "fr": "le tennis"
+            },
+            {
+              "fr": "courir"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les loisirs",
+          "items": [
+            {
+              "fr": "le cinéma"
+            },
+            {
+              "fr": "l'opéra"
+            },
+            {
+              "fr": "le théâtre"
+            },
+            {
+              "fr": "danser"
+            },
+            {
+              "fr": "lire les magazines"
+            },
+            {
+              "fr": "regarder la télé"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les animaux",
+          "items": [
+            {
+              "fr": "les chats"
+            },
+            {
+              "fr": "les chiens"
+            },
+            {
+              "fr": "les hippopotames"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "title": "Après « aimer »",
+          "text": "Devant un nom, on utilise l'article défini : J'aime le tennis, j'aime la danse, j'aime l'opéra, j'aime les chats. Devant un verbe, on utilise l'infinitif : J'aime danser.",
+          "tone": "tip"
+        },
+        {
+          "type": "phrases",
+          "title": "J'aime… / Je n'aime pas…",
+          "items": [
+            {
+              "fr": "J'aime le cinéma et le théâtre."
+            },
+            {
+              "fr": "Je n'aime pas le tennis."
+            },
+            {
+              "fr": "J'aime danser, mais je n'aime pas courir."
+            },
+            {
+              "fr": "J'aime les chats. Je n'aime pas les chiens."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec le, la, l' ou les",
+          "items": [
+            {
+              "prompt": "J'aime ___ cyclisme.",
+              "answers": [
+                "le"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "l'",
+                "les"
+              ]
+            },
+            {
+              "prompt": "J'aime ___opéra.",
+              "answers": [
+                "l'"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "l'",
+                "les"
+              ]
+            },
+            {
+              "prompt": "J'aime ___ chats.",
+              "answers": [
+                "les"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "l'",
+                "les"
+              ]
+            },
+            {
+              "prompt": "J'aime ___ télé.",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "l'",
+                "les"
+              ]
+            },
+            {
+              "prompt": "Je n'aime pas ___équitation.",
+              "answers": [
+                "l'"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "l'",
+                "les"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Parlez de vos goûts",
+          "mode": "oral",
+          "prompt": "Dites cinq phrases avec « J'aime… » et « Je n'aime pas… » : sports, loisirs, animaux.",
+          "model": "J'aime la musique et le cinéma. Je n'aime pas la télé. J'aime danser, mais je n'aime pas courir. J'aime les chats."
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "title": "La négation : ne… pas",
+      "minutes": 7,
+      "lede": "Pour dire non, on entoure le verbe avec ne et pas.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "ne + verbe + pas",
+          "headers": [
+            "Phrase affirmative",
+            "Phrase négative"
+          ],
+          "rows": [
+            [
+              "Je parle français.",
+              "Je ne parle pas français."
+            ],
+            [
+              "Tu aimes le tennis.",
+              "Tu n'aimes pas le tennis."
+            ],
+            [
+              "Il regarde la télé.",
+              "Il ne regarde pas la télé."
+            ],
+            [
+              "Nous habitons à Paris.",
+              "Nous n'habitons pas à Paris."
+            ],
+            [
+              "Ils sont français.",
+              "Ils ne sont pas français."
+            ]
+          ],
+          "note": "Devant une voyelle ou un h muet, ne devient n' : Tu n'aimes pas… / Nous n'habitons pas…"
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je ne parle pas français."
+            },
+            {
+              "fr": "Tu n'aimes pas le tennis."
+            },
+            {
+              "fr": "Nous n'habitons pas à Paris."
+            },
+            {
+              "fr": "Ils ne sont pas professeurs."
+            },
+            {
+              "fr": "Je n'aime pas courir."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez à la forme négative",
+          "items": [
+            {
+              "prompt": "Je ___ parle ___ anglais.",
+              "answers": [
+                "ne",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Tu ___aimes ___ le foot.",
+              "answers": [
+                "n'",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Elle ___ regarde ___ la télé.",
+              "answers": [
+                "ne",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Nous ___habitons ___ à Paris.",
+              "answers": [
+                "n'",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Ils ___ sont ___ professeurs.",
+              "answers": [
+                "ne",
+                "pas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Poser des questions sur les goûts",
+      "minutes": 10,
+      "lede": "Trois façons de poser une question : l'intonation, « est-ce que » et l'inversion.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois types de questions",
+          "headers": [
+            "Type",
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Intonation",
+              "sujet + verbe, la voix monte",
+              "Tu aimes la musique ?"
+            ],
+            [
+              "Est-ce que",
+              "est-ce que + sujet + verbe",
+              "Est-ce que tu aimes le foot ?"
+            ],
+            [
+              "Inversion",
+              "verbe-sujet",
+              "Aimes-tu la musique ?"
+            ]
+          ],
+          "note": "L'intonation est très courante à l'oral ; l'inversion est plus formelle."
+        },
+        {
+          "type": "table",
+          "title": "Est-ce que / Qu'est-ce que",
+          "headers": [
+            "Réponse : oui ou non",
+            "Réponse : une information"
+          ],
+          "rows": [
+            [
+              "Est-ce que tu aimes le foot ? — Oui.",
+              "Qu'est-ce que tu aimes ? — Le foot."
+            ],
+            [
+              "Est-ce que vous aimez danser ? — Non.",
+              "Qu'est-ce que vous préférez ? — Le cinéma."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Quels / Quelles au pluriel",
+          "headers": [
+            "",
+            "Masculin",
+            "Féminin"
+          ],
+          "rows": [
+            [
+              "singulier",
+              "quel film ?",
+              "quelle pièce ?"
+            ],
+            [
+              "pluriel",
+              "quels films ?",
+              "quelles pièces ?"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez les questions",
+          "items": [
+            {
+              "fr": "Est-ce que tu aimes le sport ?"
+            },
+            {
+              "fr": "Qu'est-ce que tu aimes ?"
+            },
+            {
+              "fr": "Aimes-tu la musique ?"
+            },
+            {
+              "fr": "Quels films tu aimes ?"
+            },
+            {
+              "fr": "Quelles pièces de théâtre tu préfères ?"
+            },
+            {
+              "fr": "Qu'est-ce que vous préférez ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la question",
+          "items": [
+            {
+              "prompt": "___ que tu aimes le sport ?",
+              "answers": [
+                "Est-ce"
+              ]
+            },
+            {
+              "prompt": "___ que tu aimes ? — Le cinéma.",
+              "answers": [
+                "Qu'est-ce"
+              ]
+            },
+            {
+              "prompt": "___-tu la musique ?",
+              "answers": [
+                "Aimes"
+              ],
+              "hint": "inversion"
+            },
+            {
+              "prompt": "___ films tu préfères ?",
+              "answers": [
+                "Quels"
+              ]
+            },
+            {
+              "prompt": "___ activités vous aimez ?",
+              "answers": [
+                "Quelles"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reagir",
+      "title": "Réagir : mais, moi aussi, moi non plus",
+      "minutes": 5,
+      "lede": "Trois petits mots pour réagir aux goûts des autres.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Réagir",
+          "headers": [
+            "Expression",
+            "Quand l'utiliser",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Moi aussi",
+              "même goût, phrase positive",
+              "— J'aime l'opéra. — Moi aussi (j'aime)."
+            ],
+            [
+              "Moi non plus",
+              "même goût, phrase négative",
+              "— Je n'aime pas l'opéra. — Moi non plus (je n'aime pas)."
+            ],
+            [
+              "Mais",
+              "opposition",
+              "Je n'aime pas courir, mais j'aime le cyclisme."
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'aime le basket. Moi aussi !"
+            },
+            {
+              "fr": "Je n'aime pas les chiens. Moi non plus !"
+            },
+            {
+              "fr": "Je n'aime pas courir, mais j'aime le cyclisme."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Choisissez la bonne réaction",
+          "items": [
+            {
+              "prompt": "— J'aime la danse. — ___ !",
+              "answers": [
+                "Moi aussi"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus",
+                "Mais"
+              ]
+            },
+            {
+              "prompt": "— Je n'aime pas la télé. — ___ !",
+              "answers": [
+                "Moi non plus"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus",
+                "Mais"
+              ]
+            },
+            {
+              "prompt": "— J'aime le théâtre. — ___ !",
+              "answers": [
+                "Moi aussi"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus",
+                "Mais"
+              ]
+            },
+            {
+              "prompt": "— Je n'aime pas les hamburgers. — ___ !",
+              "answers": [
+                "Moi non plus"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus",
+                "Mais"
+              ]
+            },
+            {
+              "prompt": "Je n'aime pas le tennis, ___ j'aime le basket.",
+              "answers": [
+                "mais"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus",
+                "Mais"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-preferer",
+      "title": "Les verbes aimer et préférer",
+      "minutes": 7,
+      "lede": "Deux verbes en -er très utiles pour parler de ses goûts.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Conjugaison au présent",
+          "headers": [
+            "Sujet",
+            "Aimer",
+            "Préférer"
+          ],
+          "rows": [
+            [
+              "Je / j'",
+              "j'aime",
+              "je préfère"
+            ],
+            [
+              "Tu",
+              "aimes",
+              "préfères"
+            ],
+            [
+              "Il / Elle",
+              "aime",
+              "préfère"
+            ],
+            [
+              "Nous",
+              "aimons",
+              "préférons"
+            ],
+            [
+              "Vous",
+              "aimez",
+              "préférez"
+            ],
+            [
+              "Ils / Elles",
+              "aiment",
+              "préfèrent"
+            ]
+          ],
+          "note": "Préférer : l'accent change (é → è) quand la terminaison est muette : je préfère, tu préfères, il préfère, ils préfèrent. On garde é avec nous et vous."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'aime la musique. Je préfère le rock."
+            },
+            {
+              "fr": "Tu préfères le cinéma ou le théâtre ?"
+            },
+            {
+              "fr": "Nous aimons danser."
+            },
+            {
+              "fr": "Vous préférez le foot ou le tennis ?"
+            },
+            {
+              "fr": "Ils préfèrent regarder la télé."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez",
+          "items": [
+            {
+              "prompt": "Nous ___ les chansons françaises.",
+              "answers": [
+                "aimons"
+              ],
+              "hint": "aimer"
+            },
+            {
+              "prompt": "Tu ___ le cinéma ou le théâtre ?",
+              "answers": [
+                "préfères"
+              ],
+              "hint": "préférer"
+            },
+            {
+              "prompt": "Ils ___ regarder la télé.",
+              "answers": [
+                "aiment"
+              ],
+              "hint": "aimer"
+            },
+            {
+              "prompt": "Vous ___ le foot ou le tennis ?",
+              "answers": [
+                "préférez"
+              ],
+              "hint": "préférer"
+            },
+            {
+              "prompt": "Je ___ le cyclisme.",
+              "answers": [
+                "préfère"
+              ],
+              "hint": "préférer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyelles",
+      "title": "Phonétique : les combinaisons de voyelles",
+      "minutes": 5,
+      "lede": "Une, deux ou trois voyelles peuvent se prononcer d'un seul son.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quatre sons",
+          "headers": [
+            "Son",
+            "Écriture",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[o]",
+              "o, au, eau",
+              "vélo · auto · beau"
+            ],
+            [
+              "[u]",
+              "ou",
+              "nous · vous · courir"
+            ],
+            [
+              "[e] / [ɛ]",
+              "é, è, ê, ai",
+              "télé · mère · fête · j'ai"
+            ],
+            [
+              "[œ]",
+              "e, eu, œ",
+              "je · chanteur · sœur"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez chaque mot",
+          "items": [
+            {
+              "fr": "vélo"
+            },
+            {
+              "fr": "auto"
+            },
+            {
+              "fr": "beau"
+            },
+            {
+              "fr": "nous"
+            },
+            {
+              "fr": "vous"
+            },
+            {
+              "fr": "courir"
+            },
+            {
+              "fr": "télé"
+            },
+            {
+              "fr": "mère"
+            },
+            {
+              "fr": "fête"
+            },
+            {
+              "fr": "chanteur"
+            },
+            {
+              "fr": "sœur"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Phrases à répéter",
+          "items": [
+            {
+              "fr": "Nous adorons le vélo."
+            },
+            {
+              "fr": "Mon frère est chanteur."
+            },
+            {
+              "fr": "Ma sœur regarde la télé."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son entendez-vous ?",
+          "items": [
+            {
+              "prompt": "« beau » → ___",
+              "answers": [
+                "[o]"
+              ],
+              "choices": [
+                "[o]",
+                "[u]",
+                "[e]",
+                "[œ]"
+              ]
+            },
+            {
+              "prompt": "« nous » → ___",
+              "answers": [
+                "[u]"
+              ],
+              "choices": [
+                "[o]",
+                "[u]",
+                "[e]",
+                "[œ]"
+              ]
+            },
+            {
+              "prompt": "« télé » → ___",
+              "answers": [
+                "[e]"
+              ],
+              "choices": [
+                "[o]",
+                "[u]",
+                "[e]",
+                "[œ]"
+              ]
+            },
+            {
+              "prompt": "« sœur » → ___",
+              "answers": [
+                "[œ]"
+              ],
+              "choices": [
+                "[o]",
+                "[u]",
+                "[e]",
+                "[œ]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
