@@ -16,6 +16,12 @@
       "lede": "Épelez votre prénom à voix haute, lettre par lettre.",
       "blocks": [
         {
+          "type": "note",
+          "tone": "tip",
+          "title": "Spelling out loud",
+          "text": "- Letters English speakers mix up: G = gé, J = ji, E = eu, I = i, U = u (lips rounded).\n- W = double vé, Y = i grec, H = ache, Q = ku.\n- Accents have names: é accent aigu, è accent grave, ê accent circonflexe, ë tréma, ç cédille.\n- Useful symbols: @ arobase, . point, - tiret, _ tiret bas, ' apostrophe.\n- For double letters say deux L, deux T…\n- Ask: Comment ça s'écrit ? or Vous pouvez épeler, s'il vous plaît ?"
+        },
+        {
           "type": "phrases",
           "title": "Les lettres difficiles",
           "items": [
@@ -74,7 +80,6 @@
         {
           "type": "phrases",
           "title": "Les chiffres 0 à 9",
-          "note": "Attention : six et dix se prononcent « sis » et « dis » seuls, mais « si » et « di » devant une consonne (six livres).",
           "items": [
             {
               "fr": "zéro",
@@ -117,6 +122,12 @@
               "label": "9 — neuf"
             }
           ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Say it right",
+          "text": "- Six and dix are pronounced sis / dis on their own, si / di before a consonant (six livres), and siz / diz before a vowel (six ans).\n- Neuf changes its f into a v before ans and heures: neuf ans sounds like nœ-vã.\n- Un becomes une before a feminine noun: vingt et un ans, but vingt et une personnes.\n- 11 to 16 are single words (onze … seize); from 17 it is dix + digit (dix-sept, dix-huit, dix-neuf)."
         },
         {
           "type": "phrases",
@@ -194,6 +205,12 @@
               "label": "60 — soixante"
             }
           ]
+        },
+        {
+          "type": "note",
+          "tone": "info",
+          "title": "The logic of 70–99",
+          "text": "French builds 70–99 from 20s and 10s: 70 = 60 + 10 (soixante-dix), 80 = 4 × 20 (quatre-vingts), 90 = 4 × 20 + 10 (quatre-vingt-dix). Belgium and Switzerland say septante and nonante instead (and huitante in parts of Switzerland).\n- et links only 21, 31, 41, 51, 61 and 71: vingt et un, soixante et onze. Not 81 or 91: quatre-vingt-un, quatre-vingt-onze.\n- All other compounds take a hyphen: vingt-deux, soixante-quinze.\n- Quatre-vingts keeps its s only when nothing follows: quatre-vingts (80), but quatre-vingt-trois (83)."
         },
         {
           "type": "phrases",
@@ -313,6 +330,12 @@
       "minutes": 3,
       "lede": "7 jours = 1 semaine. Écoutez les repères temporels : hier, aujourd'hui, demain.",
       "blocks": [
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Days in French",
+          "text": "- Days and months are not capitalised: lundi, mardi.\n- le lundi (with the article) = every Monday; lundi (without) = this coming Monday. Le lundi, je travaille = I work on Mondays. Lundi, je travaille = I work this Monday.\n- The week starts on Monday on French calendars.\n- Time words: hier (yesterday), aujourd'hui (today), demain (tomorrow), avant-hier (the day before yesterday), après-demain (the day after tomorrow).\n- Le week-end is masculine and borrowed from English."
+        },
         {
           "type": "phrases",
           "title": "Les jours — repères temporels",

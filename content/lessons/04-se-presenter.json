@@ -74,6 +74,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "tip",
+          "title": "Nationality adjectives",
+          "text": "They agree with the person. Common feminine endings:\n- -ien → -ienne (italien / italienne), -ain → -aine (marocain / marocaine), -ais → -aise (français / française), -ois → -oise (chinois / chinoise), -ol → -ole (espagnol / espagnole), or simply + e (allemand / allemande).\n- Adjectives already ending in -e don't change: belge, russe, suisse.\n- Small letter for the adjective (Elle est indienne), capital letter for the person (une Indienne).\n- In the feminine the final consonant is pronounced: indien /ɛ̃djɛ̃/ vs indienne /ɛ̃djɛn/, allemand vs allemande.\n- Gotcha: the country has an article (la France) but after habiter it becomes en France, au Canada (see Leçon 12)."
+        },
+        {
           "type": "phrases",
           "title": "Les articles — écoutez les exceptions",
           "note": "Le (masc. sing.) · La (fém. sing.) · L' (devant une voyelle) · Les (pluriel)",
@@ -209,6 +215,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "info",
+          "title": "A reflexive verb",
+          "text": "S'appeler literally means “to call oneself”. The small pronoun (me, te, se, nous, vous, se) always matches the subject: je m'appelle, tu t'appelles.\n- Gotcha: the double l (appelle) is in all forms except nous appelons and vous appelez.\n- Never say “je suis appelé”. Say Je m'appelle Léa. To ask: Comment tu t'appelles ? / Tu t'appelles comment ? / Comment vous appelez-vous ? (formal).\n- The endings -e, -es and -ent are silent, so je m'appelle, tu t'appelles and ils s'appellent all end with the same sound."
+        },
+        {
           "type": "phrases",
           "title": "Prononciation — écoutez la différence",
           "note": "-ER, -EZ, é → se prononcent « é ». -ES, -E, -ENT → silencieuses.",
@@ -311,6 +323,12 @@
               "ont"
             ]
           ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas with être and avoir",
+          "text": "- Profession and nationality after être take no article: Je suis professeur. (With c'est you need one: C'est un professeur.)\n- Age uses avoir, not être: J'ai vingt-sept ans (literally “I have 27 years”). Never “je suis 27”.\n- Elision: je becomes j' before a vowel (j'ai) but not before suis.\n- Listening trap: ils sont sounds like eel-sohn, but ils ont sounds like eel-zohn (a z liaison). Likewise nous avons links (nou-z-avons) while nous sommes does not.\n- Feelings use avoir too: j'ai froid (I'm cold), j'ai faim (I'm hungry). You will meet these later."
         },
         {
           "type": "phrases",

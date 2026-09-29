@@ -101,6 +101,12 @@
           "tone": "tip"
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas with aimer",
+          "text": "- Say the article: J'aime le cinéma. English drops it (“I like cinema”), French cannot.\n- Aimer is strong with people: Je t'aime = I love you. For a mild liking use aimer bien: J'aime bien Paul. For things, j'adore = I love, je déteste = I hate.\n- Sports don't use aimer's verb but jouer or faire: jouer au tennis, au basket (team and ball games), but faire du cyclisme, faire de l'équitation, faire de la danse.\n- After aimer a verb stays in the infinitive: J'aime lire, j'aime danser."
+        },
+        {
           "type": "phrases",
           "title": "J'aime… / Je n'aime pas…",
           "items": [
@@ -229,6 +235,12 @@
             ]
           ],
           "note": "Devant une voyelle ou un h muet, ne devient n' : Tu n'aimes pas… / Nous n'habitons pas…"
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Negation gotchas",
+          "text": "- Ne … pas wraps around the conjugated verb: Je ne parle pas anglais. Ne becomes n' before a vowel: Je n'aime pas.\n- After a negation, un / une / des / du / de la become de (d'): J'ai un frère → Je n'ai pas de frère. But after être the article stays: Ce n'est pas un chat.\n- In everyday speech the ne often disappears: Je sais pas, C'est pas grave. Keep the ne in writing, exams and formal speech.\n- Other negations use the same frame: ne … jamais (never), ne … plus (no longer), ne … rien (nothing): Je ne danse jamais."
         },
         {
           "type": "phrases",
@@ -367,6 +379,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Question gotchas",
+          "text": "- Inversion needs a hyphen: Aimes-tu ? After a vowel with il / elle / on add -t-: Aime-t-il le tennis ? (a-t-elle, va-t-on).\n- Est-ce que becomes est-ce qu' before a vowel: Est-ce qu'il aime la musique ?\n- In casual speech the question word can stay at the end: Tu aimes quoi ? (= Qu'est-ce que tu aimes ?)\n- To contradict a negative question, answer Si, not Oui: Tu n'aimes pas le foot ? — Si, j'aime ça !"
+        },
+        {
           "type": "phrases",
           "title": "Écoutez les questions",
           "items": [
@@ -460,6 +478,12 @@
               "Je n'aime pas courir, mais j'aime le cyclisme."
             ]
           ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Reacting: gotchas",
+          "text": "- Moi aussi answers a positive sentence, moi non plus a negative one. Never “moi aussi” after a negative: — Je n'aime pas ça. — Moi non plus.\n- To disagree: Pas moi ! (not me) after a positive sentence, Moi si ! (I do!) after a negative one: — Je n'aime pas le foot. — Moi si !\n- Mais (but) marks an opposition. Mais si (“yes, of course!”) contradicts a negative question: — Tu n'aimes pas danser ? — Mais si !"
         },
         {
           "type": "phrases",
@@ -588,6 +612,12 @@
           "note": "Préférer : l'accent change (é → è) quand la terminaison est muette : je préfère, tu préfères, il préfère, ils préfèrent. On garde é avec nous et vous."
         },
         {
+          "type": "note",
+          "tone": "tip",
+          "title": "Préférer and friends",
+          "text": "- The same accent change happens in other verbs with é in the stem: espérer (j'espère), répéter (je répète), célébrer. Nous and vous keep é: nous préférons.\n- Compare with préférer A à B: Je préfère le thé au café (à + le = au).\n- Both verbs take a noun with its article or an infinitive: J'aime le sport / J'aime danser; Je préfère le sport / Je préfère danser.\n- The je, tu and il forms are pronounced the same, so the pronoun tells you who: j'aime, tu aimes, il aime."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez",
           "items": [
@@ -687,6 +717,12 @@
               "je · chanteur · sœur"
             ]
           ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Vowel gotchas",
+          "text": "- ou [u] is not u [y]: nous (we) vs nu (naked), tout vs tu. For u, round your lips and push them forward (you will practise it again in Leçon 13).\n- eu has two sounds: closed [ø] at the end of a word (peu, deux) and open [œ] before a consonant (peur, sœur, chanteur).\n- é is closed [e] (télé); è, ê and ai are open [ɛ] (mère, fête, j'ai). They sound close, but the difference matters in careful speech.\n- A letter combination is one sound, never letter by letter: eau is [o], not “e-a-u”."
         },
         {
           "type": "phrases",

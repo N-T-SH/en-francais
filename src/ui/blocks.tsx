@@ -90,11 +90,30 @@ export function TableCard({ block }: { block: Extract<Block, { type: "table" }> 
   );
 }
 
+/** Note text: lines starting with "- " become bullets, other lines paragraphs. */
+function NoteText({ text }: { text: string }) {
+  const out: React.ReactNode[] = [];
+  let items: string[] = [];
+  const flush = () => {
+    if (items.length) out.push(<ul key={`u${out.length}`}>{items.map((t, i) => <li key={i}>{t}</li>)}</ul>);
+    items = [];
+  };
+  text.split("\n").forEach((line) => {
+    if (line.startsWith("- ")) items.push(line.slice(2));
+    else {
+      flush();
+      if (line.trim()) out.push(<p key={`p${out.length}`}>{line}</p>);
+    }
+  });
+  flush();
+  return <>{out}</>;
+}
+
 export function NoteCard({ block }: { block: Extract<Block, { type: "note" }> }) {
   return (
     <div className={`card note note-${block.tone}`}>
       {block.title && <h4>{block.title}</h4>}
-      <p>{block.text}</p>
+      <NoteText text={block.text} />
     </div>
   );
 }

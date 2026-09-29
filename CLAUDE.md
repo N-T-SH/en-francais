@@ -27,6 +27,13 @@ asks for them to be added. To do that:
      checkable answers, and optionally an oral/written `task`.
    - `phrases[].fr` is spoken by TTS: write numbers, years and phone numbers in
      words, and put the short form in `label`.
+   - Exceptions and gotchas: every grammar or pronunciation section needs a short
+     English `note` (tone `warning` for gotchas, `tip` / `info` for patterns)
+     placed after the reference table and before the listening block. Use
+     bullets (lines starting with "- "). Cover the regular rule, the common
+     exceptions, what English speakers get wrong, and how it sounds (silent
+     letters, liaison). Only state things you are sure of, and check unusual
+     claims (e.g. pronunciation of a month) rather than copying a class note.
    - Illustrations: give concrete vocabulary (objects, places, sports, family,
      transport, food…) a small `icon` emoji on the `phrases` item. Skip abstract
      words, numbers, sentences and questions. No flags (Windows doesn't draw

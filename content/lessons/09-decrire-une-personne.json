@@ -70,6 +70,18 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Feminine and plural adjectives: gotchas",
+          "text": "- Add -e for the feminine (grand → grande, petit → petite). Adjectives already ending in -e don't change: triste, sympa, calme, timide, jeune.\n- Common patterns: -eux → -euse (sérieux / sérieuse), -if → -ive (sportif / sportive), -eau → -elle (beau / belle), -en → -enne, -er → -ère (premier / première). Irregular: blanc / blanche, long / longue, vieux / vieille.\n- Plural: add -s (grands), but -s and -x stay unchanged (sérieux, français) and -eau takes x (beaux).\n- The feminine is pronounced with its consonant: petit /pəti/ vs petite /pətit/, grand /grɑ̃/ vs grande /grɑ̃d/.\n- After et both adjectives agree: Elle est petite et sérieuse."
+        },
+        {
+          "type": "note",
+          "tone": "info",
+          "title": "Where does the adjective go?",
+          "text": "Most adjectives come after the noun: une voiture rouge, un homme sportif. A small group comes before, remembered as BAGS: Beauty (beau, joli), Age (jeune, vieux, nouveau), Goodness (bon, mauvais), Size (grand, petit, gros): un beau garçon, une petite fille.\nBefore a masculine noun starting with a vowel, beau becomes bel: un bel homme."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez",
           "items": [

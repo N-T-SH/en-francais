@@ -66,6 +66,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Imperative gotchas",
+          "text": "- -er verbs and aller drop the final -s in the tu form: tu tournes → Tourne !, tu vas → Va ! (The s comes back before y or en: Vas-y !)\n- Other verbs keep it: Prends la rue à droite (prendre).\n- Negative imperative: Ne tournez pas à gauche ! N'allez pas tout droit !\n- The nous form means “let's”: Allons-y ! Tournons à droite.\n- Où (where) has an accent; ou (or) doesn't: Où est la gare ? Le train ou le bus ?\n- Add s'il vous plaît / s'il te plaît to be polite: Tournez à gauche, s'il vous plaît."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez",
           "items": [
@@ -143,7 +149,7 @@
       "id": "verbe-aller",
       "title": "Le verbe aller au présent",
       "minutes": 5,
-      "lede": "à + le = au · à + les = aux · à la et à l'ne changent pas.",
+      "lede": "à + le = au · à + les = aux · à la et à l' ne changent pas.",
       "blocks": [
         {
           "type": "table",
@@ -185,6 +191,12 @@
               "au cinéma"
             ]
           ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Aller: the gotchas",
+          "text": "- Irregular! Learn by heart: je vais, tu vas, il va, nous allons, vous allez, ils vont.\n- Places: aller à + place, with the contractions au / aux (à + le, à + les): Je vais au concert, il va à la poste, nous allons aux toilettes. Countries follow Leçon 12: je vais en France, au Japon.\n- To go to a person's place use chez, not à: Je vais chez le médecin, chez moi, chez Marie.\n- Aller + infinitive = near future (“going to”): Je vais visiter le musée. Nous allons manger.\n- Ça va ? is aller too: Comment allez-vous ? — Je vais bien."
         },
         {
           "type": "phrases",
@@ -499,6 +511,12 @@
               "fr": "C'est la deuxième rue à droite."
             }
           ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Ordinal numbers and prepositions",
+          "text": "- Ordinals: number + -ième: deuxième, troisième, dixième. Spelling changes: quatre → quatrième (drops e), cinq → cinquième (adds u), neuf → neuvième (f → v). Exception: premier / première; second(e) is used when there are only two.\n- Tout droit never changes (not “tout droite”).\n- In French you are dans la rue (not “sur la rue”).\n- Au bout de la rue = at the end of the street; au coin = at the corner."
         },
         {
           "type": "phrases",

@@ -90,6 +90,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "tip",
+          "title": "Reading contact details aloud",
+          "text": "- E-mail: lea.martin@example.com = léa point martin arobase example point com. Symbols: @ arobase, . point, - tiret, _ tiret bas.\n- French addresses put the number first, then the street, then postcode + city: 12, rue des Lilas, 69003 Lyon.\n- Job titles have a feminine form: professeure de piano (a woman). Abbreviations: M. (Monsieur), Mme (Madame), Tél. (téléphone).\n- Gotcha: un code QR is masculine; une adresse is feminine."
+        },
+        {
           "type": "phrases",
           "title": "Lire les informations à voix haute",
           "items": [
@@ -196,6 +202,12 @@
               "italienne · un carnet"
             ]
           ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Agreement reminder",
+          "text": "- The nationality adjective agrees with the person: Sofia est italienne (f), Tomas est polonais (m). Small letter for the adjective.\n- Masculine adjectives ending in -s don't change in the plural: polonais → polonais.\n- Gotcha: after Je suis + nationality there is no article: Je suis italienne (not “je suis une italienne”).\n- Objet is masculine: mon objet, un objet personnel."
         },
         {
           "type": "phrases",

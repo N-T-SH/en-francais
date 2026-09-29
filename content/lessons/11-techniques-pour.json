@@ -57,6 +57,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "tip",
+          "title": "Speaking for the camera",
+          "text": "- Choose tu or vous. To a group you can say Bonjour à tous ! (hello everyone).\n- Je m'appelle Sara for the name; Je suis for profession and nationality.\n- After être + profession there is no article: Je suis ingénieure (not “je suis une ingénieure”).\n- Personality adjectives agree with you: sérieux (m) / sérieuse (f). Calme, timide and sympa don't change."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez un exemple de présentation",
           "items": [
@@ -203,6 +209,12 @@
           "title": "La ponctuation",
           "text": "Le point (.) termine une phrase ; le point d'interrogation (?) marque une question ; le point d'exclamation (!) exprime l'enthousiasme ; la virgule (,) sépare les idées ; le point-virgule (;) relie deux phrases proches. En français, on met une espace avant ? ! ; et :",
           "tone": "tip"
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "E-mail gotchas",
+          "text": "- Greeting: Bonjour Emma ! for a friend; Salut Emma ! for very informal; Cher Karim, / Chère Emma, for a friendly but more careful e-mail (with a comma).\n- Signing off: À bientôt (see you soon), Amicalement (friendly), Bises (kisses, very familiar), Cordialement (formal). Don't use Cordialement with a friend.\n- Attendre = to wait for, so no preposition: J'attends ta réponse (not “j'attends pour ta réponse”).\n- Stay consistent with tu or vous in the whole e-mail: ta réponse / votre réponse."
         },
         {
           "type": "exercise",

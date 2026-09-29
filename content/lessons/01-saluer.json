@@ -60,6 +60,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Greeting gotchas",
+          "text": "- Bonjour is the safe choice all day; switch to bonsoir in the evening. Bonne nuit is only for going to bed, never a greeting.\n- Salut works for both hello and goodbye, but only with friends (informal).\n- Use vous (and Comment allez-vous ?) with strangers, older people and in formal situations; use tu with friends, family and children.\n- Enchanté is written enchantée if you are a woman. It sounds the same.\n- Ça va ? is both the question and the answer: Ça va ? — Ça va, et toi ?"
+        },
+        {
           "type": "phrases",
           "title": "Écoutez et répétez",
           "items": [
@@ -121,6 +127,12 @@
       "minutes": 5,
       "lede": "Un / une — pratiquez le genre de chaque objet.",
       "blocks": [
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Every noun has a gender",
+          "text": "Every French noun is masculine (un / le) or feminine (une / la), and the gender is usually arbitrary. Learn each noun together with its article: un livre, une chaise.\n- Rough hints: -tion, -té and -ure are usually feminine; -age, -ment and -eur are usually masculine. Exceptions: une image, une page, une plage, une fleur.\n- Before a vowel, le and la both become l' (l'horloge), so the gender becomes invisible. Remember it is une horloge.\n- The plural article is des for both genders: des livres, des chaises."
+        },
         {
           "type": "phrases",
           "title": "Écoutez et répétez",

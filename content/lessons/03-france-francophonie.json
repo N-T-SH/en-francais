@@ -46,6 +46,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Two different “tours”, and articles",
+          "text": "- le Tour de France (masculine: the cycling race, a “tour”) versus la tour Eiffel (feminine: a tower). Same spelling, different word and gender.\n- Monuments and regions take the article: la tour Eiffel, le Mont-Saint-Michel, les Calanques. Proper names like Roland-Garros and Paris take none.\n- The French flag is le drapeau tricolore: bleu, blanc, rouge."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez et répétez",
           "items": [
@@ -232,6 +238,12 @@
             ]
           ],
           "note": "Rappel : on met toujours l'article devant un nom de pays."
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Countries, cities, people",
+          "text": "- Countries take the article in French: la France, le Canada, la Belgique (never just “Canada”). Cities usually don't: Paris, Dakar, Bruxelles. A few keep it: Le Caire (Cairo), Le Havre, La Nouvelle-Orléans.\n- Français(e) with a capital is a person (une Française); français with a small letter is the adjective or the language (il est français, je parle français).\n- Francophone describes anyone who speaks French. La Francophonie (capital F) is the international organisation of French-speaking countries."
         },
         {
           "type": "phrases",

@@ -58,6 +58,12 @@
           "note": "Prononciation : -e / -es / -ent sont silencieuses. -er et -ez sonnent comme « é »."
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "-ER verbs: gotchas",
+          "text": "- Parler + language takes no article: Je parle français. After étudier or aimer you need it: J'étudie le français, j'aime le français.\n- Vowel or silent h: je becomes j': j'habite (never “je habite”).\n- Spelling changes keep the sound: nous mangeons (manger), nous commençons (commencer).\n- Silent endings: je parle, tu parles, il parle and ils parlent sound identical. Only nous parlons and vous parlez sound different, so listen for the pronoun.\n- habiter + place: J'habite à Paris (city), en France (country). See Leçon 12."
+        },
+        {
           "type": "phrases",
           "title": "Autres verbes en -ER",
           "items": [
@@ -129,6 +135,12 @@
       "minutes": 10,
       "lede": "Quel / Quels (masculin) — Quelle / Quelles (féminin), avec les adjectifs possessifs.",
       "blocks": [
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Quel agrees with the noun",
+          "text": "Quel, quelle, quels and quelles all sound the same (/kɛl/). The noun after it decides the spelling: quel prénom (m), quelle nationalité (f), quels pays (m pl), quelles langues (f pl). Before a vowel you hear a liaison: quels amis (kɛl-z-ami).\n- Gotcha: possessives follow the gender of the noun too (ton prénom, ta nationalité), but a feminine noun starting with a vowel takes ton: ton adresse, not ta adresse.\n- Quel is also used for age and time: Quel âge as-tu ? Quelle heure est-il ?\n- To contradict a negative question, answer Si, not Oui (see Leçon 10)."
+        },
         {
           "type": "phrases",
           "title": "Écoutez les questions",

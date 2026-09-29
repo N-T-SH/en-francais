@@ -116,6 +116,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Professions and family words: gotchas",
+          "text": "- Many professions have one form for men and women: journaliste, médecin, artiste, dentiste (Elle est médecin).\n- Feminine patterns: -eur → -euse (chanteur / chanteuse), -teur → -trice (acteur / actrice), -ien → -ienne (musicien / musicienne), plain -e (avocat / avocate).\n- Titles in -eur (professeur, ingénieur) now often take -e for women: professeure, ingénieure. Écrivain → écrivaine. Both spellings exist.\n- Naming someone's job: Elle est professeure (no article) or C'est une professeure (with c'est you need the article). Never “elle est une professeure”.\n- Family words: sœur has the ligature œ; grand-père is hyphenated; the plural is les grands-parents. Papa, maman, papi, mamie are informal."
+        },
+        {
           "type": "exercise",
           "title": "La famille",
           "items": [
@@ -145,6 +151,116 @@
           "mode": "oral",
           "prompt": "Présentez votre famille (nom, âge, profession) en quelques phrases.",
           "model": "Nous sommes quatre personnes dans la famille. Mon père s'appelle Ravi, il a soixante ans, il est médecin. Ma mère… Moi, je m'appelle…"
+        }
+      ]
+    },
+    {
+      "id": "pluriel-des-noms",
+      "title": "Le pluriel des noms",
+      "minutes": 6,
+      "lede": "In writing most plurals add -s, but you mostly hear the plural in the article, not in the noun.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Forming the plural",
+          "headers": [
+            "Ending",
+            "Plural",
+            "Examples"
+          ],
+          "rows": [
+            [
+              "most nouns",
+              "+ s",
+              "la sœur → les sœurs · l'oncle → les oncles"
+            ],
+            [
+              "-s, -x, -z",
+              "no change",
+              "le fils → les fils · le prix → les prix"
+            ],
+            [
+              "-eau, -eu",
+              "+ x",
+              "le neveu → les neveux · le bureau → les bureaux"
+            ],
+            [
+              "-al",
+              "-aux",
+              "un animal → des animaux · un journal → des journaux"
+            ],
+            [
+              "irregular",
+              "learn them",
+              "un œil → des yeux · madame → mesdames"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Plural gotchas",
+          "text": "- The final -s is silent: le frère and les frères sound identical. The article carries the plural: le / la / l' → les, un / une → des, mon / ma → mes.\n- Before a vowel the article's s links to the noun: les amis (lé-z-ami), des enfants (dé-z-enfants).\n- Nouns already ending in -s, -x or -z don't change: le fils → les fils, la voix → les voix.\n- In compound nouns both parts usually take the plural: une grand-mère → des grands-mères.\n- Family nouns for mixed groups use the masculine plural: les parents (mum and dad), les enfants (boys and girls), les cousins (male and female cousins)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez le singulier et le pluriel",
+          "items": [
+            {
+              "fr": "un frère, des frères"
+            },
+            {
+              "fr": "une sœur, des sœurs"
+            },
+            {
+              "fr": "un fils, des fils"
+            },
+            {
+              "fr": "un neveu, des neveux"
+            },
+            {
+              "fr": "un animal, des animaux"
+            },
+            {
+              "fr": "un ami, des amis"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez au pluriel",
+          "items": [
+            {
+              "prompt": "la sœur → les ___",
+              "answers": [
+                "sœurs"
+              ]
+            },
+            {
+              "prompt": "le fils → les ___",
+              "answers": [
+                "fils"
+              ]
+            },
+            {
+              "prompt": "le neveu → les ___",
+              "answers": [
+                "neveux"
+              ]
+            },
+            {
+              "prompt": "l'oncle → les ___",
+              "answers": [
+                "oncles"
+              ]
+            },
+            {
+              "prompt": "un animal → des ___",
+              "answers": [
+                "animaux"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -201,6 +317,12 @@
               "leurs"
             ]
           ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Possessives: gotchas",
+          "text": "- The possessive agrees with the thing owned, not with the owner: sa mère = his mother or her mother. Context tells you which.\n- A feminine noun starting with a vowel or silent h takes mon / ton / son: mon amie, ton adresse, son école (not “ma amie”).\n- One owner, several things: mes / tes / ses. Several owners: notre / votre / leur (one thing), nos / vos / leurs (several things).\n- Possession with a name uses de: la mère de Paul. There is no ’s in French.\n- Notre and votre are different from nôtre and vôtre (with a circumflex, which need the article: le nôtre)."
         },
         {
           "type": "phrases",

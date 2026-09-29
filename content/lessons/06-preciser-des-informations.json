@@ -16,6 +16,12 @@
       "lede": "On dicte un numéro par groupes de deux chiffres ; « + » se dit « plus ».",
       "blocks": [
         {
+          "type": "note",
+          "tone": "tip",
+          "title": "Phone numbers",
+          "text": "- French numbers have 10 digits, said in five pairs: 06 39 98 42 17 = zéro six, trente-neuf, quatre-vingt-dix-huit, quarante-deux, dix-sept.\n- Say 0 as zéro; 00 is zéro zéro.\n- The country code +33 replaces the first 0: 06 39 98 42 17 becomes +33 6 39 98 42 17 (plus trente-trois, six, trente-neuf…).\n- Gotcha: pairs often hit the tricky numbers 70–99, so 77 is soixante-dix-sept and 96 is quatre-vingt-seize."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez les exemples",
           "note": "Numéros fictifs (plages réservées à la fiction).",
@@ -72,6 +78,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Indefinite articles: gotchas",
+          "text": "- Un / une / des mean “a / some”. English often drops “some”; French cannot: J'ai des amis = I have (some) friends.\n- After a negation, un / une / des become de (d'): J'ai un frère → Je n'ai pas de frère. But after être the article stays: Ce n'est pas un chat.\n- Un = something new or non-specific; le / la = something specific and known. Il y a un hôtel dans la rue… C'est l'hôtel Rex."
+        },
+        {
           "type": "phrases",
           "title": "Les grands nombres",
           "items": [
@@ -100,6 +112,12 @@
               "label": "1000 — mille"
             }
           ]
+        },
+        {
+          "type": "note",
+          "tone": "info",
+          "title": "Big numbers",
+          "text": "- Cent takes an s only in round hundreds: deux cents (200) but deux cent un (201).\n- Mille never takes an s: trois mille.\n- Years: 1986 = mille neuf cent quatre-vingt-six (not “dix-neuf cent…” as in English).\n- Million is a noun and needs de: un million d'euros, deux millions de personnes."
         },
         {
           "type": "exercise",
@@ -134,6 +152,12 @@
       "lede": "12 mois = 1 année. Attention aux lettres muettes.",
       "blocks": [
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Months and dates",
+          "text": "- Months are not capitalised: en janvier, le 3 mars.\n- Dates: le + number + month (no “th”): le 3 mars 1986. Only the first is ordinal: le 1er (premier) mai, all others use plain numbers: le deux mai.\n- Pronunciation traps: juillet sounds like zhwee-yé (the ll is a “y”, the t is silent); août sounds like oo; in septembre you do say the p (unlike in sept).\n- In a month: en mars or au mois de mars."
+        },
+        {
           "type": "phrases",
           "title": "Les mois — lettres silencieuses",
           "items": [
@@ -143,15 +167,16 @@
             {
               "fr": "juillet",
               "label": "juillet",
-              "en": "le « l » final est muet"
+              "en": "ll = « y » ; le t est muet"
             },
             {
-              "fr": "août"
+              "fr": "août",
+              "en": "se prononce « ou »"
             },
             {
               "fr": "septembre",
               "label": "septembre",
-              "en": "le « p » est muet"
+              "en": "on prononce le p"
             },
             {
               "fr": "décembre"
@@ -173,6 +198,12 @@
       "minutes": 3,
       "lede": "Les 4 saisons, et comment lire une année complète.",
       "blocks": [
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Seasons and years",
+          "text": "- en été, en automne, en hiver, but au printemps (only spring takes au).\n- In automne the m is silent: o-tonn.\n- Years are said as thousands + hundreds: 2026 = deux mille vingt-six; 1986 = mille neuf cent quatre-vingt-six."
+        },
         {
           "type": "phrases",
           "title": "Les saisons",
@@ -277,6 +308,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Meal words differ by country",
+          "text": "- In France: le petit-déjeuner (breakfast), le déjeuner (lunch), le dîner (dinner).\n- In Belgium, Switzerland and Québec the words shift: déjeuner = breakfast, dîner = lunch, souper = dinner. Ask if you are unsure.\n- The verbs match: déjeuner, dîner.\n- Une chambre simple = a single room; une chambre double = a room for two people."
+        },
+        {
           "type": "exercise",
           "title": "Associez le moment et le repas",
           "items": [
@@ -308,6 +345,12 @@
       "minutes": 7,
       "lede": "Le vocabulaire d'un site de réservation, et les questions pour réserver une chambre.",
       "blocks": [
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Booking politely",
+          "text": "- Use vous with hotel staff, and add s'il vous plaît / merci.\n- Je voudrais… (I would like…) is the polite way to ask: Je voudrais une chambre double. Je veux… is too blunt.\n- Combien de + noun has no article: combien de chambres, combien de personnes. Before a vowel de becomes d': combien d'enfants.\n- You can ask with intonation (Vous avez une chambre ?) or with est-ce que (see Leçon 10).\n- Gotcha: heure is feminine: Quelle est l'heure d'arrivée ?"
+        },
         {
           "type": "phrases",
           "title": "Écoutez et répétez",
@@ -364,6 +407,12 @@
       "minutes": 7,
       "lede": "Quatre sons à distinguer, plus la règle des lettres finales muettes et des liaisons.",
       "blocks": [
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Silent letters, liaison and vowels",
+          "text": "- Final consonants are usually silent (petit, grand, vous), except often c, r, f, l: avec, sur, neuf, mal. Think “CaReFuL”.\n- A liaison links a silent final consonant to a vowel: s and x sound like z (nous avons, deux enfants), d sounds like t (grand ami), n stays n (un ami).\n- No liaison after et, before an aspirated h (les héros), or usually after a singular noun (un restaurant italien).\n- in = nasal [ɛ̃] (indien, institut); -tion = [sjɔ̃] (information, institution); an / en = [ɑ̃] (enfant). Don't blend them.\n- ou = [u] (courriel); au / eau = [o] (auteur). Août is pronounced oo."
+        },
         {
           "type": "phrases",
           "title": "IN / AN — TION / SION",

@@ -83,6 +83,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "À côté de / loin de + article",
+          "text": "- De combines with le and les: de + le = du, de + les = des. La and l' don't change: de la, de l'. Examples: à côté du port · à côté de la gare · à côté de l'hôtel · à côté des Halles.\n- It is the same idea as à + le = au: to the → au, of / from the → du.\n- Ici is close to you, là is farther away. In everyday speech là is used for both, especially with c'est: Là, c'est ma rue.\n- Gotcha: près de (near) and loin de (far from) both use de: près du musée, loin de la mer."
+        },
+        {
           "type": "exercise",
           "title": "C'est ou il y a ?",
           "items": [
@@ -446,6 +452,12 @@
           ]
         },
         {
+          "type": "note",
+          "tone": "warning",
+          "title": "Countries: the gotchas",
+          "text": "- Countries ending in -e are usually feminine → en: en France, en Italie, en Inde. Exceptions (masculine, ending in -e): le Mexique, le Cambodge, le Mozambique, le Zimbabwe → au Mexique.\n- Masculine countries starting with a vowel also take en: en Iran, en Israël, en Uruguay.\n- Plural countries take aux: aux États-Unis, aux Pays-Bas, aux Philippines.\n- Cities have no article: à Paris, à Lyon. A few keep it: au Caire, au Havre.\n- Many islands use à: à Cuba, à Madagascar, à Malte, but en Corse, en Sicile.\n- Coming from: de / d' (feminine or vowel): Je viens de France, d'Espagne; du (masculine): du Japon; des (plural): des États-Unis."
+        },
+        {
           "type": "phrases",
           "title": "Écoutez",
           "items": [
@@ -639,6 +651,12 @@
               "icon": "⛽"
             }
           ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Transport: à or en?",
+          "text": "- à + something you walk on or ride astride: à pied, à vélo, à moto, à cheval.\n- en + a vehicle you sit inside: en bus, en voiture, en train, en métro, en bateau, en avion.\n- In casual speech you also hear en vélo and en moto, but à is the textbook form.\n- To use a vehicle: prendre le bus / le métro / le train (Je prends le métro).\n- Compass points: au nord, au sud, but à l'est, à l'ouest. Est is pronounced with its t (est /ɛst/, ouest /wɛst/), sud with its d."
         },
         {
           "type": "phrases",
