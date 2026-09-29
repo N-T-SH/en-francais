@@ -1,0 +1,309 @@
+{
+  "id": "france-francophonie",
+  "order": 3,
+  "number": 3,
+  "unit": 1,
+  "unitTitle": "Découvrez !",
+  "kicker": "Unité 1 · Leçon 3",
+  "title": "Parler de la France et de la francophonie",
+  "summary": "Les symboles de la France · les villes et les pays francophones",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "symboles",
+      "title": "Les symboles de la France",
+      "minutes": 6,
+      "lede": "Que connaissez-vous de la France ? Apprenez les mots pour nommer ses symboles.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quelques symboles",
+          "headers": [
+            "Domaine",
+            "Symboles"
+          ],
+          "rows": [
+            [
+              "Monuments et lieux",
+              "la tour Eiffel · Notre-Dame de Paris · le Mont-Saint-Michel"
+            ],
+            [
+              "Sport",
+              "le Tour de France (cyclisme) · Roland-Garros (tennis)"
+            ],
+            [
+              "Gastronomie",
+              "les fromages · les macarons · les madeleines"
+            ],
+            [
+              "Nature",
+              "la lavande de Provence"
+            ],
+            [
+              "Emblèmes et art",
+              "le drapeau bleu, blanc, rouge · le coq · le tableau « La Liberté guidant le peuple »"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            {
+              "fr": "la tour Eiffel"
+            },
+            {
+              "fr": "Notre-Dame de Paris"
+            },
+            {
+              "fr": "le Mont-Saint-Michel"
+            },
+            {
+              "fr": "le Tour de France"
+            },
+            {
+              "fr": "Roland-Garros"
+            },
+            {
+              "fr": "les fromages"
+            },
+            {
+              "fr": "les macarons"
+            },
+            {
+              "fr": "les madeleines"
+            },
+            {
+              "fr": "la lavande"
+            },
+            {
+              "fr": "le drapeau français"
+            },
+            {
+              "fr": "le coq"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "La tour ___ est à Paris.",
+              "answers": [
+                "Eiffel"
+              ]
+            },
+            {
+              "prompt": "Roland-Garros, c'est du ___.",
+              "answers": [
+                "tennis"
+              ],
+              "choices": [
+                "tennis",
+                "cyclisme"
+              ]
+            },
+            {
+              "prompt": "Le Tour de France, c'est du ___.",
+              "answers": [
+                "cyclisme"
+              ],
+              "choices": [
+                "tennis",
+                "cyclisme"
+              ]
+            },
+            {
+              "prompt": "Le drapeau français est bleu, blanc et ___.",
+              "answers": [
+                "rouge"
+              ]
+            },
+            {
+              "prompt": "Le Mont-Saint-Michel est un ___ célèbre de France.",
+              "answers": [
+                "monument"
+              ],
+              "choices": [
+                "monument",
+                "fromage"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Les symboles de votre pays",
+          "mode": "oral",
+          "prompt": "Choisissez trois symboles de votre pays et présentez-les à la classe.",
+          "model": "Mon pays, c'est l'Inde. Trois symboles : le Taj Mahal, le cricket et le thé."
+        }
+      ]
+    },
+    {
+      "id": "francophonie",
+      "title": "La francophonie",
+      "minutes": 8,
+      "lede": "Le français est parlé sur cinq continents. Associez des villes francophones à leurs pays.",
+      "blocks": [
+        {
+          "type": "note",
+          "title": "Cinq continents",
+          "text": "Le français est parlé sur les cinq continents : l'Afrique, l'Amérique, l'Asie, l'Europe et l'Océanie.",
+          "tone": "info"
+        },
+        {
+          "type": "phrases",
+          "title": "Les continents",
+          "items": [
+            {
+              "fr": "l'Afrique"
+            },
+            {
+              "fr": "l'Amérique"
+            },
+            {
+              "fr": "l'Asie"
+            },
+            {
+              "fr": "l'Europe"
+            },
+            {
+              "fr": "l'Océanie"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Villes et pays",
+          "headers": [
+            "Ville",
+            "Pays"
+          ],
+          "rows": [
+            [
+              "Paris",
+              "la France"
+            ],
+            [
+              "Bruxelles",
+              "la Belgique"
+            ],
+            [
+              "Lausanne",
+              "la Suisse"
+            ],
+            [
+              "Montréal",
+              "le Canada"
+            ],
+            [
+              "Tunis",
+              "la Tunisie"
+            ],
+            [
+              "Dakar",
+              "le Sénégal"
+            ],
+            [
+              "Bamako",
+              "le Mali"
+            ],
+            [
+              "Beyrouth",
+              "le Liban"
+            ],
+            [
+              "Hanoï",
+              "le Vietnam"
+            ]
+          ],
+          "note": "Rappel : on met toujours l'article devant un nom de pays."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez les villes et les pays",
+          "items": [
+            {
+              "fr": "Paris, la France"
+            },
+            {
+              "fr": "Bruxelles, la Belgique"
+            },
+            {
+              "fr": "Lausanne, la Suisse"
+            },
+            {
+              "fr": "Montréal, le Canada"
+            },
+            {
+              "fr": "Tunis, la Tunisie"
+            },
+            {
+              "fr": "Dakar, le Sénégal"
+            },
+            {
+              "fr": "Bamako, le Mali"
+            },
+            {
+              "fr": "Beyrouth, le Liban"
+            },
+            {
+              "fr": "Hanoï, le Vietnam"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Associez la ville et le pays",
+          "items": [
+            {
+              "prompt": "Dakar → ___",
+              "answers": [
+                "le Sénégal | Sénégal"
+              ]
+            },
+            {
+              "prompt": "Tunis → ___",
+              "answers": [
+                "la Tunisie | Tunisie"
+              ]
+            },
+            {
+              "prompt": "Montréal → ___",
+              "answers": [
+                "le Canada | Canada"
+              ]
+            },
+            {
+              "prompt": "Hanoï → ___",
+              "answers": [
+                "le Vietnam | Vietnam"
+              ]
+            },
+            {
+              "prompt": "Lausanne → ___",
+              "answers": [
+                "la Suisse | Suisse"
+              ]
+            },
+            {
+              "prompt": "Bamako → ___",
+              "answers": [
+                "le Mali | Mali"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Sur la carte",
+          "mode": "oral",
+          "prompt": "Sur une carte du monde, montrez trois pays où l'on parle français et dites leur nom.",
+          "model": "Ici, c'est la France. Là, c'est le Canada. Et ici, c'est le Sénégal."
+        }
+      ]
+    }
+  ]
+}

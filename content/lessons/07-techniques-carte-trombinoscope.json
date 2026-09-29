@@ -1,0 +1,256 @@
+{
+  "id": "techniques-carte-trombinoscope",
+  "order": 7,
+  "number": 7,
+  "unit": 2,
+  "unitTitle": "Entrez en contact !",
+  "kicker": "Unité 2 · Leçon 7",
+  "title": "Techniques pour…",
+  "summary": "Créer sa carte de visite · faire le trombinoscope de la classe",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "carte-de-visite",
+      "title": "Créer sa carte de visite",
+      "minutes": 10,
+      "lede": "Une carte de visite donne en quelques lignes les informations utiles pour vous contacter.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les parties d'une carte de visite",
+          "headers": [
+            "Partie et rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Entreprise : le nom, le logo et l'activité",
+              "Piano+ — cours de piano à domicile"
+            ],
+            [
+              "Prénom, nom, profession : dire qui vous êtes",
+              "Léa Martin, professeure de piano"
+            ],
+            [
+              "Adresse postale : où vous travaillez",
+              "12, rue des Lilas — 69003 Lyon"
+            ],
+            [
+              "Contact : téléphone et e-mail",
+              "06 39 98 42 17 · lea.martin@example.com"
+            ],
+            [
+              "Site et code QR : plus d'informations",
+              "www.pianoplus.example"
+            ],
+            [
+              "Réseaux sociaux : vos comptes",
+              "Facebook · LinkedIn"
+            ]
+          ],
+          "note": "Les coordonnées de cet exemple sont fictives."
+        },
+        {
+          "type": "phrases",
+          "title": "Le vocabulaire",
+          "items": [
+            {
+              "fr": "le nom"
+            },
+            {
+              "fr": "le prénom"
+            },
+            {
+              "fr": "la profession"
+            },
+            {
+              "fr": "l'adresse postale"
+            },
+            {
+              "fr": "le numéro de téléphone"
+            },
+            {
+              "fr": "l'adresse e-mail"
+            },
+            {
+              "fr": "le site Internet"
+            },
+            {
+              "fr": "le code QR"
+            },
+            {
+              "fr": "les réseaux sociaux"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Lire les informations à voix haute",
+          "items": [
+            {
+              "fr": "Mon numéro de téléphone est le zéro six, trente-neuf, quatre-vingt-dix-huit, quarante-deux, dix-sept.",
+              "label": "Mon numéro : 06 39 98 42 17"
+            },
+            {
+              "fr": "Je m'appelle Léa Martin. Je suis professeure de piano."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "De quelle information s'agit-il ?",
+          "items": [
+            {
+              "prompt": "« Professeure de piano » est la ___.",
+              "answers": [
+                "profession"
+              ],
+              "choices": [
+                "adresse",
+                "profession",
+                "téléphone",
+                "Internet"
+              ]
+            },
+            {
+              "prompt": "« 12, rue des Lilas » est une ___.",
+              "answers": [
+                "adresse"
+              ],
+              "choices": [
+                "adresse",
+                "profession",
+                "téléphone",
+                "Internet"
+              ]
+            },
+            {
+              "prompt": "« 06 39 98 42 17 » est un numéro de ___.",
+              "answers": [
+                "téléphone"
+              ],
+              "choices": [
+                "adresse",
+                "profession",
+                "téléphone",
+                "Internet"
+              ]
+            },
+            {
+              "prompt": "« www.pianoplus.example » est un site ___.",
+              "answers": [
+                "Internet"
+              ],
+              "choices": [
+                "adresse",
+                "profession",
+                "téléphone",
+                "Internet"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Créez votre carte de visite",
+          "mode": "written",
+          "prompt": "Écrivez votre prénom, votre nom, votre profession, une adresse, un numéro de téléphone et une adresse e-mail. Utilisez des informations fictives, puis échangez vos cartes en groupe.",
+          "model": "Léa Martin, professeure de piano. 12, rue des Lilas, 69003 Lyon. Téléphone : 06 39 98 42 17. E-mail : lea.martin@example.com."
+        }
+      ]
+    },
+    {
+      "id": "trombinoscope",
+      "title": "Faire le trombinoscope de la classe",
+      "minutes": 8,
+      "lede": "Un trombinoscope présente les personnes d'un groupe avec une photo et quelques informations.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La fiche d'une personne",
+          "headers": [
+            "Partie",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "La photo",
+              "une photo de vous avec un objet personnel"
+            ],
+            [
+              "Le drapeau",
+              "le drapeau de votre pays"
+            ],
+            [
+              "Le prénom",
+              "Sofia"
+            ],
+            [
+              "Les informations personnelles",
+              "italienne · un carnet"
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez des fiches",
+          "items": [
+            {
+              "fr": "Je m'appelle Sofia. Je suis italienne. Mon objet : un carnet."
+            },
+            {
+              "fr": "Je m'appelle Mei. Je suis chinoise. Mon objet : un stylo."
+            },
+            {
+              "fr": "Je m'appelle Tomas. Je suis polonais. Mon objet : une casquette."
+            },
+            {
+              "fr": "Je m'appelle Fatou. Je suis sénégalaise. Mon objet : un téléphone portable."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Accordez la nationalité",
+          "items": [
+            {
+              "prompt": "Sofia est ___.",
+              "answers": [
+                "italienne"
+              ],
+              "hint": "italien"
+            },
+            {
+              "prompt": "Mei est ___.",
+              "answers": [
+                "chinoise"
+              ],
+              "hint": "chinois"
+            },
+            {
+              "prompt": "Tomas est ___.",
+              "answers": [
+                "polonais"
+              ],
+              "hint": "polonais"
+            },
+            {
+              "prompt": "Fatou est ___.",
+              "answers": [
+                "sénégalaise"
+              ],
+              "hint": "sénégalais"
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "title": "Le trombinoscope de la classe",
+          "mode": "written",
+          "prompt": "Choisissez un objet personnel. Faites une photo de vous avec cet objet. Écrivez votre prénom, votre nationalité et le nom de votre objet. Affichez le trombinoscope de la classe.",
+          "model": "Je m'appelle Sofia. Je suis italienne. Mon objet : un carnet."
+        }
+      ]
+    }
+  ]
+}
