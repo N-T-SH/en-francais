@@ -64,6 +64,7 @@ has covered so far:
 | 2 · Entrez en contact ! | 4 Se présenter · 5 Échanger des informations personnelles · 6 Préciser des informations · 7 Techniques pour… |
 | 3 · Faites connaissance ! | 8 Parler de la famille · 9 Décrire une personne · 10 Échanger sur ses goûts · 11 Techniques pour… |
 | 4 · Organisez une sortie ! | 12 S'informer sur un lieu · 13 Indiquer un chemin (14 Proposer une sortie · 15 Techniques pour…: not added) |
+| Bonus (no unit) | 24 L'heure (from learner-shared infographics, not from the book) |
 | 5+ | Unit 5 (16–19) and unit 6 (20–23): not yet covered |
 
 Sections keep stable ids because progress is saved per `lessonId/sectionId`. If

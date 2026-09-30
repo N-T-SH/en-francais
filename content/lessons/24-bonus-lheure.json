@@ -1,0 +1,416 @@
+{
+  "id": "bonus-lheure",
+  "order": 24,
+  "number": 24,
+  "kicker": "Bonus",
+  "title": "L'heure",
+  "summary": "Quelle heure est-il ? · heures 12 h et 24 h · les minutes",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "heures",
+      "title": "Quelle heure est-il ? Les heures",
+      "minutes": 8,
+      "lede": "To tell the time, French uses Il est + number + heure(s). It works on two clocks: the everyday 12-hour one, and the 24-hour one used for timetables, trains, appointments and the news.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "12 heures et 24 heures",
+          "headers": [
+            "Le matin · 12 h",
+            "L'après-midi et le soir · 24 h"
+          ],
+          "rows": [
+            [
+              "1 h · une heure",
+              "13 h · treize heures"
+            ],
+            [
+              "2 h · deux heures",
+              "14 h · quatorze heures"
+            ],
+            [
+              "3 h · trois heures",
+              "15 h · quinze heures"
+            ],
+            [
+              "4 h · quatre heures",
+              "16 h · seize heures"
+            ],
+            [
+              "5 h · cinq heures",
+              "17 h · dix-sept heures"
+            ],
+            [
+              "6 h · six heures",
+              "18 h · dix-huit heures"
+            ],
+            [
+              "7 h · sept heures",
+              "19 h · dix-neuf heures"
+            ],
+            [
+              "8 h · huit heures",
+              "20 h · vingt heures"
+            ],
+            [
+              "9 h · neuf heures",
+              "21 h · vingt et une heures"
+            ],
+            [
+              "10 h · dix heures",
+              "22 h · vingt-deux heures"
+            ],
+            [
+              "11 h · onze heures",
+              "23 h · vingt-trois heures"
+            ],
+            [
+              "12 h · midi",
+              "douze heures · midi"
+            ],
+            [
+              "0 h · minuit",
+              "zéro heure · minuit"
+            ]
+          ],
+          "note": "After 12 h, add 12 to get the 24-hour form: 3 h de l'après-midi = quinze heures."
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Il est une heure (singular) but deux heures, trois heures… (plural). The verb is always Il est, never Ils sont.\n- Midi (12:00) and minuit (midnight) are not followed by heures: Il est midi. Il est minuit. In the 24-hour style minuit can also be zéro heure.\n- To say at a time, use à: Le cours commence à huit heures. Vers = around: vers midi.\n- In everyday speech we add the part of the day: huit heures du matin, deux heures de l'après-midi, neuf heures du soir. In the 24-hour style you don't need it: vingt et une heures.\n- Sound: the final consonant links to heures, so deux heures = deu-z-heures, trois heures = troi-z-heures, dix heures = di-z-heures, neuf heures = neu-v-heures. But huit heures is huit + heures with no liaison (the h in heure is silent, yet huit keeps its t: ui-t-heures).\n- Written time uses h: 8 h 30 or 8:30 (never a dot as in English 8.30 pm)."
+        },
+        {
+          "type": "phrases",
+          "title": "Les moments de la journée",
+          "items": [
+            {
+              "fr": "le matin",
+              "label": "le matin",
+              "en": "morning",
+              "icon": "🌄"
+            },
+            {
+              "fr": "l'après-midi",
+              "label": "l'après-midi (m./f.)",
+              "en": "afternoon",
+              "icon": "☀️"
+            },
+            {
+              "fr": "le soir",
+              "label": "le soir",
+              "en": "evening",
+              "icon": "🌆"
+            },
+            {
+              "fr": "la nuit",
+              "label": "la nuit",
+              "en": "night",
+              "icon": "🌙"
+            },
+            {
+              "fr": "midi",
+              "label": "midi · 12 h",
+              "en": "noon"
+            },
+            {
+              "fr": "minuit",
+              "label": "minuit · 0 h",
+              "en": "midnight"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Il est… (à écouter)",
+          "items": [
+            {
+              "fr": "Quelle heure est-il ?",
+              "en": "What time is it?"
+            },
+            {
+              "fr": "Il est une heure.",
+              "label": "1 h"
+            },
+            {
+              "fr": "Il est huit heures du matin.",
+              "label": "8 h"
+            },
+            {
+              "fr": "Il est midi.",
+              "label": "12 h"
+            },
+            {
+              "fr": "Il est quatorze heures.",
+              "label": "14 h · 2 h de l'après-midi"
+            },
+            {
+              "fr": "Il est vingt et une heures.",
+              "label": "21 h · 9 h du soir"
+            },
+            {
+              "fr": "Il est minuit.",
+              "label": "0 h"
+            },
+            {
+              "fr": "Le cours commence à dix-huit heures.",
+              "label": "à 18 h"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Traduisez l'heure",
+          "instructions": "Complétez avec l'heure en toutes lettres.",
+          "items": [
+            {
+              "prompt": "Il est seize heures. = Il est ___ heures de l'après-midi.",
+              "answers": [
+                "quatre"
+              ]
+            },
+            {
+              "prompt": "Il est vingt et une heures. = Il est ___ heures du soir.",
+              "answers": [
+                "neuf"
+              ]
+            },
+            {
+              "prompt": "Il est treize heures. = Il est ___ heure de l'après-midi.",
+              "answers": [
+                "une"
+              ]
+            },
+            {
+              "prompt": "Il est dix-neuf heures. = Il est ___ heures du soir.",
+              "answers": [
+                "sept"
+              ]
+            },
+            {
+              "prompt": "Il est huit heures du matin. Après-midi, à la même heure, il sera ___ heures.",
+              "answers": [
+                "vingt"
+              ],
+              "hint": "24 h"
+            },
+            {
+              "prompt": "12 h, en plein jour : Il est ___ .",
+              "answers": [
+                "midi"
+              ]
+            },
+            {
+              "prompt": "0 h : Il est ___ .",
+              "answers": [
+                "minuit"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre journée",
+          "prompt": "Dites à quelle heure vous vous levez, déjeunez et finissez votre journée. Utilisez l'heure de 12 h, puis de 24 h : « Je me lève à sept heures du matin. »",
+          "model": "Je me lève à sept heures du matin. Je déjeune à midi. Le soir, je dîne à vingt heures."
+        }
+      ]
+    },
+    {
+      "id": "minutes",
+      "title": "Les minutes",
+      "minutes": 9,
+      "lede": "Up to the half hour you add the minutes; after it you can go to the next hour and take minutes away with moins. The 24-hour style skips all these shortcuts and simply reads the numbers.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "12 h (parlé) · 24 h (officiel)",
+          "headers": [
+            "Heure",
+            "12 h · 24 h"
+          ],
+          "rows": [
+            [
+              "1:00 · pile",
+              "une heure (pile) · treize heures (pile)"
+            ],
+            [
+              "1:05",
+              "une heure cinq · treize heures cinq"
+            ],
+            [
+              "1:10",
+              "une heure dix · treize heures dix"
+            ],
+            [
+              "1:15",
+              "une heure et quart · treize heures quinze"
+            ],
+            [
+              "1:20",
+              "une heure vingt · treize heures vingt"
+            ],
+            [
+              "1:25",
+              "une heure vingt-cinq · treize heures vingt-cinq"
+            ],
+            [
+              "1:30",
+              "une heure et demie · treize heures trente"
+            ],
+            [
+              "1:35",
+              "deux heures moins vingt-cinq · treize heures trente-cinq"
+            ],
+            [
+              "1:40",
+              "deux heures moins vingt · treize heures quarante"
+            ],
+            [
+              "1:45",
+              "deux heures moins le quart · treize heures quarante-cinq"
+            ],
+            [
+              "1:50",
+              "deux heures moins dix · treize heures cinquante"
+            ],
+            [
+              "1:55",
+              "deux heures moins cinq · treize heures cinquante-cinq"
+            ]
+          ],
+          "note": "Pile = on the dot, exactly."
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- The minutes come straight after heures, with no word between: une heure cinq, une heure vingt-cinq. No « et » and no « minutes » needed.\n- Only three special words: et quart (15), et demie (30), moins le quart (45). Et is there for quart and demie, but not for the other numbers.\n- After the half hour, switch to the next hour and use moins: 1:40 is deux heures moins vingt (two o'clock minus twenty), not « une heure quarante » in speech.\n- Moins le quart has le; moins vingt-cinq, moins dix, moins cinq do not.\n- Demie agrees with heure (feminine): une heure et demie. But with midi and minuit (masculine) it is midi et demi, minuit et demi.\n- In 24-hour style (timetables, trains, doctor's appointments) there is no quart, demie or moins: quatorze heures trente, dix-sept heures quarante-cinq.\n- Compound numbers keep their hyphens: vingt-cinq, trente-cinq, quarante-cinq.\n- Sound: the -t in vingt is silent alone but pronounced in vingt-cinq (vint-sink); the -q in cinq is sounded (sink), and cinq heures links: sin-keur."
+        },
+        {
+          "type": "phrases",
+          "title": "Il est… (à écouter)",
+          "items": [
+            {
+              "fr": "Il est huit heures pile.",
+              "label": "8:00 pile"
+            },
+            {
+              "fr": "Il est huit heures cinq.",
+              "label": "8:05"
+            },
+            {
+              "fr": "Il est huit heures et quart.",
+              "label": "8:15"
+            },
+            {
+              "fr": "Il est huit heures vingt-cinq.",
+              "label": "8:25"
+            },
+            {
+              "fr": "Il est huit heures et demie.",
+              "label": "8:30"
+            },
+            {
+              "fr": "Il est neuf heures moins vingt-cinq.",
+              "label": "8:35"
+            },
+            {
+              "fr": "Il est neuf heures moins le quart.",
+              "label": "8:45"
+            },
+            {
+              "fr": "Il est neuf heures moins cinq.",
+              "label": "8:55"
+            },
+            {
+              "fr": "Il est midi et demi.",
+              "label": "12:30"
+            },
+            {
+              "fr": "Il est quatorze heures trente.",
+              "label": "14:30 (24 h)"
+            },
+            {
+              "fr": "Il est dix-sept heures quarante-cinq.",
+              "label": "17:45 (24 h)"
+            },
+            {
+              "fr": "Vous avez l'heure, s'il vous plaît ?",
+              "en": "Do you have the time, please?"
+            },
+            {
+              "fr": "Le train part à seize heures vingt.",
+              "label": "16:20"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Dites l'heure",
+          "instructions": "Complétez avec l'heure ou la formule qui manque.",
+          "items": [
+            {
+              "prompt": "8:15 · Il est huit heures ___ .",
+              "answers": [
+                "et quart"
+              ]
+            },
+            {
+              "prompt": "8:30 · Il est huit heures ___ .",
+              "answers": [
+                "et demie"
+              ]
+            },
+            {
+              "prompt": "8:45 · Il est neuf heures ___ le quart.",
+              "answers": [
+                "moins"
+              ]
+            },
+            {
+              "prompt": "8:50 · Il est neuf heures ___ dix.",
+              "answers": [
+                "moins"
+              ]
+            },
+            {
+              "prompt": "12:30 · Il est midi ___ .",
+              "answers": [
+                "et demi"
+              ]
+            },
+            {
+              "prompt": "1:20 · Il est une heure ___ .",
+              "answers": [
+                "vingt"
+              ]
+            },
+            {
+              "prompt": "14:30 · Il est quatorze heures ___ .",
+              "answers": [
+                "trente"
+              ]
+            },
+            {
+              "prompt": "17:45 · Il est dix-sept heures ___ .",
+              "answers": [
+                "quarante-cinq"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "L'horaire du train",
+          "prompt": "Écrivez les heures de départ et d'arrivée d'un train imaginaire, en toutes lettres, dans le style officiel (24 h) puis dans le style parlé (12 h).",
+          "model": "Le train part à quatorze heures trente, il arrive à seize heures quinze. En style parlé : il part à deux heures et demie et il arrive à quatre heures et quart."
+        }
+      ]
+    }
+  ]
+}
