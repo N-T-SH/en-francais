@@ -1,0 +1,345 @@
+{
+  "id": "techniques-pour-ville",
+  "order": 15,
+  "number": 15,
+  "unit": 4,
+  "unitTitle": "Organisez une sortie !",
+  "kicker": "Unité 4 · Leçon 15",
+  "title": "Techniques pour…",
+  "summary": "Faire une carte postale sonore · réaliser un itinéraire dans une ville",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "carte-sonore",
+      "title": "Faire une carte postale sonore",
+      "minutes": 8,
+      "lede": "A sound postcard (carte postale sonore) presents a place through its sounds. You listen and name what you hear, then you plan and record your own.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Comment faire une carte postale sonore",
+          "headers": [
+            "Étape",
+            "À faire"
+          ],
+          "rows": [
+            [
+              "1. Choisir",
+              "Choisissez quatre ou cinq lieux de votre ville."
+            ],
+            [
+              "2. Organiser",
+              "Décidez l'ordre des lieux et des sons : bruits, voix, musique."
+            ],
+            [
+              "3. Enregistrer",
+              "Enregistrez les sons de chaque lieu."
+            ],
+            [
+              "4. Nommer",
+              "Donnez un titre : le lieu et le moment."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Entendre = to hear (the sound reaches you). Écouter = to listen (you pay attention). Qu'est-ce que vous entendez ? What do you hear? Écoutez ! Listen!\n- Entendre is a regular -dre verb: j'entends, tu entends, il entend, nous entendons, vous entendez, ils entendent. The final d of the singular is silent, and the d is pronounced in nous entendons.\n- Sounds: un son (a sound or note), un bruit (a noise: les cloches, le métro), une voix (a voice), la musique.\n- À côté de + le becomes à côté du manège; with a vowel it is à côté de l'église, and plural à côté des cafés. The same happens after près de, loin de, en face de.\n- After a negative, un / une / des become de: J'entends des cloches. Je n'entends pas de musique."
+        },
+        {
+          "type": "phrases",
+          "title": "Les lieux et leurs sons",
+          "items": [
+            {
+              "fr": "les cloches",
+              "icon": "🔔"
+            },
+            {
+              "fr": "une église",
+              "icon": "⛪"
+            },
+            {
+              "fr": "un supermarché",
+              "icon": "🛒"
+            },
+            {
+              "fr": "un manège",
+              "icon": "🎠"
+            },
+            {
+              "fr": "un restaurant",
+              "icon": "🍽️"
+            },
+            {
+              "fr": "le métro",
+              "icon": "🚇"
+            },
+            {
+              "fr": "une école",
+              "icon": "🏫"
+            },
+            {
+              "fr": "la nature"
+            },
+            {
+              "fr": "la musique"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Décrire ce qu'on entend",
+          "items": [
+            {
+              "fr": "Qu'est-ce que vous entendez ?"
+            },
+            {
+              "fr": "J'entends des cloches d'église."
+            },
+            {
+              "fr": "Il y a des personnes au supermarché."
+            },
+            {
+              "fr": "Des enfants jouent à côté du manège."
+            },
+            {
+              "fr": "Des personnes dînent au restaurant."
+            },
+            {
+              "fr": "On entend le métro."
+            },
+            {
+              "fr": "D'abord, on entend les cloches. Ensuite, on arrive au marché."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Les sons de la ville",
+          "items": [
+            {
+              "prompt": "Qu'est-ce que vous ___ ?",
+              "answers": [
+                "entendez"
+              ],
+              "hint": "entendre"
+            },
+            {
+              "prompt": "J'___ des cloches.",
+              "answers": [
+                "entends"
+              ],
+              "hint": "entendre"
+            },
+            {
+              "prompt": "Les enfants sont à côté ___ manège.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Les cafés sont à côté ___ l'église.",
+              "answers": [
+                "de"
+              ],
+              "choices": [
+                "du",
+                "de",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Les personnes sont ___ le métro.",
+              "answers": [
+                "dans"
+              ],
+              "choices": [
+                "dans",
+                "sur",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Je n'entends pas ___ musique.",
+              "answers": [
+                "de"
+              ],
+              "choices": [
+                "de",
+                "des",
+                "la"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre carte postale sonore",
+          "prompt": "Présentez votre carte postale sonore : dites les lieux dans l'ordre et les sons qu'on entend.",
+          "model": "D'abord, on entend les cloches de l'église. Ensuite, on entend des enfants à côté du manège. Après, il y a le bruit du marché. On entend aussi la voix de la journaliste. À la fin, on entend le métro."
+        }
+      ]
+    },
+    {
+      "id": "itineraire",
+      "title": "Réaliser un itinéraire dans une ville",
+      "minutes": 9,
+      "lede": "An itinerary (un itinéraire) is a walk with a start, several stops and an end. Each stop is a short instruction using the imperative: Prenez… Continuez… Tournez…",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Exemple : une promenade au centre-ville",
+          "headers": [
+            "Point",
+            "Consigne"
+          ],
+          "rows": [
+            [
+              "A · Départ",
+              "Vous êtes devant la gare."
+            ],
+            [
+              "B",
+              "Prenez la rue de la République. Au bout de la rue, il y a une fontaine."
+            ],
+            [
+              "C",
+              "Continuez la promenade : vous arrivez au marché."
+            ],
+            [
+              "D",
+              "Tournez à gauche pour aller au musée."
+            ],
+            [
+              "E · Arrivée",
+              "Terminez la promenade dans un café sur la place."
+            ]
+          ],
+          "note": "To prepare your own: choose a start and an end (A to E), put the stops in order, write one instruction per stop, trace it on a map and give the walk a title."
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- The imperative of vous is the same as the present without the pronoun: vous prenez → Prenez ! vous continuez → Continuez ! vous tournez → Tournez !\n- Pour + infinitive = in order to: Tournez à droite pour aller au musée. (not “for going”)\n- Au bout de la rue = at the end of the street. À gauche / à droite = left / right. Tout droit = straight ahead.\n- Vous êtes place de la Gare: with a place name there is no article before place. Vous êtes devant la gare uses the article.\n- La rue du Chêne: du = de + le. La place de la Gare: de + la stays. La rue de l'Église: de + l'.\n- Il y a introduces what is in a place (Il y a une fontaine), while C'est describes it (C'est une belle fontaine)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez l'itinéraire",
+          "items": [
+            {
+              "fr": "Vous êtes devant la gare."
+            },
+            {
+              "fr": "Prenez la rue de la République."
+            },
+            {
+              "fr": "Au bout de la rue, il y a une fontaine."
+            },
+            {
+              "fr": "Continuez la promenade."
+            },
+            {
+              "fr": "Tournez à gauche pour aller au musée."
+            },
+            {
+              "fr": "Terminez la promenade dans un café."
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les lieux",
+          "items": [
+            {
+              "fr": "une gare",
+              "icon": "🚉"
+            },
+            {
+              "fr": "une fontaine",
+              "icon": "⛲"
+            },
+            {
+              "fr": "un musée",
+              "icon": "🏛️"
+            },
+            {
+              "fr": "un café",
+              "icon": "☕"
+            },
+            {
+              "fr": "un pont",
+              "icon": "🌉"
+            },
+            {
+              "fr": "un parc",
+              "icon": "🌳"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'itinéraire",
+          "items": [
+            {
+              "prompt": "Vous ___ devant la gare.",
+              "answers": [
+                "êtes"
+              ]
+            },
+            {
+              "prompt": "___ la rue de la République.",
+              "answers": [
+                "Prenez"
+              ]
+            },
+            {
+              "prompt": "___ la promenade.",
+              "answers": [
+                "Continuez"
+              ]
+            },
+            {
+              "prompt": "Tournez ___ gauche.",
+              "answers": [
+                "à"
+              ]
+            },
+            {
+              "prompt": "Tournez à droite ___ aller au musée.",
+              "answers": [
+                "pour"
+              ]
+            },
+            {
+              "prompt": "Au ___ de la rue, il y a une fontaine.",
+              "answers": [
+                "bout"
+              ]
+            },
+            {
+              "prompt": "Terminez la promenade ___ un café.",
+              "answers": [
+                "dans"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre itinéraire",
+          "prompt": "Écrivez un itinéraire de cinq points (A à E) dans votre ville ou dans une ville que vous aimez. Donnez un titre.",
+          "model": "Une promenade au centre-ville. A : Vous êtes devant la gare. B : Prenez la rue de la République. C : Continuez jusqu'au marché. D : Tournez à droite pour aller au musée. E : Terminez la promenade dans un café."
+        }
+      ]
+    }
+  ]
+}

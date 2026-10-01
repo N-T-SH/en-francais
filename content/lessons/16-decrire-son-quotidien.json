@@ -1,0 +1,776 @@
+{
+  "id": "decrire-son-quotidien",
+  "order": 16,
+  "number": 16,
+  "unit": 5,
+  "unitTitle": "Parlez de votre quotidien",
+  "kicker": "Unité 5 · Leçon 16",
+  "title": "Décrire son quotidien",
+  "summary": "Activités et moments · verbes pronominaux · dormir et finir · fréquence · faire du…",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "activites",
+      "title": "Les activités du quotidien",
+      "minutes": 8,
+      "lede": "To describe your daily routine, you need the verbs of the day, the words for its moments, and the names of the meals.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "De la journée au soir",
+          "items": [
+            {
+              "fr": "se lever",
+              "icon": "⏰"
+            },
+            {
+              "fr": "se laver",
+              "icon": "🧼"
+            },
+            {
+              "fr": "se doucher",
+              "icon": "🚿"
+            },
+            {
+              "fr": "s'habiller",
+              "icon": "👕"
+            },
+            {
+              "fr": "prendre le métro",
+              "icon": "🚇"
+            },
+            {
+              "fr": "travailler",
+              "icon": "💼"
+            },
+            {
+              "fr": "rentrer chez soi",
+              "icon": "🏠"
+            },
+            {
+              "fr": "se coucher",
+              "icon": "🛌"
+            },
+            {
+              "fr": "dormir",
+              "icon": "😴"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "À la maison",
+          "items": [
+            {
+              "fr": "faire les courses",
+              "icon": "🛒"
+            },
+            {
+              "fr": "faire la lessive",
+              "icon": "🧺"
+            },
+            {
+              "fr": "faire le ménage",
+              "icon": "🧹"
+            },
+            {
+              "fr": "faire la vaisselle",
+              "icon": "🍽️"
+            },
+            {
+              "fr": "ranger"
+            },
+            {
+              "fr": "faire la sieste",
+              "icon": "😴"
+            },
+            {
+              "fr": "se reposer"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les repas",
+          "items": [
+            {
+              "fr": "le petit déjeuner",
+              "icon": "🥐"
+            },
+            {
+              "fr": "le déjeuner",
+              "icon": "🍲"
+            },
+            {
+              "fr": "le dîner",
+              "icon": "🍽️"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les moments",
+          "headers": [
+            "Expression",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "le matin",
+              "in the morning (every morning)"
+            ],
+            [
+              "l'après-midi",
+              "in the afternoon"
+            ],
+            [
+              "le soir",
+              "in the evening"
+            ],
+            [
+              "la nuit",
+              "at night"
+            ],
+            [
+              "le midi",
+              "at lunchtime, from midday to 2 pm"
+            ],
+            [
+              "la journée",
+              "the day (as a duration)"
+            ],
+            [
+              "la semaine · du lundi au vendredi",
+              "the week · Monday to Friday"
+            ],
+            [
+              "le week-end",
+              "Saturday and Sunday"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Le + moment of the day means every time: Le matin, je me lève à sept heures (every morning). Ce matin or demain matin point to one day. Likewise le samedi = every Saturday, while samedi = this coming Saturday.\n- Un jour = a day on the calendar; une journée = the day as time that passes. Same for un matin / une matinée and un soir / une soirée.\n- Faire la vaisselle, faire le ménage, faire la lessive, faire les courses: faire plus the article is fixed (“do the dishes”, “do the shopping”).\n- Le petit déjeuner, le déjeuner, le dîner. In Belgium, Switzerland and Quebec, dîner means lunch and souper means dinner.\n- Du lundi au vendredi = from Monday to Friday. Le week-end is masculine and singular: le week-end est long."
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Je fais ___ vaisselle.",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les"
+              ]
+            },
+            {
+              "prompt": "Je fais ___ courses le samedi.",
+              "answers": [
+                "les"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les"
+              ]
+            },
+            {
+              "prompt": "Elle fait ___ ménage le dimanche.",
+              "answers": [
+                "le"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les"
+              ]
+            },
+            {
+              "prompt": "Nous faisons ___ lessive.",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les"
+              ]
+            },
+            {
+              "prompt": "Je travaille du lundi ___ vendredi.",
+              "answers": [
+                "au"
+              ]
+            },
+            {
+              "prompt": "Le week-end, c'est le samedi ___ le dimanche.",
+              "answers": [
+                "et"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verbes-pronominaux",
+      "title": "Les verbes pronominaux",
+      "minutes": 8,
+      "lede": "Many daily verbs are pronominal: the subject does the action to itself, so a second pronoun (me, te, se…) comes before the verb.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Se coucher",
+          "headers": [
+            "Sujet",
+            "Au présent"
+          ],
+          "rows": [
+            [
+              "je",
+              "je me couche"
+            ],
+            [
+              "tu",
+              "tu te couches"
+            ],
+            [
+              "il / elle",
+              "il / elle se couche"
+            ],
+            [
+              "nous",
+              "nous nous couchons"
+            ],
+            [
+              "vous",
+              "vous vous couchez"
+            ],
+            [
+              "ils / elles",
+              "ils / elles se couchent"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- The pronoun comes before the verb, and the infinitive carries se: se coucher, se lever, se laver, s'habiller, se doucher, se reposer. English usually has no such pronoun (I get up, I wash).\n- Me, te, se become m', t', s' before a vowel or a silent h: je m'habille, il s'habille. Nous and vous never change.\n- Negation goes around both words: Je ne me couche jamais tard. (not “je me ne couche”).\n- Se lever changes its accent: je me lève, tu te lèves, il se lève, ils se lèvent, but nous nous levons, vous vous levez (the è is used when the ending is silent).\n- Same verb without the pronoun: Je lave la voiture (I wash the car) but Je me lave (I wash myself)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je me lève à sept heures."
+            },
+            {
+              "fr": "Tu te laves et tu t'habilles ?"
+            },
+            {
+              "fr": "Il se douche le matin."
+            },
+            {
+              "fr": "Nous nous reposons le dimanche."
+            },
+            {
+              "fr": "Vous vous couchez tard ?"
+            },
+            {
+              "fr": "Elles se couchent à vingt-trois heures."
+            },
+            {
+              "fr": "Je m'habille et je prends le métro."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Choisissez le pronom",
+          "items": [
+            {
+              "prompt": "Je ___ lève à sept heures.",
+              "answers": [
+                "me"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Tu ___ laves le matin ?",
+              "answers": [
+                "te"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Il ___ douche le soir.",
+              "answers": [
+                "se"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Nous ___ reposons le dimanche.",
+              "answers": [
+                "nous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Vous ___ couchez tard ?",
+              "answers": [
+                "vous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Elles ___ couchent à onze heures.",
+              "answers": [
+                "se"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez",
+          "items": [
+            {
+              "prompt": "Le soir, je me ___ à onze heures.",
+              "answers": [
+                "couche"
+              ],
+              "hint": "se coucher"
+            },
+            {
+              "prompt": "Ils se ___ à sept heures.",
+              "answers": [
+                "lèvent"
+              ],
+              "hint": "se lever"
+            },
+            {
+              "prompt": "Nous nous ___ .",
+              "answers": [
+                "douchons"
+              ],
+              "hint": "se doucher"
+            },
+            {
+              "prompt": "Tu te ___ ?",
+              "answers": [
+                "laves"
+              ],
+              "hint": "se laver"
+            },
+            {
+              "prompt": "Elle s'___ vite.",
+              "answers": [
+                "habille"
+              ],
+              "hint": "s'habiller"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dormir-finir",
+      "title": "Dormir et finir",
+      "minutes": 6,
+      "lede": "Two new groups of -ir verbs. Dormir loses a consonant in the singular, finir adds -iss- in the plural.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Dormir et finir",
+          "headers": [
+            "Sujet",
+            "dormir",
+            "finir"
+          ],
+          "rows": [
+            [
+              "je",
+              "dors",
+              "finis"
+            ],
+            [
+              "tu",
+              "dors",
+              "finis"
+            ],
+            [
+              "il / elle",
+              "dort",
+              "finit"
+            ],
+            [
+              "nous",
+              "dormons",
+              "finissons"
+            ],
+            [
+              "vous",
+              "dormez",
+              "finissez"
+            ],
+            [
+              "ils / elles",
+              "dorment",
+              "finissent"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Dormir type: the singular drops the m: je dors, tu dors, il dort. Same pattern for sortir (je sors, nous sortons) and partir (je pars, nous partons). Not “je dorme”.\n- Finir type: -is, -is, -it, then -issons, -issez, -issent. Other verbs like it: choisir, réussir.\n- Spoken, il dort and ils dorment differ only by the m (dɔr / dɔrm), while il finit and ils finissent are easy to hear: fini / finis. Remember the -ent ending is silent.\n- Dormir and finir are verbs, not reflexive: je dors, not “je me dors”."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je dors huit heures par nuit."
+            },
+            {
+              "fr": "Tu dors bien ?"
+            },
+            {
+              "fr": "Il dort jusqu'à midi."
+            },
+            {
+              "fr": "Nous dormons le dimanche matin."
+            },
+            {
+              "fr": "Je finis mon travail à dix-huit heures."
+            },
+            {
+              "fr": "Elle finit à six heures."
+            },
+            {
+              "fr": "Ils finissent tôt le vendredi."
+            },
+            {
+              "fr": "Vous finissez à quelle heure ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez",
+          "items": [
+            {
+              "prompt": "Je ___ huit heures par nuit.",
+              "answers": [
+                "dors"
+              ],
+              "hint": "dormir"
+            },
+            {
+              "prompt": "Tu ___ bien ?",
+              "answers": [
+                "dors"
+              ],
+              "hint": "dormir"
+            },
+            {
+              "prompt": "Nous ___ le dimanche matin.",
+              "answers": [
+                "dormons"
+              ],
+              "hint": "dormir"
+            },
+            {
+              "prompt": "Ils ___ dans la chambre.",
+              "answers": [
+                "dorment"
+              ],
+              "hint": "dormir"
+            },
+            {
+              "prompt": "Je ___ mon travail à dix-huit heures.",
+              "answers": [
+                "finis"
+              ],
+              "hint": "finir"
+            },
+            {
+              "prompt": "Elle ___ à six heures.",
+              "answers": [
+                "finit"
+              ],
+              "hint": "finir"
+            },
+            {
+              "prompt": "Nous ___ à midi.",
+              "answers": [
+                "finissons"
+              ],
+              "hint": "finir"
+            },
+            {
+              "prompt": "Vous ___ à quelle heure ?",
+              "answers": [
+                "finissez"
+              ],
+              "hint": "finir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frequence-chronologie",
+      "title": "Fréquence, chronologie et faire du…",
+      "minutes": 9,
+      "lede": "Say how often you do things (jamais, parfois, souvent, toujours), in which order (d'abord, après) and what activity you do (faire du sport).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La fréquence",
+          "headers": [
+            "Mot",
+            "Sens · exemple"
+          ],
+          "rows": [
+            [
+              "jamais (−)",
+              "never · Je ne sors jamais la semaine."
+            ],
+            [
+              "parfois (+)",
+              "sometimes · Je vais parfois chez des amis."
+            ],
+            [
+              "souvent (++)",
+              "often · Je fais souvent une sieste."
+            ],
+            [
+              "toujours (+++)",
+              "always · Je me lève toujours à sept heures."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Faire du, de la, des",
+          "headers": [
+            "Nom",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "masculin",
+              "Je fais du sport."
+            ],
+            [
+              "féminin",
+              "Je fais de la danse."
+            ],
+            [
+              "voyelle",
+              "Je fais de l'escalade."
+            ],
+            [
+              "pluriel",
+              "Je fais des abdos."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Ne … jamais is a negation by itself, so there is no pas: Je ne sors jamais. Before a vowel, ne becomes n': Je n'écoute jamais la radio. Alone, as an answer, it is simply Jamais !\n- Parfois, souvent, toujours are not negative: no ne. They go after the conjugated verb: Je me lève toujours à sept heures. (English puts them before: I always get up.) For emphasis they can start the sentence: Parfois, je dors l'après-midi.\n- Faire + du / de la / de l' / des names a regular activity: faire du sport, de la danse, de l'escalade, des abdos. Du = de + le.\n- After a negation these become de or d': Je ne fais pas de sport.\n- Order: d'abord (first), et (and), ensuite / après / puis (then). Je me lave et je m'habille. Après, je rentre chez moi.\n- Jusqu'à = until (Je travaille jusqu'à sept heures). De … à … = from … to … (Je dors de minuit à sept heures). Quand + clause = when: Quand nous nous couchons, elle commence son travail."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je me lève toujours à sept heures."
+            },
+            {
+              "fr": "Je ne sors jamais la semaine."
+            },
+            {
+              "fr": "Parfois, je vais chez des amis."
+            },
+            {
+              "fr": "Je fais souvent une sieste."
+            },
+            {
+              "fr": "Je fais du sport le mardi soir."
+            },
+            {
+              "fr": "Je fais de la danse."
+            },
+            {
+              "fr": "D'abord, je me lave. Ensuite, je m'habille. Après, je prends le métro."
+            },
+            {
+              "fr": "Je travaille jusqu'à dix-huit heures."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Faire du, de la, de l' ou des ?",
+          "items": [
+            {
+              "prompt": "Je fais ___ sport.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Elle fait ___ danse.",
+              "answers": [
+                "de la"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Ils font ___ abdos.",
+              "answers": [
+                "des"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Nous faisons ___ escalade.",
+              "answers": [
+                "de l'"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Je fais ___ jogging.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle fréquence ?",
+          "items": [
+            {
+              "prompt": "(zéro fois) Je ne sors ___ le lundi.",
+              "answers": [
+                "jamais"
+              ]
+            },
+            {
+              "prompt": "(tout le temps) Je me lève ___ à sept heures.",
+              "answers": [
+                "toujours"
+              ]
+            },
+            {
+              "prompt": "(de temps en temps) Je vais ___ chez des amis.",
+              "answers": [
+                "parfois"
+              ]
+            },
+            {
+              "prompt": "(assez souvent) Je fais ___ la sieste.",
+              "answers": [
+                "souvent"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Mon quotidien",
+          "prompt": "Écrivez votre témoignage : vos activités le matin, le soir et le week-end. Utilisez d'abord, après, jamais, parfois, souvent, toujours.",
+          "model": "Le matin, je me lève toujours à sept heures. D'abord, je me lave et je m'habille. Après, je prends le métro. Je travaille de neuf heures à dix-huit heures. Le soir, je dîne et je regarde un film. Je ne sors jamais la semaine. Le samedi, je fais souvent les courses."
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Une journée idéale",
+          "prompt": "Racontez une journée idéale : situez vos activités dans le temps (le matin, à midi, le soir…).",
+          "model": "Le matin, je ne me lève pas tôt : je dors jusqu'à dix heures. L'après-midi, je fais une balade. Le soir, je dîne avec mes amis et je me couche tard."
+        }
+      ]
+    }
+  ]
+}

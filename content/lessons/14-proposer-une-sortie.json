@@ -1,0 +1,672 @@
+{
+  "id": "proposer-une-sortie",
+  "order": 14,
+  "number": 14,
+  "unit": 4,
+  "unitTitle": "Organisez une sortie !",
+  "kicker": "Unité 4 · Leçon 14",
+  "title": "Proposer une sortie",
+  "summary": "Proposer, accepter, refuser · pronoms toniques · pouvoir, vouloir, faire, venir · loisirs et l'heure",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "proposer-sortie",
+      "title": "Proposer, accepter, refuser",
+      "minutes": 8,
+      "lede": "To invite someone, you propose; the other person accepts or refuses; then you fix the meeting point. This is the pattern of a text message or a quick phone call between friends.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Inviter et répondre",
+          "headers": [
+            "Fonction",
+            "Phrases utiles"
+          ],
+          "rows": [
+            [
+              "Proposer",
+              "Tu viens avec nous au cinéma ? · On va au restaurant ?"
+            ],
+            [
+              "Accepter",
+              "D'accord ! · Oui, avec plaisir ! · Super !"
+            ],
+            [
+              "Refuser",
+              "Désolé(e), je ne peux pas. · Demain soir, je ne suis pas libre."
+            ],
+            [
+              "Poser une condition",
+              "Si tu veux, on fait un brunch."
+            ],
+            [
+              "Demander le moment",
+              "Quand ? · À quelle heure ?"
+            ],
+            [
+              "Demander le lieu",
+              "C'est où ?"
+            ],
+            [
+              "Fixer le rendez-vous",
+              "Rendez-vous devant le cinéma à vingt heures."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- To invite, French simply asks Tu viens avec nous ? (literally “are you coming with us?”). There is no need for “do you want to”.\n- On is the everyday word for “we”: On va au cinéma ? = Shall we go to the cinema? The verb stays in the il/elle form (on va, on fait).\n- Je ne peux pas = I can't (a polite refusal). Je ne veux pas = I don't want to, which sounds blunt. Add a reason: Je travaille. Je suis occupé(e).\n- Quand ? asks about the moment (Samedi soir). À quelle heure ? asks for the clock time (À vingt heures). Où ? asks about the place.\n- Rendez-vous means both “appointment” and “meeting point”: Rendez-vous devant le restaurant. In texts, Bises is a friendly sign-off (like “xx”), À samedi ! means see you Saturday.\n- Si tu veux has no elision (si tu), but si + il becomes s'il: S'il fait beau, on sort."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez la conversation",
+          "items": [
+            {
+              "fr": "Coucou Béatrice ! Je vais au cinéma avec Karim."
+            },
+            {
+              "fr": "Quand ?"
+            },
+            {
+              "fr": "Samedi soir. Tu viens avec nous ?"
+            },
+            {
+              "fr": "D'accord !"
+            },
+            {
+              "fr": "Désolée, demain soir, je ne peux pas."
+            },
+            {
+              "fr": "C'est où ?"
+            },
+            {
+              "fr": "Rendez-vous devant le cinéma à vingt heures."
+            },
+            {
+              "fr": "Si tu veux, on fait un brunch."
+            },
+            {
+              "fr": "Bises !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la conversation",
+          "items": [
+            {
+              "prompt": "– Tu ___ avec nous au cinéma ? – Quand ?",
+              "answers": [
+                "viens"
+              ]
+            },
+            {
+              "prompt": "– Samedi soir. – D'___ !",
+              "answers": [
+                "accord"
+              ]
+            },
+            {
+              "prompt": "– C'est ___ ? – Devant le cinéma.",
+              "answers": [
+                "où"
+              ]
+            },
+            {
+              "prompt": "– À quelle ___ ? – À vingt heures.",
+              "answers": [
+                "heure"
+              ]
+            },
+            {
+              "prompt": "Demain soir, je ne ___ pas.",
+              "answers": [
+                "peux"
+              ]
+            },
+            {
+              "prompt": "___ tu veux, on fait un brunch.",
+              "answers": [
+                "si | Si"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Invitez un(e) camarade",
+          "prompt": "Proposez une sortie à un(e) camarade : dites quoi, quand, où et à quelle heure. Il (elle) accepte ou refuse.",
+          "model": "– Tu viens au cinéma avec nous samedi soir ? – Oui, avec plaisir ! C'est où ? – Rendez-vous devant le cinéma à vingt heures. – D'accord, à samedi !"
+        }
+      ]
+    },
+    {
+      "id": "pronoms-toniques",
+      "title": "Les pronoms toniques",
+      "minutes": 6,
+      "lede": "Stressed pronouns (pronoms toniques) are the “strong” forms: moi, toi, lui… They add emphasis or stand after a preposition, where je, tu, il cannot go.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Du sujet au pronom tonique",
+          "headers": [
+            "Sujet",
+            "Pronom tonique"
+          ],
+          "rows": [
+            [
+              "je",
+              "moi"
+            ],
+            [
+              "tu",
+              "toi"
+            ],
+            [
+              "il",
+              "lui"
+            ],
+            [
+              "elle",
+              "elle"
+            ],
+            [
+              "nous",
+              "nous"
+            ],
+            [
+              "vous",
+              "vous"
+            ],
+            [
+              "ils",
+              "eux"
+            ],
+            [
+              "elles",
+              "elles"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Emphasis: Moi, je fais du jogging le matin. The strong pronoun comes first, then the normal subject pronoun is still needed.\n- After a preposition: avec moi, chez toi, pour lui, sans eux, à côté de nous. Never “avec je”.\n- As a short answer: Qui veut un café ? – Moi ! Also Moi aussi (me too) and Moi non plus (me neither).\n- After c'est: C'est moi. C'est lui. (not “c'est je”).\n- Only lui and eux are new. Elle, elles, nous, vous are identical to the subject pronouns. Eux is for men or a mixed group, elles only for an all-female group.\n- With two people, add the pronoun nous: Toi et moi, nous allons au cinéma."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Moi, je fais mon jogging le matin."
+            },
+            {
+              "fr": "Et toi, tu viens avec nous ?"
+            },
+            {
+              "fr": "Tu viens avec moi ?"
+            },
+            {
+              "fr": "Lui, il aime le théâtre. Elle, elle préfère le cinéma."
+            },
+            {
+              "fr": "Eux, ils sortent le samedi soir."
+            },
+            {
+              "fr": "Qui est là ? C'est moi !"
+            },
+            {
+              "fr": "Moi aussi, je veux venir."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Choisissez le pronom tonique",
+          "items": [
+            {
+              "prompt": "Nathalie parle avec Marc. Elle parle avec ___ .",
+              "answers": [
+                "lui"
+              ],
+              "choices": [
+                "moi",
+                "toi",
+                "lui",
+                "elle",
+                "eux"
+              ]
+            },
+            {
+              "prompt": "Je sors avec Marc et Léo. Je sors avec ___ .",
+              "answers": [
+                "eux"
+              ],
+              "choices": [
+                "lui",
+                "eux",
+                "elles",
+                "nous"
+              ]
+            },
+            {
+              "prompt": "– Qui est là ? – C'est ___ , Camille !",
+              "answers": [
+                "moi"
+              ],
+              "choices": [
+                "moi",
+                "toi",
+                "je"
+              ]
+            },
+            {
+              "prompt": "Anne habite avec ses parents. Elle habite chez ___ .",
+              "answers": [
+                "eux"
+              ],
+              "choices": [
+                "lui",
+                "eux",
+                "elle"
+              ]
+            },
+            {
+              "prompt": "Je suis étudiant. Et ___ , tu travailles ?",
+              "answers": [
+                "toi"
+              ],
+              "choices": [
+                "moi",
+                "toi",
+                "tu"
+              ]
+            },
+            {
+              "prompt": "Tu viens chez ___ ? (chez Paul et moi)",
+              "answers": [
+                "nous"
+              ],
+              "choices": [
+                "nous",
+                "vous",
+                "eux"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verbes-irreguliers",
+      "title": "Pouvoir, vouloir, faire, venir",
+      "minutes": 8,
+      "lede": "Four very useful irregular verbs for outings. Learn them as a block: three of them look odd in the singular and plural.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Pouvoir et vouloir",
+          "headers": [
+            "Sujet",
+            "pouvoir",
+            "vouloir"
+          ],
+          "rows": [
+            [
+              "je",
+              "peux",
+              "veux"
+            ],
+            [
+              "tu",
+              "peux",
+              "veux"
+            ],
+            [
+              "il / elle",
+              "peut",
+              "veut"
+            ],
+            [
+              "nous",
+              "pouvons",
+              "voulons"
+            ],
+            [
+              "vous",
+              "pouvez",
+              "voulez"
+            ],
+            [
+              "ils / elles",
+              "peuvent",
+              "veulent"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Faire et venir",
+          "headers": [
+            "Sujet",
+            "faire",
+            "venir"
+          ],
+          "rows": [
+            [
+              "je",
+              "fais",
+              "viens"
+            ],
+            [
+              "tu",
+              "fais",
+              "viens"
+            ],
+            [
+              "il / elle",
+              "fait",
+              "vient"
+            ],
+            [
+              "nous",
+              "faisons",
+              "venons"
+            ],
+            [
+              "vous",
+              "faites",
+              "venez"
+            ],
+            [
+              "ils / elles",
+              "font",
+              "viennent"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Je peux, tu peux, je veux, tu veux end in -x, not -s as in most verbs.\n- The stem changes: peux / pouvons / peuvent and veux / voulons / veulent. The nous and vous forms look like the infinitive; the others change to eu.\n- Pouvoir and vouloir take a bare infinitive: Je peux venir. Je veux sortir. No “to” or de.\n- Je veux is direct. For a polite wish or order, use je voudrais (I would like).\n- Faire is irregular in two forms: vous faites (not “faisez”) and ils font. Nous faisons is pronounced fe-zon: the ai sounds like the e in le, not like “ay”.\n- Venir: viens / vient (nasal vowel) but ils viennent (the n is heard: vyen). The -ent ending is silent, which is why peuvent, veulent, viennent end on a consonant sound.\n- Venir de + place = to come from: Elle vient de Marseille. Venir à + place = to come to: Je viens au cinéma."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je peux venir samedi."
+            },
+            {
+              "fr": "Tu veux sortir avec nous ?"
+            },
+            {
+              "fr": "Qu'est-ce que vous faites ce soir ?"
+            },
+            {
+              "fr": "Nous faisons une balade."
+            },
+            {
+              "fr": "Ils viennent au cinéma."
+            },
+            {
+              "fr": "Elle vient de Marseille."
+            },
+            {
+              "fr": "Ils veulent un brunch."
+            },
+            {
+              "fr": "Vous pouvez venir à vingt heures ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez",
+          "items": [
+            {
+              "prompt": "Je ___ venir samedi.",
+              "answers": [
+                "peux"
+              ],
+              "hint": "pouvoir"
+            },
+            {
+              "prompt": "Tu ___ un café ?",
+              "answers": [
+                "veux"
+              ],
+              "hint": "vouloir"
+            },
+            {
+              "prompt": "Nous ___ une balade.",
+              "answers": [
+                "faisons"
+              ],
+              "hint": "faire"
+            },
+            {
+              "prompt": "Ils ___ au cinéma.",
+              "answers": [
+                "viennent"
+              ],
+              "hint": "venir"
+            },
+            {
+              "prompt": "Vous ___ du sport ?",
+              "answers": [
+                "faites"
+              ],
+              "hint": "faire"
+            },
+            {
+              "prompt": "Elle ne ___ pas venir.",
+              "answers": [
+                "peut"
+              ],
+              "hint": "pouvoir"
+            },
+            {
+              "prompt": "Nous ___ avec vous.",
+              "answers": [
+                "venons"
+              ],
+              "hint": "venir"
+            },
+            {
+              "prompt": "Elles ___ sortir.",
+              "answers": [
+                "veulent"
+              ],
+              "hint": "vouloir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loisirs-heure",
+      "title": "Les loisirs, les sorties et l'heure",
+      "minutes": 8,
+      "lede": "Vocabulary for planning an outing, and a first look at two ways of giving the time: the formal 24-hour way and the informal everyday way.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'art et les spectacles",
+          "items": [
+            {
+              "fr": "la danse",
+              "icon": "💃"
+            },
+            {
+              "fr": "la peinture",
+              "icon": "🎨"
+            },
+            {
+              "fr": "la photo",
+              "icon": "📷"
+            },
+            {
+              "fr": "la sculpture"
+            },
+            {
+              "fr": "un atelier"
+            },
+            {
+              "fr": "une exposition",
+              "icon": "🖼️"
+            },
+            {
+              "fr": "un film",
+              "icon": "🎬"
+            },
+            {
+              "fr": "un spectacle",
+              "icon": "🎭"
+            },
+            {
+              "fr": "une animation"
+            },
+            {
+              "fr": "la réalité virtuelle",
+              "icon": "🥽"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les sorties",
+          "items": [
+            {
+              "fr": "boire un verre",
+              "icon": "🍷"
+            },
+            {
+              "fr": "un brunch",
+              "icon": "🥞"
+            },
+            {
+              "fr": "dîner",
+              "icon": "🍽️"
+            },
+            {
+              "fr": "une terrasse"
+            },
+            {
+              "fr": "un bar",
+              "icon": "🍸"
+            },
+            {
+              "fr": "faire une balade",
+              "icon": "🚶"
+            },
+            {
+              "fr": "une promenade",
+              "icon": "🚶"
+            },
+            {
+              "fr": "sortir"
+            },
+            {
+              "fr": "une sortie gratuite",
+              "en": "free: zéro euro"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "L'heure : formelle et informelle",
+          "headers": [
+            "Heure",
+            "Formelle · informelle"
+          ],
+          "rows": [
+            [
+              "12 h 15",
+              "douze heures quinze · midi et quart"
+            ],
+            [
+              "12 h 30",
+              "douze heures trente · midi et demi"
+            ],
+            [
+              "12 h 45",
+              "douze heures quarante-cinq · une heure moins le quart"
+            ],
+            [
+              "13 h",
+              "treize heures · une heure"
+            ]
+          ],
+          "note": "00 h 00 = minuit · 12 h 00 = midi. More about telling the time in the bonus lesson L'heure."
+        },
+        {
+          "type": "note",
+          "tone": "info",
+          "title": "Time words and gotchas",
+          "text": "- Formal time (timetables, announcements, appointments) uses 0 to 23 hours: Il est quatorze heures trente. Informal speech uses 12 hours with quart, demi and moins: Il est deux heures et demie.\n- Midi and minuit are masculine, so it is midi et demi, minuit et demi (une heure et demie for any other hour).\n- Le matin, l'après-midi, le soir without a preposition describe a habit: Le matin, je fais mon jogging.\n- À + hour = at: Je termine à vingt heures. Entre … et … = between: Le brunch, c'est entre onze heures et quinze heures.\n- Quand ? is the question word for the moment (When?). Quand + clause is a different use you will meet later: Quand je rentre, je dîne."
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Je termine le travail ___ vingt heures.",
+              "answers": [
+                "à"
+              ]
+            },
+            {
+              "prompt": "Le brunch, c'est ___ onze heures et quinze heures.",
+              "answers": [
+                "entre"
+              ]
+            },
+            {
+              "prompt": "Il est quatorze heures trente. En langage courant : Il est deux heures et ___ .",
+              "answers": [
+                "demie"
+              ]
+            },
+            {
+              "prompt": "12 h 00 : Il est ___ .",
+              "answers": [
+                "midi"
+              ]
+            },
+            {
+              "prompt": "13 h 00 : En langage courant, il est ___ heure.",
+              "answers": [
+                "une"
+              ]
+            },
+            {
+              "prompt": "Le dimanche, je fais une ___ au parc.",
+              "answers": [
+                "balade | promenade"
+              ]
+            },
+            {
+              "prompt": "Une sortie ___ : zéro euro !",
+              "answers": [
+                "gratuite"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Les sorties de votre ville",
+          "prompt": "Présentez trois activités culturelles de votre ville : où, quand et à quelle heure.",
+          "model": "Au musée, il y a une exposition de photos le samedi à quinze heures. Le vendredi soir, il y a un spectacle de danse au théâtre à vingt heures. Le dimanche matin, il y a un atelier de peinture au parc."
+        }
+      ]
+    }
+  ]
+}

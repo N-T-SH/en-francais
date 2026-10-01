@@ -63,9 +63,10 @@ has covered so far:
 | 1 · Découvrez ! | 1 Saluer · 2 Épeler et compter · 3 Parler de la France et de la francophonie |
 | 2 · Entrez en contact ! | 4 Se présenter · 5 Échanger des informations personnelles · 6 Préciser des informations · 7 Techniques pour… |
 | 3 · Faites connaissance ! | 8 Parler de la famille · 9 Décrire une personne · 10 Échanger sur ses goûts · 11 Techniques pour… |
-| 4 · Organisez une sortie ! | 12 S'informer sur un lieu · 13 Indiquer un chemin (14 Proposer une sortie · 15 Techniques pour…: not added) |
+| 4 · Organisez une sortie ! | 12 S'informer sur un lieu · 13 Indiquer un chemin · 14 Proposer une sortie · 15 Techniques pour… |
+| 5 · Parlez de votre quotidien | 16 Décrire son quotidien |
 | Bonus (no unit) | 24 L'heure (from learner-shared infographics, not from the book) |
-| 5+ | Unit 5 (16–19) and unit 6 (20–23): not yet covered |
+| 5+ | Leçons 17–19 and unit 6 (20–23): not yet covered |
 
 Sections keep stable ids because progress is saved per `lessonId/sectionId`. If
 a section ever moves to another lesson, add it to `SECTION_MOVES` in
