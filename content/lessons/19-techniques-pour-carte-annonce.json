@@ -1,0 +1,304 @@
+{
+  "id": "techniques-pour-carte-annonce",
+  "order": 19,
+  "number": 19,
+  "unit": 5,
+  "unitTitle": "Parlez de votre quotidien",
+  "kicker": "Unité 5 · Leçon 19",
+  "title": "Techniques pour…",
+  "summary": "Écrire une carte postale · écrire une petite annonce pour vendre un vêtement",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "carte-postale",
+      "title": "Écrire une carte postale",
+      "minutes": 8,
+      "lede": "A postcard to a friend is short, warm and informal. It follows a fixed pattern: greeting, news, your life, a question, a goodbye and your name.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les six parties d'une carte postale",
+          "headers": [
+            "Partie",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1",
+              "Saluer",
+              "Chère Denise, Un petit coucou de Strasbourg !"
+            ],
+            [
+              "2",
+              "Demander des nouvelles et donner les siennes",
+              "Comment tu vas ? Moi, je vais très bien."
+            ],
+            [
+              "3",
+              "Raconter sa vie, sa journée, son week-end",
+              "Le matin, j'arrive à neuf heures. Ce week-end, je visite la ville."
+            ],
+            [
+              "4",
+              "Poser une question sur l'ami(e)",
+              "Et toi, tout va bien ?"
+            ],
+            [
+              "5",
+              "Dire au revoir",
+              "Je t'embrasse. À très bientôt !"
+            ],
+            [
+              "6",
+              "Signer",
+              "Corinne"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les expressions de l'amitié",
+          "headers": [
+            "Fonction",
+            "Expressions"
+          ],
+          "rows": [
+            [
+              "Saluer",
+              "Coucou ! · Salut ! · Chère + prénom"
+            ],
+            [
+              "Tutoyer",
+              "Tu vas bien ? · Comment tu vas ? · Et toi ?"
+            ],
+            [
+              "Dire au revoir",
+              "À bientôt ! · Bises · Je t'embrasse."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Chère (feminine) / Cher (masculine) + first name for someone you know well: Chère Denise, Cher Paul. For a group: Chers amis (m.) / Chères amies (f.).\n- Use tu with friends and family (Comment tu vas ?), and vous with strangers (Comment allez-vous ?). A postcard to a friend is always tu.\n- Un petit coucou = a friendly “hi!” (literally “a little cuckoo”). Coucou and Salut are informal; never use them with a boss.\n- Je t'embrasse (“I kiss you”) is a normal friendly sign-off, not romantic. Bises / Grosses bises (kisses), Amitiés, À bientôt are all common. To a boss or teacher, use Cordialement.\n- Address: write the recipient's name, number, street, then the postcode and city: 76000 Rouen (the number is written before the street name in France).\n- Present tense does everything: j'arrive, je finis, je visite, je fais du shopping. Add moments of the day (le matin, le soir) and ce week-end for the future."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez la carte postale",
+          "items": [
+            {
+              "fr": "Chère Denise,"
+            },
+            {
+              "fr": "Un petit coucou de Strasbourg !"
+            },
+            {
+              "fr": "Comment tu vas ? Moi, je vais très bien."
+            },
+            {
+              "fr": "Ma formation est intéressante et mes collègues sont sympathiques."
+            },
+            {
+              "fr": "Le matin, j'arrive à neuf heures et je finis à dix-huit ou dix-neuf heures."
+            },
+            {
+              "fr": "Ce week-end, je visite Strasbourg et je fais du shopping."
+            },
+            {
+              "fr": "Et toi, à Rouen, tout va bien ?"
+            },
+            {
+              "fr": "Je t'embrasse. À très bientôt !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la carte postale",
+          "items": [
+            {
+              "prompt": "___ Marc, un petit coucou de Lyon !",
+              "answers": [
+                "Cher"
+              ]
+            },
+            {
+              "prompt": "Comment tu ___ ? Moi, je vais très bien.",
+              "answers": [
+                "vas"
+              ]
+            },
+            {
+              "prompt": "Et ___ , à Paris, tout va bien ?",
+              "answers": [
+                "toi"
+              ]
+            },
+            {
+              "prompt": "Je t'___ . À très bientôt !",
+              "answers": [
+                "embrasse"
+              ]
+            },
+            {
+              "prompt": "Chère Denise : on utilise le ___ (tu / vous).",
+              "answers": [
+                "tu"
+              ],
+              "choices": [
+                "tu",
+                "vous"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre carte postale",
+          "prompt": "Écrivez une carte postale à un(e) ami(e) francophone : saluez, donnez des nouvelles, racontez votre semaine, posez une question, dites au revoir.",
+          "model": "Chère Léa, un petit coucou de Montréal ! Comment tu vas ? Moi, je vais bien. Le matin, je me lève à sept heures et je vais au travail à huit heures. Ce week-end, je visite la ville et je fais du shopping. Et toi, tout va bien ? Je t'embrasse. À bientôt ! Sam"
+        }
+      ]
+    },
+    {
+      "id": "annonce",
+      "title": "Écrire une petite annonce",
+      "minutes": 8,
+      "lede": "A good ad (une petite annonce) sells an item in a few lines: a title with the name of the item, a photo, a price and a description.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les quatre parties de l'annonce",
+          "headers": [
+            "Partie",
+            "Contenu",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "A",
+              "la photo",
+              "La photo de la veste"
+            ],
+            [
+              "B",
+              "le nom de l'objet",
+              "Veste noire – Léon & Harper M"
+            ],
+            [
+              "C",
+              "le prix",
+              "125 €"
+            ],
+            [
+              "D",
+              "la description",
+              "C'est une belle veste. Elle est noire, taille M."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Pour écrire une annonce",
+          "headers": [
+            "Objectif",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "Décrire le vêtement",
+              "Elle a deux poches devant et une ceinture. Elle est noire, taille M."
+            ],
+            [
+              "Mettre en valeur ses caractéristiques",
+              "C'est une belle veste, de qualité. En parfait état !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Describe with être and avoir: Elle est noire. Elle a deux poches. The item is feminine here (une veste) so you use elle. Choose il/elle to match the object's gender.\n- En parfait état = in perfect condition. D'occasion = second-hand. Neuf / neuve = brand new. Une annonce is an ad. Vendre = to sell, acheter = to buy; les offres = items for sale, les demandes = wanted ads.\n- A sale: Vous pouvez porter cette veste pour travailler ou sortir le soir. Vous pouvez + infinitive suggests how to use the item. Avec un jean, elle est décontractée.\n- Sizes: taille M or taille 38 (clothes), pointure 39 (shoes). Say Ma taille, c'est 36 to explain why you sell it: Elle est grande pour moi (it's too big for me).\n- C'est + article + noun for an item (C'est une belle veste), il/elle est + adjective to describe it (Elle est noire).\n- Prices: 125 € is cent vingt-cinq euros; write 125 € with a space before the € sign."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez l'annonce",
+          "items": [
+            {
+              "fr": "C'est une belle veste, de style classique."
+            },
+            {
+              "fr": "Elle est noire, taille M."
+            },
+            {
+              "fr": "Elle a deux poches devant et une ceinture."
+            },
+            {
+              "fr": "Vous pouvez porter cette veste pour travailler ou sortir le soir."
+            },
+            {
+              "fr": "Avec un jean, elle est décontractée."
+            },
+            {
+              "fr": "Avec une jupe, elle est chic !"
+            },
+            {
+              "fr": "Elle est grande pour moi."
+            },
+            {
+              "fr": "Elle est en parfait état. Cent vingt-cinq euros.",
+              "label": "Elle est en parfait état. 125 €."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'annonce",
+          "items": [
+            {
+              "prompt": "C'___ une belle veste.",
+              "answers": [
+                "est"
+              ]
+            },
+            {
+              "prompt": "Elle ___ noire, taille M.",
+              "answers": [
+                "est"
+              ]
+            },
+            {
+              "prompt": "Elle ___ deux poches devant.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "prompt": "Vous ___ porter cette veste pour travailler.",
+              "answers": [
+                "pouvez"
+              ]
+            },
+            {
+              "prompt": "Elle est en parfait ___ !",
+              "answers": [
+                "état"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Vendez un vêtement",
+          "prompt": "Vendez un vêtement ou un accessoire : donnez un titre, le prix et une description (couleur, taille, caractéristiques).",
+          "model": "Pull rouge – Taille M – vingt euros. C'est un joli pull rouge, très confortable. Il est en parfait état. Avec un jean, il est décontracté. Il est grand pour moi."
+        }
+      ]
+    }
+  ]
+}

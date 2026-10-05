@@ -1,0 +1,788 @@
+{
+  "id": "acheter-des-vetements",
+  "order": 18,
+  "number": 18,
+  "unit": 5,
+  "unitTitle": "Parlez de votre quotidien",
+  "kicker": "Unité 5 · Leçon 18",
+  "title": "Acheter des vêtements",
+  "summary": "Vêtements, couleurs, tailles · ce, cet, cette, ces · sur, sous, devant, derrière, entre · adjectifs · essayer · sons [i] et [e]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "vetements",
+      "title": "Les vêtements, les couleurs et les tailles",
+      "minutes": 9,
+      "lede": "Clothes, accessories, shoes and colours, plus the French size system (letters for clothes, numbers for shoes).",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les vêtements",
+          "items": [
+            {
+              "fr": "un costume",
+              "icon": "🤵"
+            },
+            {
+              "fr": "un imperméable",
+              "icon": "🧥"
+            },
+            {
+              "fr": "un pantalon",
+              "icon": "👖"
+            },
+            {
+              "fr": "un pull"
+            },
+            {
+              "fr": "un top",
+              "icon": "👚"
+            },
+            {
+              "fr": "un manteau",
+              "icon": "🧥"
+            },
+            {
+              "fr": "un blouson"
+            },
+            {
+              "fr": "une jupe"
+            },
+            {
+              "fr": "un short",
+              "icon": "🩳"
+            },
+            {
+              "fr": "un jean",
+              "icon": "👖"
+            },
+            {
+              "fr": "une robe",
+              "icon": "👗"
+            },
+            {
+              "fr": "une chemise",
+              "icon": "👔"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les accessoires et les chaussures",
+          "items": [
+            {
+              "fr": "un foulard",
+              "icon": "🧣"
+            },
+            {
+              "fr": "une ceinture"
+            },
+            {
+              "fr": "des chaussettes",
+              "icon": "🧦"
+            },
+            {
+              "fr": "des chaussures"
+            },
+            {
+              "fr": "des baskets",
+              "icon": "👟"
+            },
+            {
+              "fr": "des tennis",
+              "icon": "👟"
+            },
+            {
+              "fr": "des sandales",
+              "icon": "👡"
+            },
+            {
+              "fr": "des bottes",
+              "icon": "👢"
+            },
+            {
+              "fr": "des chaussures à talons",
+              "icon": "👠"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les couleurs",
+          "items": [
+            {
+              "fr": "bleu",
+              "label": "bleu · bleue"
+            },
+            {
+              "fr": "vert",
+              "label": "vert · verte"
+            },
+            {
+              "fr": "orange"
+            },
+            {
+              "fr": "jaune"
+            },
+            {
+              "fr": "rose"
+            },
+            {
+              "fr": "rouge"
+            },
+            {
+              "fr": "gris",
+              "label": "gris · grise"
+            },
+            {
+              "fr": "beige"
+            },
+            {
+              "fr": "blanc",
+              "label": "blanc · blanche"
+            },
+            {
+              "fr": "noir",
+              "label": "noir · noire"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les tailles",
+          "headers": [
+            "Pour",
+            "Taille"
+          ],
+          "rows": [
+            [
+              "vêtements, S",
+              "trente-six (36)"
+            ],
+            [
+              "vêtements, M",
+              "trente-huit / quarante (38 / 40)"
+            ],
+            [
+              "vêtements, L",
+              "quarante-deux / quarante-quatre (42 / 44)"
+            ],
+            [
+              "chaussures",
+              "la pointure : trente-six, trente-sept, trente-huit…"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Colours are adjectives: they agree with the noun (une jupe bleue, un pull bleu, des sandales vertes, des chaussettes blanches) and come after it. English puts them before: “a blue skirt”.\n- Orange and marron do not change (des tennis orange), because they are names of things (an orange, a chestnut). Rose and violet are regular: des jupes roses.\n- Colours ending in -e (rouge, jaune, beige, orange) look the same in masculine and feminine: un pull rouge, une jupe rouge. Only add -s in the plural: des pulls rouges.\n- French sizes are numbers: in a shop in France, a 38 is a medium. For shoes, la pointure is the shoe size, la taille the clothes size.\n- Un jean is masculine singular in French: un jean bleu (a pair of jeans). Un pantalon too: un pantalon noir. English “trousers / pants” are plural; French is singular.\n- Chaussures, chaussettes, bottes, sandales, baskets, tennis are plural nouns in French, and pair is often implied: une paire de chaussures."
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec la couleur",
+          "items": [
+            {
+              "prompt": "une jupe ___ (bleu)",
+              "answers": [
+                "bleue"
+              ]
+            },
+            {
+              "prompt": "un pull ___ (rouge)",
+              "answers": [
+                "rouge"
+              ]
+            },
+            {
+              "prompt": "des chaussettes ___ (blanc)",
+              "answers": [
+                "blanches"
+              ]
+            },
+            {
+              "prompt": "des sandales ___ (vert)",
+              "answers": [
+                "vertes"
+              ]
+            },
+            {
+              "prompt": "un manteau ___ (noir)",
+              "answers": [
+                "noir"
+              ]
+            },
+            {
+              "prompt": "une chemise ___ (gris)",
+              "answers": [
+                "grise"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Les vêtements d'un(e) camarade",
+          "prompt": "Décrivez les vêtements d'un(e) camarade : la classe devine qui c'est.",
+          "model": "Elle porte une jupe bleue, un pull rouge et des chaussures noires. Elle a aussi un foulard blanc."
+        }
+      ]
+    },
+    {
+      "id": "demonstratifs-localiser",
+      "title": "Ce, cet, cette, ces et la localisation",
+      "minutes": 9,
+      "lede": "To point at an object (this/that), French uses the demonstrative adjectives. To say where it is, you use five little prepositions.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les adjectifs démonstratifs",
+          "headers": [
+            "Genre",
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "masculin singulier",
+              "ce / cet",
+              "ce top · cet imperméable"
+            ],
+            [
+              "féminin singulier",
+              "cette",
+              "cette jupe"
+            ],
+            [
+              "pluriel",
+              "ces",
+              "ces sandales"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Localiser un objet",
+          "headers": [
+            "Mot",
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "sur",
+              "on",
+              "Le pull est sur la chaise."
+            ],
+            [
+              "sous",
+              "under",
+              "Les chaussures sont sous le lit."
+            ],
+            [
+              "devant",
+              "in front of",
+              "Il y a un sac devant la porte."
+            ],
+            [
+              "derrière",
+              "behind",
+              "Les bottes sont derrière la table."
+            ],
+            [
+              "entre",
+              "between",
+              "Le jean est entre le pull et la jupe."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Ce is for masculine nouns before a consonant (ce top); cet is for masculine before a vowel or silent h (cet imperméable, cet homme), because ce + vowel would be hard to say. Cette is feminine and never changes: cette jupe, cette écharpe.\n- Cet and cette sound exactly the same (sɛt), so you hear the gender only from the noun. Ces is plural for both genders: ces pulls, ces jupes.  Before a vowel the s is pronounced z: ces imperméables.\n- French has only one word for “this” and “that”. To make the difference, add -ci (here) or -là (there) after the noun: ce pull-ci (this one) / ce pull-là (that one).\n- Sous and sur are easy to mix up: sous = under, sur = on. They sound different: sous [su] has the “oo” of “soon”, sur [syʁ] has the French u (round your lips as for “oo” and say “ee”).\n- Entre is always followed by two things joined with et: entre le pull et la jupe.\n- Devant and derrière are followed directly by the noun: devant la porte, derrière le magasin. You do not need de."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Ce top est orange."
+            },
+            {
+              "fr": "Cet imperméable est jaune."
+            },
+            {
+              "fr": "Cette jupe est bleue."
+            },
+            {
+              "fr": "Ces sandales sont vertes."
+            },
+            {
+              "fr": "Derrière la table, il y a le tableau."
+            },
+            {
+              "fr": "Sur la table, il y a un cahier et des stylos."
+            },
+            {
+              "fr": "Les bottes sont sous la chaise."
+            },
+            {
+              "fr": "Le sac est entre la porte et la fenêtre."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Ce, cet, cette ou ces ?",
+          "items": [
+            {
+              "prompt": "___ pull est rouge.",
+              "answers": [
+                "Ce"
+              ],
+              "choices": [
+                "Ce",
+                "Cet",
+                "Cette",
+                "Ces"
+              ]
+            },
+            {
+              "prompt": "___ imperméable est jaune.",
+              "answers": [
+                "Cet"
+              ],
+              "choices": [
+                "Ce",
+                "Cet",
+                "Cette",
+                "Ces"
+              ]
+            },
+            {
+              "prompt": "___ jupe est bleue.",
+              "answers": [
+                "Cette"
+              ],
+              "choices": [
+                "Ce",
+                "Cet",
+                "Cette",
+                "Ces"
+              ]
+            },
+            {
+              "prompt": "___ chaussures sont noires.",
+              "answers": [
+                "Ces"
+              ],
+              "choices": [
+                "Ce",
+                "Cet",
+                "Cette",
+                "Ces"
+              ]
+            },
+            {
+              "prompt": "___ manteau est beau.",
+              "answers": [
+                "Ce"
+              ],
+              "choices": [
+                "Ce",
+                "Cet",
+                "Cette",
+                "Ces"
+              ]
+            },
+            {
+              "prompt": "___ homme porte un costume.",
+              "answers": [
+                "Cet"
+              ],
+              "choices": [
+                "Ce",
+                "Cet",
+                "Cette",
+                "Ces"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Où est l'objet ?",
+          "items": [
+            {
+              "prompt": "Le chat dort ___ la table. (en dessous)",
+              "answers": [
+                "sous"
+              ],
+              "choices": [
+                "sur",
+                "sous",
+                "devant",
+                "derrière",
+                "entre"
+              ]
+            },
+            {
+              "prompt": "Le livre est ___ la table.",
+              "answers": [
+                "sur"
+              ],
+              "choices": [
+                "sur",
+                "sous",
+                "devant",
+                "derrière",
+                "entre"
+              ]
+            },
+            {
+              "prompt": "Le sac est ___ la porte. (en face)",
+              "answers": [
+                "devant"
+              ],
+              "choices": [
+                "sur",
+                "sous",
+                "devant",
+                "derrière",
+                "entre"
+              ]
+            },
+            {
+              "prompt": "Le tableau est ___ la table. (à l'arrière)",
+              "answers": [
+                "derrière"
+              ],
+              "choices": [
+                "sur",
+                "sous",
+                "devant",
+                "derrière",
+                "entre"
+              ]
+            },
+            {
+              "prompt": "La fenêtre est ___ la porte et le mur.",
+              "answers": [
+                "entre"
+              ],
+              "choices": [
+                "sur",
+                "sous",
+                "devant",
+                "derrière",
+                "entre"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Décrivez la classe",
+          "prompt": "Localisez les objets de la salle de classe : « Derrière la table, il y a le tableau. »",
+          "model": "Sur la table, il y a un cahier et des stylos. Derrière la table, il y a le tableau. Entre les deux fenêtres, il y a une porte."
+        }
+      ]
+    },
+    {
+      "id": "adjectifs-essayer",
+      "title": "La place des adjectifs et le verbe essayer",
+      "minutes": 8,
+      "lede": "Most adjectives go after the noun, but a few very common ones go before. And essayer (to try on) is the key verb for a clothes shop.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La place de l'adjectif",
+          "headers": [
+            "Place",
+            "Adjectifs",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "après le nom (règle générale)",
+              "magnifique · décontracté · confortable · parfait · noir",
+              "une robe magnifique · un pantalon décontracté"
+            ],
+            [
+              "avant le nom",
+              "beau / belle · grand · petit · bon · joli · nouveau",
+              "une belle robe · ce petit top"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Essayer au présent",
+          "headers": [
+            "Sujet",
+            "Au présent"
+          ],
+          "rows": [
+            [
+              "j'",
+              "essaie (essaye)"
+            ],
+            [
+              "tu",
+              "essaies (essayes)"
+            ],
+            [
+              "il / elle",
+              "essaie (essaye)"
+            ],
+            [
+              "nous",
+              "essayons"
+            ],
+            [
+              "vous",
+              "essayez"
+            ],
+            [
+              "ils / elles",
+              "essaient (essayent)"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Most adjectives follow the noun, as in English they would come before: une robe magnifique, un pantalon décontracté (relaxed, casual), un pull confortable.\n- A few short, very common adjectives go before the noun: beau, joli, grand, petit, bon, nouveau, vieux, jeune. Memory trick: Beauty, Age, Goodness, Size (BAGS).\n- Beau changes before a masculine vowel: un bel imperméable (not “beau”). Feminine: belle; plural: beaux / belles. A famous trap: un beau pull (consonant), un bel anorak.\n- Between an adjective and a plural noun, des becomes de (more formal): de belles chaussures, de grands magasins. In everyday speech, des is common: des belles chaussures.\n- Essayer is a regular -er verb with an optional spelling change: y becomes i before a silent ending (j'essaie, tu essaies, il essaie, ils essaient), but not before the nous / vous endings (essayons, essayez). The y form (j'essaye) is also correct.\n- Essayer = to try, to try on. J'essaie ce pantalon. And Essayer de + infinitive: J'essaie de comprendre."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "C'est une belle robe."
+            },
+            {
+              "fr": "Ce petit top est joli."
+            },
+            {
+              "fr": "Je cherche un pantalon décontracté."
+            },
+            {
+              "fr": "Ce manteau est confortable."
+            },
+            {
+              "fr": "Ces chaussures sont parfaites."
+            },
+            {
+              "fr": "J'essaie ce pantalon."
+            },
+            {
+              "fr": "Vous essayez cette veste ?"
+            },
+            {
+              "fr": "Nous essayons des tennis."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Avant ou après le nom ?",
+          "items": [
+            {
+              "prompt": "Une ___ jupe (belle)",
+              "answers": [
+                "belle"
+              ]
+            },
+            {
+              "prompt": "Un pantalon ___ (décontracté)",
+              "answers": [
+                "décontracté"
+              ]
+            },
+            {
+              "prompt": "Un ___ pull (petit)",
+              "answers": [
+                "petit"
+              ]
+            },
+            {
+              "prompt": "Une robe ___ (magnifique)",
+              "answers": [
+                "magnifique"
+              ]
+            },
+            {
+              "prompt": "Un ___ imperméable (bel / beau)",
+              "answers": [
+                "bel"
+              ],
+              "choices": [
+                "beau",
+                "bel",
+                "belle"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Essayer",
+          "items": [
+            {
+              "prompt": "J'___ ce pull.",
+              "answers": [
+                "essaie | essaye"
+              ],
+              "hint": "essayer"
+            },
+            {
+              "prompt": "Tu ___ cette jupe ?",
+              "answers": [
+                "essaies | essayes"
+              ],
+              "hint": "essayer"
+            },
+            {
+              "prompt": "Nous ___ des tennis.",
+              "answers": [
+                "essayons"
+              ],
+              "hint": "essayer"
+            },
+            {
+              "prompt": "Vous ___ cette veste ?",
+              "answers": [
+                "essayez"
+              ],
+              "hint": "essayer"
+            },
+            {
+              "prompt": "Elles ___ des sandales.",
+              "answers": [
+                "essaient | essayent"
+              ],
+              "hint": "essayer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-i-e",
+      "title": "Les sons [i] et [e]",
+      "minutes": 4,
+      "lede": "Two vowels that look similar but need different mouth shapes. Both are high and smiling, but [i] is tighter than [e].",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux sons",
+          "headers": [
+            "Son",
+            "Description",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[i]",
+              "tendu, bouche fermée",
+              "Midi. Il habite à Paris. S'habiller."
+            ],
+            [
+              "[e]",
+              "relâché, bouche ouverte",
+              "Le déjeuner. Je me lève. Chez moi. Dîner."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- [i] is the tight smile, like English “ee” in “see”, but shorter and without a glide: midi, ici, Paris, il.\n- [e] is like the vowel in “day” but without the final y glide: pure, no “ey”. Spelled é, er, ez, ai: déjeuner, dîner, lever, chez, j'ai.\n- Don't turn é into “ay” as in English “café”: say ka-fé with a short, steady sound.\n- Final -er (déjeuner, dîner, habiller) sounds just [e]: the r is silent. Same for -ez (chez, vous essayez)."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "Midi."
+            },
+            {
+              "fr": "Je m'habille."
+            },
+            {
+              "fr": "Il habite à Paris."
+            },
+            {
+              "fr": "Le déjeuner."
+            },
+            {
+              "fr": "Je me lève."
+            },
+            {
+              "fr": "Chez moi."
+            },
+            {
+              "fr": "Dîner."
+            },
+            {
+              "fr": "S'habiller."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son ?",
+          "items": [
+            {
+              "prompt": "Dans « midi », le son final est ___ .",
+              "answers": [
+                "[i]"
+              ],
+              "choices": [
+                "[i]",
+                "[e]"
+              ]
+            },
+            {
+              "prompt": "Dans « déjeuner », le dernier son est ___ .",
+              "answers": [
+                "[e]"
+              ],
+              "choices": [
+                "[i]",
+                "[e]"
+              ]
+            },
+            {
+              "prompt": "Dans « Paris », le dernier son est ___ .",
+              "answers": [
+                "[i]"
+              ],
+              "choices": [
+                "[i]",
+                "[e]"
+              ]
+            },
+            {
+              "prompt": "Dans « chez », le son est ___ .",
+              "answers": [
+                "[e]"
+              ],
+              "choices": [
+                "[i]",
+                "[e]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

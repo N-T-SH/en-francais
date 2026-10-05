@@ -1,0 +1,790 @@
+{
+  "id": "faire-les-courses",
+  "order": 17,
+  "number": 17,
+  "unit": 5,
+  "unitTitle": "Parlez de votre quotidien",
+  "kicker": "Unité 5 · Leçon 17",
+  "title": "Faire les courses",
+  "summary": "Commerces et aliments · quantités et partitifs · combien · futur proche · prendre · sons [o] et [ɔ̃]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "commerces-aliments",
+      "title": "Les commerces et les aliments",
+      "minutes": 9,
+      "lede": "Shopping in France: you can buy everything in a supermarket, but many people also go to specialist shops. Here are the shops, the main food groups and the containers.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quel commerce pour quel produit ?",
+          "headers": [
+            "Produit",
+            "Commerce"
+          ],
+          "rows": [
+            [
+              "les fruits et légumes",
+              "le primeur"
+            ],
+            [
+              "le fromage",
+              "la fromagerie"
+            ],
+            [
+              "le pain et les gâteaux",
+              "la boulangerie-pâtisserie"
+            ],
+            [
+              "la viande",
+              "la boucherie-charcuterie"
+            ],
+            [
+              "le poisson",
+              "la poissonnerie"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Many shops end in -erie: boulangerie (bread), pâtisserie (cakes), boucherie (meat), poissonnerie (fish), fromagerie (cheese). The person is la boulangère, le boucher, le poissonnier. All the shops are feminine.\n- Un primeur is a greengrocer; it is masculine. Un marché is the market: J'achète les fruits au marché, mais les pâtes au supermarché.\n- Au + masculine place (au marché, au supermarché), à la + feminine place (à la boulangerie), à l' before a vowel (à l'épicerie).\n- Un œuf (egg) is pronounced « œf », but des œufs (eggs) is « eu »: the f falls silent in the plural. L'œuf and les œufs both have the same œu spelling.\n- La confiture = jam. Don't mix it up with the English “confiture”, which doesn't exist. La crème is cream, un steak is a steak (not necessarily beef).\n- Une pomme is an apple; une pomme de terre is a potato (literally “apple of the earth”)."
+        },
+        {
+          "type": "phrases",
+          "title": "Les fruits",
+          "items": [
+            {
+              "fr": "une banane",
+              "icon": "🍌"
+            },
+            {
+              "fr": "une cerise",
+              "icon": "🍒"
+            },
+            {
+              "fr": "une fraise",
+              "icon": "🍓"
+            },
+            {
+              "fr": "un melon",
+              "icon": "🍈"
+            },
+            {
+              "fr": "une poire",
+              "icon": "🍐"
+            },
+            {
+              "fr": "une pomme",
+              "icon": "🍎"
+            },
+            {
+              "fr": "une orange",
+              "icon": "🍊"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les légumes",
+          "items": [
+            {
+              "fr": "une carotte",
+              "icon": "🥕"
+            },
+            {
+              "fr": "une courgette",
+              "icon": "🥒"
+            },
+            {
+              "fr": "une pomme de terre",
+              "icon": "🥔"
+            },
+            {
+              "fr": "une salade",
+              "icon": "🥬"
+            },
+            {
+              "fr": "une tomate",
+              "icon": "🍅"
+            },
+            {
+              "fr": "un oignon",
+              "icon": "🧅"
+            },
+            {
+              "fr": "de l'ail",
+              "icon": "🧄"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les autres produits",
+          "items": [
+            {
+              "fr": "le beurre",
+              "icon": "🧈"
+            },
+            {
+              "fr": "le lait",
+              "icon": "🥛"
+            },
+            {
+              "fr": "la crème"
+            },
+            {
+              "fr": "un œuf",
+              "icon": "🥚"
+            },
+            {
+              "fr": "un steak",
+              "icon": "🥩"
+            },
+            {
+              "fr": "le thon",
+              "icon": "🐟"
+            },
+            {
+              "fr": "le saumon",
+              "icon": "🐟"
+            },
+            {
+              "fr": "le sel",
+              "icon": "🧂"
+            },
+            {
+              "fr": "le poivre"
+            },
+            {
+              "fr": "la moutarde"
+            },
+            {
+              "fr": "le sucre"
+            },
+            {
+              "fr": "la confiture"
+            },
+            {
+              "fr": "le pain",
+              "icon": "🥖"
+            },
+            {
+              "fr": "le fromage",
+              "icon": "🧀"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les contenants",
+          "items": [
+            {
+              "fr": "une bouteille",
+              "icon": "🍾"
+            },
+            {
+              "fr": "une boîte",
+              "icon": "🥫"
+            },
+            {
+              "fr": "un paquet",
+              "icon": "📦"
+            },
+            {
+              "fr": "une barquette"
+            },
+            {
+              "fr": "un pot"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Où achète-t-on… ?",
+          "items": [
+            {
+              "prompt": "Le pain, on l'achète à la ___ .",
+              "answers": [
+                "boulangerie"
+              ]
+            },
+            {
+              "prompt": "La viande, on l'achète à la ___ .",
+              "answers": [
+                "boucherie"
+              ]
+            },
+            {
+              "prompt": "Le poisson, on l'achète à la ___ .",
+              "answers": [
+                "poissonnerie"
+              ]
+            },
+            {
+              "prompt": "Le fromage, on l'achète à la ___ .",
+              "answers": [
+                "fromagerie"
+              ]
+            },
+            {
+              "prompt": "Les fruits et légumes, on les achète chez le ___ .",
+              "answers": [
+                "primeur"
+              ]
+            },
+            {
+              "prompt": "Je cherche un ___ de pâtes. (le contenant en carton)",
+              "answers": [
+                "paquet"
+              ]
+            },
+            {
+              "prompt": "Une ___ de lait.",
+              "answers": [
+                "bouteille"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quantites-partitifs",
+      "title": "Les quantités et les articles partitifs",
+      "minutes": 9,
+      "lede": "To talk about food, French needs to say how much: either an exact quantity (deux melons, un kilo) or an unspecified amount, which is what the partitive article is for.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quantité précise ou imprécise ?",
+          "headers": [
+            "Type",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "Quantité précise (nombre, poids, contenant)",
+              "deux melons · cinq cents grammes de cerises · un kilo de pommes · une bouteille de lait"
+            ],
+            [
+              "Quantité imprécise (du, de la, de l', des)",
+              "du melon · de la salade · de l'ail · des pâtes"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les articles partitifs",
+          "headers": [
+            "masculin",
+            "féminin",
+            "voyelle",
+            "pluriel"
+          ],
+          "rows": [
+            [
+              "du melon",
+              "de la salade",
+              "de l'ail",
+              "des pâtes"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Partitive = “some” (an unspecified amount). English often drops it (“I buy bread”); French cannot: J'achète du pain. Never “J'achète pain”.\n- Du / de la / de l' / des are the partitive articles. Du = de + le, des is also the plural of un/une, so the choice depends on the noun: du lait, de la crème, de l'ail, des pâtes.\n- After a precise quantity, use de (d' before a vowel) with no article: un kilo de pommes, une bouteille de lait, un paquet de pâtes, un pot de confiture, beaucoup de fruits, un peu d'ail.\n- After a negative, du/de la/des become de or d': Je n'achète pas de lait. Je ne mange pas d'œufs.\n- Counted items take un/une or a number, not the partitive: une pomme, deux pommes. Use the partitive for an amount you do not count: du melon, de la salade.\n- Cinq cents grammes (500 g): cent takes an -s when it is multiplied (deux cents) and not followed by another number. Un kilo, deux kilos. Un euro, deux euros.\n- Prices: 3,20 € is trois euros vingt. In writing, French uses a comma: 3,20 (not 3.20). 9 € le kilo = neuf euros le kilo."
+        },
+        {
+          "type": "phrases",
+          "title": "Les prix et les quantités",
+          "items": [
+            {
+              "fr": "Je voudrais deux melons.",
+              "en": "I would like two melons."
+            },
+            {
+              "fr": "Je prends cinq cents grammes de cerises."
+            },
+            {
+              "fr": "Un kilo de pommes, s'il vous plaît."
+            },
+            {
+              "fr": "Trois euros vingt la barquette.",
+              "label": "3,20 € la barquette"
+            },
+            {
+              "fr": "Neuf euros le kilo.",
+              "label": "9 € le kilo"
+            },
+            {
+              "fr": "Six euros les trois.",
+              "label": "6 € les trois"
+            },
+            {
+              "fr": "Je voudrais du pain et de la salade."
+            },
+            {
+              "fr": "Il me faut des pâtes et de l'ail."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Du, de la, de l' ou des ?",
+          "items": [
+            {
+              "prompt": "Je mange ___ pain.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Elle achète ___ salade.",
+              "answers": [
+                "de la"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Il prend ___ pâtes.",
+              "answers": [
+                "des"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Nous mangeons ___ ail.",
+              "answers": [
+                "de l'"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Vous voulez ___ lait ?",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Je mange ___ confiture au petit déjeuner.",
+              "answers": [
+                "de la"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Après une quantité, après une négation",
+          "items": [
+            {
+              "prompt": "Un kilo ___ pommes.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Une bouteille ___ lait.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Un paquet ___ pâtes.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Je n'achète pas ___ viande.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Il ne mange jamais ___ poisson.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Un peu ___ ail, s'il vous plaît.",
+              "answers": [
+                "d'"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre liste de courses",
+          "prompt": "Dites ce que vous achetez pour un dîner : des quantités précises et imprécises.",
+          "model": "Pour le dîner, j'achète un kilo de tomates, deux cents grammes de fromage, un paquet de pâtes et de la salade. Je prends aussi du pain et des fraises."
+        }
+      ]
+    },
+    {
+      "id": "combien-futur-prendre",
+      "title": "Combien ? Le futur proche et prendre",
+      "minutes": 9,
+      "lede": "Three tools for shopping and planning: asking the price with combien, announcing what you are going to do with aller, and the irregular verb prendre.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Combien ?",
+          "headers": [
+            "Question",
+            "Réponse"
+          ],
+          "rows": [
+            [
+              "Combien coûte un melon ?",
+              "Un melon coûte deux euros cinquante."
+            ],
+            [
+              "Combien coûtent les cerises ?",
+              "Elles coûtent neuf euros le kilo."
+            ],
+            [
+              "C'est combien ?",
+              "C'est trois euros vingt."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le futur proche : aller + infinitif",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmative",
+              "Je vais commander."
+            ],
+            [
+              "négative",
+              "Je ne vais pas cuisiner."
+            ],
+            [
+              "question",
+              "Qu'est-ce qu'on va faire samedi pour le dîner ?"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Prendre",
+          "headers": [
+            "Sujet",
+            "Au présent"
+          ],
+          "rows": [
+            [
+              "je",
+              "prends"
+            ],
+            [
+              "tu",
+              "prends"
+            ],
+            [
+              "il / elle",
+              "prend"
+            ],
+            [
+              "nous",
+              "prenons"
+            ],
+            [
+              "vous",
+              "prenez"
+            ],
+            [
+              "ils / elles",
+              "prennent"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Coûter agrees with the thing bought: Combien coûte un melon ? (singular) but Combien coûtent les fraises ? (plural). The question with C'est combien ? works for anything.\n- Futur proche = “going to”: Je vais acheter du pain. The aller is conjugated and the next verb stays in the infinitive. Use it for tomorrow, tonight, next week, and anything you plan.\n- Negation goes around aller only: Je ne vais pas cuisiner. (not “je vais ne pas cuisiner”). Same pattern as the other verbs you know: Il ne va pas venir.\n- Aller alone means “to go”: Je vais au marché. Aller + infinitive means “going to do”: Je vais acheter des fruits. Both can appear: Je vais aller au marché.\n- Prendre: the d disappears in the singular and returns in the plural, and ils prennent doubles the n (the e is silent, nn gives the plural away). Same pattern for apprendre, comprendre.\n- Prendre also means to eat or drink: Je prends un café. Je prends du fromage. In a shop, Je prends ça = I'll take that."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Combien coûte un melon ?"
+            },
+            {
+              "fr": "Les cerises coûtent neuf euros le kilo."
+            },
+            {
+              "fr": "Je vais commander des fruits."
+            },
+            {
+              "fr": "Nous allons faire les courses samedi."
+            },
+            {
+              "fr": "Je ne vais pas cuisiner ce soir."
+            },
+            {
+              "fr": "Qu'est-ce qu'on va faire pour le dîner ?"
+            },
+            {
+              "fr": "Je prends des pâtes et de la viande."
+            },
+            {
+              "fr": "Ils prennent un taxi."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Futur proche",
+          "items": [
+            {
+              "prompt": "Je ___ commander des fruits.",
+              "answers": [
+                "vais"
+              ],
+              "hint": "aller"
+            },
+            {
+              "prompt": "Nous ___ faire les courses.",
+              "answers": [
+                "allons"
+              ],
+              "hint": "aller"
+            },
+            {
+              "prompt": "Tu ne ___ pas cuisiner ?",
+              "answers": [
+                "vas"
+              ],
+              "hint": "aller"
+            },
+            {
+              "prompt": "Elle ___ acheter du pain.",
+              "answers": [
+                "va"
+              ],
+              "hint": "aller"
+            },
+            {
+              "prompt": "Vous ___ manger au restaurant ?",
+              "answers": [
+                "allez"
+              ],
+              "hint": "aller"
+            },
+            {
+              "prompt": "Ils ne ___ pas venir.",
+              "answers": [
+                "vont"
+              ],
+              "hint": "aller"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Prendre au présent",
+          "items": [
+            {
+              "prompt": "Je ___ du pain.",
+              "answers": [
+                "prends"
+              ],
+              "hint": "prendre"
+            },
+            {
+              "prompt": "Tu ___ un café ?",
+              "answers": [
+                "prends"
+              ],
+              "hint": "prendre"
+            },
+            {
+              "prompt": "Nous ___ le métro.",
+              "answers": [
+                "prenons"
+              ],
+              "hint": "prendre"
+            },
+            {
+              "prompt": "Vous ___ une bouteille d'eau ?",
+              "answers": [
+                "prenez"
+              ],
+              "hint": "prendre"
+            },
+            {
+              "prompt": "Elles ___ de la salade.",
+              "answers": [
+                "prennent"
+              ],
+              "hint": "prendre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-o-on",
+      "title": "Les sons [o] et [ɔ̃]",
+      "minutes": 4,
+      "lede": "Two vowel sounds that look alike: [o] is oral (the air goes through the mouth), [ɔ̃] is nasal (the air also goes through the nose).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Oral ou nasal ?",
+          "headers": [
+            "Son",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[o] oral",
+              "le kilo · la pomme · d'accord · la tomate · Locavor"
+            ],
+            [
+              "[ɔ̃] nasal",
+              "le melon · le thon · elles sont · nous voudrions · non · on"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- For [ɔ̃], round your lips and let the air go through your nose. The n is not pronounced: melon sounds me-lõ, not me-lon.\n- Be careful with the letter o followed by n: when n is followed by a vowel, the sound isn't nasal (une, bonne, donne, personne: bɔn, dɔn). Compare bon [bɔ̃] / bonne [bɔn].\n- The final -t of le thon is silent, and so is the final -s in nous sommes. Compare le thon [tɔ̃] with la tonne [tɔn]."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "le kilo"
+            },
+            {
+              "fr": "la pomme"
+            },
+            {
+              "fr": "d'accord"
+            },
+            {
+              "fr": "la tomate"
+            },
+            {
+              "fr": "le melon"
+            },
+            {
+              "fr": "le thon"
+            },
+            {
+              "fr": "elles sont"
+            },
+            {
+              "fr": "nous voudrions"
+            },
+            {
+              "fr": "non"
+            },
+            {
+              "fr": "on mange du melon"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Oral ou nasal ?",
+          "items": [
+            {
+              "prompt": "Dans « melon », le dernier son est ___ .",
+              "answers": [
+                "nasal"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « kilo », le dernier son est ___ .",
+              "answers": [
+                "oral"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « thon », le son est ___ .",
+              "answers": [
+                "nasal"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « pomme », le son est ___ .",
+              "answers": [
+                "oral"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
