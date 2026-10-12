@@ -1,0 +1,779 @@
+{
+  "id": "conseiller",
+  "order": 24,
+  "number": 24,
+  "unit": 7,
+  "unitTitle": "Donnez votre avis !",
+  "kicker": "Unité 7 · Leçon 24",
+  "title": "Conseiller",
+  "summary": "Le corps et la santé · avoir mal à · l'impératif · devoir, il faut, depuis · connaître · liaisons et enchaînements",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "corps-sante",
+      "title": "Le corps, la santé et avoir mal",
+      "minutes": 9,
+      "lede": "To talk to a doctor or a pharmacist you need the parts of the body, the health professions, the symptoms and the verb phrase avoir mal à.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les parties du corps",
+          "items": [
+            {
+              "fr": "la tête"
+            },
+            {
+              "fr": "les yeux",
+              "icon": "👀"
+            },
+            {
+              "fr": "la bouche",
+              "icon": "👄"
+            },
+            {
+              "fr": "les dents",
+              "icon": "🦷"
+            },
+            {
+              "fr": "le cou"
+            },
+            {
+              "fr": "la gorge"
+            },
+            {
+              "fr": "la main",
+              "icon": "✋"
+            },
+            {
+              "fr": "le bras",
+              "icon": "💪"
+            },
+            {
+              "fr": "le pied",
+              "icon": "🦶"
+            },
+            {
+              "fr": "la jambe",
+              "icon": "🦵"
+            },
+            {
+              "fr": "le ventre"
+            },
+            {
+              "fr": "le dos"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les professions de la santé",
+          "items": [
+            {
+              "fr": "un infirmier"
+            },
+            {
+              "fr": "une infirmière"
+            },
+            {
+              "fr": "un médecin"
+            },
+            {
+              "fr": "un dentiste",
+              "icon": "🦷"
+            },
+            {
+              "fr": "un pharmacien"
+            },
+            {
+              "fr": "une pharmacienne"
+            },
+            {
+              "fr": "un pneumologue"
+            },
+            {
+              "fr": "un tabacologue"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Symptômes, maladies et traitement",
+          "items": [
+            {
+              "fr": "la douleur"
+            },
+            {
+              "fr": "la fièvre"
+            },
+            {
+              "fr": "la toux"
+            },
+            {
+              "fr": "le rhume"
+            },
+            {
+              "fr": "la grippe"
+            },
+            {
+              "fr": "la laryngite"
+            },
+            {
+              "fr": "une ordonnance"
+            },
+            {
+              "fr": "un médicament",
+              "icon": "💊"
+            },
+            {
+              "fr": "un antibiotique"
+            },
+            {
+              "fr": "le paracétamol"
+            },
+            {
+              "fr": "le sirop"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Avoir mal au, à la, à l', aux",
+          "headers": [
+            "Partie du corps",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "masculin (au)",
+              "J'ai mal au dos."
+            ],
+            [
+              "féminin (à la)",
+              "J'ai mal à la gorge."
+            ],
+            [
+              "voyelle (à l')",
+              "J'ai mal à l'oreille."
+            ],
+            [
+              "pluriel (aux)",
+              "J'ai mal aux dents."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Avoir mal à + body part: au (= à + le), à la, à l', aux (= à + les). Never “j'ai mal mon dos”. Compare English “my back hurts”, French says I have pain at the back: J'ai mal au dos.\n- Mal is invariable (an adverb here): j'ai mal, il a mal, nous avons mal. Faire mal is also used: Ça fait mal (it hurts), Tu me fais mal (you are hurting me).\n- Les yeux is the plural of un œil (an eye). The x is silent, but there is liaison with a vowel: les_yeux.\n- In the doctor's office: J'ai de la fièvre (partitive), J'ai la grippe, J'ai un rhume, Je tousse (I'm coughing). J'ai froid means “I'm cold” (temperature); the illness is un rhume: J'ai un rhume.\n- Un médecin / une médecin is the doctor (the noun stays masculine for a woman, hence une médecin or une femme médecin). Un docteur / une docteure is also common. Médicament (medicine, a drug) is different from médecine (the science of medicine).\n- Un pneumologue is a lung specialist, un tabacologue helps people to stop smoking. Un infirmier / une infirmière is a nurse (not a doctor!)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'ai mal à la tête."
+            },
+            {
+              "fr": "J'ai mal au dos."
+            },
+            {
+              "fr": "Il a mal aux dents."
+            },
+            {
+              "fr": "Elle a mal à l'oreille."
+            },
+            {
+              "fr": "J'ai de la fièvre et je tousse."
+            },
+            {
+              "fr": "Vous avez la grippe."
+            },
+            {
+              "fr": "Le médecin donne une ordonnance."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Au, à la, à l' ou aux ?",
+          "items": [
+            {
+              "prompt": "J'ai mal ___ dos.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Tu as mal ___ gorge ?",
+              "answers": [
+                "à la"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Elle a mal ___ oreille.",
+              "answers": [
+                "à l'"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Nous avons mal ___ dents.",
+              "answers": [
+                "aux"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Il a mal ___ ventre.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "J'ai mal ___ tête.",
+              "answers": [
+                "à la"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Ils ont mal ___ pieds.",
+              "answers": [
+                "aux"
+              ],
+              "choices": [
+                "au",
+                "à la",
+                "à l'",
+                "aux"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imperatif-conseils",
+      "title": "L'impératif pour donner des conseils",
+      "minutes": 10,
+      "lede": "The imperative gives orders, instructions and advice. It has an affirmative and a negative form, and pronominal verbs have special rules.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Forme affirmative et négative",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmative",
+              "Buvez de l'eau."
+            ],
+            [
+              "négative",
+              "Ne mangez pas trop de sucre."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "L'impératif des verbes pronominaux",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmative",
+              "Couche-toi tôt ! · Couchez-vous tôt !"
+            ],
+            [
+              "négative",
+              "Ne te couche pas tard ! · Ne vous couchez pas tard !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Three forms only: tu, nous, vous. They are the present tense without the subject: tu prends → Prends ! nous mangeons → Mangeons ! vous buvez → Buvez !\n- -er verbs lose the s in the tu form: Tu regardes → Regarde ! Tu manges → Mange ! (Only for -er verbs and aller: Va !)\n- Negative: ne (n') + verb + pas: Ne mangez pas trop de sucre. Ne vous couchez pas tard. (not “ne pas mangez”)\n- Pronominal verbs: in the affirmative, the pronoun goes after the verb with a hyphen, and te becomes toi: Couche-toi ! Assieds-toi ! Asseyez-vous ! In the negative, it stays before the verb: Ne te couche pas !\n- Don't confuse the imperative with the infinitive of general instructions (Leçon 20: Couper les tomates). Both give instructions: the imperative speaks to someone directly (Coupez!), the infinitive is impersonal (Couper).\n- Several commands in a row are linked by et or just a comma: Asseyez-vous et buvez de l'eau.\n- Imperative of être and avoir are irregular: sois / soyez, aie / ayez (Sois gentil ! N'ayez pas peur !): you will meet them later."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez les conseils",
+          "items": [
+            {
+              "fr": "Buvez de l'eau."
+            },
+            {
+              "fr": "Ne mangez pas trop de sucre."
+            },
+            {
+              "fr": "Dormez huit heures."
+            },
+            {
+              "fr": "Ne restez pas assis toute la journée."
+            },
+            {
+              "fr": "Levez-vous et marchez un peu."
+            },
+            {
+              "fr": "Ne vous couchez pas tard."
+            },
+            {
+              "fr": "Asseyez-vous."
+            },
+            {
+              "fr": "Couche-toi tôt !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "L'impératif affirmatif",
+          "items": [
+            {
+              "prompt": "Tu prends un médicament. → ___ un médicament !",
+              "answers": [
+                "Prends"
+              ]
+            },
+            {
+              "prompt": "Vous buvez de l'eau. → ___ de l'eau !",
+              "answers": [
+                "Buvez"
+              ]
+            },
+            {
+              "prompt": "Nous mangeons des légumes. → ___ des légumes !",
+              "answers": [
+                "Mangeons"
+              ]
+            },
+            {
+              "prompt": "Tu regardes. → ___ !",
+              "answers": [
+                "Regarde"
+              ]
+            },
+            {
+              "prompt": "Vous vous asseyez. → ___ - vous !",
+              "answers": [
+                "Asseyez"
+              ]
+            },
+            {
+              "prompt": "Tu te couches. → Couche- ___ !",
+              "answers": [
+                "toi"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "L'impératif négatif",
+          "items": [
+            {
+              "prompt": "___ mangez pas trop de sucre.",
+              "answers": [
+                "Ne"
+              ]
+            },
+            {
+              "prompt": "Ne ___ pas trop de sucre. (mangez)",
+              "answers": [
+                "mangez"
+              ]
+            },
+            {
+              "prompt": "Ne vous ___ pas tard. (se coucher: vous couchez)",
+              "answers": [
+                "couchez"
+              ]
+            },
+            {
+              "prompt": "Ne ___ pas assis. (rester: restez)",
+              "answers": [
+                "restez"
+              ]
+            },
+            {
+              "prompt": "Ne te ___ pas tard. (se coucher: tu couches)",
+              "answers": [
+                "couches"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devoir-falloir-depuis",
+      "title": "Devoir, il faut, depuis et connaître",
+      "minutes": 10,
+      "lede": "Four useful tools for giving advice: devoir and il faut (must / have to), depuis (since / for) and the verb connaître.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Devoir et connaître",
+          "headers": [
+            "Sujet",
+            "devoir",
+            "connaître"
+          ],
+          "rows": [
+            [
+              "je",
+              "dois",
+              "connais"
+            ],
+            [
+              "tu",
+              "dois",
+              "connais"
+            ],
+            [
+              "il / elle / on",
+              "doit",
+              "connaît"
+            ],
+            [
+              "nous",
+              "devons",
+              "connaissons"
+            ],
+            [
+              "vous",
+              "devez",
+              "connaissez"
+            ],
+            [
+              "ils / elles",
+              "doivent",
+              "connaissent"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Donner un conseil",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "pouvoir + infinitif",
+              "Vous pouvez consulter un pharmacien."
+            ],
+            [
+              "devoir + infinitif",
+              "Vous devez dormir huit heures."
+            ],
+            [
+              "il faut + infinitif",
+              "Il faut boire de l'eau."
+            ],
+            [
+              "il ne faut pas + infinitif",
+              "Il ne faut pas fumer."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Il faut + infinitive is impersonal: no subject, never changes (il faut, il fallait later). Il faut partir = one must leave / we have to leave. For a person, use devoir: Je dois partir.\n- Big trap: il ne faut pas = you must NOT (a prohibition): Il ne faut pas fumer. “You don't have to” is different: Ce n'est pas obligatoire or Vous n'êtes pas obligé de partir.\n- Devoir and pouvoir both take the bare infinitive: Vous devez consulter, Vous pouvez venir. No de or à after them. Compare arrêter de + infinitive: arrêter de fumer (to stop smoking).\n- Devoir also means to owe: Je dois dix euros à Paul. And to be supposed to: Il doit arriver à huit heures.\n- Depuis + present tense says how long something has been going on: J'ai mal à la gorge depuis deux jours (I've had a sore throat for two days). French uses the present because the pain is still there; English uses “have had”.\n- Depuis (still going) vs il y a (finished event): Il tousse depuis une semaine. Il a toussé il y a une semaine.\n- Connaître = to know a person, a place or a thing: Je connais un tabacologue. Il connaît Paris. Savoir = to know a fact or how to: Je sais nager. Il connaît has a circumflex (traditional); connait without it is also accepted since the 1990 spelling reform."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Vous devez dormir huit heures."
+            },
+            {
+              "fr": "Vous pouvez consulter un pharmacien."
+            },
+            {
+              "fr": "Il faut boire de l'eau."
+            },
+            {
+              "fr": "Il ne faut pas fumer."
+            },
+            {
+              "fr": "J'ai mal à la gorge depuis deux jours."
+            },
+            {
+              "fr": "Nous devons partir."
+            },
+            {
+              "fr": "Vous connaissez un bon médecin ?"
+            },
+            {
+              "fr": "Il connaît un pharmacien."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Devoir et connaître",
+          "items": [
+            {
+              "prompt": "Je ___ dormir plus. (devoir)",
+              "answers": [
+                "dois"
+              ]
+            },
+            {
+              "prompt": "Tu ___ consulter un médecin. (devoir)",
+              "answers": [
+                "dois"
+              ]
+            },
+            {
+              "prompt": "Nous ___ partir. (devoir)",
+              "answers": [
+                "devons"
+              ]
+            },
+            {
+              "prompt": "Ils ___ prendre un médicament. (devoir)",
+              "answers": [
+                "doivent"
+              ]
+            },
+            {
+              "prompt": "Vous ___ un bon dentiste ? (connaître)",
+              "answers": [
+                "connaissez"
+              ]
+            },
+            {
+              "prompt": "Il ne ___ pas ce médecin. (connaître)",
+              "answers": [
+                "connaît"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Il faut, il ne faut pas, depuis",
+          "items": [
+            {
+              "prompt": "Il ___ boire de l'eau. (c'est un bon conseil)",
+              "answers": [
+                "faut"
+              ],
+              "choices": [
+                "faut",
+                "ne faut pas"
+              ]
+            },
+            {
+              "prompt": "Il ___ fumer. (c'est interdit)",
+              "answers": [
+                "ne faut pas"
+              ],
+              "choices": [
+                "faut",
+                "ne faut pas"
+              ]
+            },
+            {
+              "prompt": "Il ___ boire trop de café. (ce n'est pas conseillé)",
+              "answers": [
+                "ne faut pas"
+              ],
+              "choices": [
+                "faut",
+                "ne faut pas"
+              ]
+            },
+            {
+              "prompt": "J'ai mal à la tête ___ deux jours.",
+              "answers": [
+                "depuis"
+              ],
+              "choices": [
+                "depuis",
+                "il y a",
+                "pendant"
+              ]
+            },
+            {
+              "prompt": "Il a toussé ___ une semaine. (c'est fini)",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "depuis",
+                "il y a",
+                "pendant"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Conseils de santé",
+          "prompt": "Choisissez un problème (la fatigue, la toux, le mal de tête…) et écrivez trois conseils pour éviter ou soigner le problème. Utilisez l'impératif, il faut, vous devez.",
+          "model": "Pour bien dormir : couchez-vous à la même heure. Il ne faut pas boire de café le soir. Vous devez faire du sport."
+        }
+      ]
+    },
+    {
+      "id": "liaisons-enchainements",
+      "title": "Les liaisons, les enchaînements et l'élision",
+      "minutes": 6,
+      "lede": "In French, words are not separated by pauses: sounds flow from one word to the next. This is called continuity.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois phénomènes",
+          "headers": [
+            "Phénomène",
+            "Exemple",
+            "Ce qu'on entend"
+          ],
+          "rows": [
+            [
+              "élision",
+              "j'ai mal à la gorge",
+              "le e de je disparaît : j'ai"
+            ],
+            [
+              "enchaînement",
+              "une infirmière",
+              "u-nin-fir-mière : le n de « une » s'attache à la voyelle suivante"
+            ],
+            [
+              "liaison",
+              "vous avez des antibiotiques",
+              "vou-za-vé dé-zan-ti-bio-tiques"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Enchaînement: a pronounced final consonant joins the next word beginning with a vowel: elle a mal → e-la-mal. Il a mal à l'oreille → i-la-ma-la-lo-reille.\n- Liaison: a normally silent final consonant is pronounced before a vowel: vous_avez (z), ils_ont (z), des_amis (z), un_ami (n), les_enfants (z). Final -s, -x, -z sound like z; -d like t; -n like n.\n- Liaison is always made between determiner and noun (les_amis, un_ami), pronoun and verb (vous_avez, ils_ont, on_a). It is never made after et (un garçon et un homme: no liaison) and never before a so-called aspirated h (les héros: no liaison, but les_hommes).\n- Elision: je, me, te, se, le, la, ne, de, que, si (before il) drop their vowel before a vowel or mute h: j'ai, l'infirmier, qu'il, s'il.\n- These phenomena make French sound continuous. Practice by saying the group as one long word: j'ai-mal-à-la-gorge."
+        },
+        {
+          "type": "phrases",
+          "title": "Prononcez ces phrases",
+          "items": [
+            {
+              "fr": "J'ai mal à la tête."
+            },
+            {
+              "fr": "Elle a mal aux dents."
+            },
+            {
+              "fr": "Ils ont mal au dos."
+            },
+            {
+              "fr": "Vous avez des antibiotiques ?"
+            },
+            {
+              "fr": "Une infirmière."
+            },
+            {
+              "fr": "Un infirmier."
+            },
+            {
+              "fr": "Les enfants ont mal aux yeux."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Liaison ou pas de liaison ?",
+          "items": [
+            {
+              "prompt": "Dans « vous avez », on fait la liaison ___ .",
+              "answers": [
+                "oui"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "Dans « un garçon et un homme », entre « et » et « un », liaison ___ .",
+              "answers": [
+                "non"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "Dans « les amis », on fait la liaison ___ .",
+              "answers": [
+                "oui"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "Dans « ils ont », on fait la liaison ___ .",
+              "answers": [
+                "oui"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "id": "raconter-un-voyage",
+  "order": 26,
+  "number": 26,
+  "unit": 7,
+  "unitTitle": "Donnez votre avis !",
+  "kicker": "Unité 7 · Leçon 26",
+  "title": "Raconter un voyage",
+  "summary": "Voyage et appréciations · participes passés en -u, -i, -is, -ert · passé composé pronominal · en + année · c'était · continuité",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "voyage-vocabulaire",
+      "title": "Le voyage, les loisirs et les appréciations",
+      "minutes": 8,
+      "lede": "To tell a trip you need transport words, leisure activities and adjectives to give your opinion.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les voyages",
+          "items": [
+            {
+              "fr": "l'aéroport",
+              "icon": "🛫"
+            },
+            {
+              "fr": "un vol",
+              "icon": "✈️"
+            },
+            {
+              "fr": "une valise",
+              "icon": "🧳"
+            },
+            {
+              "fr": "un taxi",
+              "icon": "🚕"
+            },
+            {
+              "fr": "le monorail",
+              "icon": "🚝"
+            },
+            {
+              "fr": "quitter"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les loisirs",
+          "items": [
+            {
+              "fr": "un trek"
+            },
+            {
+              "fr": "une randonnée"
+            },
+            {
+              "fr": "la marche"
+            },
+            {
+              "fr": "un concours"
+            },
+            {
+              "fr": "un prix"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les appréciations",
+          "items": [
+            {
+              "fr": "moderne"
+            },
+            {
+              "fr": "traditionnel"
+            },
+            {
+              "fr": "traditionnelle"
+            },
+            {
+              "fr": "magique"
+            },
+            {
+              "fr": "délicieux"
+            },
+            {
+              "fr": "délicieuse"
+            },
+            {
+              "fr": "animé"
+            },
+            {
+              "fr": "animée"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les adjectifs d'appréciation",
+          "headers": [
+            "Masculin",
+            "Féminin",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "moderne",
+              "moderne",
+              "modern"
+            ],
+            [
+              "traditionnel",
+              "traditionnelle",
+              "traditional"
+            ],
+            [
+              "magique",
+              "magique",
+              "magical"
+            ],
+            [
+              "délicieux",
+              "délicieuse",
+              "delicious"
+            ],
+            [
+              "animé",
+              "animée",
+              "lively"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Quitter needs a direct object (a place or a person): J'ai quitté le parc. Je quitte l'hôtel. Without an object, use partir: Je pars. Je pars de l'hôtel.\n- Un vol = a flight (also theft: un vol de voiture). L'aéroport (masculine) = the airport. Un voyage = a trip, voyager = to travel (nous voyageons).\n- Une randonnée = a hike (faire une randonnée); la marche = walking as an activity; un trek = a long hike. Un voyageur / une voyageuse: a traveller.\n- Adjectives agree in gender: délicieux → délicieuse (x → se), traditionnel → traditionnelle (doubling the l), animé → animée. Adjectives in -e (moderne, magique) don't change.\n- Une valise = a suitcase; un sac à dos = a backpack.. Faire sa valise = to pack your suitcase."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "L'aéroport est moderne."
+            },
+            {
+              "fr": "Le vol dure sept heures."
+            },
+            {
+              "fr": "J'ai laissé ma valise à la réception."
+            },
+            {
+              "fr": "Nous avons pris un taxi."
+            },
+            {
+              "fr": "C'est un quartier animé."
+            },
+            {
+              "fr": "Le repas était délicieux."
+            },
+            {
+              "fr": "La randonnée était magique."
+            },
+            {
+              "fr": "Ce restaurant est traditionnel."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Accordez l'adjectif",
+          "items": [
+            {
+              "prompt": "une cuisine ___ (délicieux)",
+              "answers": [
+                "délicieuse"
+              ]
+            },
+            {
+              "prompt": "un repas ___ (délicieux)",
+              "answers": [
+                "délicieux"
+              ]
+            },
+            {
+              "prompt": "une fête ___ (traditionnel)",
+              "answers": [
+                "traditionnelle"
+              ]
+            },
+            {
+              "prompt": "une ville ___ (animé)",
+              "answers": [
+                "animée"
+              ]
+            },
+            {
+              "prompt": "un quartier ___ (animé)",
+              "answers": [
+                "animé"
+              ]
+            },
+            {
+              "prompt": "un hôtel ___ (moderne)",
+              "answers": [
+                "moderne"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "participes-passes",
+      "title": "Les participes passés en -u, -i, -is, -ert",
+      "minutes": 9,
+      "lede": "Besides regular participles in -é (parler → parlé), many common verbs have participles ending in -u, -i, -is or -ert. Learn them in families.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les familles de participes",
+          "headers": [
+            "Terminaison",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "-u",
+              "descendre → descendu · voir → vu · boire → bu. Je suis descendue du train. J'ai vu un film."
+            ],
+            [
+              "-i",
+              "choisir → choisi · dormir → dormi. J'ai choisi un hôtel. J'ai dormi huit heures."
+            ],
+            [
+              "-is",
+              "prendre → pris. J'ai pris des photos."
+            ],
+            [
+              "-ert",
+              "découvrir → découvert. J'ai découvert un petit musée."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "D'autres participes courants",
+          "headers": [
+            "Infinitif",
+            "Participe"
+          ],
+          "rows": [
+            [
+              "faire",
+              "fait"
+            ],
+            [
+              "avoir",
+              "eu"
+            ],
+            [
+              "être",
+              "été"
+            ],
+            [
+              "pouvoir",
+              "pu"
+            ],
+            [
+              "vouloir",
+              "voulu"
+            ],
+            [
+              "lire",
+              "lu"
+            ],
+            [
+              "mettre",
+              "mis"
+            ],
+            [
+              "écrire",
+              "écrit"
+            ],
+            [
+              "dire",
+              "dit"
+            ],
+            [
+              "offrir",
+              "offert"
+            ],
+            [
+              "ouvrir",
+              "ouvert"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- No single rule gives the participle of every verb, but patterns help: -er → -é, regular -ir (choisir, finir, dormir) → -i, many -re verbs → -u (vendre, attendre, descendre), irregular verbs must be learned.\n- Participles in -is / -it / -ert are common: pris, mis, écrit, dit, découvert, offert, ouvert. They end in a consonant that is pronounced in the feminine (écrite, mise, ouverte) but silent in the masculine.\n- Prendre, apprendre, comprendre all give pris, appris, compris. Mettre / permettre → mis / permis.\n- Faire has fait, with a silent t but spelled with it: j'ai fait [ʒe fɛ]. Avoir → eu is pronounced [y] like the letter u: j'ai eu [ʒe y].\n- The participle in -u is pronounced [y], the same sound as in tu or vu: vu, bu, lu, pu, voulu, reçu, descendu. Be careful not to say [u] (like “oo” in food).\n- Test: if you can't remember the participle, look at the infinitive and its family. Descendre / vendre / attendre / répondre all have -u: descendu, vendu, attendu, répondu."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'ai vu un film traditionnel."
+            },
+            {
+              "fr": "J'ai bu un café."
+            },
+            {
+              "fr": "Nous avons choisi un hôtel."
+            },
+            {
+              "fr": "Elle a dormi huit heures."
+            },
+            {
+              "fr": "J'ai pris des photos."
+            },
+            {
+              "fr": "Tu as découvert un petit musée ?"
+            },
+            {
+              "fr": "Il a fait une randonnée."
+            },
+            {
+              "fr": "Ils ont écrit des cartes postales."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Participes passés",
+          "items": [
+            {
+              "prompt": "J'ai ___ un film. (voir)",
+              "answers": [
+                "vu"
+              ]
+            },
+            {
+              "prompt": "J'ai ___ un café. (boire)",
+              "answers": [
+                "bu"
+              ]
+            },
+            {
+              "prompt": "J'ai ___ un hôtel. (choisir)",
+              "answers": [
+                "choisi"
+              ]
+            },
+            {
+              "prompt": "Elle a ___ huit heures. (dormir)",
+              "answers": [
+                "dormi"
+              ]
+            },
+            {
+              "prompt": "J'ai ___ des photos. (prendre)",
+              "answers": [
+                "pris"
+              ]
+            },
+            {
+              "prompt": "Nous avons ___ un petit musée. (découvrir)",
+              "answers": [
+                "découvert"
+              ]
+            },
+            {
+              "prompt": "Elle est ___ du train. (descendre, féminin)",
+              "answers": [
+                "descendue"
+              ]
+            },
+            {
+              "prompt": "Ils ont ___ des cartes. (écrire)",
+              "answers": [
+                "écrit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passe-pronominal-imparfait",
+      "title": "Le passé composé pronominal, en + année et c'était",
+      "minutes": 10,
+      "lede": "Pronominal verbs use être in the passé composé. En + year places an action, and c'était expresses an opinion about the past.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Se reposer au passé composé",
+          "headers": [
+            "Sujet",
+            "se reposer"
+          ],
+          "rows": [
+            [
+              "je",
+              "me suis reposé(e)"
+            ],
+            [
+              "tu",
+              "t'es reposé(e)"
+            ],
+            [
+              "il",
+              "s'est reposé"
+            ],
+            [
+              "elle",
+              "s'est reposée"
+            ],
+            [
+              "nous",
+              "nous sommes reposé(e)s"
+            ],
+            [
+              "vous",
+              "vous êtes reposé(e)(s)"
+            ],
+            [
+              "ils",
+              "se sont reposés"
+            ],
+            [
+              "elles",
+              "se sont reposées"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "La forme négative",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "sujet + ne + pronom + être + pas + participe",
+              "Je ne me suis pas reposée dans l'avion."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Situer et apprécier dans le passé",
+          "headers": [
+            "Fonction",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "en + année",
+              "En 2019, j'ai changé de travail."
+            ],
+            [
+              "en + mois",
+              "En juillet, j'ai visité le Canada."
+            ],
+            [
+              "apprécier",
+              "C'était magique ! C'était délicieux !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- All pronominal verbs use être in the passé composé: je me suis levé(e), il s'est couché, nous nous sommes reposé(e)s. The reflexive pronoun comes before être.\n- The participle agrees with the subject: a woman writes je me suis reposée, a man je me suis reposé. Il s'est reposé, elle s'est reposée, ils se sont reposés, elles se sont reposées.\n- Negation goes around pronoun + être: Je ne me suis pas reposée. Elle ne s'est pas levée. Not “je me ne suis pas”.\n- Years with en: en 2019 (en deux mille dix-neuf), en 1998 (en mille neuf cent quatre-vingt-dix-huit). With months: en juillet or au mois de juillet. With seasons: au printemps, but en été, en automne, en hiver.\n- C'était (c' + était) is the imparfait of être, used for description and opinions about the past: C'était magique ! C'était délicieux ! You will learn the imparfait later; for now it is a set expression. The present is c'est.\n- Use the passé composé for actions that happened (J'ai visité, je suis allée) and c'était for how things were: Le vol a duré douze heures. C'était long.\n- Also il y avait (imparfait of il y a): Il y avait beaucoup de monde. = There were lots of people."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je me suis reposée à l'hôtel."
+            },
+            {
+              "fr": "Je ne me suis pas reposée dans l'avion."
+            },
+            {
+              "fr": "Il s'est couché tard."
+            },
+            {
+              "fr": "Nous nous sommes levés à sept heures."
+            },
+            {
+              "fr": "En deux mille dix-neuf, j'ai changé de travail.",
+              "label": "En 2019, j'ai changé de travail."
+            },
+            {
+              "fr": "En juillet, j'ai visité le Canada."
+            },
+            {
+              "fr": "C'était magique !"
+            },
+            {
+              "fr": "C'était délicieux !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le passé composé pronominal",
+          "items": [
+            {
+              "prompt": "Je me ___ reposée. (être)",
+              "answers": [
+                "suis"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Tu t'___ levé tôt ? (être)",
+              "answers": [
+                "es"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Elle s'___ couchée tard. (être)",
+              "answers": [
+                "est"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Nous nous ___ reposés. (être)",
+              "answers": [
+                "sommes"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Ils se ___ levés à six heures. (être)",
+              "answers": [
+                "sont"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Négation, en, c'était",
+          "items": [
+            {
+              "prompt": "Je ne me suis ___ reposée.",
+              "answers": [
+                "pas"
+              ]
+            },
+            {
+              "prompt": "___ 2019, j'ai changé de travail.",
+              "answers": [
+                "En"
+              ]
+            },
+            {
+              "prompt": "Au restaurant, c'___ délicieux ! (passé)",
+              "answers": [
+                "était"
+              ],
+              "choices": [
+                "est",
+                "était"
+              ]
+            },
+            {
+              "prompt": "___ été, j'ai visité le Canada. (en/au)",
+              "answers": [
+                "En"
+              ],
+              "choices": [
+                "En",
+                "Au"
+              ]
+            },
+            {
+              "prompt": "Au ___ , nous avons fait une randonnée. (la saison des fleurs)",
+              "answers": [
+                "printemps"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raconter-voyage",
+      "title": "Raconter un voyage",
+      "minutes": 9,
+      "lede": "Put everything together: the place, the date, the actions in order (passé composé), and your opinion (c'était).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Plan d'un récit de voyage",
+          "headers": [
+            "Étape",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1. Où ? Quand ?",
+              "En 2019, j'ai visité Montréal."
+            ],
+            [
+              "2. Pourquoi ?",
+              "J'adore les musées et la cuisine."
+            ],
+            [
+              "3. Les actions dans l'ordre",
+              "À l'aéroport, j'ai pris un taxi, puis je suis allée à mon hôtel."
+            ],
+            [
+              "4. Les lieux visités",
+              "J'ai découvert un quartier animé. Je suis allée dans un grand musée."
+            ],
+            [
+              "5. L'appréciation",
+              "C'était magique ! C'était délicieux !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Pour raconter",
+          "text": "- Use d'abord, puis, ensuite, enfin to link the actions (Leçon 22).\n- Prefer avoir for most actions (j'ai visité, j'ai vu, j'ai pris) and être for movements (je suis allée, je suis arrivée, je suis descendue) and pronominal verbs (je me suis reposée).\n- Give your opinion with c'était + adjective: C'était magique ! C'était animé ! C'était délicieux !\n- Remember to agree the participle after être: a woman writes je suis allée, a man je suis allé."
+        },
+        {
+          "type": "phrases",
+          "title": "Un exemple de voyage",
+          "items": [
+            {
+              "fr": "En deux mille dix-neuf, j'ai visité Montréal.",
+              "label": "En 2019, j'ai visité Montréal."
+            },
+            {
+              "fr": "Le vol a duré sept heures."
+            },
+            {
+              "fr": "À l'aéroport, j'ai pris un taxi."
+            },
+            {
+              "fr": "J'ai laissé mes valises à la réception."
+            },
+            {
+              "fr": "Je suis allée dans un grand musée."
+            },
+            {
+              "fr": "J'ai pris beaucoup de photos. C'était magnifique !"
+            },
+            {
+              "fr": "J'ai mangé une soupe et j'ai bu un chocolat chaud."
+            },
+            {
+              "fr": "Le soir, je me suis reposée à l'hôtel et j'ai dormi dix heures."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez le récit",
+          "items": [
+            {
+              "prompt": "En 2019, j'___ visité Montréal. (avoir)",
+              "answers": [
+                "ai"
+              ]
+            },
+            {
+              "prompt": "Je ___ allée au musée. (être)",
+              "answers": [
+                "suis"
+              ]
+            },
+            {
+              "prompt": "J'ai ___ beaucoup de photos. (prendre)",
+              "answers": [
+                "pris"
+              ]
+            },
+            {
+              "prompt": "C'___ magique !",
+              "answers": [
+                "était"
+              ]
+            },
+            {
+              "prompt": "Je me suis ___ dans l'hôtel. (se reposer, féminin)",
+              "answers": [
+                "reposée"
+              ]
+            },
+            {
+              "prompt": "Je ne me suis pas ___ dans l'avion. (se reposer, féminin)",
+              "answers": [
+                "reposée"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Racontez un voyage",
+          "prompt": "Racontez un voyage réel ou imaginaire : où et quand, ce que vous avez fait, les lieux, et votre appréciation. Utilisez le passé composé et c'était.",
+          "model": "En 2019, je suis allé à Lisbonne. Le vol a duré deux heures. J'ai laissé ma valise à l'hôtel, puis j'ai pris le tramway. J'ai découvert un quartier animé et j'ai mangé du poisson. C'était délicieux ! Le soir, je me suis reposé sur une terrasse."
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Présentez un pays",
+          "prompt": "Choisissez un pays que vous avez visité (sans le nommer) et racontez vos activités. Vos camarades devinent le pays.",
+          "model": "J'ai pris un vol de dix heures. J'ai visité des temples et j'ai mangé du riz. J'ai vu des montagnes magnifiques. C'était magique !"
+        }
+      ]
+    },
+    {
+      "id": "continuite",
+      "title": "La continuité : élision, liaison, enchaînement",
+      "minutes": 5,
+      "lede": "Spoken French flows: no pause between words. Three phenomena link them: élision, liaison and enchaînement (see also Leçon 24).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Rappel",
+          "headers": [
+            "Phénomène",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "élision",
+              "j'ai · l'avion · qu'il"
+            ],
+            [
+              "liaison",
+              "vous_avez · des_amis · ils_ont"
+            ],
+            [
+              "enchaînement",
+              "elle a mal · une infirmière"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Read in groups: J'ai-mal-à-la-gorge is one unit, with no break between words. Practise reading the sentence as one long word.\n- Pause only at the end of a group of meaning: Je suis allée au parc, / et j'ai pris des photos.\n- Liaison with numbers: deux_ans (z), trois_heures (z), dix_ans (z), neuf_heures (v). Before a consonant, six and dix lose their final sound: six livres [si], dix jours [di].\n- Don't make liaison after et or before a word with an aspirated h (les haricots: no liaison, les_hommes: liaison).  Liaison is also common after short, frequent words: on_a, très_utile, ils_ont."
+        },
+        {
+          "type": "phrases",
+          "title": "Prononcez ces phrases",
+          "items": [
+            {
+              "fr": "J'ai mal à la tête."
+            },
+            {
+              "fr": "Elle a mal aux dents."
+            },
+            {
+              "fr": "Ils ont mal au dos."
+            },
+            {
+              "fr": "Vous avez des antibiotiques ?"
+            },
+            {
+              "fr": "Nous avons visité un quartier animé."
+            },
+            {
+              "fr": "Les enfants ont dormi dix heures."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle liaison ?",
+          "items": [
+            {
+              "prompt": "« deux ans » : on prononce la liaison en ___ .",
+              "answers": [
+                "z"
+              ],
+              "choices": [
+                "z",
+                "n",
+                "t"
+              ]
+            },
+            {
+              "prompt": "« un ami » : on prononce la liaison en ___ .",
+              "answers": [
+                "n"
+              ],
+              "choices": [
+                "z",
+                "n",
+                "t"
+              ]
+            },
+            {
+              "prompt": "« les amis » : on prononce la liaison en ___ .",
+              "answers": [
+                "z"
+              ],
+              "choices": [
+                "z",
+                "n",
+                "t"
+              ]
+            },
+            {
+              "prompt": "« un petit enfant » : la liaison entre petit et enfant est en ___ .",
+              "answers": [
+                "t"
+              ],
+              "choices": [
+                "z",
+                "n",
+                "t"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

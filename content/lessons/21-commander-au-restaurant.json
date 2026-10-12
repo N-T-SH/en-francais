@@ -1,0 +1,635 @@
+{
+  "id": "commander-au-restaurant",
+  "order": 21,
+  "number": 21,
+  "unit": 6,
+  "unitTitle": "Partagez vos expériences !",
+  "kicker": "Unité 6 · Leçon 21",
+  "title": "Commander au restaurant",
+  "summary": "Menu et conversation · le passé composé avec avoir · le pronom on · sons [ɛ] et [ɛ̃]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "mots-restaurant",
+      "title": "Au restaurant : les mots et les phrases",
+      "minutes": 9,
+      "lede": "The menu has a fixed structure (entrée, plat, dessert), and the conversation with the waiter follows a predictable script.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les mots du restaurant",
+          "items": [
+            {
+              "fr": "une table",
+              "icon": "🪑"
+            },
+            {
+              "fr": "le menu"
+            },
+            {
+              "fr": "la carte"
+            },
+            {
+              "fr": "l'ardoise"
+            },
+            {
+              "fr": "la formule"
+            },
+            {
+              "fr": "l'addition"
+            },
+            {
+              "fr": "l'entrée"
+            },
+            {
+              "fr": "le plat"
+            },
+            {
+              "fr": "le dessert",
+              "icon": "🍰"
+            },
+            {
+              "fr": "l'apéritif",
+              "icon": "🍹"
+            },
+            {
+              "fr": "la carafe d'eau"
+            },
+            {
+              "fr": "le pichet de vin",
+              "icon": "🍷"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le serveur et le client",
+          "headers": [
+            "Le serveur",
+            "Le client"
+          ],
+          "rows": [
+            [
+              "Vous avez réservé ?",
+              "Oui, au nom de Martin."
+            ],
+            [
+              "Vous avez choisi ?",
+              "Je voudrais la formule du midi."
+            ],
+            [
+              "Vous désirez un apéritif ?",
+              "Non merci, une carafe d'eau, s'il vous plaît."
+            ],
+            [
+              "Qu'est-ce que je vous sers comme boisson ?",
+              "Un jus d'orange et un café."
+            ],
+            [
+              "Vous avez fini ?",
+              "Oui, c'était délicieux."
+            ],
+            [
+              "Je vous apporte l'addition.",
+              "Merci, c'était délicieux."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Le menu in France is a fixed-price set of courses (entrée + plat + dessert). The list of all dishes is la carte. In English, “menu” means la carte: On pourrait avoir la carte ?\n- L'entrée = starter, le plat (principal) = main course. Do not translate “entrée” as “main course”: that's the American meaning.\n- Une formule is a cheaper set menu, often at lunchtime (formule du midi). L'ardoise (slate) is the blackboard with the dishes of the day.\n- On pourrait avoir… is a polite request (literally “we could have…”). Je voudrais… (I would like) is polite; Je veux… is too direct with a waiter.\n- L'addition = the bill. Ask for it with L'addition, s'il vous plaît.\n- Switzerland uses francs suisses (CHF); France and Belgium use euros. Prices are often written 12,50 € (comma for decimals).\n- Service is included in French prices (service compris). A tip is optional, a few coins for good service."
+        },
+        {
+          "type": "phrases",
+          "title": "Un dialogue au restaurant",
+          "items": [
+            {
+              "fr": "Bonsoir ! Vous avez réservé ?"
+            },
+            {
+              "fr": "Oui, au nom de Martin, pour quatre personnes."
+            },
+            {
+              "fr": "On pourrait avoir la carte, s'il vous plaît ?"
+            },
+            {
+              "fr": "Voilà. Vous avez choisi ?"
+            },
+            {
+              "fr": "Je voudrais la formule : une salade en entrée et un poulet rôti."
+            },
+            {
+              "fr": "Et comme boisson ?"
+            },
+            {
+              "fr": "Une carafe d'eau, s'il vous plaît."
+            },
+            {
+              "fr": "Vous avez fini ?"
+            },
+            {
+              "fr": "Oui, c'était délicieux. L'addition, s'il vous plaît !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Au restaurant",
+          "items": [
+            {
+              "prompt": "Bonsoir, vous avez ___ ? (une table à votre nom)",
+              "answers": [
+                "réservé"
+              ]
+            },
+            {
+              "prompt": "On pourrait avoir la ___ , s'il vous plaît ?",
+              "answers": [
+                "carte"
+              ]
+            },
+            {
+              "prompt": "Je voudrais la ___ du midi : entrée, plat et dessert.",
+              "answers": [
+                "formule"
+              ]
+            },
+            {
+              "prompt": "Comme ___ : une carafe d'eau. (ce qu'on boit)",
+              "answers": [
+                "boisson"
+              ]
+            },
+            {
+              "prompt": "Vous avez ___ ? Oui, c'était délicieux.",
+              "answers": [
+                "fini"
+              ]
+            },
+            {
+              "prompt": "L'___ , s'il vous plaît ! (pour payer)",
+              "answers": [
+                "addition"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Un jeu de rôle",
+          "prompt": "À deux : l'un est le serveur, l'autre le client. Le client réserve, choisit un plat et un dessert, puis demande l'addition.",
+          "model": "– Bonsoir, vous avez réservé ? – Oui, au nom de Lopez. – Vous avez choisi ? – Oui, je voudrais une soupe et un poisson, puis un dessert. – Très bien. – L'addition, s'il vous plaît !"
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-avoir",
+      "title": "Le passé composé avec avoir",
+      "minutes": 9,
+      "lede": "The passé composé is the main tense for telling what happened. It has two parts: avoir in the present + the past participle of the verb.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Réserver et finir",
+          "headers": [
+            "Sujet",
+            "réserver",
+            "finir"
+          ],
+          "rows": [
+            [
+              "j'",
+              "ai réservé",
+              "ai fini"
+            ],
+            [
+              "tu",
+              "as réservé",
+              "as fini"
+            ],
+            [
+              "il / elle / on",
+              "a réservé",
+              "a fini"
+            ],
+            [
+              "nous",
+              "avons réservé",
+              "avons fini"
+            ],
+            [
+              "vous",
+              "avez réservé",
+              "avez fini"
+            ],
+            [
+              "ils / elles",
+              "ont réservé",
+              "ont fini"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Former le participe passé",
+          "headers": [
+            "Infinitif",
+            "Participe",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "verbes en -er",
+              "-é",
+              "réserver → réservé"
+            ],
+            [
+              "verbes en -ir",
+              "-i",
+              "finir → fini"
+            ],
+            [
+              "faire (irrégulier)",
+              "fait",
+              "faire → fait"
+            ],
+            [
+              "prendre (irrégulier)",
+              "pris",
+              "prendre → pris"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- One French past tense covers three English ones: J'ai mangé = I ate, I have eaten, I did eat. French has no separate “have eaten”.\n- The auxiliary (avoir) is the one that changes with the subject; the participle stays the same: nous avons mangé, ils ont mangé. With avoir, the participle does not agree with the subject.\n- Parler, parlé, parlez, parler all sound the same [paʁle]. To know which spelling to use after avoir, replace the verb with vendre: you would say J'ai vendu (not J'ai vendre), so you write the participle: J'ai parlé.\n- Je becomes j' before ai: j'ai, not “je ai”. Time words that go with the passé composé: hier, ce matin, samedi dernier, il y a deux jours.\n- Questions: use intonation or est-ce que: Vous avez choisi ? Est-ce que vous avez réservé ? Short answer: Oui, j'ai réservé.\n- Irregular participles to learn by heart: faire → fait, prendre → pris, avoir → eu, être → été, voir → vu, boire → bu."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'ai réservé une table pour ce soir."
+            },
+            {
+              "fr": "Vous avez choisi ?"
+            },
+            {
+              "fr": "Nous avons fini."
+            },
+            {
+              "fr": "Il a pris le menu du jour."
+            },
+            {
+              "fr": "Elles ont mangé au restaurant."
+            },
+            {
+              "fr": "Tu as fait la cuisine ?"
+            },
+            {
+              "fr": "Hier, j'ai dîné chez des amis."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Avoir au présent",
+          "items": [
+            {
+              "prompt": "J'___ réservé.",
+              "answers": [
+                "ai"
+              ],
+              "choices": [
+                "ai",
+                "as",
+                "a",
+                "avons",
+                "avez",
+                "ont"
+              ]
+            },
+            {
+              "prompt": "Tu ___ fini ?",
+              "answers": [
+                "as"
+              ],
+              "choices": [
+                "ai",
+                "as",
+                "a",
+                "avons",
+                "avez",
+                "ont"
+              ]
+            },
+            {
+              "prompt": "Elle ___ choisi la salade.",
+              "answers": [
+                "a"
+              ],
+              "choices": [
+                "ai",
+                "as",
+                "a",
+                "avons",
+                "avez",
+                "ont"
+              ]
+            },
+            {
+              "prompt": "Nous ___ mangé.",
+              "answers": [
+                "avons"
+              ],
+              "choices": [
+                "ai",
+                "as",
+                "a",
+                "avons",
+                "avez",
+                "ont"
+              ]
+            },
+            {
+              "prompt": "Vous ___ commandé ?",
+              "answers": [
+                "avez"
+              ],
+              "choices": [
+                "ai",
+                "as",
+                "a",
+                "avons",
+                "avez",
+                "ont"
+              ]
+            },
+            {
+              "prompt": "Ils ___ payé l'addition.",
+              "answers": [
+                "ont"
+              ],
+              "choices": [
+                "ai",
+                "as",
+                "a",
+                "avons",
+                "avez",
+                "ont"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le participe passé",
+          "items": [
+            {
+              "prompt": "J'ai ___ une table. (réserver)",
+              "answers": [
+                "réservé"
+              ]
+            },
+            {
+              "prompt": "Elle a ___ son repas. (finir)",
+              "answers": [
+                "fini"
+              ]
+            },
+            {
+              "prompt": "Nous avons ___ un café. (prendre)",
+              "answers": [
+                "pris"
+              ]
+            },
+            {
+              "prompt": "Tu as ___ la cuisine ? (faire)",
+              "answers": [
+                "fait"
+              ]
+            },
+            {
+              "prompt": "Ils ont ___ au restaurant. (manger)",
+              "answers": [
+                "mangé"
+              ]
+            },
+            {
+              "prompt": "Vous avez ___ la salade ? (choisir)",
+              "answers": [
+                "choisi"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "on-le-pronom",
+      "title": "Le pronom on",
+      "minutes": 5,
+      "lede": "On is the everyday word for nous. It looks like a singular pronoun (il, elle), but it often means a group.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "On = nous",
+          "headers": [
+            "Avec nous",
+            "Avec on"
+          ],
+          "rows": [
+            [
+              "Nous avons fini.",
+              "On a fini."
+            ],
+            [
+              "Nous allons au restaurant.",
+              "On va au restaurant."
+            ],
+            [
+              "Nous pouvons avoir la carte ?",
+              "On peut avoir la carte ?"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- On is always followed by the il/elle form of the verb: on mange, on a mangé, on va, on fait. Never “on mangent”.\n- On = nous in conversation (On y va ?) but also “people / one / they” in general: En France, on dîne vers vingt heures.\n- Liaison: on a [ɔ̃na], on est [ɔ̃nɛ]: the n links to the vowel. In On pourrait avoir la carte ?, pourrait is the polite “could” form (conditional): you only need to know it as a set phrase.\n- In careful writing, nous is more formal. In an email to a boss, nous ; at a restaurant or with friends, on."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "On a réservé une table."
+            },
+            {
+              "fr": "On pourrait avoir la carte ?"
+            },
+            {
+              "fr": "On va au restaurant ce soir ?"
+            },
+            {
+              "fr": "En France, on dîne tard."
+            },
+            {
+              "fr": "On prend le plat du jour ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Nous → on",
+          "items": [
+            {
+              "prompt": "Nous avons fini. → ___ a fini.",
+              "answers": [
+                "On"
+              ]
+            },
+            {
+              "prompt": "Nous allons au restaurant. → On ___ au restaurant.",
+              "answers": [
+                "va"
+              ]
+            },
+            {
+              "prompt": "Nous prenons la formule. → On ___ la formule.",
+              "answers": [
+                "prend"
+              ]
+            },
+            {
+              "prompt": "Nous mangeons ici. → On ___ ici.",
+              "answers": [
+                "mange"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-e-in",
+      "title": "Les sons [ɛ] et [ɛ̃]",
+      "minutes": 4,
+      "lede": "[ɛ] is oral (open e, as in « dessert »), [ɛ̃] is nasal (as in « vin »): the air also passes through the nose.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Oral ou nasal ?",
+          "headers": [
+            "Son",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[ɛ] oral",
+              "une entrée · un dessert · la fraise"
+            ],
+            [
+              "[ɛ̃] nasal",
+              "le vin · vingt · un · bien · je reviens"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- The nasal [ɛ̃] is spelled in, im, ain, aim, ein, ien (bien) and un. The n or m is not pronounced as a consonant.\n- Many speakers now say un [œ̃] exactly like [ɛ̃]. Compare un [œ̃] with une [yn]: the second has a real n.\n- When n is followed by a vowel, the vowel is no longer nasal: vin [vɛ̃] / vigne, bien [bjɛ̃] / bienvenue [bjɛ̃vny], voisin [vwazɛ̃] / voisine [vwazin]. The feminine has a pronounced n."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "une entrée"
+            },
+            {
+              "fr": "un dessert"
+            },
+            {
+              "fr": "une fraise"
+            },
+            {
+              "fr": "le vin"
+            },
+            {
+              "fr": "vingt"
+            },
+            {
+              "fr": "un"
+            },
+            {
+              "fr": "bien"
+            },
+            {
+              "fr": "je reviens"
+            },
+            {
+              "fr": "un voisin"
+            },
+            {
+              "fr": "une voisine"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Oral ou nasal ?",
+          "items": [
+            {
+              "prompt": "Dans « vin », le son est ___ .",
+              "answers": [
+                "nasal"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « dessert », le son est ___ .",
+              "answers": [
+                "oral"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « bien », le son est ___ .",
+              "answers": [
+                "nasal"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « fraise », le son est ___ .",
+              "answers": [
+                "oral"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

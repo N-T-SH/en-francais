@@ -1,0 +1,606 @@
+{
+  "id": "raconter-un-evenement",
+  "order": 22,
+  "number": 22,
+  "unit": 6,
+  "unitTitle": "Partagez vos expériences !",
+  "kicker": "Unité 6 · Leçon 22",
+  "title": "Raconter un événement",
+  "summary": "Mariage et cinéma · passé composé avec être · accord du participe · négation au passé · d'abord, puis, ensuite · il y a",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "vocabulaire-evenement",
+      "title": "Le mariage, le cinéma et le temps",
+      "minutes": 7,
+      "lede": "To tell a story you need the vocabulary of the event and the words that place it in time: hier, aujourd'hui, demain, il y a…",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le mariage",
+          "items": [
+            {
+              "fr": "une demande en mariage"
+            },
+            {
+              "fr": "se marier"
+            },
+            {
+              "fr": "un fiancé"
+            },
+            {
+              "fr": "une fiancée"
+            },
+            {
+              "fr": "un couple",
+              "icon": "💑"
+            },
+            {
+              "fr": "une bague",
+              "icon": "💍"
+            },
+            {
+              "fr": "un mariage",
+              "icon": "💒"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le cinéma",
+          "items": [
+            {
+              "fr": "une bande-annonce"
+            },
+            {
+              "fr": "un film",
+              "icon": "🎬"
+            },
+            {
+              "fr": "la salle de cinéma"
+            },
+            {
+              "fr": "le scénario"
+            },
+            {
+              "fr": "un spectateur"
+            },
+            {
+              "fr": "une spectatrice"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le temps",
+          "headers": [
+            "Expression",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "hier",
+              "yesterday"
+            ],
+            [
+              "aujourd'hui",
+              "today"
+            ],
+            [
+              "demain",
+              "tomorrow"
+            ],
+            [
+              "samedi dernier",
+              "last Saturday"
+            ],
+            [
+              "la semaine dernière",
+              "last week"
+            ],
+            [
+              "il y a six mois",
+              "five months ago"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Il y a + a length of time = ago: Il y a six mois, Hugo a demandé Camille en mariage. It is the same il y a as « there is », but the meaning comes from the time word after it.\n- Samedi dernier (no article) = last Saturday, once. Le samedi = every Saturday (a habit). The same difference as in Leçon 16.\n- Demander quelqu'un en mariage = to propose to someone (literally “ask someone in marriage”). The couple get married: se marier (pronominal verb). Épouser quelqu'un also means to marry someone: Il épouse Camille.\n- Un fiancé / une fiancée = fiancé(e). Le fiancé de Camille. Un spectateur is a member of an audience; un spectacle is a show.\n- In France the civil marriage takes place at the town hall (la mairie), the PACS (pacte civil de solidarité) is another legal form of union."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Hugo a demandé Camille en mariage."
+            },
+            {
+              "fr": "Il y a six mois, Hugo a demandé Camille en mariage."
+            },
+            {
+              "fr": "Hier, nous avons regardé une bande-annonce."
+            },
+            {
+              "fr": "Samedi dernier, j'ai vu un film."
+            },
+            {
+              "fr": "Aujourd'hui, nous nous marions."
+            },
+            {
+              "fr": "Demain, ils vont se marier."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec le mot du temps",
+          "items": [
+            {
+              "prompt": "___ , nous avons mangé au restaurant. (le jour avant aujourd'hui)",
+              "answers": [
+                "Hier"
+              ],
+              "choices": [
+                "Hier",
+                "Demain",
+                "Aujourd'hui"
+              ]
+            },
+            {
+              "prompt": "___ , nous allons au cinéma. (le jour après aujourd'hui)",
+              "answers": [
+                "Demain"
+              ],
+              "choices": [
+                "Hier",
+                "Demain",
+                "Aujourd'hui"
+              ]
+            },
+            {
+              "prompt": "Il ___ six mois, il a demandé Camille en mariage.",
+              "answers": [
+                "y a"
+              ],
+              "choices": [
+                "y a",
+                "est",
+                "a"
+              ]
+            },
+            {
+              "prompt": "Samedi ___ , j'ai vu un film. (le samedi passé)",
+              "answers": [
+                "dernier"
+              ],
+              "choices": [
+                "dernier",
+                "prochain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-etre",
+      "title": "Le passé composé avec être",
+      "minutes": 10,
+      "lede": "A small group of verbs, mostly verbs of movement, use être (not avoir) in the passé composé. With être, the participle agrees with the subject.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les verbes avec être",
+          "headers": [
+            "Mouvement",
+            "Autres verbes"
+          ],
+          "rows": [
+            [
+              "arriver · partir · aller · venir",
+              "devenir"
+            ],
+            [
+              "descendre · monter · entrer · sortir",
+              "naître · mourir (décéder)"
+            ],
+            [
+              "passer · retourner · tomber",
+              "rester"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Arriver au passé composé",
+          "headers": [
+            "Sujet",
+            "arriver"
+          ],
+          "rows": [
+            [
+              "je",
+              "suis arrivé(e)"
+            ],
+            [
+              "tu",
+              "es arrivé(e)"
+            ],
+            [
+              "il",
+              "est arrivé"
+            ],
+            [
+              "elle",
+              "est arrivée"
+            ],
+            [
+              "nous",
+              "sommes arrivé(e)s"
+            ],
+            [
+              "vous",
+              "êtes arrivé(e)(s)"
+            ],
+            [
+              "ils",
+              "sont arrivés"
+            ],
+            [
+              "elles",
+              "sont arrivées"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Most verbs use avoir. Only about fifteen use être: arriver, partir, aller, venir, descendre, monter, entrer, sortir, passer, retourner, tomber, devenir, naître, mourir, rester (+ rentrer, revenir). English memory trick: DR MRS VANDERTRAMP (Devenir, Revenir, Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Retourner, Arriver, Mourir, Partir, + Passer).\n- Agreement: the participle agrees with the subject: Camille est arrivée (feminine e), Les spectateurs sont arrivés (plural s), Les amies sont arrivées (feminine plural es). Masculine singular adds nothing: Hugo est entré.\n- A woman writes je suis allée, a man je suis allé: both sound the same, only the spelling differs. In speech you usually cannot hear the agreement: arrivé / arrivée, parti / partie sound the same. Some participles do change: mort / morte.\n- Être itself uses avoir: j'ai été, tu as été, il a été. Je suis allé(e) means I went (to a place).\n- Careful: some of these verbs use avoir if they have a direct object: J'ai sorti la voiture (I took the car out) vs Je suis sorti. Elle a monté les valises vs Elle est montée.\n- Faire has an irregular participle: fait. Camille a fait un gâteau. Aller, partir and venir: allé, parti, venu."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Camille est arrivée à dix-neuf heures."
+            },
+            {
+              "fr": "Les amis sont arrivés avant elle."
+            },
+            {
+              "fr": "Hugo est entré dans le restaurant."
+            },
+            {
+              "fr": "Nous sommes sortis après le film."
+            },
+            {
+              "fr": "Elle est allée au cinéma."
+            },
+            {
+              "fr": "Ils sont restés à la maison."
+            },
+            {
+              "fr": "Je suis partie hier soir."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Être au présent",
+          "items": [
+            {
+              "prompt": "Je ___ arrivé.",
+              "answers": [
+                "suis"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Tu ___ allée au cinéma ?",
+              "answers": [
+                "es"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Camille ___ entrée dans la salle.",
+              "answers": [
+                "est"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Nous ___ restés à la maison.",
+              "answers": [
+                "sommes"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Vous ___ partis tôt ?",
+              "answers": [
+                "êtes"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Les spectateurs ___ arrivés.",
+              "answers": [
+                "sont"
+              ],
+              "choices": [
+                "suis",
+                "es",
+                "est",
+                "sommes",
+                "êtes",
+                "sont"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "L'accord du participe",
+          "items": [
+            {
+              "prompt": "Camille est ___ . (arriver)",
+              "answers": [
+                "arrivée"
+              ]
+            },
+            {
+              "prompt": "Hugo est ___ dans la salle. (entrer)",
+              "answers": [
+                "entré"
+              ]
+            },
+            {
+              "prompt": "Les spectateurs sont ___ . (arriver)",
+              "answers": [
+                "arrivés"
+              ]
+            },
+            {
+              "prompt": "Les amies sont ___ au cinéma. (aller)",
+              "answers": [
+                "allées"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negation-chronologie",
+      "title": "La négation au passé et la chronologie",
+      "minutes": 8,
+      "lede": "To say what did not happen, put ne … pas around the auxiliary. To tell a story in order, use d'abord, puis, ensuite.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La négation au passé composé",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "ne/n' + avoir + pas + participe",
+              "Le serveur n'a pas apporté le dessert."
+            ],
+            [
+              "ne + être + pas + participe",
+              "Camille n'est pas arrivée."
+            ],
+            [
+              "ne … jamais",
+              "Je n'ai jamais vu ce film."
+            ],
+            [
+              "ne … rien",
+              "Je n'ai rien mangé."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "La chronologie",
+          "headers": [
+            "Mot",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "d'abord",
+              "first"
+            ],
+            [
+              "puis",
+              "then"
+            ],
+            [
+              "ensuite",
+              "next, afterwards"
+            ],
+            [
+              "après",
+              "after"
+            ],
+            [
+              "enfin",
+              "finally"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Ne … pas goes around the conjugated auxiliary, not the whole verb: Elle n'a pas pleuré. (not “elle a ne pas pleuré”). With être: Ils ne sont pas restés.\n- Ne becomes n' before a vowel: n'a, n'est, n'avons. In speech, ne is often dropped: Il a pas montré le film (informal; write it with ne).\n- Jamais and rien also surround the auxiliary: Je n'ai jamais mangé ça. Je n'ai rien dit.\n- D'abord, puis and ensuite introduce steps in order: D'abord, les invités sont arrivés. Puis le chef a apporté le gâteau. Ensuite, Camille a soufflé les bougies. After puis, a comma is optional.\n- Enfin = finally, at last: Enfin, nous avons mangé le gâteau."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Le serveur n'a pas apporté le dessert."
+            },
+            {
+              "fr": "Camille n'est pas arrivée en retard."
+            },
+            {
+              "fr": "Je n'ai jamais vu ce film."
+            },
+            {
+              "fr": "Je n'ai rien mangé."
+            },
+            {
+              "fr": "D'abord, les invités sont arrivés."
+            },
+            {
+              "fr": "Puis, le chef a apporté le gâteau."
+            },
+            {
+              "fr": "Ensuite, Camille a soufflé les bougies."
+            },
+            {
+              "fr": "Enfin, nous avons mangé le gâteau."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez à la forme négative",
+          "items": [
+            {
+              "prompt": "J'ai mangé. → Je n'___ pas mangé.",
+              "answers": [
+                "ai"
+              ]
+            },
+            {
+              "prompt": "Elle est arrivée. → Elle n'___ pas arrivée.",
+              "answers": [
+                "est"
+              ]
+            },
+            {
+              "prompt": "Nous avons vu le film. → Nous n'avons ___ vu le film.",
+              "answers": [
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Il a dit quelque chose. → Il n'a ___ dit.",
+              "answers": [
+                "rien"
+              ],
+              "choices": [
+                "rien",
+                "jamais",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Tu es déjà allé au Japon ? Non, je ne suis ___ allé au Japon.",
+              "answers": [
+                "jamais"
+              ],
+              "choices": [
+                "rien",
+                "jamais",
+                "pas"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez dans l'ordre : d'abord, puis, ensuite",
+          "items": [
+            {
+              "prompt": "___ , nous avons réservé. (étape 1)",
+              "answers": [
+                "D'abord"
+              ],
+              "choices": [
+                "D'abord",
+                "Puis",
+                "Ensuite"
+              ]
+            },
+            {
+              "prompt": "___ , nous sommes arrivés au restaurant. (étape 2)",
+              "answers": [
+                "Puis"
+              ],
+              "choices": [
+                "D'abord",
+                "Puis",
+                "Ensuite"
+              ]
+            },
+            {
+              "prompt": "___ , nous avons pris un dessert. (étape 3)",
+              "answers": [
+                "Ensuite"
+              ],
+              "choices": [
+                "D'abord",
+                "Puis",
+                "Ensuite"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Racontez un événement",
+          "prompt": "Écrivez un court article (quatre à six phrases) pour raconter un événement : choisissez le sujet, racontez les actions dans l'ordre (d'abord, puis, ensuite) et trouvez un titre.",
+          "model": "Une surprise pour mon amie. Samedi dernier, nous avons organisé une fête pour Léa. D'abord, ses amis sont arrivés. Puis, Léa est entrée dans la salle. Elle a pleuré, puis elle a souri. Ensuite, nous avons mangé un gâteau. Elle n'a pas dit un mot !"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "techniques-pour-avis-blog",
+  "order": 23,
+  "number": 23,
+  "unit": 6,
+  "unitTitle": "Partagez vos expériences !",
+  "kicker": "Unité 6 · Leçon 23",
+  "title": "Techniques pour…",
+  "summary": "Écrire un avis sur un restaurant · écrire un article de blog",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "avis-restaurant",
+      "title": "Écrire un avis sur un restaurant",
+      "minutes": 9,
+      "lede": "A restaurant review is short and has four parts: a general description, what you ate, a general opinion and a piece of advice.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les quatre parties d'un avis",
+          "headers": [
+            "Partie",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1",
+              "Caractériser la cuisine, le lieu et l'accueil",
+              "Cuisine généreuse. Le lieu est agréable et l'accueil est chaleureux."
+            ],
+            [
+              "2",
+              "Dire ce qu'on a mangé",
+              "Samedi soir, j'ai pris une salade de chèvre chaud, puis un poulet rôti."
+            ],
+            [
+              "3",
+              "Donner une appréciation générale",
+              "Une très bonne surprise ! Bravo !"
+            ],
+            [
+              "4",
+              "Conseiller",
+              "Je recommande ce restaurant."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Present tense for describing the place (Le lieu est agréable. Les prix sont raisonnables), passé composé for what you did (J'ai pris, nous avons mangé). Mix them in the same review.\n- Un avis = an opinion / a review. À mon avis = in my opinion. Donner son avis = to give one's opinion. Note: un avis is not “advice” (that is un conseil, see Leçon 24).\n- L'accueil is the welcome you receive on arriving. Chaleureux / chaleureuse = warm, friendly (accueil chaleureux). L'accueil is masculine; l'accueil est chaleureux.\n- Agréable, sympathique, délicieux/délicieuse, excellent(e), rapide, généreux/généreuse: adjectives agree with the noun: une cuisine généreuse, un service rapide. Words ending in -e (agréable) don't change in the feminine.\n- Je recommande + noun: Je recommande ce restaurant. For a negative review: Je ne recommande pas cet endroit. Use à + person for « to someone »: Je le recommande à mes amis.\n- Notes are usually out of ten: Note : huit sur dix. Neuf sur dix is excellent. In France, restaurant prices include service (service compris)."
+        },
+        {
+          "type": "phrases",
+          "title": "Les expressions utiles",
+          "items": [
+            {
+              "fr": "Cuisine simple et traditionnelle."
+            },
+            {
+              "fr": "Le lieu est agréable."
+            },
+            {
+              "fr": "L'accueil est chaleureux."
+            },
+            {
+              "fr": "Le service est rapide."
+            },
+            {
+              "fr": "Les prix sont raisonnables."
+            },
+            {
+              "fr": "Samedi soir, nous avons mangé une soupe de poisson."
+            },
+            {
+              "fr": "En dessert, j'ai pris une tarte aux pommes."
+            },
+            {
+              "fr": "Une belle surprise ! Bravo !"
+            },
+            {
+              "fr": "Je recommande ce restaurant."
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Un exemple d'avis",
+          "items": [
+            {
+              "fr": "Un petit restaurant familial avec une cuisine généreuse."
+            },
+            {
+              "fr": "Samedi soir, j'ai pris une salade de chèvre chaud, puis un poulet rôti avec des frites."
+            },
+            {
+              "fr": "Le service est rapide et les serveurs sont souriants."
+            },
+            {
+              "fr": "Les prix sont raisonnables."
+            },
+            {
+              "fr": "Je recommande !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'avis",
+          "items": [
+            {
+              "prompt": "Le lieu est ___ . (plaisant)",
+              "answers": [
+                "agréable"
+              ]
+            },
+            {
+              "prompt": "L'___ est chaleureux. (le premier contact avec le client)",
+              "answers": [
+                "accueil"
+              ]
+            },
+            {
+              "prompt": "Samedi soir, nous avons ___ du poisson. (manger)",
+              "answers": [
+                "mangé"
+              ]
+            },
+            {
+              "prompt": "Une belle surprise ! ___ !",
+              "answers": [
+                "Bravo"
+              ]
+            },
+            {
+              "prompt": "Je ___ ce restaurant. (je le conseille)",
+              "answers": [
+                "recommande"
+              ]
+            },
+            {
+              "prompt": "La note : neuf ___ dix.",
+              "answers": [
+                "sur"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre avis",
+          "prompt": "Donnez votre avis sur un restaurant de votre ville : décrivez le lieu, dites ce que vous avez mangé, donnez une appréciation et conseillez (ou non). Mettez une note sur dix.",
+          "model": "Un petit restaurant italien près de la gare. Le lieu est calme et l'accueil est chaleureux. Dimanche midi, j'ai pris des pâtes aux légumes et un tiramisu. C'était délicieux ! Note : huit sur dix. Je recommande."
+        }
+      ]
+    },
+    {
+      "id": "article-blog",
+      "title": "Écrire un article de blog",
+      "minutes": 9,
+      "lede": "A blog article tells an experience in your own voice. It presents the subject, describes it, tells what you did, gives your opinion and ends with practical information.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les cinq parties d'un article",
+          "headers": [
+            "Partie",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1",
+              "Présenter le sujet",
+              "Aujourd'hui, je vous raconte une randonnée dans les Alpes."
+            ],
+            [
+              "2",
+              "Caractériser le sujet",
+              "La randonnée du lac, c'est une promenade facile pour toute la famille."
+            ],
+            [
+              "3",
+              "Raconter son expérience",
+              "Nous avons marché trois heures. Puis nous avons mangé au bord du lac."
+            ],
+            [
+              "4",
+              "Donner son avis",
+              "Une journée inoubliable ! À essayer absolument !"
+            ],
+            [
+              "5",
+              "Donner les informations pratiques",
+              "Le départ est à neuf heures, devant l'office de tourisme. C'est gratuit."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Aujourd'hui, je vous raconte… : the blog speaks to its readers with vous (many people), but tells the story with je: je vous raconte, j'ai fait, nous avons marché.\n- Verbs: passé composé for what you did (j'ai fait un thé, nous avons mangé), présent for description and opinion (C'est un cours de cuisine marocaine). C'était + adjective for the opinion about the past: C'était magique !\n- À essayer absolument ! = “a must-try” (infinitive as a recommendation). Other infinitive tips: À voir ! À faire ! À éviter ! (to avoid).\n- Practical information: le prix, les horaires, l'adresse. The shortened form is used in practical blocks: gratuit, de dix heures à midi, rue de la République.\n- Capital letters or exclamation marks (!!!) and smileys are common in blogs for enthusiasm, but keep them for the opinion, not the whole text.\n- Un blog (masculine), un article de blog, une publication (a post), un lecteur / une lectrice (a reader)."
+        },
+        {
+          "type": "phrases",
+          "title": "Les expressions utiles",
+          "items": [
+            {
+              "fr": "Aujourd'hui, je vous raconte une randonnée dans les Alpes."
+            },
+            {
+              "fr": "C'est une promenade facile pour toute la famille."
+            },
+            {
+              "fr": "Nous avons marché trois heures."
+            },
+            {
+              "fr": "J'ai pris beaucoup de photos."
+            },
+            {
+              "fr": "Une journée inoubliable ! À essayer absolument !"
+            },
+            {
+              "fr": "Le départ est à neuf heures, devant l'office de tourisme."
+            },
+            {
+              "fr": "C'est gratuit."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'article",
+          "items": [
+            {
+              "prompt": "Aujourd'hui, je ___ raconte une randonnée.",
+              "answers": [
+                "vous"
+              ]
+            },
+            {
+              "prompt": "C'___ une promenade facile.",
+              "answers": [
+                "est"
+              ]
+            },
+            {
+              "prompt": "Nous ___ marché trois heures. (avoir)",
+              "answers": [
+                "avons"
+              ]
+            },
+            {
+              "prompt": "C'___ magique ! (l'opinion sur le passé)",
+              "answers": [
+                "était"
+              ]
+            },
+            {
+              "prompt": "À essayer ___ ! (sans faute)",
+              "answers": [
+                "absolument"
+              ]
+            },
+            {
+              "prompt": "Le prix : c'est ___ . (0 euro)",
+              "answers": [
+                "gratuit"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre article",
+          "prompt": "Racontez une expérience (un voyage, une sortie, une fête) dans un article de blog : présentez le sujet, racontez, donnez votre avis et ajoutez les informations pratiques.",
+          "model": "Aujourd'hui, je vous raconte une journée au marché de Noël. C'est un marché traditionnel avec des chalets en bois. Nous avons bu du chocolat chaud et nous avons acheté des cadeaux. C'était magique ! À essayer absolument ! Le marché est ouvert de dix heures à vingt heures, c'est gratuit."
+        }
+      ]
+    }
+  ]
+}

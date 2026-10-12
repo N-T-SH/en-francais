@@ -65,8 +65,10 @@ has covered so far:
 | 3 · Faites connaissance ! | 8 Parler de la famille · 9 Décrire une personne · 10 Échanger sur ses goûts · 11 Techniques pour… |
 | 4 · Organisez une sortie ! | 12 S'informer sur un lieu · 13 Indiquer un chemin · 14 Proposer une sortie · 15 Techniques pour… |
 | 5 · Parlez de votre quotidien | 16 Décrire son quotidien · 17 Faire les courses · 18 Acheter des vêtements · 19 Techniques pour… |
-| Bonus (no unit) | 24 L'heure (from learner-shared infographics, not from the book) |
-| 6 | Unit 6 (20–23): not yet covered |
+| Bonus (no unit) | 99 L'heure (from learner-shared infographics, not from the book; numbered 99 so it never clashes with a book lesson) |
+| 6 · Partagez vos expériences ! | 20 Faire une recette · 21 Commander au restaurant · 22 Raconter un événement · 23 Techniques pour… |
+| 7 · Donnez votre avis ! | 24 Conseiller · 25 Proposer un projet · 26 Raconter un voyage (27 Techniques pour…: not added) |
+| 8+ | Unit 8 onwards (28 …): not yet covered |
 
 Sections keep stable ids because progress is saved per `lessonId/sectionId`. If
 a section ever moves to another lesson, add it to `SECTION_MOVES` in

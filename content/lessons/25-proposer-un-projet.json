@@ -1,0 +1,670 @@
+{
+  "id": "proposer-un-projet",
+  "order": 25,
+  "number": 25,
+  "unit": 7,
+  "unitTitle": "Donnez votre avis !",
+  "kicker": "Unité 7 · Leçon 25",
+  "title": "Proposer un projet",
+  "summary": "But et cause · futur proche pronominal · dans · ne … rien · jardin et environnement · sons [a] et [ɑ̃]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "but-cause",
+      "title": "Exprimer le but et la cause",
+      "minutes": 9,
+      "lede": "A project needs a goal (pour + infinitive) and reasons (parce que). You ask for the reason with pourquoi.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le but et la cause",
+          "headers": [
+            "Fonction",
+            "Mot",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "le but",
+              "pour + infinitif",
+              "Un jardin partagé est utile pour rencontrer ses voisins."
+            ],
+            [
+              "la question sur la cause",
+              "Pourquoi ?",
+              "Pourquoi tu préfères une parcelle individuelle ?"
+            ],
+            [
+              "la cause",
+              "parce que",
+              "Parce que je n'aime pas travailler en groupe."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Pour + infinitive = in order to: pour partager, pour embellir, pour respecter l'environnement. It is the same verb form as after devoir or pouvoir (the infinitive), but with pour.\n- Pour + noun is different: Cette parcelle est pour deux personnes (for). With a verb you must use the infinitive: pour avoir (not “pour j'ai”).\n- Pourquoi = why (one word). Pour quoi = for what (two words, rare). The answer starts with parce que (two words), never with pourquoi: – Pourquoi ? – Parce que j'aime travailler seul.\n- Parce que becomes parce qu' before a vowel: parce qu'il, parce qu'elle, parce qu'on. Pourquoi never changes.\n- Parce que introduces a clause with a verb: Je viens parce que j'aime le jardinage. Before a noun you will later use à cause de (because of): for now, always parce que + subject + verb.\n- In speech, parce que alone is a normal answer to Pourquoi ? : – Pourquoi ? – Parce que."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Un jardin partagé est utile pour rencontrer ses voisins."
+            },
+            {
+              "fr": "On plante des légumes pour avoir des tomates."
+            },
+            {
+              "fr": "Pourquoi tu préfères une parcelle individuelle ?"
+            },
+            {
+              "fr": "Parce que je n'aime pas travailler en groupe."
+            },
+            {
+              "fr": "Parce qu'elle aime les fleurs."
+            },
+            {
+              "fr": "On crée un jardin pour respecter l'environnement."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Pour ou parce que ?",
+          "items": [
+            {
+              "prompt": "On plante des tomates ___ avoir des légumes.",
+              "answers": [
+                "pour"
+              ],
+              "choices": [
+                "pour",
+                "parce que"
+              ]
+            },
+            {
+              "prompt": "Pourquoi tu viens ? ___ j'aime le jardinage.",
+              "answers": [
+                "Parce que"
+              ],
+              "choices": [
+                "Pour",
+                "Parce que"
+              ]
+            },
+            {
+              "prompt": "Un jardin collectif est utile ___ embellir le quartier.",
+              "answers": [
+                "pour"
+              ],
+              "choices": [
+                "pour",
+                "parce que"
+              ]
+            },
+            {
+              "prompt": "Je préfère la parcelle individuelle ___ je travaille seul.",
+              "answers": [
+                "parce que"
+              ],
+              "choices": [
+                "pour",
+                "parce que"
+              ]
+            },
+            {
+              "prompt": "Elle ne vient pas ___ il est malade. (parce qu'il)",
+              "answers": [
+                "parce qu'"
+              ],
+              "choices": [
+                "parce que",
+                "parce qu'"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Pourquoi ?",
+          "items": [
+            {
+              "prompt": "___ vous voulez un jardin ? – Parce que j'aime les légumes.",
+              "answers": [
+                "Pourquoi"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "futur-proche-dans-rien",
+      "title": "Le futur proche des verbes pronominaux, dans et ne … rien",
+      "minutes": 10,
+      "lede": "You already know the near future (aller + infinitive). With a pronominal verb, the pronoun comes between aller and the infinitive and changes with the subject.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "S'inscrire au futur proche",
+          "headers": [
+            "Sujet",
+            "futur proche"
+          ],
+          "rows": [
+            [
+              "je",
+              "vais m'inscrire"
+            ],
+            [
+              "tu",
+              "vas t'inscrire"
+            ],
+            [
+              "il / elle / on",
+              "va s'inscrire"
+            ],
+            [
+              "nous",
+              "allons nous inscrire"
+            ],
+            [
+              "vous",
+              "allez vous inscrire"
+            ],
+            [
+              "ils / elles",
+              "vont s'inscrire"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Situer dans le futur",
+          "headers": [
+            "Expression",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "demain",
+              "tomorrow"
+            ],
+            [
+              "jeudi prochain",
+              "next Thursday"
+            ],
+            [
+              "dans trois jours",
+              "in three days"
+            ],
+            [
+              "dans une semaine",
+              "in a week"
+            ],
+            [
+              "dans un mois",
+              "in a month"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- The reflexive pronoun matches the subject, not aller: Je vais m'inscrire, Nous allons nous inscrire. The infinitive is not conjugated but its pronoun is.\n- Negation goes around aller: Je ne vais pas m'inscrire. Tu ne vas pas t'inscrire. (not “je vais ne pas m'inscrire”).\n- Dans + time = in (from now): La bibliothèque ouvre dans un mois (in one month). En + time = how long it takes: Je finis le travail en une heure (it takes me one hour). Dans looks forward; il y a looks back: Il y a un mois, nous avons commencé; Dans un mois, nous allons finir.\n- Ne … rien = nothing / not anything: Je ne connais rien à la cuisine. Rien goes where pas would go: Je ne mange rien. With the passé composé, rien comes before the participle: Je n'ai rien mangé.\n- Rien can also be a short answer: Qu'est-ce que tu fais ? – Rien. And in negative: Je ne fais rien.\n- The three negations you know: ne … pas (not), ne … jamais (never), ne … rien (nothing). All three put ne before the verb and the second word after it."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je vais m'inscrire à la réunion."
+            },
+            {
+              "fr": "Tu vas t'inscrire aussi ?"
+            },
+            {
+              "fr": "Nous allons nous inscrire jeudi."
+            },
+            {
+              "fr": "Ils vont se reposer demain."
+            },
+            {
+              "fr": "La bibliothèque ouvre dans un mois."
+            },
+            {
+              "fr": "Je ne connais rien à la cuisine."
+            },
+            {
+              "fr": "Je ne vais pas m'inscrire."
+            },
+            {
+              "fr": "Dans trois jours, nous allons planter des tomates."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Futur proche pronominal",
+          "items": [
+            {
+              "prompt": "Je vais ___ inscrire. (me / m')",
+              "answers": [
+                "m'"
+              ],
+              "choices": [
+                "m'",
+                "t'",
+                "s'",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Tu vas ___ lever tôt ? (te / t')",
+              "answers": [
+                "te"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Elle va ___ inscrire. (se / s')",
+              "answers": [
+                "s'"
+              ],
+              "choices": [
+                "m'",
+                "t'",
+                "s'",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Nous allons ___ reposer.",
+              "answers": [
+                "nous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Vous allez ___ marier ?",
+              "answers": [
+                "vous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Dans, il y a, rien",
+          "items": [
+            {
+              "prompt": "La bibliothèque ouvre ___ un mois. (futur)",
+              "answers": [
+                "dans"
+              ],
+              "choices": [
+                "dans",
+                "il y a",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Nous avons commencé ___ un mois. (passé)",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "dans",
+                "il y a",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je ne connais ___ à la cuisine.",
+              "answers": [
+                "rien"
+              ]
+            },
+            {
+              "prompt": "Je n'ai ___ mangé. (aucune nourriture)",
+              "answers": [
+                "rien"
+              ]
+            },
+            {
+              "prompt": "Qu'est-ce que tu fais demain ? ___ ! (aucune activité)",
+              "answers": [
+                "Rien"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre projet de quartier",
+          "prompt": "Proposez un projet pour votre quartier : dites le but (pour + infinitif), les raisons (parce que) et ce que vous allez faire (futur proche).",
+          "model": "Je vais organiser un marché dans mon quartier pour rencontrer mes voisins. Nous allons vendre des gâteaux et des légumes. Je fais ce projet parce que j'aime la vie de quartier. Dans un mois, nous allons ouvrir le marché."
+        }
+      ]
+    },
+    {
+      "id": "jardin-environnement",
+      "title": "Le jardin, le projet et l'environnement",
+      "minutes": 8,
+      "lede": "Vocabulary for a neighbourhood project: the garden, the environment and the words for planning ahead.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le jardin",
+          "items": [
+            {
+              "fr": "le jardin partagé",
+              "icon": "🌳"
+            },
+            {
+              "fr": "le jardin collectif"
+            },
+            {
+              "fr": "le jardinage"
+            },
+            {
+              "fr": "la parcelle"
+            },
+            {
+              "fr": "le compost"
+            },
+            {
+              "fr": "un engrais naturel"
+            },
+            {
+              "fr": "planter des tomates",
+              "icon": "🍅"
+            },
+            {
+              "fr": "des plantations"
+            },
+            {
+              "fr": "une autoproduction"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le projet",
+          "items": [
+            {
+              "fr": "un objectif"
+            },
+            {
+              "fr": "un but"
+            },
+            {
+              "fr": "un voisin"
+            },
+            {
+              "fr": "une voisine"
+            },
+            {
+              "fr": "un quartier"
+            },
+            {
+              "fr": "un immeuble"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'environnement",
+          "items": [
+            {
+              "fr": "respecter l'environnement"
+            },
+            {
+              "fr": "embellir le quartier"
+            },
+            {
+              "fr": "des légumes bio",
+              "icon": "🥕"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les indicateurs du futur",
+          "headers": [
+            "Expression",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "demain",
+              "tomorrow"
+            ],
+            [
+              "jeudi prochain",
+              "next Thursday"
+            ],
+            [
+              "la semaine prochaine",
+              "next week"
+            ],
+            [
+              "dans trois jours",
+              "in three days"
+            ],
+            [
+              "l'année prochaine",
+              "next year"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un jardin partagé is a shared garden where each person has a plot (une parcelle); un jardin collectif is farmed by the group. Un potager is a vegetable garden at home.\n- Bio (short for biologique) = organic: des légumes bio, un engrais naturel (natural fertiliser) vs chimique. Bio doesn't change in the feminine or plural.\n- Prochain = next, in the future: la semaine prochaine, jeudi prochain, l'année prochaine. Dernier = last (in the past): samedi dernier. Both go after the noun and no article with the day: jeudi prochain.\n- Un but is a goal (also a goal in football) and un objectif is an objective: both are « goal », and both are used with pour + infinitive.\n- Quartier = neighbourhood, immeuble = apartment building (not “immovable”). Voisin / voisine: the neighbour; the feminine is pronounced with the n: voisine [vwazin]."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Nous allons créer un jardin partagé."
+            },
+            {
+              "fr": "Chaque famille a une parcelle."
+            },
+            {
+              "fr": "Le compost est un engrais naturel."
+            },
+            {
+              "fr": "Nous plantons des tomates et des carottes."
+            },
+            {
+              "fr": "Vous voulez respecter l'environnement ?"
+            },
+            {
+              "fr": "Jeudi prochain, il y a une réunion d'information."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Dans un jardin partagé, chaque personne a une ___ . (un petit terrain)",
+              "answers": [
+                "parcelle"
+              ]
+            },
+            {
+              "prompt": "On met du ___ comme engrais naturel.",
+              "answers": [
+                "compost"
+              ]
+            },
+            {
+              "prompt": "Les légumes sans produits chimiques sont des légumes ___ .",
+              "answers": [
+                "bio"
+              ]
+            },
+            {
+              "prompt": "Les gens qui habitent près de chez nous sont nos ___ .",
+              "answers": [
+                "voisins"
+              ]
+            },
+            {
+              "prompt": "Le contraire de « dernier » (pour le futur) : la semaine ___ .",
+              "answers": [
+                "prochaine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-a-an",
+      "title": "Les sons [a] et [ɑ̃]",
+      "minutes": 4,
+      "lede": "[a] is oral, [ɑ̃] is nasal: the air also goes through the nose, and the n or m is not pronounced.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Oral ou nasal ?",
+          "headers": [
+            "Son",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[a] oral",
+              "la tomate · le jardinage · le jardin partagé"
+            ],
+            [
+              "[ɑ̃] nasal",
+              "dans · planter · demander · l'engrais · l'environnement"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- [ɑ̃] is spelled an, am, en, em: dans, planter, lampe, demander, l'environnement. The n or m only marks the nasal vowel.\n- When the n or m is followed by a vowel (or doubled), the vowel is not nasal: an [ɑ̃] but année [ane]; ami [ami], animal [animal]; enfant [ɑ̃fɑ̃] but ennemi [ɛnmi].\n- At the end of verbs, -ent is silent: ils plantent sounds like il plante. In souvent or vraiment, -ent is a nasal sound [ɑ̃].\n- The nasal vowel is deeper and rounder than [a]: practise a – an – a – an."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "la tomate"
+            },
+            {
+              "fr": "le jardinage"
+            },
+            {
+              "fr": "dans"
+            },
+            {
+              "fr": "planter"
+            },
+            {
+              "fr": "demander"
+            },
+            {
+              "fr": "l'engrais"
+            },
+            {
+              "fr": "l'environnement"
+            },
+            {
+              "fr": "souvent"
+            },
+            {
+              "fr": "une année"
+            },
+            {
+              "fr": "un ami"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Oral ou nasal ?",
+          "items": [
+            {
+              "prompt": "Dans « dans », le son est ___ .",
+              "answers": [
+                "nasal"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « tomate », le son [a] est ___ .",
+              "answers": [
+                "oral"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « planter », le premier son voyelle est ___ .",
+              "answers": [
+                "nasal"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            },
+            {
+              "prompt": "Dans « année », le premier son est ___ .",
+              "answers": [
+                "oral"
+              ],
+              "choices": [
+                "oral",
+                "nasal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

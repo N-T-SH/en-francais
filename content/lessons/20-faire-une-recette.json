@@ -1,0 +1,687 @@
+{
+  "id": "faire-une-recette",
+  "order": 20,
+  "number": 20,
+  "unit": 6,
+  "unitTitle": "Partagez vos expériences !",
+  "kicker": "Unité 6 · Leçon 20",
+  "title": "Faire une recette",
+  "summary": "Ustensiles et ingrédients · pas de, un peu de, beaucoup de · l'infinitif de la recette · manger · le son [j]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "ustensiles-ingredients",
+      "title": "Les ustensiles et les ingrédients",
+      "minutes": 8,
+      "lede": "Before cooking you need the vocabulary of the kitchen: tools (ustensiles), appliances (appareils), ingredients and the quantities you use.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les ustensiles de cuisine",
+          "items": [
+            {
+              "fr": "une cuillère",
+              "icon": "🥄"
+            },
+            {
+              "fr": "une fourchette",
+              "icon": "🍴"
+            },
+            {
+              "fr": "un couteau",
+              "icon": "🔪"
+            },
+            {
+              "fr": "une poêle",
+              "icon": "🍳"
+            },
+            {
+              "fr": "une casserole"
+            },
+            {
+              "fr": "une cocotte"
+            },
+            {
+              "fr": "un moule"
+            },
+            {
+              "fr": "un saladier",
+              "icon": "🥣"
+            },
+            {
+              "fr": "une passoire"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les appareils",
+          "items": [
+            {
+              "fr": "un four"
+            },
+            {
+              "fr": "une cuisinière"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les ingrédients",
+          "items": [
+            {
+              "fr": "une aubergine",
+              "icon": "🍆"
+            },
+            {
+              "fr": "un poivron rouge",
+              "icon": "🫑"
+            },
+            {
+              "fr": "un poivron vert",
+              "icon": "🫑"
+            },
+            {
+              "fr": "le bœuf",
+              "icon": "🥩"
+            },
+            {
+              "fr": "l'agneau"
+            },
+            {
+              "fr": "le thym",
+              "icon": "🌿"
+            },
+            {
+              "fr": "le laurier",
+              "icon": "🌿"
+            },
+            {
+              "fr": "l'huile d'olive",
+              "icon": "🫒"
+            },
+            {
+              "fr": "le piment",
+              "icon": "🌶️"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les quantités",
+          "headers": [
+            "Mot",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "un kilo",
+              "un kilo de tomates"
+            ],
+            [
+              "un gramme",
+              "deux cents grammes de farine"
+            ],
+            [
+              "une cuillère",
+              "une cuillère à soupe d'huile"
+            ],
+            [
+              "un brin",
+              "un brin de thym"
+            ],
+            [
+              "une feuille",
+              "une feuille de laurier"
+            ],
+            [
+              "une gousse",
+              "une gousse d'ail"
+            ],
+            [
+              "un peu",
+              "un peu de sel"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Une cuillère à soupe (tablespoon) and une cuillère à café (teaspoon): the word after à says which spoon. De + ingredient follows: une cuillère à soupe d'huile.\n- Une poêle (frying pan) is feminine and sounds like « pwal ». Un poêle (masculine, same spelling) is a stove: only the gender tells them apart.\n- Un four is the oven; une cuisinière is the whole cooker (hobs and oven). Un micro-ondes is a microwave.\n- Un poivron is a bell pepper, le poivre is pepper (the spice): do not mix them up. Une aubergine is an aubergine/eggplant.\n- Le bœuf (beef) is pronounced with the f (« bœf »), but les bœufs (oxen, plural) lose it (« beu »). L'agneau (lamb) is pronounced « a-nyo »: gn sounds like ny."
+        },
+        {
+          "type": "exercise",
+          "title": "Quel ustensile ?",
+          "items": [
+            {
+              "prompt": "On coupe les légumes avec un ___ .",
+              "answers": [
+                "couteau"
+              ]
+            },
+            {
+              "prompt": "On fait cuire un œuf dans une ___ .",
+              "answers": [
+                "poêle"
+              ]
+            },
+            {
+              "prompt": "On mélange la salade dans un ___ .",
+              "answers": [
+                "saladier"
+              ]
+            },
+            {
+              "prompt": "On mange la soupe avec une ___ .",
+              "answers": [
+                "cuillère"
+              ]
+            },
+            {
+              "prompt": "On égoutte les pâtes avec une ___ .",
+              "answers": [
+                "passoire"
+              ]
+            },
+            {
+              "prompt": "On met le gâteau dans le ___ .",
+              "answers": [
+                "four"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quantite-infinitif",
+      "title": "La quantité et l'infinitif de la recette",
+      "minutes": 9,
+      "lede": "A recipe lists the ingredients with quantities (pas de, un peu de, beaucoup de) and describes the steps with the infinitive: Couper les tomates. Ne pas saisir.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La quantité déterminée et indéterminée",
+          "headers": [
+            "Quantité",
+            "Expression",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "aucune",
+              "pas de",
+              "Il n'y a pas de viande."
+            ],
+            [
+              "un peu",
+              "un peu de",
+              "Il y a un peu de sel."
+            ],
+            [
+              "beaucoup",
+              "beaucoup de",
+              "Il y a beaucoup de légumes."
+            ],
+            [
+              "mesure précise",
+              "un kilo de · un litre de",
+              "un kilo de carottes"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "L'infinitif dans une recette",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmative",
+              "Couper les tomates."
+            ],
+            [
+              "négative",
+              "Ne pas saisir."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- After pas de, un peu de, beaucoup de, trop de, un kilo de: always de (or d' before a vowel), never du / de la / des. Beaucoup de légumes, un peu d'huile, pas de sel.\n- Un peu de (a little) is positive: Il y a un peu de sel (enough to taste). Peu de (hardly any) is negative: Il y a peu de sel (not enough). Add un to be positive.\n- In a recipe, the infinitive is a general instruction for anyone: Éplucher les courgettes. Cooks also use the vous imperative: Épluchez les courgettes. Both are correct.\n- Negative infinitive: ne pas goes together before the verb: Ne pas saisir. (not “pas ne saisir”). Same for ne jamais: Ne jamais laisser le feu seul.\n- In listening, the -er infinitive (couper) and the vous imperative (coupez) sound exactly the same [kupe]. Only the spelling tells them apart.\n- Faire cuire = to cook (literally “make cook”): Laisser cuire doucement. Faire revenir = to brown lightly in oil or butter. Saisir = to sear on strong heat."
+        },
+        {
+          "type": "phrases",
+          "title": "Les étapes d'une recette",
+          "items": [
+            {
+              "fr": "éplucher les légumes"
+            },
+            {
+              "fr": "couper les carottes"
+            },
+            {
+              "fr": "ajouter l'eau"
+            },
+            {
+              "fr": "mélanger"
+            },
+            {
+              "fr": "chauffer l'huile"
+            },
+            {
+              "fr": "faire revenir les oignons"
+            },
+            {
+              "fr": "laisser cuire doucement"
+            },
+            {
+              "fr": "Ne pas saisir les oignons."
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Une recette simple : la soupe de légumes",
+          "items": [
+            {
+              "fr": "Éplucher les carottes et les pommes de terre."
+            },
+            {
+              "fr": "Couper les légumes."
+            },
+            {
+              "fr": "Chauffer un peu d'huile dans une casserole."
+            },
+            {
+              "fr": "Faire revenir l'oignon."
+            },
+            {
+              "fr": "Ajouter les légumes et l'eau."
+            },
+            {
+              "fr": "Laisser cuire vingt minutes.",
+              "label": "Laisser cuire 20 minutes."
+            },
+            {
+              "fr": "Saler et poivrer."
+            },
+            {
+              "fr": "Ne pas ajouter trop de sel."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Pas de, un peu de ou beaucoup de ?",
+          "items": [
+            {
+              "prompt": "Dans la soupe, il y a ___ légumes. (très nombreux)",
+              "answers": [
+                "beaucoup de"
+              ],
+              "choices": [
+                "pas de",
+                "un peu de",
+                "beaucoup de"
+              ]
+            },
+            {
+              "prompt": "Il y a ___ sel. (une petite quantité)",
+              "answers": [
+                "un peu de"
+              ],
+              "choices": [
+                "pas de",
+                "un peu de",
+                "beaucoup de"
+              ]
+            },
+            {
+              "prompt": "Il n'y a ___ viande. (aucune)",
+              "answers": [
+                "pas de"
+              ],
+              "choices": [
+                "pas de",
+                "un peu de",
+                "beaucoup de"
+              ]
+            },
+            {
+              "prompt": "Je mets ___ poivre. (une pincée)",
+              "answers": [
+                "un peu de"
+              ],
+              "choices": [
+                "pas de",
+                "un peu de",
+                "beaucoup de"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la recette (infinitif)",
+          "items": [
+            {
+              "prompt": "___ les tomates en rondelles. (couper)",
+              "answers": [
+                "couper"
+              ]
+            },
+            {
+              "prompt": "___ l'huile dans la poêle. (chauffer)",
+              "answers": [
+                "chauffer"
+              ]
+            },
+            {
+              "prompt": "___ les oignons. (faire revenir)",
+              "answers": [
+                "faire revenir"
+              ]
+            },
+            {
+              "prompt": "Laisser ___ doucement. (cuire)",
+              "answers": [
+                "cuire"
+              ]
+            },
+            {
+              "prompt": "Ne pas ___ le sel. (oublier)",
+              "answers": [
+                "oublier"
+              ]
+            },
+            {
+              "prompt": "Ne pas ___ les oignons. (saisir)",
+              "answers": [
+                "saisir"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre recette",
+          "prompt": "Écrivez une recette facile : le nom du plat, les ingrédients avec les quantités, les ustensiles, le nombre de personnes et trois ou quatre étapes à l'infinitif.",
+          "model": "Salade de tomates (pour deux personnes). Ingrédients : quatre tomates, un oignon, un peu d'huile d'olive, un peu de sel. Ustensile : un saladier. Couper les tomates. Couper l'oignon. Mélanger dans le saladier. Ajouter l'huile et le sel."
+        }
+      ]
+    },
+    {
+      "id": "manger-verbes-ger",
+      "title": "Le verbe manger et les verbes en -ger",
+      "minutes": 5,
+      "lede": "Manger is a regular -er verb with one spelling trick: the nous form keeps an e so that the g stays soft.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Manger au présent",
+          "headers": [
+            "Sujet",
+            "manger"
+          ],
+          "rows": [
+            [
+              "je",
+              "mange"
+            ],
+            [
+              "tu",
+              "manges"
+            ],
+            [
+              "il / elle / on",
+              "mange"
+            ],
+            [
+              "nous",
+              "mangeons"
+            ],
+            [
+              "vous",
+              "mangez"
+            ],
+            [
+              "ils / elles",
+              "mangent"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Why the extra e? Before o and a, a bare g would sound hard (like “go”). The e keeps it soft [ʒ]: nous mangeons, not “nous mangons”. Same pattern for voyager, partager, ranger, nager, changer, déranger.\n- Verbs in -cer do the same trick with c → ç: commencer → nous commençons (the ç keeps the soft [s] sound). Only the nous form is affected.\n- Je mange, tu manges, il mange and ils mangent all sound the same [mɑ̃ʒ]. The -s and -ent are silent.\n- Manger has no preposition before a food: Je mange du riz (partitive), Je mange une pomme.\n- The imperative nous form keeps the e too: Mangeons ! (let's eat)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je mange du riz à midi."
+            },
+            {
+              "fr": "Tu manges souvent des légumes ?"
+            },
+            {
+              "fr": "Nous mangeons à la maison."
+            },
+            {
+              "fr": "Nous partageons la pizza."
+            },
+            {
+              "fr": "Vous mangez ici ?"
+            },
+            {
+              "fr": "Nous voyageons en train."
+            },
+            {
+              "fr": "Nous commençons la recette."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez",
+          "items": [
+            {
+              "prompt": "Je ___ des pâtes. (manger)",
+              "answers": [
+                "mange"
+              ]
+            },
+            {
+              "prompt": "Tu ___ du poisson ? (manger)",
+              "answers": [
+                "manges"
+              ]
+            },
+            {
+              "prompt": "Nous ___ à midi. (manger)",
+              "answers": [
+                "mangeons"
+              ]
+            },
+            {
+              "prompt": "Vous ___ ici ? (manger)",
+              "answers": [
+                "mangez"
+              ]
+            },
+            {
+              "prompt": "Ils ___ ensemble. (manger)",
+              "answers": [
+                "mangent"
+              ]
+            },
+            {
+              "prompt": "Nous ___ la pizza. (partager)",
+              "answers": [
+                "partageons"
+              ]
+            },
+            {
+              "prompt": "Nous ___ en train. (voyager)",
+              "answers": [
+                "voyageons"
+              ]
+            },
+            {
+              "prompt": "Nous ___ la recette. (commencer)",
+              "answers": [
+                "commençons"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "son-j",
+      "title": "Le son [j]",
+      "minutes": 4,
+      "lede": "The sound [j] is like the English y in “yes”. It is spelled in many ways: y, ï, i + vowel, and -il, -ill, -ail, -eil, -euil, -ouil.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Comment on l'écrit",
+          "headers": [
+            "Écriture",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "y",
+              "un yaourt · le yoga"
+            ],
+            [
+              "ï",
+              "l'aïe ! (ouch)"
+            ],
+            [
+              "ie, io",
+              "un ingrédient · délicieux"
+            ],
+            [
+              "-ail",
+              "l'ail · le travail"
+            ],
+            [
+              "-eil, -euil",
+              "une feuille · le soleil"
+            ],
+            [
+              "-ouille",
+              "la ratatouille · la grenouille"
+            ],
+            [
+              "-ille",
+              "la cuillère · la fille"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "Listen out for it",
+          "text": "- -il or -ail at the end of a word is [j]: travail [tʁavaj], ail [aj]. The l is not pronounced.\n- -ille is usually [j] too: fille [fij], famille [famij], cuillère [kɥijɛʁ].\n- Exceptions: ville [vil], mille [mil], tranquille [tʁɑ̃kil] and Lille are pronounced with [l], not [j].\n- Smile and keep the tongue tip low behind the lower teeth; do not start a “dg” sound as in “jelly”."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "le yaourt"
+            },
+            {
+              "fr": "le yoga"
+            },
+            {
+              "fr": "de l'ail"
+            },
+            {
+              "fr": "je travaille"
+            },
+            {
+              "fr": "une feuille"
+            },
+            {
+              "fr": "la cuillère"
+            },
+            {
+              "fr": "la fille"
+            },
+            {
+              "fr": "la famille"
+            },
+            {
+              "fr": "un ingrédient"
+            },
+            {
+              "fr": "délicieux"
+            },
+            {
+              "fr": "la ratatouille"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "[j] ou [l] ?",
+          "items": [
+            {
+              "prompt": "Dans « famille », on entend ___ .",
+              "answers": [
+                "[j]"
+              ],
+              "choices": [
+                "[j]",
+                "[l]"
+              ]
+            },
+            {
+              "prompt": "Dans « ville », on entend ___ .",
+              "answers": [
+                "[l]"
+              ],
+              "choices": [
+                "[j]",
+                "[l]"
+              ]
+            },
+            {
+              "prompt": "Dans « travail », on entend ___ .",
+              "answers": [
+                "[j]"
+              ],
+              "choices": [
+                "[j]",
+                "[l]"
+              ]
+            },
+            {
+              "prompt": "Dans « mille », on entend ___ .",
+              "answers": [
+                "[l]"
+              ],
+              "choices": [
+                "[j]",
+                "[l]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
