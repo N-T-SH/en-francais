@@ -1,0 +1,262 @@
+{
+  "id": "techniques-pour-message-avis",
+  "order": 27,
+  "number": 27,
+  "unit": 7,
+  "unitTitle": "Donnez votre avis !",
+  "kicker": "Unité 7 · Leçon 27",
+  "title": "Techniques pour…",
+  "summary": "Laisser un message vocal · écrire un avis sur une plateforme de voyages",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "message-vocal",
+      "title": "Laisser un message vocal",
+      "minutes": 9,
+      "lede": "A voicemail message must be short and clear. Say who you are, why you call, ask your question, give your number and say thank you.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les étapes du message",
+          "headers": [
+            "Étape",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1. Saluer et se présenter",
+              "Bonjour, je m'appelle Léa Martin."
+            ],
+            [
+              "2. Dire son projet",
+              "Je souhaite organiser une sortie à vélo pour mes amis."
+            ],
+            [
+              "3. Poser une question",
+              "Est-ce que vous proposez des activités pour les enfants ?"
+            ],
+            [
+              "4. Donner son numéro",
+              "Mon numéro est le zéro six, trente-neuf, quatre-vingt-dix-huit, douze, trente-quatre."
+            ],
+            [
+              "5. Remercier et dire au revoir",
+              "Merci, bonne journée !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Je souhaite + infinitive (I wish to) and je voudrais + infinitive (I would like to) are both polite and formal: Je souhaite réserver. Je voudrais réserver. Je veux réserver is too direct.\n- A phone number is said in pairs of digits: 06 39 98 12 34 = zéro six, trente-neuf, quatre-vingt-dix-huit, douze, trente-quatre. Speak slowly and leave a short pause between pairs. (The number above is fictional.)\n- To ask someone to call back: Pouvez-vous me rappeler ? Rappeler = to call back. Un répondeur = an answering machine, un message vocal = a voice message.\n- Use vous with a company or a stranger: Pouvez-vous me rappeler ? not Peux-tu.\n- Start with a greeting and your name (Bonjour, je m'appelle…) and finish by thanking: Merci, bonne journée ! Merci d'avance (thank you in advance) is common in messages.\n- Pour + infinitive explains the aim (Leçon 25): Je souhaite faire un vol en montgolfière pour découvrir la région."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez un message vocal",
+          "items": [
+            {
+              "fr": "Bonjour, je m'appelle Léa Martin."
+            },
+            {
+              "fr": "Je souhaite organiser une sortie à vélo pour mes amis."
+            },
+            {
+              "fr": "Est-ce que vous proposez des activités pour les enfants ?"
+            },
+            {
+              "fr": "Mon numéro est le zéro six, trente-neuf, quatre-vingt-dix-huit, douze, trente-quatre.",
+              "label": "Mon numéro est le 06 39 98 12 34."
+            },
+            {
+              "fr": "Pouvez-vous me rappeler, s'il vous plaît ?"
+            },
+            {
+              "fr": "Merci, bonne journée !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez le message",
+          "items": [
+            {
+              "prompt": "Bonjour, je m'___ Léa Martin.",
+              "answers": [
+                "appelle"
+              ]
+            },
+            {
+              "prompt": "Je ___ organiser une sortie. (souhaiter)",
+              "answers": [
+                "souhaite"
+              ]
+            },
+            {
+              "prompt": "Je souhaite réserver une sortie pour ___ découvrir la ville.",
+              "answers": [
+                "pour"
+              ],
+              "choices": [
+                "pour",
+                "parce que"
+              ]
+            },
+            {
+              "prompt": "Pouvez-vous me ___ ? (call back)",
+              "answers": [
+                "rappeler"
+              ]
+            },
+            {
+              "prompt": "Merci, bonne ___ !",
+              "answers": [
+                "journée"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Laissez un message",
+          "prompt": "Choisissez une sortie pour le week-end prochain et laissez un message vocal à un(e) camarade : présentez-vous, dites votre projet, posez une question, remerciez.",
+          "model": "Bonjour Paul, c'est Sara. Je souhaite faire une randonnée samedi pour découvrir le lac. Est-ce que tu veux venir avec moi ? Rappelle-moi ! Merci, à bientôt !"
+        }
+      ]
+    },
+    {
+      "id": "avis-plateforme-voyages",
+      "title": "Écrire un avis sur une plateforme de voyages",
+      "minutes": 9,
+      "lede": "A review on a travel platform summarises the experience, gives details, gives an opinion and advises the next visitor. It can be positive or negative.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les quatre parties d'un avis",
+          "headers": [
+            "Partie",
+            "Avis positif",
+            "Avis négatif"
+          ],
+          "rows": [
+            [
+              "Résumé",
+              "Superbe visite !",
+              "Visite décevante !"
+            ],
+            [
+              "Détails",
+              "Nous nous sommes arrêtés pour goûter du fromage.",
+              "Nous ne nous sommes pas arrêtés pour voir le château."
+            ],
+            [
+              "Appréciation",
+              "C'était parfait !",
+              "C'était ennuyeux !"
+            ],
+            [
+              "Conseil",
+              "À faire absolument !",
+              "Il ne faut pas faire cette activité !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Passé composé pronominal: Nous nous sommes arrêtés (pour manger). Negative: Nous ne nous sommes pas arrêtés. The guide's gender doesn't change: un guide / une guide (the person) vs un guide (the book).\n- C'était nul / C'était génial are informal. In a more careful review: C'était décevant (disappointing), C'était excellent. Décevant = disappointing (not “deceiving”).\n- Comme prévu = as planned. Le programme = the schedule. Nous n'avons pas visité le parc comme prévu au programme.\n- Ne … rien in the passé composé: Nous n'avons rien appris. (rien between the auxiliary and the participle, see Leçon 25). Ne … pas de: Il n'y avait pas de guide.\n- À faire absolument ! (a must) and Il ne faut pas faire cette activité ! (don't) are the usual conclusions. Both are in the infinitive-style “advice” register.\n- In a review, past events use the passé composé, opinions about the past use c'était, and general facts use the present: C'est un très beau parc."
+        },
+        {
+          "type": "phrases",
+          "title": "Un avis positif",
+          "items": [
+            {
+              "fr": "Superbe visite avec notre guide !"
+            },
+            {
+              "fr": "Nous nous sommes arrêtés pour goûter du fromage."
+            },
+            {
+              "fr": "Notre guide est drôle et elle a raconté des histoires passionnantes."
+            },
+            {
+              "fr": "C'était parfait ! À faire absolument !"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Un avis négatif",
+          "items": [
+            {
+              "fr": "Visite décevante !"
+            },
+            {
+              "fr": "Nous ne nous sommes pas arrêtés pour voir le château."
+            },
+            {
+              "fr": "Notre guide n'a pas parlé de l'histoire."
+            },
+            {
+              "fr": "Nous n'avons rien appris."
+            },
+            {
+              "fr": "C'était ennuyeux ! À éviter !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Nous nous ___ arrêtés pour goûter du fromage. (être)",
+              "answers": [
+                "sommes"
+              ]
+            },
+            {
+              "prompt": "Nous ne nous ___ pas arrêtés. (être)",
+              "answers": [
+                "sommes"
+              ]
+            },
+            {
+              "prompt": "Nous n'avons ___ appris. (aucune information)",
+              "answers": [
+                "rien"
+              ]
+            },
+            {
+              "prompt": "C'___ parfait ! (opinion sur le passé)",
+              "answers": [
+                "était"
+              ]
+            },
+            {
+              "prompt": "À faire ___ !",
+              "answers": [
+                "absolument"
+              ]
+            },
+            {
+              "prompt": "Il ne ___ pas faire cette activité. (interdit / à éviter)",
+              "answers": [
+                "faut"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre avis",
+          "prompt": "Choisissez une activité touristique réelle ou imaginaire. Écrivez un avis positif ou négatif : résumez, racontez, donnez votre appréciation et conseillez.",
+          "model": "Belle balade en bateau ! Nous nous sommes arrêtés sur une petite île pour pique-niquer. Le capitaine est sympa et il a expliqué l'histoire du lac. C'était magique ! À faire absolument !"
+        }
+      ]
+    }
+  ]
+}

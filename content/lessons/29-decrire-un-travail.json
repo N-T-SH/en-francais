@@ -1,0 +1,736 @@
+{
+  "id": "decrire-un-travail",
+  "order": 29,
+  "number": 29,
+  "unit": 8,
+  "unitTitle": "Informez-vous !",
+  "kicker": "Unité 8 · Leçon 29",
+  "title": "Décrire un travail",
+  "summary": "Postes, services, contrats · fiche de poste · futur proche pronominal · le pronom y · répondre · sons [e], [œ], [o]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "travail-vocabulaire",
+      "title": "Le travail : les postes, les services et les tâches",
+      "minutes": 8,
+      "lede": "Words to describe where you work, what you do and which type of contract you have.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le travail",
+          "items": [
+            {
+              "fr": "le bureau"
+            },
+            {
+              "fr": "le temps"
+            },
+            {
+              "fr": "les horaires"
+            },
+            {
+              "fr": "le contrat"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les postes",
+          "items": [
+            {
+              "fr": "le président"
+            },
+            {
+              "fr": "la présidente"
+            },
+            {
+              "fr": "le directeur"
+            },
+            {
+              "fr": "la directrice"
+            },
+            {
+              "fr": "le responsable"
+            },
+            {
+              "fr": "la responsable"
+            },
+            {
+              "fr": "l'assistant"
+            },
+            {
+              "fr": "l'assistante"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les services",
+          "items": [
+            {
+              "fr": "le marketing"
+            },
+            {
+              "fr": "les ressources humaines"
+            },
+            {
+              "fr": "les RH"
+            },
+            {
+              "fr": "l'accueil"
+            },
+            {
+              "fr": "l'informatique",
+              "icon": "💻"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les tâches",
+          "items": [
+            {
+              "fr": "lire"
+            },
+            {
+              "fr": "analyser"
+            },
+            {
+              "fr": "publier"
+            },
+            {
+              "fr": "faire la liste"
+            },
+            {
+              "fr": "écrire"
+            },
+            {
+              "fr": "prendre des rendez-vous"
+            },
+            {
+              "fr": "répondre"
+            },
+            {
+              "fr": "vérifier"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les types de contrat en France",
+          "headers": [
+            "Contrat",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "le CDI",
+              "contrat à durée indéterminée : sans limite de temps (la norme)"
+            ],
+            [
+              "le CDD",
+              "contrat à durée déterminée : temporaire, il indique la durée"
+            ],
+            [
+              "l'intérim (le CTT)",
+              "contrat de travail temporaire pour une mission précise"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un poste = a job / a position; la poste = the post office (different gender): Je cherche un poste. Je vais à la poste.\n- Un directeur / une directrice: -teur → -trice for many professions (acteur / actrice, directeur / directrice). Un responsable / une responsable and un assistant / une assistante: -e is added or the word is invariable.\n- Un bureau = both an office (the room) and a desk (the furniture). Les horaires = working hours / timetable.\n- Le salaire is net (after deductions) or brut (before): Salaire : deux mille euros net par mois.\n- RH = ressources humaines (HR). The pronunciation of the abbreviation: [ɛʁ aʃ], and Les RH is plural.\n- False friends: actuellement means “currently” (not “actually”, which is en fait). Un stage = an internship, une formation = training."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je cherche un poste de responsable marketing."
+            },
+            {
+              "fr": "Elle travaille dans le service informatique."
+            },
+            {
+              "fr": "Il est directeur des ressources humaines."
+            },
+            {
+              "fr": "Mon contrat est un CDI.",
+              "label": "Mon contrat est un C D I."
+            },
+            {
+              "fr": "Je vais à la poste."
+            },
+            {
+              "fr": "Les horaires sont de neuf heures à dix-sept heures."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un contrat à durée indéterminée s'appelle un ___ .",
+              "answers": [
+                "CDI"
+              ]
+            },
+            {
+              "prompt": "Un contrat temporaire s'appelle un ___ .",
+              "answers": [
+                "CDD"
+              ]
+            },
+            {
+              "prompt": "La personne qui dirige l'entreprise est le ___ . (m.)",
+              "answers": [
+                "directeur"
+              ]
+            },
+            {
+              "prompt": "Je cherche un ___ . (un emploi)",
+              "answers": [
+                "poste"
+              ],
+              "choices": [
+                "poste",
+                "la poste"
+              ]
+            },
+            {
+              "prompt": "Le service qui s'occupe des employés : les ___ . (sigle)",
+              "answers": [
+                "RH"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fiche-de-poste",
+      "title": "Décrire un travail : la fiche de poste",
+      "minutes": 8,
+      "lede": "A job description (une fiche de poste) says what the job is, who the employer is, the contract, and the tasks and goals.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les quatre parties d'une fiche de poste",
+          "headers": [
+            "Partie",
+            "Contenu",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1",
+              "Intitulé du poste",
+              "Assistant(e) de bibliothèque"
+            ],
+            [
+              "2",
+              "Présentation de la société",
+              "La bibliothèque municipale est un lieu de lecture et de rencontres."
+            ],
+            [
+              "3",
+              "Contrat, durée, salaire, lieu",
+              "CDD de six mois · mille huit cents euros net par mois · Lyon"
+            ],
+            [
+              "4",
+              "Missions et objectifs",
+              "Accueillir le public. Objectif : répondre aux questions."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Missions use the infinitive: Accueillir le public. Classer les livres. Répondre au téléphone. (the same pattern as in a recipe).\n- Objectif = goal / aim: Objectif : étudier les réseaux sociaux. Une mission = a task or an assignment; the plural is des missions.\n- To describe your own job use present tense with je: Je travaille comme assistant. Mon poste, c'est… Mes missions sont de… Mon contrat est un CDD de six mois.\n- Travailler comme + job (no article): Je travaille comme assistant, comme infirmière. Être + job (no article): Je suis assistant. Never “je suis un assistant” (see Leçon 4).\n- For length: de septembre à mai (from… to…), pendant six mois (for six months: a completed period), depuis un an (since a year: still ongoing).\n- Salaries and prices in a job ad: deux mille euros net par mois = 2 000 € net / month. Net = after tax and contributions, brut = before."
+        },
+        {
+          "type": "phrases",
+          "title": "Une fiche de poste",
+          "items": [
+            {
+              "fr": "Assistant de bibliothèque."
+            },
+            {
+              "fr": "Contrat à durée déterminée de six mois."
+            },
+            {
+              "fr": "Salaire : mille huit cents euros net par mois.",
+              "label": "Salaire : 1 800 € net par mois."
+            },
+            {
+              "fr": "Lieu de travail : Lyon."
+            },
+            {
+              "fr": "Accueillir le public."
+            },
+            {
+              "fr": "Répondre au téléphone."
+            },
+            {
+              "fr": "Vérifier les livres."
+            },
+            {
+              "fr": "Objectif : aider les lecteurs."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Je travaille ___ assistant. (en tant que)",
+              "answers": [
+                "comme"
+              ]
+            },
+            {
+              "prompt": "Je suis assistant : pas d'___ devant le métier.",
+              "answers": [
+                "article"
+              ]
+            },
+            {
+              "prompt": "Le contrat dure six mois : ___ septembre à février.",
+              "answers": [
+                "de"
+              ],
+              "choices": [
+                "de",
+                "depuis",
+                "pendant"
+              ]
+            },
+            {
+              "prompt": "J'ai travaillé ___ six mois. (période terminée)",
+              "answers": [
+                "pendant"
+              ],
+              "choices": [
+                "de",
+                "depuis",
+                "pendant"
+              ]
+            },
+            {
+              "prompt": "Je travaille ici ___ un an. (toujours là)",
+              "answers": [
+                "depuis"
+              ],
+              "choices": [
+                "de",
+                "depuis",
+                "pendant"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre fiche de poste",
+          "prompt": "Écrivez la fiche de poste de votre travail (ou de votre travail idéal) : intitulé, présentation de la société, type de contrat, durée, lieu, missions et objectifs.",
+          "model": "Chef de cuisine. Le restaurant Le Lac est un petit restaurant familial. CDI, trente-cinq heures par semaine, à Annecy. Missions : préparer les plats, vérifier les produits, animer l'équipe. Objectif : servir une cuisine simple et délicieuse."
+        }
+      ]
+    },
+    {
+      "id": "futur-proche-y",
+      "title": "Le futur proche pronominal et le pronom y",
+      "minutes": 9,
+      "lede": "You know the near future with aller. With a pronominal verb, the pronoun goes before the infinitive. The pronoun y replaces a place already mentioned.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "S'occuper du site au futur proche",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmative",
+              "Vous allez vous occuper du site ?"
+            ],
+            [
+              "négative",
+              "Je ne vais pas m'occuper du site."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le pronom y",
+          "headers": [
+            "Question",
+            "Réponse"
+          ],
+          "rows": [
+            [
+              "Tu vas à la réunion ?",
+              "Oui, j'y vais."
+            ],
+            [
+              "Tu vas à la réunion ?",
+              "Non, je n'y vais pas."
+            ],
+            [
+              "Vous allez au bureau demain ?",
+              "Oui, nous y allons."
+            ],
+            [
+              "Il va aller au bureau ?",
+              "Oui, il va y aller."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Y = there. It replaces a place with à / dans / en / chez: Tu vas à Paris ? J'y vais. Elle est dans la salle ? Oui, elle y est. It avoids repeating the place.\n- Y goes before the verb: J'y vais. Je n'y vais pas. (not “je vais pas y”). With a conjugated verb + infinitive, y goes before the infinitive: Je vais y aller. Nous allons y rester.\n- Elision: je + y → j'y; ne + y → n'y: Je n'y vais pas. In the negative, n'y is one unit: Il n'y a pas de problème (also contains y: il y a).\n- Y is not used for people. For people, use lui / leur (Je parle à Marie → Je lui parle) or a stressed pronoun (Je pense à Marie → Je pense à elle). Y is for places and things introduced by à.\n- The imperative keeps y after the verb: Vas-y ! Allons-y ! (let's go). With -er verbs, add an s for liaison: Vas-y (not “va-y”).\n- The pronominal pronoun follows the subject: Je vais m'occuper, Tu vas t'occuper, Il va s'occuper, Nous allons nous occuper, Vous allez vous occuper, Ils vont s'occuper."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Vous allez vous occuper du site ?"
+            },
+            {
+              "fr": "Je ne vais pas m'occuper du site."
+            },
+            {
+              "fr": "Tu vas à la réunion ? Oui, j'y vais."
+            },
+            {
+              "fr": "Non, je n'y vais pas."
+            },
+            {
+              "fr": "Nous allons y rester une heure."
+            },
+            {
+              "fr": "Vas-y, je t'attends !"
+            },
+            {
+              "fr": "Allons-y !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Futur proche pronominal",
+          "items": [
+            {
+              "prompt": "Je vais ___ occuper du site. (me / m')",
+              "answers": [
+                "m'"
+              ],
+              "choices": [
+                "m'",
+                "t'",
+                "s'",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Tu vas ___ lever tôt.",
+              "answers": [
+                "te"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Elle va ___ occuper de la réunion. (se / s')",
+              "answers": [
+                "s'"
+              ],
+              "choices": [
+                "m'",
+                "t'",
+                "s'",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Nous allons ___ inscrire.",
+              "answers": [
+                "nous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Vous allez ___ lever à six heures ?",
+              "answers": [
+                "vous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le pronom y",
+          "items": [
+            {
+              "prompt": "Tu vas au bureau ? Oui, j'___ vais.",
+              "answers": [
+                "y"
+              ]
+            },
+            {
+              "prompt": "Vous allez à la réunion ? Non, nous n'___ allons pas.",
+              "answers": [
+                "y"
+              ]
+            },
+            {
+              "prompt": "Elle est au bureau ? Oui, elle ___ est.",
+              "answers": [
+                "y"
+              ]
+            },
+            {
+              "prompt": "Vous allez à Paris ? Oui, je vais ___ aller.",
+              "answers": [
+                "y"
+              ]
+            },
+            {
+              "prompt": "On part ! ___ -y !",
+              "answers": [
+                "Allons"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "repondre-sons",
+      "title": "Le verbe répondre et les sons [e], [œ], [o]",
+      "minutes": 8,
+      "lede": "Répondre follows a large family of -re verbs. The sounds [e], [œ] and [o] differ in lip shape and tongue position.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Répondre au présent",
+          "headers": [
+            "Sujet",
+            "répondre"
+          ],
+          "rows": [
+            [
+              "je",
+              "réponds"
+            ],
+            [
+              "tu",
+              "réponds"
+            ],
+            [
+              "il / elle / on",
+              "répond"
+            ],
+            [
+              "nous",
+              "répondons"
+            ],
+            [
+              "vous",
+              "répondez"
+            ],
+            [
+              "ils / elles",
+              "répondent"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Trois sons",
+          "headers": [
+            "Son",
+            "Description",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[e]",
+              "aigu, souriant",
+              "travailler · un café · tu es bête"
+            ],
+            [
+              "[œ]",
+              "aigu, arrondi (langue en avant)",
+              "le lieu · le directeur · l'accueil · jeune"
+            ],
+            [
+              "[o]",
+              "grave, arrondi (langue en arrière)",
+              "les réseaux sociaux · un poste · le téléphone"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Répondre à + person or thing: répondre à un message, répondre à la question, répondre au téléphone. Never “répondre la question”. The participle is répondu: J'ai répondu à ton e-mail.\n- Répondre belongs to the -re family: attendre, entendre, vendre, descendre, perdre. All have -s, -s, - (no ending) in the singular: j'attends, tu attends, il attend, nous attendons.\n- Final -d of the singular is silent (il répond [il ʁepɔ̃]) but sounded in the plural: ils répondent [il ʁepɔ̃d].\n- [e] (é, er, ez, ai) = smile; [œ] (eu before a pronounced consonant, œu: directeur, jeune, sœur) = rounded lips, front; [o] (o, au, eau, ô) = rounded, back: poste, réseaux, beau.\n- Eu in a final syllable is closed [ø] (deux, bleu, peu) and before a pronounced r/l it opens to [œ] (peur, directeur, jeune). You don't need to hear the difference now: round your lips for both.\n- Dialogue words from the workplace: Tu es bête = Tu es stupide (informal). Elle n'est pas commode = elle est stricte. Dommage ! = c'est regrettable. Renouvelable = you can renew it. Vite = rapidement."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je réponds au message."
+            },
+            {
+              "fr": "Tu réponds à l'e-mail ?"
+            },
+            {
+              "fr": "Il répond au téléphone."
+            },
+            {
+              "fr": "Nous répondons aux questions."
+            },
+            {
+              "fr": "Vous répondez à la directrice ?"
+            },
+            {
+              "fr": "Ils répondent vite."
+            },
+            {
+              "fr": "Le directeur est jeune."
+            },
+            {
+              "fr": "Le réseau social est au bureau."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Répondre",
+          "items": [
+            {
+              "prompt": "Je ___ à ton message. (répondre)",
+              "answers": [
+                "réponds"
+              ]
+            },
+            {
+              "prompt": "Tu ___ au téléphone ? (répondre)",
+              "answers": [
+                "réponds"
+              ]
+            },
+            {
+              "prompt": "Il ___ à la question. (répondre)",
+              "answers": [
+                "répond"
+              ]
+            },
+            {
+              "prompt": "Nous ___ aux e-mails. (répondre)",
+              "answers": [
+                "répondons"
+              ]
+            },
+            {
+              "prompt": "Vous ___ vite ? (répondre)",
+              "answers": [
+                "répondez"
+              ]
+            },
+            {
+              "prompt": "Elles ___ à la directrice. (répondre)",
+              "answers": [
+                "répondent"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son ?",
+          "items": [
+            {
+              "prompt": "Dans « travailler », la fin du mot est ___ .",
+              "answers": [
+                "[e]"
+              ],
+              "choices": [
+                "[e]",
+                "[œ]",
+                "[o]"
+              ]
+            },
+            {
+              "prompt": "Dans « directeur », la fin du mot est ___ .",
+              "answers": [
+                "[œ]"
+              ],
+              "choices": [
+                "[e]",
+                "[œ]",
+                "[o]"
+              ]
+            },
+            {
+              "prompt": "Dans « poste », le son voyelle est ___ .",
+              "answers": [
+                "[o]"
+              ],
+              "choices": [
+                "[e]",
+                "[œ]",
+                "[o]"
+              ]
+            },
+            {
+              "prompt": "Dans « réseaux », la fin du mot est ___ .",
+              "answers": [
+                "[o]"
+              ],
+              "choices": [
+                "[e]",
+                "[œ]",
+                "[o]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

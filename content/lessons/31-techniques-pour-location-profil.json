@@ -1,0 +1,243 @@
+{
+  "id": "techniques-pour-location-profil",
+  "order": 31,
+  "number": 31,
+  "unit": 8,
+  "unitTitle": "Informez-vous !",
+  "kicker": "Unité 8 · Leçon 31",
+  "title": "Techniques pour…",
+  "summary": "Écrire une annonce de location · créer son profil professionnel",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "annonce-location",
+      "title": "Écrire une annonce de location",
+      "minutes": 9,
+      "lede": "A rental advertisement describes a place in a few lines, uses nouns without articles and highlights the qualities of the accommodation.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les parties d'une annonce de location",
+          "headers": [
+            "Partie",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Titre : type de logement + lieu",
+              "Studio calme près de la gare · Strasbourg"
+            ],
+            [
+              "Décrire le logement",
+              "Studio lumineux, refait à neuf."
+            ],
+            [
+              "Décrire l'extérieur et les environs",
+              "Idéal pour visiter la ville à pied ou à vélo."
+            ],
+            [
+              "Mettre en valeur les qualités",
+              "Café et croissants offerts."
+            ],
+            [
+              "Équipements et prix",
+              "Wifi, cuisine équipée. Quatre-vingts euros la nuit."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Advertisements drop the article before a noun: Studio lumineux. Café et croissants offerts. (not “c'est un studio lumineux”). The sentence has no verb. This is a headline style.\n- Fait maison = homemade (invariable): un gâteau fait maison, des pâtes faites maison. Offert = free / included: petit déjeuner offert.\n- Prices per unit: quatre-vingts euros la nuit (per night), par mois (per month), par personne. Use la before a unit: trois euros la barquette (Leçon 17).\n- Environs: à pied (on foot), à vélo (by bike), en voiture, à vingt minutes de… = twenty minutes from…: Le centre-ville est à vingt minutes à pied.\n- A place for a stay: une location saisonnière (short-term / holiday rental), un voyageur / une voyageuse (a traveller), la nuit (night), une chambre d'hôtes (bed-and-breakfast room).\n- Idéal / parfait pour + infinitive: Idéal pour visiter la ville. = ideal for visiting the city. (pour + infinitive, aim)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez l'annonce",
+          "items": [
+            {
+              "fr": "Studio calme près de la gare."
+            },
+            {
+              "fr": "Studio lumineux, refait à neuf."
+            },
+            {
+              "fr": "Cuisine équipée. Café et croissants offerts."
+            },
+            {
+              "fr": "Le centre-ville est à vingt minutes à pied."
+            },
+            {
+              "fr": "Idéal pour visiter la ville."
+            },
+            {
+              "fr": "Quatre-vingts euros la nuit.",
+              "label": "80 € la nuit."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'annonce",
+          "items": [
+            {
+              "prompt": "Studio lumineux, ___ calme. (en silence)",
+              "answers": [
+                "au"
+              ]
+            },
+            {
+              "prompt": "Le centre-ville est à vingt minutes ___ pied.",
+              "answers": [
+                "à"
+              ]
+            },
+            {
+              "prompt": "Idéal ___ visiter la ville.",
+              "answers": [
+                "pour"
+              ]
+            },
+            {
+              "prompt": "Quatre-vingts euros ___ nuit.",
+              "answers": [
+                "la"
+              ]
+            },
+            {
+              "prompt": "Un gâteau préparé à la maison est un gâteau fait ___ .",
+              "answers": [
+                "maison"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre annonce",
+          "prompt": "Vous partez trois mois à l'étranger et vous voulez louer votre maison ou votre appartement. Écrivez une annonce : type de logement, qualités, équipements, prix.",
+          "model": "Appartement lumineux au centre de Strasbourg. Deux chambres, cuisine équipée, balcon. Calme et confortable. Idéal pour découvrir l'Alsace. Le tramway est à cinq minutes à pied. Mille euros par mois."
+        }
+      ]
+    },
+    {
+      "id": "profil-professionnel",
+      "title": "Créer son profil professionnel",
+      "minutes": 9,
+      "lede": "An online professional profile presents you in four blocks: your name and job, an « À propos » text, your experience and your education.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les parties d'un profil professionnel",
+          "headers": [
+            "Partie",
+            "Contenu"
+          ],
+          "rows": [
+            [
+              "L'essentiel",
+              "Nom, profession, entreprise, ville"
+            ],
+            [
+              "À propos",
+              "Un petit texte : sa passion et ses compétences"
+            ],
+            [
+              "Expérience",
+              "Poste, entreprise, dates et durée"
+            ],
+            [
+              "Formation",
+              "Diplôme, école ou université, dates"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- À propos texts use je and the present: Je suis cuisinier parce que j'aime partager. Depuis cinq ans, je travaille dans un restaurant à Lyon. (depuis + present: Leçon 24).\n- To describe skills: Je travaille en collaboration avec… J'ai des compétences en… Je suis spécialisé(e) en… Une compétence = a skill (not “competence” in general).\n- Dates in a profile: déc. 2015 – aujourd'hui · fév. 2014 – sept. 2015. Month abbreviations: janv., févr., mars, avr., mai, juin, juil., août, sept., oct., nov., déc. (no capital letter). Durée : 5 ans, 8 mois.\n- Depuis (+ date or duration, still ongoing) vs pendant (completed duration) vs de … à … (from … to …): Depuis 2018 / Pendant huit mois / De 2014 à 2015.\n- Don't write the whole profile in the same verb tense: present for description (Je suis…), passé composé for finished experience (J'ai travaillé chez… pendant deux ans).\n- Your job title has no article: Cuisinier. Architecte d'intérieur. Décoratrice. Female form: -teur → -trice (décorateur / décoratrice), -ien → -ienne (technicien / technicienne)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je suis cuisinier parce que j'aime partager."
+            },
+            {
+              "fr": "Depuis cinq ans, je travaille dans un restaurant à Lyon."
+            },
+            {
+              "fr": "J'ai travaillé chez un traiteur pendant deux ans."
+            },
+            {
+              "fr": "Mon diplôme est un master de gestion."
+            },
+            {
+              "fr": "Je travaille en collaboration avec des fournisseurs."
+            },
+            {
+              "fr": "Mes études : de deux mille dix à deux mille quinze.",
+              "label": "Mes études : de 2010 à 2015."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez le profil",
+          "items": [
+            {
+              "prompt": "Je suis cuisinier ___ j'aime partager. (parce que)",
+              "answers": [
+                "parce que"
+              ]
+            },
+            {
+              "prompt": "___ cinq ans, je travaille à Lyon. (toujours)",
+              "answers": [
+                "Depuis"
+              ],
+              "choices": [
+                "Depuis",
+                "Pendant",
+                "Il y a"
+              ]
+            },
+            {
+              "prompt": "J'ai travaillé chez un traiteur ___ deux ans. (terminé)",
+              "answers": [
+                "pendant"
+              ],
+              "choices": [
+                "Depuis",
+                "pendant",
+                "il y a"
+              ]
+            },
+            {
+              "prompt": "Mes études : ___ 2010 à 2015.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Une ___ est une capacité professionnelle. (skill)",
+              "answers": [
+                "compétence"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre profil",
+          "prompt": "Créez votre profil professionnel en français : un texte « À propos » (spécialité et personnalité), puis vos emplois et vos diplômes avec les dates.",
+          "model": "À propos : Je suis traductrice parce que j'adore les langues. Depuis quatre ans, je travaille en collaboration avec des écrivains. Expérience : traductrice, éditions Lumière, Paris, de 2021 à aujourd'hui. Formation : master de langues, université de Lille, de 2016 à 2021."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "id": "se-loger",
+  "order": 30,
+  "number": 30,
+  "unit": 8,
+  "unitTitle": "Informez-vous !",
+  "kicker": "Unité 8 · Leçon 30",
+  "title": "Se loger",
+  "summary": "Logement, pièces et meubles · ordinaux · comparer · très et trop · être au passé composé · la météo",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "logement-vocabulaire",
+      "title": "Le logement : les pièces, les meubles et les caractéristiques",
+      "minutes": 9,
+      "lede": "To find or describe a home you need the vocabulary of the building, the rooms, the furniture and the features.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le logement",
+          "items": [
+            {
+              "fr": "une location"
+            },
+            {
+              "fr": "le loyer"
+            },
+            {
+              "fr": "l'immeuble"
+            },
+            {
+              "fr": "l'étage"
+            },
+            {
+              "fr": "un ascenseur"
+            },
+            {
+              "fr": "un balcon"
+            },
+            {
+              "fr": "le chauffage"
+            },
+            {
+              "fr": "un parking",
+              "icon": "🅿️"
+            },
+            {
+              "fr": "une cave"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les pièces",
+          "items": [
+            {
+              "fr": "l'entrée"
+            },
+            {
+              "fr": "le salon"
+            },
+            {
+              "fr": "le séjour"
+            },
+            {
+              "fr": "une chambre",
+              "icon": "🛏️"
+            },
+            {
+              "fr": "le bureau"
+            },
+            {
+              "fr": "la cuisine"
+            },
+            {
+              "fr": "la salle de bain",
+              "icon": "🛁"
+            },
+            {
+              "fr": "la salle d'eau"
+            },
+            {
+              "fr": "les toilettes"
+            },
+            {
+              "fr": "les WC"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les parties",
+          "items": [
+            {
+              "fr": "une fenêtre"
+            },
+            {
+              "fr": "un placard"
+            },
+            {
+              "fr": "un dressing"
+            },
+            {
+              "fr": "le parquet"
+            },
+            {
+              "fr": "une cheminée"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les meubles et les appareils",
+          "items": [
+            {
+              "fr": "un lit",
+              "icon": "🛏️"
+            },
+            {
+              "fr": "un canapé",
+              "icon": "🛋️"
+            },
+            {
+              "fr": "une table"
+            },
+            {
+              "fr": "une table basse"
+            },
+            {
+              "fr": "une chaise",
+              "icon": "🪑"
+            },
+            {
+              "fr": "un bureau"
+            },
+            {
+              "fr": "un fauteuil"
+            },
+            {
+              "fr": "une armoire"
+            },
+            {
+              "fr": "une étagère"
+            },
+            {
+              "fr": "un lave-linge"
+            },
+            {
+              "fr": "un lave-vaisselle"
+            },
+            {
+              "fr": "un réfrigérateur"
+            },
+            {
+              "fr": "une baignoire"
+            },
+            {
+              "fr": "un lavabo"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les caractéristiques",
+          "items": [
+            {
+              "fr": "ancien",
+              "label": "ancien · ancienne"
+            },
+            {
+              "fr": "moderne"
+            },
+            {
+              "fr": "confortable"
+            },
+            {
+              "fr": "lumineux",
+              "label": "lumineux · lumineuse"
+            },
+            {
+              "fr": "clair",
+              "label": "clair · claire"
+            },
+            {
+              "fr": "exceptionnel",
+              "label": "exceptionnel · exceptionnelle"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les nombres ordinaux",
+          "headers": [
+            "Nombre",
+            "Ordinal"
+          ],
+          "rows": [
+            [
+              "1er",
+              "premier / première"
+            ],
+            [
+              "2e",
+              "deuxième"
+            ],
+            [
+              "3e",
+              "troisième"
+            ],
+            [
+              "4e",
+              "quatrième"
+            ],
+            [
+              "5e",
+              "cinquième"
+            ],
+            [
+              "6e",
+              "sixième"
+            ]
+          ],
+          "note": "Lyon, deuxième arrondissement. L'appartement est au quatrième étage."
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Louer = both to rent (as a tenant) and to rent out (as an owner): Je loue un appartement. Je loue ma maison à des étudiants. Le loyer = the rent. Meublé = furnished, non meublé = unfurnished.\n- Floors: le rez-de-chaussée (ground floor), le premier étage (1st floor above the ground), le deuxième étage… This is the British system: the American “first floor” = le rez-de-chaussée.\n- French sizes in advertisements use T (type): T2 = two main rooms (living room + one bedroom), T3 = three main rooms. The kitchen and bathroom are not counted. Sometimes F2, F3, or “deux-pièces”, “trois-pièces”.\n- La salle de bain has a bath (une baignoire); la salle d'eau has a shower only. Les toilettes / les WC are plural: Les toilettes sont à droite. (In French the toilet is often separate from the bathroom.)\n- Un salon is the living room (also called le séjour, mainly in ads). Un bureau means desk or study. Une cuisine américaine = open-plan kitchen, une cuisine équipée = fitted with appliances.\n- Ordinals: premier / première (1st), then add -ième to the number: deuxième, troisième, quatrième; cinq → cinquième (add u), neuf → neuvième (f → v). Abbreviations: 1er, 2e, 3e (not “2nd”).\n- Beau / belle / bel: bel before a masculine vowel: un bel appartement, un bel immeuble. Ancien before a noun can mean “former”: mon ancien appartement, but un immeuble ancien = an old building (after the noun)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "L'appartement est au quatrième étage, avec un ascenseur."
+            },
+            {
+              "fr": "Il y a deux chambres, un séjour et une cuisine équipée."
+            },
+            {
+              "fr": "Le loyer est de neuf cent cinquante euros par mois.",
+              "label": "Le loyer est de 950 € par mois."
+            },
+            {
+              "fr": "La salle de bain a une baignoire."
+            },
+            {
+              "fr": "Les toilettes sont séparées."
+            },
+            {
+              "fr": "Dans la chambre, il y a un lit, une armoire et une petite table."
+            },
+            {
+              "fr": "C'est un bel immeuble ancien."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Où met-on… ?",
+          "items": [
+            {
+              "prompt": "On dort dans la ___ .",
+              "answers": [
+                "chambre"
+              ]
+            },
+            {
+              "prompt": "On prend un bain dans la ___ . (meuble de la salle de bain)",
+              "answers": [
+                "baignoire"
+              ]
+            },
+            {
+              "prompt": "On cuisine dans la ___ .",
+              "answers": [
+                "cuisine"
+              ]
+            },
+            {
+              "prompt": "On lave la vaisselle avec un ___ .",
+              "answers": [
+                "lave-vaisselle"
+              ]
+            },
+            {
+              "prompt": "On s'assoit dans un ___ ou sur une chaise.",
+              "answers": [
+                "fauteuil"
+              ]
+            },
+            {
+              "prompt": "Un T3 a ___ pièces principales (écrivez le nombre en lettres).",
+              "answers": [
+                "trois"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Les ordinaux",
+          "items": [
+            {
+              "prompt": "L'appartement est au ___ étage. (4e)",
+              "answers": [
+                "quatrième"
+              ]
+            },
+            {
+              "prompt": "Il habite au ___ étage. (2e)",
+              "answers": [
+                "deuxième"
+              ]
+            },
+            {
+              "prompt": "C'est le ___ jour. (1er, masculin)",
+              "answers": [
+                "premier"
+              ]
+            },
+            {
+              "prompt": "Lyon, ___ arrondissement. (3e)",
+              "answers": [
+                "troisième"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comparer",
+      "title": "Comparer : plus, moins, aussi, très et trop",
+      "minutes": 9,
+      "lede": "To compare two things, put plus, moins or aussi before the adjective, then que. To say that something is very or too much, use très or trop.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Comparer avec un adjectif",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "plus + adjectif + que",
+              "Mon appartement est plus petit que ta maison."
+            ],
+            [
+              "moins + adjectif + que",
+              "Cette chambre est moins lumineuse que le salon."
+            ],
+            [
+              "aussi + adjectif + que",
+              "La cuisine est aussi grande que le séjour."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Très et trop",
+          "headers": [
+            "Mot",
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "très + adjectif",
+              "very",
+              "Le quartier est très calme."
+            ],
+            [
+              "trop + adjectif",
+              "too",
+              "Le loyer est trop élevé."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Que is always used after the comparison to introduce the second term: plus grand que moi (stressed pronoun after que, Leçon 14). Que becomes qu' before a vowel: plus petit qu'un T3.\n- Bon (good) → meilleur (better), never “plus bon”: Cet appartement est meilleur que l'autre. Bien (well) → mieux: Il chante mieux que moi. “Plus bien” does not exist.\n- The adjective agrees with the first noun, not with que: Cette chambre est plus grande que le salon. Les chambres sont moins grandes que le séjour.\n- Très = very, trop = too (a negative idea: it is more than necessary). Très + adjective only: très grand. For nouns and verbs use beaucoup: beaucoup de bruit, J'aime beaucoup. Never “très beaucoup”.\n- Pronunciation: plus before a consonant is [ply] (plus cher), before a vowel [plyz] (plus intéressant), and in negative sense [ply] (ne… plus). Moins [mwɛ̃]; aussi [osi]; trop [tʁo].\n- Plus / moins can also compare nouns: plus de chambres, moins de bruit, autant de pièces (as many rooms): plus de + noun, no article."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Mon appartement est plus petit que ta maison."
+            },
+            {
+              "fr": "Cette chambre est moins lumineuse que le salon."
+            },
+            {
+              "fr": "La cuisine est aussi grande que le séjour."
+            },
+            {
+              "fr": "Le quartier est très calme."
+            },
+            {
+              "fr": "Le loyer est trop élevé."
+            },
+            {
+              "fr": "Il est plus grand que moi."
+            },
+            {
+              "fr": "Cet appartement est meilleur que l'autre."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Plus, moins ou aussi ?",
+          "items": [
+            {
+              "prompt": "Un T3 (60 m²) est ___ grand qu'un T2 (45 m²). (supérieur)",
+              "answers": [
+                "plus"
+              ],
+              "choices": [
+                "plus",
+                "moins",
+                "aussi"
+              ]
+            },
+            {
+              "prompt": "Un T2 est ___ cher qu'un T3. (inférieur)",
+              "answers": [
+                "moins"
+              ],
+              "choices": [
+                "plus",
+                "moins",
+                "aussi"
+              ]
+            },
+            {
+              "prompt": "Les deux appartements sont ___ clairs l'un que l'autre. (égaux)",
+              "answers": [
+                "aussi"
+              ],
+              "choices": [
+                "plus",
+                "moins",
+                "aussi"
+              ]
+            },
+            {
+              "prompt": "Le salon est ___ petit que la chambre. (inférieur)",
+              "answers": [
+                "moins"
+              ],
+              "choices": [
+                "plus",
+                "moins",
+                "aussi"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Très ou trop ?",
+          "items": [
+            {
+              "prompt": "L'appartement est ___ clair : j'adore !",
+              "answers": [
+                "très"
+              ],
+              "choices": [
+                "très",
+                "trop"
+              ]
+            },
+            {
+              "prompt": "La chambre est ___ petite : on ne peut pas mettre un lit. (excessif)",
+              "answers": [
+                "trop"
+              ],
+              "choices": [
+                "très",
+                "trop"
+              ]
+            },
+            {
+              "prompt": "Le loyer est ___ cher : je ne peux pas payer. (excessif)",
+              "answers": [
+                "trop"
+              ],
+              "choices": [
+                "très",
+                "trop"
+              ]
+            },
+            {
+              "prompt": "Le quartier est ___ agréable. (beaucoup)",
+              "answers": [
+                "très"
+              ],
+              "choices": [
+                "très",
+                "trop"
+              ]
+            },
+            {
+              "prompt": "Ce canapé est ___ que l'autre. (bon → comparatif)",
+              "answers": [
+                "meilleur"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Comparez deux logements",
+          "prompt": "Comparez deux logements (le vôtre et un autre) : la taille, le prix, la luminosité. Utilisez plus, moins, aussi, très, trop.",
+          "model": "Mon appartement est plus petit que la maison de mes parents, mais il est moins cher. Il est très clair et aussi confortable. La cuisine est trop petite pour trois personnes."
+        }
+      ]
+    },
+    {
+      "id": "etre-passe-meteo",
+      "title": "Être au passé composé et la météo",
+      "minutes": 7,
+      "lede": "Être itself takes avoir in the passé composé: j'ai été. And the weather has its own set of expressions.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Être au passé composé",
+          "headers": [
+            "Sujet",
+            "Passé composé"
+          ],
+          "rows": [
+            [
+              "j'",
+              "ai été"
+            ],
+            [
+              "tu",
+              "as été"
+            ],
+            [
+              "il / elle / on",
+              "a été"
+            ],
+            [
+              "nous",
+              "avons été"
+            ],
+            [
+              "vous",
+              "avez été"
+            ],
+            [
+              "ils / elles",
+              "ont été"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "La météo",
+          "headers": [
+            "Expression",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "Il pleut.",
+              "It's raining."
+            ],
+            [
+              "Il neige.",
+              "It's snowing."
+            ],
+            [
+              "Il y a du soleil.",
+              "It's sunny."
+            ],
+            [
+              "Il fait beau.",
+              "The weather is nice."
+            ],
+            [
+              "Il fait chaud.",
+              "It's hot."
+            ],
+            [
+              "Il fait froid.",
+              "It's cold."
+            ],
+            [
+              "C'est nuageux.",
+              "It's cloudy."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Être uses avoir in the passé composé: Ça a été difficile (it was difficult), J'ai été malade (I was ill). Never “je suis été”. The participle été is invariable.\n- Ça a été = it was (a single event): Ça a été un voyage fantastique. C'était is used for description (Leçon 26): C'était fantastique.\n- Weather with il fait + adjective (beau, chaud, froid, mauvais) but il y a + du + noun (du soleil, du vent, du brouillard, des nuages). Il fait chaud, not “il est chaud”.\n- Il pleut and il neige are verbs with an impersonal il: il pleut = it rains. The temperature: Il fait vingt degrés.\n- Quel temps fait-il ? = What's the weather like? La météo = the weather forecast: Qu'est-ce que dit la météo ? Le temps = both weather and time/tense: Quel temps fait-il ? / Je n'ai pas le temps.\n- J'ai chaud / J'ai froid = I'm hot / I'm cold (a person); Il fait chaud / Il fait froid = it's hot / cold (the weather)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Ça a été difficile."
+            },
+            {
+              "fr": "J'ai été malade la semaine dernière."
+            },
+            {
+              "fr": "Hier, nous avons été au cinéma."
+            },
+            {
+              "fr": "Quel temps fait-il ?"
+            },
+            {
+              "fr": "Il pleut."
+            },
+            {
+              "fr": "Il y a du soleil. Il fait beau."
+            },
+            {
+              "fr": "Il fait chaud en été."
+            },
+            {
+              "fr": "Il neige en hiver."
+            },
+            {
+              "fr": "C'est nuageux ce matin."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Être au passé composé",
+          "items": [
+            {
+              "prompt": "J'___ été malade. (avoir)",
+              "answers": [
+                "ai"
+              ]
+            },
+            {
+              "prompt": "Tu ___ été à la fac ? (avoir)",
+              "answers": [
+                "as"
+              ]
+            },
+            {
+              "prompt": "Ça ___ été difficile. (avoir)",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "prompt": "Nous ___ été au cinéma. (avoir)",
+              "answers": [
+                "avons"
+              ]
+            },
+            {
+              "prompt": "Vous ___ été à Paris ? (avoir)",
+              "answers": [
+                "avez"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel temps fait-il ?",
+          "items": [
+            {
+              "prompt": "Il ___ . (l'eau tombe du ciel)",
+              "answers": [
+                "pleut"
+              ],
+              "choices": [
+                "pleut",
+                "neige",
+                "fait chaud"
+              ]
+            },
+            {
+              "prompt": "Il ___ . (la neige tombe)",
+              "answers": [
+                "neige"
+              ],
+              "choices": [
+                "pleut",
+                "neige",
+                "fait chaud"
+              ]
+            },
+            {
+              "prompt": "Il y a du ___ . (le jour est lumineux)",
+              "answers": [
+                "soleil"
+              ]
+            },
+            {
+              "prompt": "Il fait ___ en hiver. (température basse)",
+              "answers": [
+                "froid"
+              ],
+              "choices": [
+                "froid",
+                "chaud"
+              ]
+            },
+            {
+              "prompt": "Il fait ___ en été. (température haute)",
+              "answers": [
+                "chaud"
+              ],
+              "choices": [
+                "froid",
+                "chaud"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

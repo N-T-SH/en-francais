@@ -1,0 +1,1008 @@
+{
+  "id": "expliquer-son-cursus",
+  "order": 28,
+  "number": 28,
+  "unit": 8,
+  "unitTitle": "Informez-vous !",
+  "kicker": "Unité 8 · Leçon 28",
+  "title": "Expliquer son cursus",
+  "summary": "Études et diplômes · e-mail formel · passé récent · connaître et savoir · l'interrogation · sons [s] et [z]",
+  "level": "A1",
+  "sections": [
+    {
+      "id": "etudes-diplomes",
+      "title": "Les études, les diplômes et les domaines",
+      "minutes": 8,
+      "lede": "To explain your education in French you need the school vocabulary and to know how French degrees are organised.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les études universitaires",
+          "items": [
+            {
+              "fr": "l'université",
+              "icon": "🎓"
+            },
+            {
+              "fr": "la faculté"
+            },
+            {
+              "fr": "la fac"
+            },
+            {
+              "fr": "un cursus"
+            },
+            {
+              "fr": "un étudiant"
+            },
+            {
+              "fr": "une étudiante"
+            },
+            {
+              "fr": "la formation"
+            },
+            {
+              "fr": "le stage"
+            },
+            {
+              "fr": "un stagiaire"
+            },
+            {
+              "fr": "une stagiaire"
+            },
+            {
+              "fr": "l'alternance"
+            },
+            {
+              "fr": "un alternant"
+            },
+            {
+              "fr": "une alternante"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les domaines",
+          "items": [
+            {
+              "fr": "le droit"
+            },
+            {
+              "fr": "la gestion"
+            },
+            {
+              "fr": "le management"
+            },
+            {
+              "fr": "l'économie"
+            },
+            {
+              "fr": "les langues"
+            },
+            {
+              "fr": "la santé"
+            },
+            {
+              "fr": "l'architecture"
+            },
+            {
+              "fr": "l'informatique",
+              "icon": "💻"
+            },
+            {
+              "fr": "la chimie",
+              "icon": "🧪"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les diplômes en France",
+          "headers": [
+            "Diplôme",
+            "Durée après le bac"
+          ],
+          "rows": [
+            [
+              "le baccalauréat (le bac)",
+              "fin du lycée"
+            ],
+            [
+              "la licence",
+              "3 ans (L1, L2, L3)"
+            ],
+            [
+              "le master",
+              "2 ans de plus : 5 ans (M1, M2)"
+            ],
+            [
+              "le doctorat",
+              "3 ans de plus : 8 ans"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- La fac is short for la faculté and is very common in speech: Je suis à la fac. L'université is the whole institution; une faculté is one division (la faculté de droit).\n- Un stage is a short work placement with a company, as part of a course; une alternance is a longer programme alternating weeks at school and at a company, with a salary.\n- Un stagiaire / une stagiaire is the intern and un alternant / une alternante is a work-study student. The words don't change in the plural: des stagiaires.\n- Do not translate “college” directly. In French un collège is a school for ages eleven to fifteen, un lycée for ages fifteen to eighteen, and l'université / la fac is higher education.\n- Une formation is a training course (une formation en alternance, une formation de gestion). To study = étudier or faire des études: Je fais des études de droit.\n- The bac (baccalauréat) is the national exam at the end of high school, and you need it to enter university. “Licence” is a first university degree (not a driving licence: that is un permis de conduire)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je fais des études de droit à l'université."
+            },
+            {
+              "fr": "Elle est étudiante en économie."
+            },
+            {
+              "fr": "J'ai un stage de quatre mois dans une entreprise."
+            },
+            {
+              "fr": "Il est alternant : il travaille et il étudie."
+            },
+            {
+              "fr": "Après le bac, il fait une licence."
+            },
+            {
+              "fr": "Le master dure deux ans."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Après le lycée, on passe le ___ . (l'examen)",
+              "answers": [
+                "bac"
+              ]
+            },
+            {
+              "prompt": "Un étudiant fait un ___ dans une entreprise pour travailler quelques mois.",
+              "answers": [
+                "stage"
+              ]
+            },
+            {
+              "prompt": "La licence dure ___ ans. (écrivez le nombre en lettres)",
+              "answers": [
+                "trois"
+              ]
+            },
+            {
+              "prompt": "Un étudiant qui travaille et qui étudie est un ___ .",
+              "answers": [
+                "alternant"
+              ]
+            },
+            {
+              "prompt": "Elle fait des études de ___ . (les lois)",
+              "answers": [
+                "droit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "email-formel",
+      "title": "Écrire un e-mail formel",
+      "minutes": 8,
+      "lede": "A formal e-mail follows a fixed pattern: greeting, who you are, what you are looking for, why, your availability, thanks and a polite ending.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La structure d'un e-mail de demande de stage",
+          "headers": [
+            "Partie",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1. Formule d'appel",
+              "Madame, / Monsieur,"
+            ],
+            [
+              "2. Se présenter",
+              "Je viens de finir ma licence de gestion à l'université de Lyon."
+            ],
+            [
+              "3. Dire ce qu'on cherche",
+              "Je recherche un stage pour terminer mon diplôme."
+            ],
+            [
+              "4. Expliquer pourquoi",
+              "Je suis très intéressé par vos activités."
+            ],
+            [
+              "5. Proposer des dates",
+              "Je souhaite faire mon stage de mars à juin."
+            ],
+            [
+              "6. Remercier",
+              "Je vous remercie de votre réponse."
+            ],
+            [
+              "7. Formule de politesse",
+              "Cordialement, Marc Dupont"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Start with Madame, / Monsieur, (not Bonjour or Salut) and finish with Cordialement, or Bien cordialement, (the standard formal sign-off). Salutations distinguées is more traditional; Bises or À bientôt are for friends only.\n- Use vous throughout: Je vous remercie de votre réponse. Je vous joins mon CV (I'm attaching my CV).\n- Je recherche / Je souhaite / Je voudrais are the verbs of a formal request. J'espère travailler chez vous (I hope to work for you).\n- Dates: de mars à juin (from March to June), en septembre, à partir de septembre (starting in September). Months are not capitalised in French.\n- Je viens de + infinitive = I have just…: Je viens de finir mon master. (see the next section)\n- Objet = the subject line (not “object”): Objet : Demande de stage. Pièce jointe = attachment, un CV (curriculum vitae)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez l'e-mail",
+          "items": [
+            {
+              "fr": "Madame,"
+            },
+            {
+              "fr": "Je viens de finir ma licence de gestion à l'université de Lyon."
+            },
+            {
+              "fr": "Je recherche un stage pour terminer mon diplôme."
+            },
+            {
+              "fr": "Je suis très intéressé par vos activités."
+            },
+            {
+              "fr": "Je souhaite faire mon stage de mars à juin."
+            },
+            {
+              "fr": "Je vous remercie de votre réponse."
+            },
+            {
+              "fr": "Cordialement."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Formules d'e-mail",
+          "items": [
+            {
+              "prompt": "Au début d'un e-mail formel on écrit « ___ , » (femme)",
+              "answers": [
+                "Madame"
+              ]
+            },
+            {
+              "prompt": "À la fin on écrit « ___ . »",
+              "answers": [
+                "Cordialement"
+              ]
+            },
+            {
+              "prompt": "Je vous ___ de votre réponse. (merci)",
+              "answers": [
+                "remercie"
+              ]
+            },
+            {
+              "prompt": "Je ___ mon CV à ce message. (j'attache)",
+              "answers": [
+                "joins"
+              ]
+            },
+            {
+              "prompt": "Je souhaite faire mon stage de mars ___ juin.",
+              "answers": [
+                "à"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Une demande de stage",
+          "prompt": "Écrivez un e-mail formel pour demander un stage : présentez-vous, dites ce que vous cherchez et pourquoi, proposez des dates, remerciez et terminez poliment.",
+          "model": "Madame, Je viens de finir ma licence d'informatique à l'université de Lille. Je recherche un stage de quatre mois pour terminer mon diplôme. Je suis très intéressée par vos activités. Je souhaite faire mon stage de juin à septembre. Je vous remercie de votre réponse. Cordialement, Sara Petit"
+        }
+      ]
+    },
+    {
+      "id": "passe-recent",
+      "title": "Le passé récent",
+      "minutes": 6,
+      "lede": "To say that something has just happened, French uses venir de + infinitive: the recent past.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Venir au présent + de + infinitif",
+          "headers": [
+            "Sujet",
+            "passé récent"
+          ],
+          "rows": [
+            [
+              "je",
+              "viens de finir"
+            ],
+            [
+              "tu",
+              "viens de finir"
+            ],
+            [
+              "il / elle / on",
+              "vient de finir"
+            ],
+            [
+              "nous",
+              "venons de finir"
+            ],
+            [
+              "vous",
+              "venez de finir"
+            ],
+            [
+              "ils / elles",
+              "viennent de finir"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les trois temps proches",
+          "headers": [
+            "Temps",
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "passé récent",
+              "venir de + infinitif",
+              "Je viens de finir mon master."
+            ],
+            [
+              "présent",
+              "verbe au présent",
+              "Je finis mon master."
+            ],
+            [
+              "futur proche",
+              "aller + infinitif",
+              "Je vais finir mon master."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Venir de + infinitive means “has/have just”: Je viens de manger = I've just eaten. The venir is in the present tense, even though the meaning is past.\n- Don't confuse venir de + infinitive (just did) with venir de + place (to come from): Je viens de Paris. Je viens de finir.\n- Don't confuse it with aller + infinitive: Je vais manger (I'm about to eat) vs Je viens de manger (I've just eaten). Both are “near”, one before, one after the action.\n- Elision: de becomes d' before a vowel: Je viens d'arriver, Elle vient d'appeler. Venir is irregular: viens, viens, vient, venons, venez, viennent (Leçon 14).\n- Negation goes around venir: Je ne viens pas de partir. Rare in practice: French speakers usually just use the passé composé: Je n'ai pas fini.\n- Pronominal verbs keep their pronoun before the infinitive: Je viens de me lever. Elle vient de s'inscrire."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je viens de finir mon master."
+            },
+            {
+              "fr": "Il vient de sortir de l'université."
+            },
+            {
+              "fr": "Nous venons d'arriver."
+            },
+            {
+              "fr": "Elle vient d'appeler."
+            },
+            {
+              "fr": "Vous venez de manger ?"
+            },
+            {
+              "fr": "Ils viennent de se lever."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Passé récent",
+          "items": [
+            {
+              "prompt": "Je ___ de finir mon travail. (venir)",
+              "answers": [
+                "viens"
+              ]
+            },
+            {
+              "prompt": "Elle ___ d'arriver. (venir)",
+              "answers": [
+                "vient"
+              ]
+            },
+            {
+              "prompt": "Nous ___ de manger. (venir)",
+              "answers": [
+                "venons"
+              ]
+            },
+            {
+              "prompt": "Ils ___ de partir. (venir)",
+              "answers": [
+                "viennent"
+              ]
+            },
+            {
+              "prompt": "Vous ___ de réserver ? (venir)",
+              "answers": [
+                "venez"
+              ]
+            },
+            {
+              "prompt": "Je viens ___ finir mon master. (de/d')",
+              "answers": [
+                "de"
+              ],
+              "choices": [
+                "de",
+                "d'",
+                "à"
+              ]
+            },
+            {
+              "prompt": "Elle vient ___ arriver. (de/d')",
+              "answers": [
+                "d'"
+              ],
+              "choices": [
+                "de",
+                "d'",
+                "à"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connaitre-savoir-etudier",
+      "title": "Connaître, savoir et étudier",
+      "minutes": 8,
+      "lede": "Two verbs for “to know” (connaître and savoir), plus étudier, a regular -ier verb.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Savoir et étudier au présent",
+          "headers": [
+            "Sujet",
+            "savoir",
+            "étudier"
+          ],
+          "rows": [
+            [
+              "je",
+              "sais",
+              "étudie"
+            ],
+            [
+              "tu",
+              "sais",
+              "étudies"
+            ],
+            [
+              "il / elle / on",
+              "sait",
+              "étudie"
+            ],
+            [
+              "nous",
+              "savons",
+              "étudions"
+            ],
+            [
+              "vous",
+              "savez",
+              "étudiez"
+            ],
+            [
+              "ils / elles",
+              "savent",
+              "étudient"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Connaître ou savoir ?",
+          "headers": [
+            "Verbe",
+            "On l'utilise avec",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "connaître",
+              "un nom (personne, lieu, chose)",
+              "Vous connaissez notre entreprise ?"
+            ],
+            [
+              "savoir",
+              "un verbe à l'infinitif ou une phrase",
+              "Vous savez organiser une fête ?"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Connaître = to know/be familiar with a person, a place, a thing: Je connais Paris. Je connais ce professeur. Savoir = to know a fact or know how to do something: Je sais nager. Je sais que tu es là.\n- Savoir + infinitive = can (a learned skill): Elle sait parler trois langues. Pouvoir + infinitive = to be able/allowed to. “I can swim” (a skill) = Je sais nager.\n- Savoir is irregular: sais, sais, sait, savons, savez, savent. Connaître: connais, connais, connaît, connaissons, connaissez, connaissent (Leçon 24).\n- Étudier: regular -er verb, but it has an i before the endings -ons / -ez: nous étudions, vous étudiez. They sound like étudi-ons, étudi-ez (the i is pronounced as a glide [j]).\n- Faire des études / étudier + subject: J'étudie le droit. Je fais des études de droit. Both are correct; étudier is more direct.\n- Je ne sais pas = I don't know (a fact). Je ne connais pas ce film = I'm not familiar with that film."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Vous connaissez notre entreprise ?"
+            },
+            {
+              "fr": "Je connais bien Paris."
+            },
+            {
+              "fr": "Vous savez organiser une fête ?"
+            },
+            {
+              "fr": "Elle sait parler trois langues."
+            },
+            {
+              "fr": "J'étudie le droit à l'université."
+            },
+            {
+              "fr": "Nous étudions l'économie."
+            },
+            {
+              "fr": "Ils étudient la chimie."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Connaître ou savoir ?",
+          "items": [
+            {
+              "prompt": "Vous ___ cette ville ? (je suis déjà venu)",
+              "answers": [
+                "connaissez"
+              ],
+              "choices": [
+                "connaissez",
+                "savez"
+              ]
+            },
+            {
+              "prompt": "Je ___ nager.",
+              "answers": [
+                "sais"
+              ],
+              "choices": [
+                "connais",
+                "sais"
+              ]
+            },
+            {
+              "prompt": "Elle ___ mon frère.",
+              "answers": [
+                "connaît"
+              ],
+              "choices": [
+                "connaît",
+                "sait"
+              ]
+            },
+            {
+              "prompt": "Nous ___ parler français.",
+              "answers": [
+                "savons"
+              ],
+              "choices": [
+                "connaissons",
+                "savons"
+              ]
+            },
+            {
+              "prompt": "Ils ___ notre entreprise.",
+              "answers": [
+                "connaissent"
+              ],
+              "choices": [
+                "connaissent",
+                "savent"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Étudier",
+          "items": [
+            {
+              "prompt": "J'___ le droit.",
+              "answers": [
+                "étudie"
+              ]
+            },
+            {
+              "prompt": "Tu ___ la chimie ?",
+              "answers": [
+                "étudies"
+              ]
+            },
+            {
+              "prompt": "Nous ___ l'économie.",
+              "answers": [
+                "étudions"
+              ]
+            },
+            {
+              "prompt": "Vous ___ où ? (étudier)",
+              "answers": [
+                "étudiez"
+              ]
+            },
+            {
+              "prompt": "Ils ___ à Lyon.",
+              "answers": [
+                "étudient"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interrogation",
+      "title": "L'interrogation : poser des questions",
+      "minutes": 10,
+      "lede": "French has three ways to ask a question: with intonation (casual), with est-ce que, and with inversion (more formal). Interrogative words add information.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois formes de question",
+          "headers": [
+            "Forme",
+            "Exemple",
+            "Registre"
+          ],
+          "rows": [
+            [
+              "intonation (la voix monte)",
+              "Vous voulez faire votre stage chez nous ?",
+              "courant"
+            ],
+            [
+              "est-ce que",
+              "Est-ce que vous voulez faire votre stage ?",
+              "courant"
+            ],
+            [
+              "inversion",
+              "Voulez-vous faire votre stage chez nous ?",
+              "formel"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les mots interrogatifs",
+          "headers": [
+            "Mot",
+            "Question",
+            "Réponse"
+          ],
+          "rows": [
+            [
+              "comment",
+              "Comment vous appelez-vous ?",
+              "Je m'appelle Léa."
+            ],
+            [
+              "quel / quelle",
+              "Quel est votre cursus ?",
+              "Droit-gestion."
+            ],
+            [
+              "qui",
+              "Qui est le responsable ?",
+              "C'est Mme Roux."
+            ],
+            [
+              "où",
+              "Où habitez-vous ?",
+              "À Lyon."
+            ],
+            [
+              "quand",
+              "Quand commence le stage ?",
+              "En mai."
+            ],
+            [
+              "combien",
+              "Combien de temps dure le stage ?",
+              "Quatre mois."
+            ],
+            [
+              "qu'est-ce que",
+              "Qu'est-ce que vous étudiez ?",
+              "J'étudie le droit."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Inversion = verb + subject pronoun joined by a hyphen: Voulez-vous… ? Savez-vous… ? Avez-vous… ? The word order changes, the intonation still rises.\n- With il / elle / on, if the verb ends in a vowel (il parle, elle a, il étudie) add -t- between the verb and the pronoun: Parle-t-il français ? A-t-elle un stage ? Étudie-t-il ? After a consonant no t is needed: Prend-il ? Vend-elle ?\n- Qu'est-ce que = what (the thing asked about is the object of the verb): Qu'est-ce que vous étudiez ? = Vous étudiez quoi ? In the second form quoi comes at the end (informal). Never say “que est-ce que”.\n- Qu'est-ce que is que (what) + est-ce que (the question marker). Qu'est-ce qui is the same word when what is the subject: Qu'est-ce qui se passe ? (what is happening?)\n- Quel agrees with the noun: quel stage, quelle formation, quels étudiants, quelles langues. Quel + être: Quel est votre cursus ? (not “quelle”: cursus is masculine).\n- Où? Quand? Combien? Comment? are put at the start with est-ce que (Où est-ce que vous habitez ?), inverted (Où habitez-vous ?) or with intonation at the end: Vous habitez où ? (informal).\n- Combien de + noun: Combien de temps dure le stage ? (never combien des)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Vous voulez faire votre stage chez nous ?"
+            },
+            {
+              "fr": "Voulez-vous faire votre stage chez nous ?"
+            },
+            {
+              "fr": "Savez-vous organiser des événements ?"
+            },
+            {
+              "fr": "Quel est votre cursus ?"
+            },
+            {
+              "fr": "Qu'est-ce que vous étudiez ?"
+            },
+            {
+              "fr": "Où habitez-vous ?"
+            },
+            {
+              "fr": "Combien de temps dure le stage ?"
+            },
+            {
+              "fr": "Parle-t-il français ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Transformez avec est-ce que",
+          "items": [
+            {
+              "prompt": "Vous étudiez le droit ? → ___ -ce que vous étudiez le droit ?",
+              "answers": [
+                "Est"
+              ]
+            },
+            {
+              "prompt": "Vous habitez où ? → Où ___ -ce que vous habitez ?",
+              "answers": [
+                "est"
+              ]
+            },
+            {
+              "prompt": "Vous voulez un stage ? → ___ -vous un stage ?",
+              "answers": [
+                "Voulez"
+              ]
+            },
+            {
+              "prompt": "Tu parles français ? → ___ -tu français ?",
+              "answers": [
+                "Parles"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mots interrogatifs",
+          "items": [
+            {
+              "prompt": "___ est votre cursus ?",
+              "answers": [
+                "Quel"
+              ],
+              "choices": [
+                "Quel",
+                "Quelle",
+                "Qui"
+              ]
+            },
+            {
+              "prompt": "___ de temps dure le stage ?",
+              "answers": [
+                "Combien"
+              ],
+              "choices": [
+                "Combien",
+                "Quand",
+                "Comment"
+              ]
+            },
+            {
+              "prompt": "___ habitez-vous ?",
+              "answers": [
+                "Où"
+              ],
+              "choices": [
+                "Où",
+                "Qui",
+                "Quel"
+              ]
+            },
+            {
+              "prompt": "___ -ce que vous étudiez ?",
+              "answers": [
+                "Qu'est"
+              ],
+              "choices": [
+                "Qu'est",
+                "Qui est",
+                "Quel est"
+              ]
+            },
+            {
+              "prompt": "___ commence le stage ? – En mai.",
+              "answers": [
+                "Quand"
+              ],
+              "choices": [
+                "Quand",
+                "Combien",
+                "Où"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Un entretien",
+          "prompt": "À deux : l'un pose des questions sur le cursus de l'autre (où, quand, combien de temps, pourquoi). Utilisez l'intonation, est-ce que et l'inversion.",
+          "model": "– Quel est votre cursus ? – Je fais un master d'informatique. – Où étudiez-vous ? – À Lille. – Est-ce que vous cherchez un stage ? – Oui, de mai à août."
+        }
+      ]
+    },
+    {
+      "id": "sons-s-z",
+      "title": "Les sons [s] et [z]",
+      "minutes": 5,
+      "lede": "[s] is a hiss (the vocal cords do not vibrate); [z] is a buzz (they vibrate). Put your fingers on your throat to feel the difference.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "[s] ou [z] ?",
+          "headers": [
+            "Son",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[s]",
+              "la licence · le master · le stage · une association · le cinéma"
+            ],
+            [
+              "[z]",
+              "les études · une entreprise · organiser · la rose · nous avons"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- Between two vowels, a single s is pronounced [z]: la rose, la fusion, organiser, une entreprise (en-tre-pri-z-). A double ss is [s]: le dessert, la classe, la boisson.\n- S at the start of a word, or next to a consonant, is [s]: le stage, la santé, le master.\n- C before e, i, y is [s]: la licence, le cinéma. Ç is [s]: ça, français, garçon. The letter z is [z]: zéro, une zone.\n- Liaison with s, x or z makes [z]: nous_avons, vous_avez, les_étudiants, deux_ans. Compare ils sont [sɔ̃] (no liaison) with ils ont [zɔ̃] (liaison): only one sound changes the meaning!\n- Two similar sounds, two meanings: poisson (fish) [pwasɔ̃] / poison [pwazɔ̃], dessert [desɛʁ] / désert [dezɛʁ]. Pay attention to double ss."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "la licence"
+            },
+            {
+              "fr": "le master"
+            },
+            {
+              "fr": "le stage"
+            },
+            {
+              "fr": "une association"
+            },
+            {
+              "fr": "les études"
+            },
+            {
+              "fr": "une entreprise"
+            },
+            {
+              "fr": "organiser"
+            },
+            {
+              "fr": "ils sont"
+            },
+            {
+              "fr": "ils ont"
+            },
+            {
+              "fr": "nous savons"
+            },
+            {
+              "fr": "nous avons"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "[s] ou [z] ?",
+          "items": [
+            {
+              "prompt": "Dans « licence », on entend ___ .",
+              "answers": [
+                "[s]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            },
+            {
+              "prompt": "Dans « organiser », on entend ___ .",
+              "answers": [
+                "[z]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            },
+            {
+              "prompt": "Dans « ils ont », on entend ___ au début du verbe.",
+              "answers": [
+                "[z]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            },
+            {
+              "prompt": "Dans « ils sont », on entend ___ .",
+              "answers": [
+                "[s]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            },
+            {
+              "prompt": "Dans « dessert », on entend ___ .",
+              "answers": [
+                "[s]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

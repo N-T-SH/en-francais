@@ -55,8 +55,7 @@ asks for them to be added. To do that:
 
 ## Library structure (textbook: *Inspire 1*, Hachette, A1)
 
-The app follows the textbook's table of contents (Sommaire). Lessons the learner
-has covered so far:
+The app follows the textbook's table of contents (Sommaire). Lessons covered so far (the whole book, Leçons 1–31):
 
 | Unité | Leçons in the app |
 |---|---|
@@ -67,8 +66,8 @@ has covered so far:
 | 5 · Parlez de votre quotidien | 16 Décrire son quotidien · 17 Faire les courses · 18 Acheter des vêtements · 19 Techniques pour… |
 | Bonus (no unit) | 99 L'heure (from learner-shared infographics, not from the book; numbered 99 so it never clashes with a book lesson) |
 | 6 · Partagez vos expériences ! | 20 Faire une recette · 21 Commander au restaurant · 22 Raconter un événement · 23 Techniques pour… |
-| 7 · Donnez votre avis ! | 24 Conseiller · 25 Proposer un projet · 26 Raconter un voyage (27 Techniques pour…: not added) |
-| 8+ | Unit 8 onwards (28 …): not yet covered |
+| 7 · Donnez votre avis ! | 24 Conseiller · 25 Proposer un projet · 26 Raconter un voyage · 27 Techniques pour… |
+| 8 · Informez-vous ! | 28 Expliquer son cursus · 29 Décrire un travail · 30 Se loger · 31 Techniques pour… |
 
 Sections keep stable ids because progress is saved per `lessonId/sectionId`. If
 a section ever moves to another lesson, add it to `SECTION_MOVES` in
