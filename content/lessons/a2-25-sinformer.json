@@ -1,0 +1,587 @@
+{
+  "id": "a2-sinformer",
+  "order": 125,
+  "number": 25,
+  "unit": 7,
+  "unitTitle": "Réagissez",
+  "kicker": "Unité 7 · Leçon 25",
+  "title": "S'informer",
+  "summary": "Les médias · mais et mise en relief · y et en · si / non, moi aussi",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "medias-information",
+      "title": "Les médias et l'information",
+      "minutes": 9,
+      "lede": "To talk about how you get your news you need the names of the media, the words for information (true and false) and the verbs of trust.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les médias (2)",
+          "items": [
+            {
+              "fr": "une application mobile"
+            },
+            {
+              "fr": "une appli"
+            },
+            {
+              "fr": "une chaîne de télé"
+            },
+            {
+              "fr": "Internet"
+            },
+            {
+              "fr": "le Net"
+            },
+            {
+              "fr": "un journal"
+            },
+            {
+              "fr": "un magazine"
+            },
+            {
+              "fr": "la presse écrite"
+            },
+            {
+              "fr": "la radio",
+              "icon": "📻"
+            },
+            {
+              "fr": "un réseau social"
+            },
+            {
+              "fr": "un site d'information"
+            },
+            {
+              "fr": "un pure player"
+            },
+            {
+              "fr": "une station de radio"
+            },
+            {
+              "fr": "la télévision",
+              "icon": "📺"
+            },
+            {
+              "fr": "la télé"
+            },
+            {
+              "fr": "la version papier"
+            },
+            {
+              "fr": "la version en ligne"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'information",
+          "items": [
+            {
+              "fr": "une info"
+            },
+            {
+              "fr": "une infox"
+            },
+            {
+              "fr": "une fausse information"
+            },
+            {
+              "fr": "une fake news"
+            },
+            {
+              "fr": "une source"
+            },
+            {
+              "fr": "la confiance"
+            },
+            {
+              "fr": "faire confiance à"
+            },
+            {
+              "fr": "fiable"
+            },
+            {
+              "fr": "croire"
+            },
+            {
+              "fr": "vérifier"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un journal = a newspaper (also: a diary / a news bulletin: le journal de 20 heures); un journaliste = a journalist. La presse = the press in general; la presse écrite = printed press. Un magazine = a magazine (weekly or monthly).\n- Une info is short for une information. In the plural: les infos = the news. One piece of information = une information: J'ai une bonne information. Une infox = fake news (a blend of information + intoxication); une fausse information is the standard term.\n- Faire confiance à quelqu'un / à quelque chose = to trust: Je fais confiance aux journaux. La confiance = trust; fiable = reliable: une source fiable. Se fier à is also used.\n- Croire à + thing / Croire en + person = to believe in: Je crois à cette information. Je crois en toi (I believe in you). Croire que + indicative = to think that: Je crois que c'est vrai. Croire + noun (direct) = to believe: Je te crois.\n- Vérifier = to check, to verify. Une source = a source (of news or water). Une chaîne de télévision = a TV channel (also: a chain in the sense of a series of shops).\n- Internet is not usually preceded by an article but can be: sur Internet, le Net. A pure player is an online-only media company (no paper edition)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je m'informe à la radio et sur Internet."
+            },
+            {
+              "fr": "Mon grand-père lit le journal tous les matins."
+            },
+            {
+              "fr": "Cette application mobile est très pratique."
+            },
+            {
+              "fr": "Je fais confiance à cette chaîne de télé."
+            },
+            {
+              "fr": "C'est une fausse information : il faut la vérifier."
+            },
+            {
+              "fr": "Cette source n'est pas fiable."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un journal que l'on lit sur papier fait partie de la presse ___ .",
+              "answers": [
+                "écrite"
+              ]
+            },
+            {
+              "prompt": "Une fausse information s'appelle une ___ . (mot d'origine : fausse info)",
+              "answers": [
+                "infox"
+              ]
+            },
+            {
+              "prompt": "Quand on ne se trompe pas, une source est ___ .",
+              "answers": [
+                "fiable"
+              ]
+            },
+            {
+              "prompt": "Contrôler si une info est vraie : la ___ . (verbe)",
+              "answers": [
+                "vérifier"
+              ]
+            },
+            {
+              "prompt": "Je ___ confiance à ce journaliste. (avoir confiance)",
+              "answers": [
+                "fais"
+              ],
+              "choices": [
+                "fais",
+                "ai",
+                "crois"
+              ]
+            },
+            {
+              "prompt": "On écoute les informations à la ___ ou à la télévision.",
+              "answers": [
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mais-mise-en-relief",
+      "title": "Mais et la mise en relief : c'est … qui, c'est … que",
+      "minutes": 11,
+      "lede": "Mais introduces an opposition. C'est … qui and c'est … que highlight one element of the sentence to insist on it.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Mais pour exprimer l'opposition",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "A, mais B",
+              "Je lis peu de journaux, mais j'écoute la radio tous les jours."
+            ],
+            [
+              "A. Mais B",
+              "Cette appli est gratuite. Mais elle est pleine de publicités."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "C'est … qui / que",
+          "headers": [
+            "Mettre en relief",
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "le sujet",
+              "c'est … qui",
+              "C'est la radio qui est la plus fiable."
+            ],
+            [
+              "le complément (COD)",
+              "c'est … que",
+              "C'est la radio que je trouve la plus fiable."
+            ],
+            [
+              "un complément avec préposition",
+              "c'est … à / de / avec … que",
+              "C'est à ma sœur que je téléphone. · C'est avec toi que j'aime discuter."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Mais = but (opposition). It is not an alternative (that is ou / sinon). A comma before mais is optional in a short sentence: Il est jeune mais il a de l'expérience.\n- C'est … qui = emphasis on the subject: C'est le journal qui annonce la nouvelle (not the radio). C'est … que = emphasis on the object: C'est ce journal que je lis. The highlighted element is placed between c'est and qui / que.\n- Qui is subject, so the verb after qui agrees with the highlighted element: C'est moi qui ai raison (not “c'est moi qui a raison”). C'est nous qui avons fini. Ce sont les jeunes qui lisent peu (c'est les jeunes qui is common in speech).\n- Que becomes qu' before a vowel: C'est la télé qu'on regarde le plus. After a preposition, que follows the whole phrase: C'est à ma sœur que je téléphone. (c'est + preposition + noun + que).\n- This structure is very frequent in speech: C'est lui qui a dit ça ! C'est là que j'habite. C'est ici que… C'est maintenant que… It adds emphasis; use it with care in writing.\n- Compare the emphasis structure with a plain relative clause: C'est elle qui parle (emphasis: she, not someone else) vs Voici la femme qui parle (qui links a clause to a noun)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je lis peu de journaux, mais j'écoute la radio tous les jours."
+            },
+            {
+              "fr": "C'est la télévision qui est ma première source d'information."
+            },
+            {
+              "fr": "C'est la radio que je trouve la plus fiable."
+            },
+            {
+              "fr": "C'est à ma sœur que je téléphone le dimanche."
+            },
+            {
+              "fr": "C'est moi qui ai raison."
+            },
+            {
+              "fr": "Ce sont les jeunes qui utilisent le plus les réseaux sociaux."
+            },
+            {
+              "fr": "C'est avec toi que j'aime discuter."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Qui ou que ?",
+          "items": [
+            {
+              "prompt": "C'est le journal ___ annonce la nouvelle. (sujet)",
+              "answers": [
+                "qui"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "C'est la radio ___ je préfère. (complément)",
+              "answers": [
+                "que"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "C'est ce site ___ on consulte le plus. (voyelle ensuite)",
+              "answers": [
+                "qu'"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "C'est moi ___ ai trouvé l'information. (verbe : ai)",
+              "answers": [
+                "qui"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "C'est à ma sœur ___ je téléphone.",
+              "answers": [
+                "que"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez en relief",
+          "items": [
+            {
+              "prompt": "Je préfère la radio. → C'est la radio ___ je préfère.",
+              "answers": [
+                "que"
+              ]
+            },
+            {
+              "prompt": "Marie a trouvé l'info. → C'est Marie ___ a trouvé l'info.",
+              "answers": [
+                "qui"
+              ]
+            },
+            {
+              "prompt": "Je regarde la télé le soir. → C'est le soir ___ je regarde la télé.",
+              "answers": [
+                "que"
+              ]
+            },
+            {
+              "prompt": "Les jeunes lisent peu. → Ce sont les jeunes ___ lisent peu.",
+              "answers": [
+                "qui"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y-en-coi",
+      "title": "Les pronoms y et en (COI), si / non, moi aussi / moi non plus",
+      "minutes": 12,
+      "lede": "Y and en replace a thing introduced by à or de (an indirect object). Si / non and moi aussi / moi non plus are the short answers that go with them.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Y et en",
+          "headers": [
+            "Pronom",
+            "Remplace",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "y",
+              "à + chose",
+              "Je n'ai pas pensé à vérifier l'info. → Je n'y ai pas pensé."
+            ],
+            [
+              "y",
+              "à + chose",
+              "Tu crois à cette info ? → Tu y crois ?"
+            ],
+            [
+              "en",
+              "de + chose",
+              "Je me souviens de l'info. → Je m'en souviens."
+            ],
+            [
+              "en",
+              "de + chose",
+              "Ils ont parlé de ce film. → Ils en ont parlé."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Répondre à une question négative",
+          "headers": [
+            "Question",
+            "Réponse"
+          ],
+          "rows": [
+            [
+              "Tu ne crois pas à ça ?",
+              "Si, j'y crois. · Non, je n'y crois pas."
+            ],
+            [
+              "Tu n'as pas pensé à vérifier ?",
+              "Si, j'y ai pensé. · Non, je n'y ai pas pensé."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Moi aussi · moi non plus",
+          "headers": [
+            "Je dis…",
+            "Mon ami répond…"
+          ],
+          "rows": [
+            [
+              "Je vérifie toujours.",
+              "Moi aussi. (affirmatif)"
+            ],
+            [
+              "Je n'ai pas vérifié.",
+              "Moi non plus. (négatif)"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Y replaces à + thing: penser à, croire à, réfléchir à, répondre à, s'intéresser à. For a person, use lui / leur or a stressed pronoun: Je pense à Marie → Je pense à elle (not j'y pense). Exception: faire confiance à → lui / leur: Je lui fais confiance.\n- En replaces de + thing: se souvenir de, parler de, avoir besoin de, s'occuper de: Je m'en souviens. Il en a parlé. J'en ai besoin. Different from en (partitive) or en = place: same word, same position.\n- Position: before the conjugated verb (J'y crois, Il en parle). Before the infinitive after another verb: Je vais y penser. Il va s'en souvenir. In the passé composé: before the auxiliary: Je n'y ai pas pensé. Ils en ont parlé.\n- Si = yes, but only when you contradict a negative question or statement: – Tu ne crois pas à ça ? – Si ! (I do believe it). Oui would sound like you agree with the negative. Non = no (confirming the negative).\n- Moi aussi = me too (after an affirmative sentence). Moi non plus = me neither (after a negative sentence). Mixing them is a classic mistake: Je ne sais pas. – Moi aussi ✗ → Moi non plus ✓. For contrast: Moi, si ! / Moi, non !\n- Y and en before the verb with ne: Je n'y pense pas. Je n'en parle jamais. (ne + y/en + verb + pas)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Tu crois à cette info ? Oui, j'y crois."
+            },
+            {
+              "fr": "Tu n'as pas pensé à vérifier ? Non, je n'y ai pas pensé."
+            },
+            {
+              "fr": "Tu te souviens de cette infox ? Oui, je m'en souviens."
+            },
+            {
+              "fr": "Ils parlent de ce sondage ? Oui, ils en parlent."
+            },
+            {
+              "fr": "Tu ne regardes pas les infos ? Si, je les regarde."
+            },
+            {
+              "fr": "Je vérifie toujours les sources. – Moi aussi."
+            },
+            {
+              "fr": "Je n'ai pas lu le journal. – Moi non plus."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Y ou en ?",
+          "items": [
+            {
+              "prompt": "Tu penses à ce problème ? Oui, j'___ pense.",
+              "answers": [
+                "y"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Tu te souviens de cette info ? Oui, je m'___ souviens.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Ils ont parlé de ce sondage ? Oui, ils ___ ont parlé.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Elle croit à ces infos ? Non, elle n'___ croit pas.",
+              "answers": [
+                "y"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Tu as besoin de ce journal ? Oui, j'___ ai besoin.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Si, non, moi aussi, moi non plus",
+          "items": [
+            {
+              "prompt": "Tu ne regardes pas la télé ? ___ , je la regarde souvent. (je la regarde)",
+              "answers": [
+                "Si"
+              ],
+              "choices": [
+                "Si",
+                "Non",
+                "Oui"
+              ]
+            },
+            {
+              "prompt": "Je vérifie toujours l'info. – ___ . (moi aussi)",
+              "answers": [
+                "Moi aussi"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus"
+              ]
+            },
+            {
+              "prompt": "Je ne lis jamais le journal. – ___ . (moi non plus)",
+              "answers": [
+                "Moi non plus"
+              ],
+              "choices": [
+                "Moi aussi",
+                "Moi non plus"
+              ]
+            },
+            {
+              "prompt": "Tu n'as pas vérifié ? – ___ , je n'ai pas vérifié.",
+              "answers": [
+                "Non"
+              ],
+              "choices": [
+                "Si",
+                "Non"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Faites un sondage",
+          "prompt": "Préparez trois questions sur les médias (comment vous vous informez, en quel média vous avez confiance, l'avenir des journaux). Posez-les à trois camarades et comparez les réponses avec « moi aussi » et « moi non plus ».",
+          "model": "Comment tu t'informes ? – Je m'informe sur les réseaux sociaux. – Moi aussi. Tu lis encore des journaux ? – Non, je n'en lis plus. – Moi non plus. Tu crois toujours aux infos des réseaux ? – Non, je n'y crois pas toujours. – Moi, si !"
+        }
+      ]
+    }
+  ]
+}

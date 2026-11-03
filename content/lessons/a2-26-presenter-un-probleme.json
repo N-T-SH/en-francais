@@ -1,0 +1,728 @@
+{
+  "id": "a2-presenter-un-probleme",
+  "order": 126,
+  "number": 26,
+  "unit": 7,
+  "unitTitle": "Réagissez",
+  "kicker": "Unité 7 · Leçon 26",
+  "title": "Présenter un problème et proposer des solutions",
+  "summary": "Adjectifs indéfinis · le gérondif · rien, personne, ni … ni · culture et accès à la culture",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "adjectifs-indefinis",
+      "title": "Les adjectifs indéfinis : quelques, plusieurs, tout, chaque",
+      "minutes": 9,
+      "lede": "Four words to express quantity without a number: quelques (a few), plusieurs (several), tout (all) and chaque (each).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quantité",
+          "headers": [
+            "Mot",
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "quelques + nom pluriel",
+              "une petite quantité",
+              "Quelques actions existent déjà."
+            ],
+            [
+              "plusieurs + nom pluriel",
+              "une quantité importante",
+              "Plusieurs habitants sont venus."
+            ],
+            [
+              "tout le / toute la / tous les / toutes les + nom",
+              "la totalité",
+              "Tous les monuments sont gratuits. Toute la France est concernée."
+            ],
+            [
+              "chaque + nom singulier",
+              "chacun, individuellement",
+              "Chaque citoyen peut participer."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Quelques = a few (small number): quelques amis. Plusieurs = several (more than two, fairly many): plusieurs fois. Both are plural and have no feminine form change: quelques femmes, plusieurs femmes.\n- Tout agrees with the noun: tout le monde (m. sing.), toute la ville (f. sing.), tous les jours (m. pl.), toutes les régions (f. pl.). Note: tous before a noun is pronounced [tu]; used as a pronoun (ils sont tous là) the s is pronounced [tus].\n- Chaque is always singular and invariable: chaque jour, chaque semaine, chaque citoyen. English “each / every” ≈ chaque. Chaque jour = tous les jours; chaque semaine = toutes les semaines.\n- Chacun / chacune = each one (pronoun): Chacun doit participer. Chaque is an adjective (needs a noun); chacun is a pronoun (replaces a noun). Never “chaque” alone.\n- Quelque (singular) means “some” in quelque chose, quelque part, quelqu'un, but quelques (plural) = a few: Il y a quelques musées dans cette ville.\n- Tout + adjective/adverb: tout petit, tout près, tout à fait: tout is invariable when it means “quite”: elle est tout heureuse. (Before a feminine adjective beginning with a consonant, tout becomes toute: elle est toute petite.)"
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Quelques actions existent déjà."
+            },
+            {
+              "fr": "Plusieurs habitants ont le sentiment que ce n'est pas pour eux."
+            },
+            {
+              "fr": "Tous les monuments publics devraient être gratuits."
+            },
+            {
+              "fr": "Toutes les régions auront un théâtre."
+            },
+            {
+              "fr": "Chaque citoyen peut participer."
+            },
+            {
+              "fr": "Chaque jour, tous les jours : c'est pareil."
+            },
+            {
+              "fr": "Tout le monde peut venir."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelques, plusieurs, tout ou chaque ?",
+          "items": [
+            {
+              "prompt": "___ citoyen peut participer. (singulier)",
+              "answers": [
+                "Chaque"
+              ],
+              "choices": [
+                "Chaque",
+                "Plusieurs",
+                "Tous"
+              ]
+            },
+            {
+              "prompt": "Il y a ___ musées dans cette ville. (une petite quantité)",
+              "answers": [
+                "quelques"
+              ],
+              "choices": [
+                "quelques",
+                "chaque",
+                "tout"
+              ]
+            },
+            {
+              "prompt": "___ les monuments sont gratuits. (la totalité)",
+              "answers": [
+                "Tous"
+              ],
+              "choices": [
+                "Tous",
+                "Toutes",
+                "Chaque"
+              ]
+            },
+            {
+              "prompt": "___ la France est concernée. (féminin singulier)",
+              "answers": [
+                "Toute"
+              ],
+              "choices": [
+                "Tout",
+                "Toute",
+                "Tous"
+              ]
+            },
+            {
+              "prompt": "___ habitants sont venus à la réunion. (une quantité importante)",
+              "answers": [
+                "Plusieurs"
+              ],
+              "choices": [
+                "Plusieurs",
+                "Chaque",
+                "Tout"
+              ]
+            },
+            {
+              "prompt": "Il y a un cours ___ semaine. (chaque / toutes)",
+              "answers": [
+                "chaque"
+              ],
+              "choices": [
+                "chaque",
+                "tous",
+                "plusieurs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gerondif",
+      "title": "Le gérondif pour proposer des solutions",
+      "minutes": 11,
+      "lede": "The gérondif (en + -ant) describes the way something is done or two actions at the same time. It is a very useful way to propose solutions.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation : en + radical de nous (présent) + -ant",
+          "headers": [
+            "Verbe",
+            "nous…",
+            "Gérondif"
+          ],
+          "rows": [
+            [
+              "ouvrir",
+              "nous ouvrons",
+              "en ouvrant"
+            ],
+            [
+              "construire",
+              "nous construisons",
+              "en construisant"
+            ],
+            [
+              "lire",
+              "nous lisons",
+              "en lisant"
+            ],
+            [
+              "finir",
+              "nous finissons",
+              "en finissant"
+            ],
+            [
+              "faire",
+              "nous faisons",
+              "en faisant"
+            ],
+            [
+              "prendre",
+              "nous prenons",
+              "en prenant"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Irréguliers",
+          "headers": [
+            "Verbe",
+            "Gérondif"
+          ],
+          "rows": [
+            [
+              "être",
+              "en étant"
+            ],
+            [
+              "avoir",
+              "en ayant"
+            ],
+            [
+              "savoir",
+              "en sachant"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Both actions have the same subject: On aidera la culture en ouvrant des bibliothèques (on aide, on ouvre). English “by …ing” and “while …ing” both translate to en + gérondif.\n- Stem: nous form of the present, remove -ons, add -ant: nous lisons → lis- → en lisant; nous finissons → finiss- → en finissant. Be careful with -ger and -cer verbs: en mangeant (nous mangeons), en commençant (nous commençons).\n- Negative: en ne + verb + pas: en ne réservant pas la culture à une minorité. Pronominal: the pronoun agrees with the subject: en me levant, en se levant, en nous couchant.\n- Never use the infinitive after en: not “en ouvrir”. And no “à” before the gérondif: J'apprends en lisant (not “à lisant”). Don't confuse with the preposition for + -ing: pour + infinitive (aim): Je lis pour apprendre. Gérondif = manner: Je lis en écoutant de la musique.\n- Uses: (1) means / method: En ouvrant des bibliothèques, on démocratise la culture. (2) simultaneity: Il écoute la radio en conduisant. (3) condition: En travaillant plus, tu réussiras.\n- The gérondif is invariable. Without en, the -ant form is the participe présent, used mostly in writing or as an adjective (une histoire passionnante). Learn the form with en first."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "On aidera la culture en ouvrant des bibliothèques."
+            },
+            {
+              "fr": "On construira des salles de spectacle en finançant des projets régionaux."
+            },
+            {
+              "fr": "On peut réduire les inégalités en offrant des places gratuites."
+            },
+            {
+              "fr": "Il écoute la radio en conduisant."
+            },
+            {
+              "fr": "En ne réservant pas les cours à une minorité, on ouvre la culture à tous."
+            },
+            {
+              "fr": "En sachant cela, je prends ma décision."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Formez le gérondif",
+          "items": [
+            {
+              "prompt": "ouvrir → en ___",
+              "answers": [
+                "ouvrant"
+              ]
+            },
+            {
+              "prompt": "construire → en ___",
+              "answers": [
+                "construisant"
+              ]
+            },
+            {
+              "prompt": "lire → en ___",
+              "answers": [
+                "lisant"
+              ]
+            },
+            {
+              "prompt": "finir → en ___",
+              "answers": [
+                "finissant"
+              ]
+            },
+            {
+              "prompt": "faire → en ___",
+              "answers": [
+                "faisant"
+              ]
+            },
+            {
+              "prompt": "être → en ___",
+              "answers": [
+                "étant"
+              ]
+            },
+            {
+              "prompt": "avoir → en ___",
+              "answers": [
+                "ayant"
+              ]
+            },
+            {
+              "prompt": "manger → en ___",
+              "answers": [
+                "mangeant"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec un gérondif",
+          "items": [
+            {
+              "prompt": "On démocratise la culture en ___ des bibliothèques. (ouvrir)",
+              "answers": [
+                "ouvrant"
+              ]
+            },
+            {
+              "prompt": "Tu apprends le français en ___ des livres. (lire)",
+              "answers": [
+                "lisant"
+              ]
+            },
+            {
+              "prompt": "Il travaille en ___ de la musique. (écouter)",
+              "answers": [
+                "écoutant"
+              ]
+            },
+            {
+              "prompt": "Elle se détend en ___ . (marcher)",
+              "answers": [
+                "marchant"
+              ]
+            },
+            {
+              "prompt": "En ___ le métro, je gagne du temps. (prendre)",
+              "answers": [
+                "prenant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negation-rien-personne-ni",
+      "title": "La négation : rien, personne, ni … ni …",
+      "minutes": 11,
+      "lede": "Three more negations: rien (nothing), personne (nobody) and ni … ni … (neither … nor …). Each can be the subject or the object of the verb.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Rien et personne",
+          "headers": [
+            "",
+            "Sujet",
+            "Complément"
+          ],
+          "rows": [
+            [
+              "rien",
+              "Rien ne va.",
+              "On ne fait rien."
+            ],
+            [
+              "personne",
+              "Personne ne peut venir.",
+              "On ne connaît personne."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Ni … ni …",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "ne + verbe + ni … ni …",
+              "Je ne mange ni viande ni poisson."
+            ],
+            [
+              "ni … ni … ne + verbe",
+              "Ni le cinéma ni le théâtre ne sont gratuits."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Rien and personne are negative words: they need ne (except in a very short answer): Qu'est-ce que tu fais ? – Rien. Qui est là ? – Personne. But with a verb: Je ne vois rien. Je ne vois personne.\n- As subject: Rien ne change. Personne ne parle. (no pas! ne goes right before the verb). Don't write “Rien pas”. As object: Je ne fais rien. Je ne connais personne.\n- Passé composé: rien comes between auxiliary and participle (Je n'ai rien vu). Personne comes after the participle (Je n'ai vu personne). Compare: Je n'ai rien dit / Je n'ai parlé à personne.\n- Opposites: quelque chose / rien; quelqu'un / personne; tout / rien; tout le monde / personne. Quelqu'un is singular: Quelqu'un est venu. Tout le monde est là (singular verb).\n- Ni … ni … = neither … nor …: no article after ni: Je n'ai ni frère ni sœur. Je ne bois ni café ni thé. With two subjects: Ni lui ni elle ne sont venus (the verb is usually plural).\n- A double negation can also be affirmed by the contrary: Personne n'est venu / Tout le monde est venu. In informal speech the ne is dropped: J'ai rien vu. Write it with ne."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Rien ne va."
+            },
+            {
+              "fr": "On ne fait rien."
+            },
+            {
+              "fr": "Personne ne peut voir les expositions gratuitement."
+            },
+            {
+              "fr": "On ne connaît personne."
+            },
+            {
+              "fr": "Je n'ai rien vu."
+            },
+            {
+              "fr": "Je n'ai vu personne."
+            },
+            {
+              "fr": "Ni le cinéma ni le théâtre ne sont gratuits."
+            },
+            {
+              "fr": "Je ne mange ni viande ni poisson."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Rien, personne ou ni … ni ?",
+          "items": [
+            {
+              "prompt": "Je ne vois ___ . (aucune chose)",
+              "answers": [
+                "rien"
+              ],
+              "choices": [
+                "rien",
+                "personne"
+              ]
+            },
+            {
+              "prompt": "Je ne connais ___ ici. (aucune personne)",
+              "answers": [
+                "personne"
+              ],
+              "choices": [
+                "rien",
+                "personne"
+              ]
+            },
+            {
+              "prompt": "Je n'ai vu ___ . (aucune personne : participe passé)",
+              "answers": [
+                "personne"
+              ],
+              "choices": [
+                "rien",
+                "personne"
+              ]
+            },
+            {
+              "prompt": "___ ne vient. (sujet : aucune personne)",
+              "answers": [
+                "Personne"
+              ],
+              "choices": [
+                "Rien",
+                "Personne"
+              ]
+            },
+            {
+              "prompt": "Je ne bois ___ café ni thé.",
+              "answers": [
+                "ni"
+              ],
+              "choices": [
+                "ni",
+                "ne",
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Je n'ai ___ frère ni sœur. (aucun des deux)",
+              "answers": [
+                "ni"
+              ],
+              "choices": [
+                "ni",
+                "pas",
+                "rien"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Contraires",
+          "items": [
+            {
+              "prompt": "quelque chose ≠ ___",
+              "answers": [
+                "rien"
+              ]
+            },
+            {
+              "prompt": "quelqu'un ≠ ___",
+              "answers": [
+                "personne"
+              ]
+            },
+            {
+              "prompt": "tout ≠ ___",
+              "answers": [
+                "rien"
+              ]
+            },
+            {
+              "prompt": "tout le monde ≠ ___",
+              "answers": [
+                "personne"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "culture-acces-sons",
+      "title": "La culture, l'accès à la culture et les sons [p]/[b], [f]/[v]",
+      "minutes": 10,
+      "lede": "Vocabulary of cultural venues and of democratising culture, then the explosive and continuous consonant pairs.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les équipements et les événements culturels",
+          "items": [
+            {
+              "fr": "une bibliothèque"
+            },
+            {
+              "fr": "un conservatoire"
+            },
+            {
+              "fr": "un conservatoire de musique"
+            },
+            {
+              "fr": "une exposition",
+              "icon": "🖼️"
+            },
+            {
+              "fr": "une expo permanente"
+            },
+            {
+              "fr": "une expo temporaire"
+            },
+            {
+              "fr": "un monument"
+            },
+            {
+              "fr": "un musée",
+              "icon": "🏛️"
+            },
+            {
+              "fr": "une place de théâtre"
+            },
+            {
+              "fr": "une salle de spectacle"
+            },
+            {
+              "fr": "une salle de concert"
+            },
+            {
+              "fr": "une salle de cinéma"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'accès à la culture",
+          "items": [
+            {
+              "fr": "la démocratisation"
+            },
+            {
+              "fr": "la gratuité"
+            },
+            {
+              "fr": "les inégalités"
+            },
+            {
+              "fr": "une offre culturelle"
+            },
+            {
+              "fr": "démocratiser"
+            },
+            {
+              "fr": "disposer de"
+            },
+            {
+              "fr": "favoriser"
+            },
+            {
+              "fr": "réduire"
+            },
+            {
+              "fr": "réserver"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Quatre consonnes",
+          "headers": [
+            "Son",
+            "Type",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[p] / [b]",
+              "explosives (les lèvres se ferment puis s'ouvrent)",
+              "une expo permanente · une bibliothèque"
+            ],
+            [
+              "[f] / [v]",
+              "continues (l'air passe en continu)",
+              "une offre · un livre · favoriser"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Une bibliothèque = a library (a bookshop is une librairie: a classic false friend). Un conservatoire = a music / drama / dance school (public). Un musée = a museum; un monument = a historical monument.\n- Une exposition (une expo) = an exhibition. Permanente = always there; temporaire = for a limited time. Une salle de spectacle = a theatre / performing hall; une place de théâtre = a theatre ticket / seat.\n- Démocratiser = to make accessible to everyone; la démocratisation de la culture. La gratuité = being free of charge. Les inégalités = inequalities. Réduire = to reduce. Favoriser = to encourage. Disposer de = to have available.\n- Réserver = to book (a seat) and also to keep something for a particular group: ne pas réserver les places aux seuls adultes. Réserver une place = to book a seat.\n- [p] vs [b]: voiceless / voiced: pain / bain; [f] vs [v]: voiceless / voiced: fin / vin; faux / veau. Spelling: ph = [f] (photo, pharmacie); w = [v] in some words (wagon); v = [v].\n- In French [p] is not aspirated (no puff of air) as in English “pie”; [v] needs the upper teeth on the lower lip with voice, not “w”."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez et répétez",
+          "items": [
+            {
+              "fr": "Une exposition permanente."
+            },
+            {
+              "fr": "Une bibliothèque."
+            },
+            {
+              "fr": "Une offre culturelle."
+            },
+            {
+              "fr": "Un livre."
+            },
+            {
+              "fr": "Favoriser la culture."
+            },
+            {
+              "fr": "Le pain et le bain."
+            },
+            {
+              "fr": "Le fin et le vin."
+            },
+            {
+              "fr": "Le faux et le veau."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "On emprunte des livres à la ___ .",
+              "answers": [
+                "bibliothèque"
+              ]
+            },
+            {
+              "prompt": "Une exposition qui reste toujours est ___ . (adjectif)",
+              "answers": [
+                "permanente"
+              ]
+            },
+            {
+              "prompt": "Quand il n'y a rien à payer, on parle de ___ .",
+              "answers": [
+                "gratuité"
+              ]
+            },
+            {
+              "prompt": "Rendre la culture accessible à tous, c'est la ___ . (verbe)",
+              "answers": [
+                "démocratiser"
+              ]
+            },
+            {
+              "prompt": "Dans « pain », le premier son est ___ .",
+              "answers": [
+                "[p]"
+              ],
+              "choices": [
+                "[p]",
+                "[b]"
+              ]
+            },
+            {
+              "prompt": "Dans « vin », le premier son est ___ .",
+              "answers": [
+                "[v]"
+              ],
+              "choices": [
+                "[f]",
+                "[v]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Une tribune",
+          "prompt": "Écrivez une tribune pour proposer des solutions à un problème de société lié à la culture ou aux médias (par exemple : les jeunes ne vont plus au cinéma). Listez trois solutions avec le gérondif.",
+          "model": "Les jeunes ne lisent plus. Plusieurs solutions existent. On peut les attirer en ouvrant des bibliothèques près des écoles. On peut aussi organiser des lectures chaque mois en invitant des auteurs. Enfin, en ne fermant pas les librairies de quartier, on garde le goût des livres."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "id": "a2-donner-son-avis",
+  "order": 127,
+  "number": 27,
+  "unit": 7,
+  "unitTitle": "Réagissez",
+  "kicker": "Unité 7 · Leçon 27",
+  "title": "Donner son avis",
+  "summary": "Opinion et justification · mais, par contre, pourtant, du coup · l'art · sons [t]/[k], [d]/[g]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "opinion-justifier",
+      "title": "Donner son avis et le justifier",
+      "minutes": 10,
+      "lede": "To say what you think, use a verb of opinion, then justify with a cause (parce que, à cause de, grâce à) or a goal (pour + infinitive).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Exprimer son opinion",
+          "headers": [
+            "Expression",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "un avis · à mon avis",
+              "À mon avis, ce projet est utile."
+            ],
+            [
+              "croire que + indicatif",
+              "Je crois que c'est une bonne idée."
+            ],
+            [
+              "penser que + indicatif",
+              "Je pense que ce musée est trop petit."
+            ],
+            [
+              "trouver que + indicatif",
+              "Je trouve que l'exposition est passionnante."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Justifier",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "parce que (qu') + phrase",
+              "Pourquoi ? – Parce que l'entrée est gratuite."
+            ],
+            [
+              "à cause de + nom (cause négative)",
+              "Il y a moins de visiteurs à cause du prix."
+            ],
+            [
+              "grâce à + nom (cause positive)",
+              "J'ai découvert ce peintre grâce à cette exposition."
+            ],
+            [
+              "pour + infinitif (but)",
+              "Je vais au musée pour voir des œuvres originales."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Croire / penser / trouver que + indicative: Je pense que c'est intéressant. In the negative (Je ne pense pas que…) the verb needs the subjunctive (Je ne pense pas qu'il vienne), which is beyond A2: use the positive or a short sentence for now.\n- À mon avis / selon moi / pour moi are followed directly by a clause: À mon avis, c'est utile. (no que). Je trouve ça génial / Je le trouve intéressant: trouver + direct object + adjective.\n- Parce que answers pourquoi and is followed by a verb: Parce que c'est gratuit. À cause de + noun: à cause du prix, à cause de la pluie. Grâce à + noun: grâce à toi, grâce au festival.\n- Pour + infinitive = aim: Je ne vais pas au musée pour voir un artiste mais pour voir des œuvres. Compare with parce que (cause: why) and donc (consequence).\n- Softening an opinion: Il me semble que… (It seems to me that), Je dirais que… (I'd say that…), D'après moi… Strengthening: Je suis convaincu(e) que… Je suis sûr(e) que…\n- Disagreeing politely: Je ne suis pas d'accord, parce que… Je vois les choses autrement. Je comprends, mais… Avoid c'est nul / c'est débile in formal discussions."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "À mon avis, ce projet est très utile."
+            },
+            {
+              "fr": "Je pense que ce musée est trop petit."
+            },
+            {
+              "fr": "Je trouve que cette exposition est passionnante."
+            },
+            {
+              "fr": "Pourquoi ? Parce que l'entrée est gratuite."
+            },
+            {
+              "fr": "Il y a moins de visiteurs à cause du prix."
+            },
+            {
+              "fr": "J'ai découvert ce peintre grâce à cette exposition."
+            },
+            {
+              "fr": "Je vais au musée pour voir des œuvres originales."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Parce que, à cause de, grâce à ou pour ?",
+          "items": [
+            {
+              "prompt": "Je pense que c'est une bonne idée, ___ c'est gratuit.",
+              "answers": [
+                "parce que"
+              ],
+              "choices": [
+                "parce que",
+                "à cause de",
+                "grâce à",
+                "pour"
+              ]
+            },
+            {
+              "prompt": "Il y a moins de visiteurs ___ prix. (négatif)",
+              "answers": [
+                "à cause du"
+              ],
+              "choices": [
+                "parce que",
+                "à cause du",
+                "grâce au",
+                "pour"
+              ]
+            },
+            {
+              "prompt": "J'ai découvert l'artiste ___ cette expo. (positif)",
+              "answers": [
+                "grâce à"
+              ],
+              "choices": [
+                "parce que",
+                "à cause de",
+                "grâce à",
+                "pour"
+              ]
+            },
+            {
+              "prompt": "Je vais au musée ___ voir des tableaux. (but)",
+              "answers": [
+                "pour"
+              ],
+              "choices": [
+                "parce que",
+                "à cause de",
+                "grâce à",
+                "pour"
+              ]
+            },
+            {
+              "prompt": "Pourquoi ? – ___ je préfère l'art moderne.",
+              "answers": [
+                "Parce que"
+              ],
+              "choices": [
+                "Parce que",
+                "À cause de",
+                "Grâce à"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "opposition-consequence",
+      "title": "L'opposition et la conséquence : mais, par contre, pourtant, du coup",
+      "minutes": 11,
+      "lede": "These small connecting words organise an argument: mais and par contre show an opposition, pourtant a contradiction, and du coup / donc / c'est pourquoi a consequence.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Connecteurs",
+          "headers": [
+            "Mot",
+            "Fonction",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "mais",
+              "opposition",
+              "Il y a beaucoup de tableaux dans ce musée, mais peu de sculptures."
+            ],
+            [
+              "par contre",
+              "opposition (oral) = en revanche",
+              "Le film est drôle. Par contre, la fin est triste."
+            ],
+            [
+              "pourtant",
+              "contradiction (le contraire de ce qu'on attend)",
+              "Le musée est gratuit le dimanche. Pourtant, il y a peu de visiteurs."
+            ],
+            [
+              "du coup",
+              "conséquence (oral)",
+              "Il n'y avait plus de places. Du coup, nous sommes partis."
+            ],
+            [
+              "donc · c'est pourquoi",
+              "conséquence",
+              "Je suis étudiante, donc je paie moins cher."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Mais = but: general opposition. Par contre = on the other hand (informal, spoken): J'adore la peinture. Par contre, je n'aime pas la sculpture. In writing: en revanche.\n- Pourtant = yet, nevertheless: it contrasts with what you would expect: Il pleut, pourtant je sors. Le musée est gratuit, pourtant il y a peu de visiteurs. Not interchangeable with mais: pourtant stresses surprise.\n- Du coup = as a result, so (informal, very common in speech): Il n'y avait plus de place, du coup on est parti. In formal writing use donc, c'est pourquoi, par conséquent. Donc = so (consequence), never at the very start in a formal text.\n- Position: mais starts a clause (never in the middle: “Il est mais gentil” is wrong). Pourtant can be at the start or after the verb: Il est pourtant gentil. Par contre and du coup normally begin a sentence.\n- Mind: pourtant (however) is not the same as pour tant (for so much): they sound alike but pourtant is one word. Par contre can sound very informal in writing: use en revanche there.\n- To argue clearly: state your opinion, give a reason (parce que), an opposition (mais, par contre) and a consequence (donc, du coup)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'adore la peinture, mais je n'aime pas la sculpture."
+            },
+            {
+              "fr": "Le film est drôle. Par contre, la fin est triste."
+            },
+            {
+              "fr": "Le musée est gratuit le dimanche. Pourtant, il y a peu de visiteurs."
+            },
+            {
+              "fr": "Il n'y avait plus de places, du coup on est partis."
+            },
+            {
+              "fr": "Le musée est gratuit, c'est pourquoi il y a beaucoup de monde."
+            },
+            {
+              "fr": "Je suis étudiant, donc je paie moins cher."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel connecteur ?",
+          "items": [
+            {
+              "prompt": "J'aime la musique, ___ je n'aime pas l'opéra. (opposition simple)",
+              "answers": [
+                "mais"
+              ],
+              "choices": [
+                "mais",
+                "donc",
+                "du coup"
+              ]
+            },
+            {
+              "prompt": "Le musée est gratuit. ___ , il y a peu de visiteurs. (contradiction)",
+              "answers": [
+                "Pourtant"
+              ],
+              "choices": [
+                "Pourtant",
+                "Donc",
+                "Parce que"
+              ]
+            },
+            {
+              "prompt": "Il n'y avait plus de places. ___ , nous sommes partis. (conséquence, oral)",
+              "answers": [
+                "Du coup"
+              ],
+              "choices": [
+                "Du coup",
+                "Par contre",
+                "Mais"
+              ]
+            },
+            {
+              "prompt": "Le film est drôle. ___ , la fin est triste. (opposition, oral)",
+              "answers": [
+                "Par contre"
+              ],
+              "choices": [
+                "Par contre",
+                "Du coup",
+                "Donc"
+              ]
+            },
+            {
+              "prompt": "Je suis étudiant, ___ je paie moins cher. (conséquence)",
+              "answers": [
+                "donc"
+              ],
+              "choices": [
+                "donc",
+                "mais",
+                "pourtant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "art-vocabulaire-sons",
+      "title": "L'art et les sons [t]/[k], [d]/[g]",
+      "minutes": 10,
+      "lede": "Vocabulary of art and museums, then two pairs of consonants: [t]/[k] (voiceless) and [d]/[g] (voiced).",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'opinion",
+          "items": [
+            {
+              "fr": "un avis"
+            },
+            {
+              "fr": "croire que"
+            },
+            {
+              "fr": "penser que"
+            },
+            {
+              "fr": "trouver que"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'art",
+          "items": [
+            {
+              "fr": "un auteur"
+            },
+            {
+              "fr": "une autrice"
+            },
+            {
+              "fr": "une collection"
+            },
+            {
+              "fr": "un créateur"
+            },
+            {
+              "fr": "une créatrice"
+            },
+            {
+              "fr": "l'impressionnisme"
+            },
+            {
+              "fr": "un modèle"
+            },
+            {
+              "fr": "une œuvre"
+            },
+            {
+              "fr": "un peintre"
+            },
+            {
+              "fr": "une peintre"
+            },
+            {
+              "fr": "le public"
+            },
+            {
+              "fr": "une rétrospective"
+            },
+            {
+              "fr": "un sculpteur"
+            },
+            {
+              "fr": "une sculptrice"
+            },
+            {
+              "fr": "un tableau",
+              "icon": "🖼️"
+            },
+            {
+              "fr": "un visiteur"
+            },
+            {
+              "fr": "une visiteuse"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Quatre consonnes",
+          "headers": [
+            "Son",
+            "Type",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[t] / [k]",
+              "sourdes, tendues",
+              "un visiteur · le public · un sculpteur"
+            ],
+            [
+              "[d] / [g]",
+              "sonores, relâchées",
+              "un modèle · une gare · regarder"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un auteur / une autrice (also une auteure): author. Un peintre / une peintre (or une femme peintre): painter. Un sculpteur / une sculptrice: sculptor. Un créateur / une créatrice: creator. Un visiteur / une visiteuse: visitor. Words in -teur → -trice, in -eur → -euse.\n- Une œuvre = a work (of art): une œuvre d'art. Un tableau = a painting (also a table in a chart or a blackboard). Un modèle = a model (for an artist). Une collection = the works owned by a museum.\n- Une rétrospective = an exhibition showing the whole career of an artist. L'impressionnisme = the art movement of the 19th century; a painter of this style is un impressionniste.\n- [t] vs [d]: tu / du; thé / dé. [k] vs [g]: car / gare; quand / gant. Voiced consonants ([d], [g]) vibrate in the throat; voiceless ([t], [k]) don't. French [t] and [d] touch the teeth, not the gum ridge (English).\n- Spelling: c before a, o, u = [k] (café, comme, cul); c before e, i = [s]; qu = [k] (que, qui); k = [k]. g before a, o, u = [g] (gare, gomme); g before e, i = [ʒ] (âge); gu before e, i = [g] (guitare, guerre).\n- Le public is both “the public” and “the audience”: le public aime cette expo. L'œuvre (œu = [œ]): une œuvre [yn œvʀ], des œuvres [dez øvʀ] (the s is pronounced in liaison and the vowel changes)."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "un visiteur"
+            },
+            {
+              "fr": "le public"
+            },
+            {
+              "fr": "un sculpteur"
+            },
+            {
+              "fr": "un modèle"
+            },
+            {
+              "fr": "une gare"
+            },
+            {
+              "fr": "regarder"
+            },
+            {
+              "fr": "un thé"
+            },
+            {
+              "fr": "un dé"
+            },
+            {
+              "fr": "la gare"
+            },
+            {
+              "fr": "la care"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Une personne qui peint des tableaux est un ___ .",
+              "answers": [
+                "peintre"
+              ]
+            },
+            {
+              "prompt": "Une personne qui crée des sculptures est un ___ .",
+              "answers": [
+                "sculpteur"
+              ]
+            },
+            {
+              "prompt": "Une exposition sur toute la carrière d'un artiste est une ___ .",
+              "answers": [
+                "rétrospective"
+              ]
+            },
+            {
+              "prompt": "Un tableau ou une sculpture, c'est une ___ d'art.",
+              "answers": [
+                "œuvre"
+              ]
+            },
+            {
+              "prompt": "Dans « gare », le premier son est ___ .",
+              "answers": [
+                "[g]"
+              ],
+              "choices": [
+                "[k]",
+                "[g]"
+              ]
+            },
+            {
+              "prompt": "Dans « thé », le premier son est ___ .",
+              "answers": [
+                "[t]"
+              ],
+              "choices": [
+                "[t]",
+                "[d]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre avis sur un projet public",
+          "prompt": "Votre ville veut organiser un grand concert gratuit chaque mois. Qu'en pensez-vous ? Listez vos arguments pour justifier chaque point de vue, puis comparez vos points de vue en groupe.",
+          "model": "À mon avis, c'est une très bonne idée. Je pense que la musique doit être accessible à tous. Les concerts sont souvent chers, pourtant les jeunes adorent la musique. Du coup, ils ne peuvent pas y aller. Par contre, il faut aussi payer les artistes."
+        }
+      ]
+    }
+  ]
+}

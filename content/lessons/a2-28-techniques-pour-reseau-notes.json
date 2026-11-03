@@ -1,0 +1,291 @@
+{
+  "id": "a2-techniques-pour-reseau-notes",
+  "order": 128,
+  "number": 28,
+  "unit": 7,
+  "unitTitle": "Réagissez",
+  "kicker": "Unité 7 · Leçon 28",
+  "title": "Techniques pour…",
+  "summary": "Réagir sur un réseau social · la médiation : comprendre des notes",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "reagir-reseau-social",
+      "title": "Réagir sur un réseau social",
+      "minutes": 9,
+      "lede": "A comment on social media is short, personal and lively. You give your opinion, justify it in one phrase, react with an exclamation or congratulate.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les gestes d'un commentaire",
+          "headers": [
+            "Fonction",
+            "Expressions"
+          ],
+          "rows": [
+            [
+              "Donner son avis",
+              "Je trouve que… · Je pense que… · À mon avis… · Pour moi…"
+            ],
+            [
+              "Justifier son avis",
+              "Ça permet de… · C'est pratique parce que… · On gagne du temps. · Il faut…"
+            ],
+            [
+              "Réagir",
+              "C'est génial ! · Quelle bonne idée ! · Quel dommage ! · Quelle catastrophe !"
+            ],
+            [
+              "Féliciter",
+              "Bravo ! · Félicitations !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Social media uses an informal register: tu, short sentences, exclamations. But be polite: C'est nul ! is rude and doesn't add an argument. Prefer: Je ne suis pas convaincu(e), parce que…\n- Expressions of reaction: C'est top / génial / super ! (very good: informal), Quelle bonne idée ! (What a good idea!), Quelle catastrophe ! (How terrible!), C'est incroyable ! Quel dommage ! (What a pity!) Exclamations with quel agree with the noun (quelle idée, quel dommage).\n- To reply to someone: En réponse à @pseudo. Use the mention (@) and hashtags (#) to join a conversation. J'aime / un like; partager = to share; un abonné = a follower; commenter = to comment.\n- Common abbreviations in messages (informal only): mdr (mort de rire = LOL), ptdr, svp / stp (s'il vous / te plaît), bcp (beaucoup), tjrs (toujours), pb (problème), qd (quand), slt (salut). Don't use them in formal writing.\n- Justify briefly with parce que, car, grâce à, à cause de, pour + infinitive: Je suis pour parce que ça permet d'apprendre de chez soi. Être pour / contre = to be in favour / against: Je suis contre cette idée.\n- Congratulating: Bravo ! Félicitations ! Bravo à toute l'équipe ! Félicitations ! is always plural in this use (no “félicitation”), unlike Bravo !"
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je pense que c'est utile d'avoir des cours en ligne."
+            },
+            {
+              "fr": "Ça permet de travailler même quand on est malade."
+            },
+            {
+              "fr": "Quelle bonne idée !"
+            },
+            {
+              "fr": "Je trouve que c'est génial : on gagne du temps le matin."
+            },
+            {
+              "fr": "Pour moi, ce n'est pas une bonne idée."
+            },
+            {
+              "fr": "Quel dommage !"
+            },
+            {
+              "fr": "Bravo aux professeurs !"
+            },
+            {
+              "fr": "Félicitations à toute l'équipe !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle fonction ?",
+          "items": [
+            {
+              "prompt": "« Bravo ! » sert à ___ .",
+              "answers": [
+                "féliciter"
+              ],
+              "choices": [
+                "féliciter",
+                "justifier",
+                "donner son avis"
+              ]
+            },
+            {
+              "prompt": "« À mon avis, … » sert à donner son ___ .",
+              "answers": [
+                "avis"
+              ]
+            },
+            {
+              "prompt": "« Quelle bonne idée ! » est une ___ . (exclamation)",
+              "answers": [
+                "réaction"
+              ],
+              "choices": [
+                "réaction",
+                "justification",
+                "félicitation"
+              ]
+            },
+            {
+              "prompt": "« Parce que ça permet d'apprendre » sert à ___ .",
+              "answers": [
+                "justifier"
+              ],
+              "choices": [
+                "féliciter",
+                "justifier",
+                "réagir"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Réagissez",
+          "prompt": "Observez cette publication : « La ville a installé un grand jardin dans le centre. » Réagissez : donnez votre avis et justifiez-le. Comparez avec vos camarades.",
+          "model": "Je trouve que c'est une excellente idée ! Les gens ont besoin de nature en ville, et ça aide à respirer. Bravo à la mairie ! Par contre, il faut bien l'entretenir. Félicitations à toute l'équipe !"
+        }
+      ]
+    },
+    {
+      "id": "mediation-comprendre-notes",
+      "title": "La médiation : comprendre des notes",
+      "minutes": 9,
+      "lede": "Notes are short: no full sentences, with arrows, symbols and abbreviations. To use them for someone else, you read them, understand them and put them into full sentences.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les symboles et les abréviations",
+          "headers": [
+            "Note",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "= · →",
+              "égale · mène à · donne"
+            ],
+            [
+              "≠",
+              "est différent de, le contraire de"
+            ],
+            [
+              "+ · −",
+              "plus · moins"
+            ],
+            [
+              "qqn · qqch",
+              "quelqu'un · quelque chose"
+            ],
+            [
+              "ex. · cf.",
+              "exemple · voir"
+            ],
+            [
+              "càd · etc.",
+              "c'est-à-dire · et cetera"
+            ],
+            [
+              "év. · p. · ch.",
+              "événement · page · chapitre"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Un exemple de notes",
+          "headers": [
+            "Notes",
+            "Phrases complètes"
+          ],
+          "rows": [
+            [
+              "Frères Lumière, 1895 → 1re séance publique de cinéma",
+              "En 1895, les frères Lumière ont organisé la première séance publique de cinéma."
+            ],
+            [
+              "Lieu : Grand Café, Paris",
+              "La séance a eu lieu au Grand Café, à Paris."
+            ],
+            [
+              "Public : une trentaine de personnes",
+              "Une trentaine de personnes y assistaient."
+            ],
+            [
+              "Films courts (< 1 min), noir et blanc, muets",
+              "Les films duraient moins d'une minute, étaient en noir et blanc et sans son."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Notes use the nominal style: nouns, numbers, symbols, no articles or verbs: Frères Lumière, 1895 → 1re séance. To rewrite, add subjects, verbs, articles, and connectors (puis, ensuite, c'est pourquoi).\n- Keep the important words: who, when, where, what, why. Dates and numbers must be exact; names must be spelled as given. Abbreviations differ from person to person: if a note is unclear, say so (note illisible).\n- Time markers: 1re / 2e séance, vers 1895 (around 1895), en 1895, de … à …, depuis, il y a. Quantity markers: env. (environ) = about, > plus de, < moins de.\n- Mediation with notes: Mila a oublié de noter quelques informations (she forgot some information). To complete the notes, listen again, then add the missing details in the right place, and compare with a friend.\n- To rewrite notes into an e-mail or a summary, link ideas with et, puis, ensuite, mais, donc, parce que. Use passé composé for finished events (ont organisé) and imparfait for descriptions (étaient muets).\n- Never copy the notes word for word if they are in a different language: mediation means putting the ideas into your own words (and into French here)."
+        },
+        {
+          "type": "phrases",
+          "title": "Un exemple de notes mises en phrases",
+          "items": [
+            {
+              "fr": "En mille huit cent quatre-vingt-quinze, les frères Lumière ont organisé la première séance publique de cinéma.",
+              "label": "En 1895, les frères Lumière ont organisé la première séance publique de cinéma."
+            },
+            {
+              "fr": "La séance a eu lieu au Grand Café, à Paris."
+            },
+            {
+              "fr": "Les films étaient très courts et sans son."
+            },
+            {
+              "fr": "Une trentaine de personnes y assistaient."
+            },
+            {
+              "fr": "Le cinéma est devenu très vite un spectacle populaire."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Lisez les notes",
+          "items": [
+            {
+              "prompt": "« = » signifie ___ . (égal)",
+              "answers": [
+                "égal"
+              ],
+              "choices": [
+                "égal",
+                "différent"
+              ]
+            },
+            {
+              "prompt": "« ≠ » signifie ___ . (différent)",
+              "answers": [
+                "différent"
+              ],
+              "choices": [
+                "égal",
+                "différent"
+              ]
+            },
+            {
+              "prompt": "« qqn » signifie ___ . (quelqu'un)",
+              "answers": [
+                "quelqu'un"
+              ]
+            },
+            {
+              "prompt": "« env. » signifie ___ . (le mot entier)",
+              "answers": [
+                "environ"
+              ]
+            },
+            {
+              "prompt": "Dans des notes, on ne met généralement pas de ___ . (un temps)",
+              "answers": [
+                "verbes"
+              ],
+              "choices": [
+                "verbes",
+                "noms",
+                "dates"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Transformez des notes",
+          "prompt": "Mila a pris ces notes en cours d'histoire : « Frères Lumière, 1895 → 1re séance cinéma, Grand Café, Paris. ≠ théâtre : images + sans son. » Écrivez cinq phrases pour présenter ces informations à un ami. Comparez vos notes pour les améliorer.",
+          "model": "En 1895, les frères Lumière ont organisé la première séance de cinéma. Elle a eu lieu au Grand Café, à Paris. Le cinéma était différent du théâtre : on voyait des images, mais on n'entendait pas de son. C'était une grande nouveauté. Le public a adoré !"
+        }
+      ]
+    }
+  ]
+}
