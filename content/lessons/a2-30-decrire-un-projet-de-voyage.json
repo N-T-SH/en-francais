@@ -1,0 +1,516 @@
+{
+  "id": "a2-decrire-un-projet-de-voyage",
+  "order": 130,
+  "number": 30,
+  "unit": 8,
+  "unitTitle": "Voyagez",
+  "kicker": "Unité 8 · Leçon 30",
+  "title": "Décrire un projet de voyage",
+  "summary": "Futur proche et simple · discours indirect · déplacements et hébergement",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "futur-itineraire",
+      "title": "Le futur et l'itinéraire",
+      "minutes": 10,
+      "lede": "To describe a travel plan, use the futur proche for what you are about to do and the futur simple for what you will do later in the programme.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux futurs",
+          "headers": [
+            "Futur",
+            "Formation",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "futur proche",
+              "aller au présent + infinitif",
+              "Je vais préparer mon sac demain."
+            ],
+            [
+              "futur simple",
+              "infinitif + -ai, -as, -a, -ons, -ez, -ont",
+              "Après le Portugal, j'arriverai en Espagne."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les verbes en -re",
+          "headers": [
+            "Infinitif",
+            "Futur"
+          ],
+          "rows": [
+            [
+              "rejoindre",
+              "je rejoindrai"
+            ],
+            [
+              "prendre",
+              "je prendrai"
+            ],
+            [
+              "descendre",
+              "je descendrai"
+            ],
+            [
+              "remonter",
+              "je remonterai"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Futur proche (aller + infinitive) for the immediate or planned future: Demain, je vais visiter Séville. Futur simple for the programme, the predictions: Après Séville, j'irai à Malaga. In conversation, the futur proche is more common; in plans and itineraries, the futur simple.\n- Verbs in -re drop the final e before the ending: rejoindre → je rejoindrai, prendre → je prendrai, attendre → j'attendrai. Irregular stems you know: j'irai, je serai, je ferai, je verrai, je viendrai, je pourrai.\n- After quand / dès que / après que, if the main clause is in the future, the clause is in the future too: Quand j'arriverai à Malaga, j'appellerai ma famille. (English: When I arrive…).\n- Days and times: demain, après-demain, la semaine prochaine, dans deux jours, d'abord, ensuite, puis, enfin. Après + noun: Après Séville, j'irai à Malaga. Avant de + infinitive: Avant de partir, je ferai mon sac.\n- Itinerary verbs: passer par (to go through), rejoindre (to join / to reach), remonter (to go back up), longer (to go along), s'arrêter à (to stop at), aller à, traverser. Rejoindre is like joindre (to join / to reach by phone).\n- Distances and roads: un kilomètre (km), une route principale / une petite route, en ligne droite = in a straight line, tout droit = straight ahead. Un itinéraire = a route."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Demain, je vais préparer mon sac."
+            },
+            {
+              "fr": "Après le Portugal, j'arriverai en Espagne."
+            },
+            {
+              "fr": "Je rejoindrai la côte pour m'arrêter à Malaga."
+            },
+            {
+              "fr": "Je passerai par de petites routes."
+            },
+            {
+              "fr": "Nous longerons la rivière pendant trente kilomètres."
+            },
+            {
+              "fr": "Quand j'arriverai à Malaga, je téléphonerai."
+            },
+            {
+              "fr": "Je dormirai chez l'habitant pendant la première semaine."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez au futur simple",
+          "items": [
+            {
+              "prompt": "Après Séville, j'___ à Malaga. (aller)",
+              "answers": [
+                "irai"
+              ]
+            },
+            {
+              "prompt": "Je ___ la côte. (rejoindre)",
+              "answers": [
+                "rejoindrai"
+              ]
+            },
+            {
+              "prompt": "Nous ___ par de petites routes. (passer)",
+              "answers": [
+                "passerons"
+              ]
+            },
+            {
+              "prompt": "Il ___ le train demain. (prendre)",
+              "answers": [
+                "prendra"
+              ]
+            },
+            {
+              "prompt": "Vous ___ à Malaga en trois jours. (arriver)",
+              "answers": [
+                "arriverez"
+              ]
+            },
+            {
+              "prompt": "Ils ___ chez l'habitant. (dormir)",
+              "answers": [
+                "dormiront"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "discours-indirect",
+      "title": "Le discours indirect au présent",
+      "minutes": 11,
+      "lede": "Reported speech (le discours indirect) reports what someone says or asks without quoting it. With a verb in the present (il dit, on me demande), no tense changes.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les déclarations : dire que",
+          "headers": [
+            "Discours direct",
+            "Discours indirect"
+          ],
+          "rows": [
+            [
+              "« Tu es trop vieux pour ça ! »",
+              "On me dit que je suis trop vieux pour ça."
+            ],
+            [
+              "« L'important, c'est l'attitude, pas l'âge. »",
+              "Je réponds que l'important, c'est l'attitude, pas l'âge."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les questions : demander",
+          "headers": [
+            "Discours direct",
+            "Discours indirect"
+          ],
+          "rows": [
+            [
+              "« Comment est-ce que tu trouves les canapés ? »",
+              "On me demande comment je trouve les canapés."
+            ],
+            [
+              "« Est-ce que c'est dangereux ? »",
+              "Mes amis me demandent si c'est dangereux."
+            ],
+            [
+              "« Qu'est-ce que tu dois faire en échange ? »",
+              "On me demande ce que je dois faire en échange."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "L'impératif : dire de + infinitif",
+          "headers": [
+            "Discours direct",
+            "Discours indirect"
+          ],
+          "rows": [
+            [
+              "« Ne changez pas vos habitudes à cause de moi. »",
+              "Je leur dis de ne pas changer leurs habitudes."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Reported statement: dire que / répondre que / expliquer que + clause. Persons and possessives change with the speaker: Tu es → je suis (the person talks about himself), vos → leurs. Check who says what.\n- Reported question: no inversion and no question mark: Il demande où je vais (not “où vais-je”). Est-ce que disappears: Est-ce que c'est dangereux ? → On me demande si c'est dangereux. Qu'est-ce que → ce que; qu'est-ce qui → ce qui.\n- Si (whether) + il / ils → s'il / s'ils; but si + elle / on: Il demande s'il pleut. On me demande si elle vient. Question words stay the same: comment, où, quand, pourquoi, combien: Il demande où tu habites.\n- Reported command: dire à quelqu'un de + infinitive: Je lui dis de partir. In the negative: de ne pas + infinitive: Je lui dis de ne pas partir. (ne pas stays together before the infinitive.) Also demander de, conseiller de, ordonner de.\n- With a present-tense introducing verb, no change in tense: Il dit qu'il vient. (He says he's coming.) With a past introducing verb (il a dit qu'il venait), tenses shift (backshift): you will see this in later levels.\n- Time words change in the past: demain → le lendemain, hier → la veille: not with present tense reported speech, so for now you can ignore them."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "On me dit que je suis trop vieux pour ça."
+            },
+            {
+              "fr": "Je réponds que l'important, c'est l'attitude."
+            },
+            {
+              "fr": "On me demande comment je trouve les canapés."
+            },
+            {
+              "fr": "Mes amis me demandent si c'est dangereux."
+            },
+            {
+              "fr": "On me demande ce que je dois faire en échange."
+            },
+            {
+              "fr": "Je leur dis de ne pas changer leurs habitudes."
+            },
+            {
+              "fr": "Elle demande où nous allons dormir."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Discours indirect",
+          "items": [
+            {
+              "prompt": "« Tu es fatigué. » → Elle dit que je ___ fatigué.",
+              "answers": [
+                "suis"
+              ]
+            },
+            {
+              "prompt": "« Où habites-tu ? » → Il demande où ___ habite. (je)",
+              "answers": [
+                "j'"
+              ],
+              "choices": [
+                "j'",
+                "tu",
+                "il"
+              ]
+            },
+            {
+              "prompt": "« Est-ce que c'est cher ? » → Il demande ___ c'est cher.",
+              "answers": [
+                "si"
+              ],
+              "choices": [
+                "si",
+                "que",
+                "ce que"
+              ]
+            },
+            {
+              "prompt": "« Qu'est-ce que tu fais ? » → Il demande ce ___ je fais.",
+              "answers": [
+                "que"
+              ],
+              "choices": [
+                "que",
+                "qui",
+                "quoi"
+              ]
+            },
+            {
+              "prompt": "« Ne partez pas. » → Je leur dis de ne ___ partir. (la négation)",
+              "answers": [
+                "pas"
+              ],
+              "choices": [
+                "pas",
+                "plus",
+                "rien"
+              ]
+            },
+            {
+              "prompt": "« Est-ce qu'il pleut ? » → Il demande ___ pleut. (si + il)",
+              "answers": [
+                "s'il"
+              ],
+              "choices": [
+                "si il",
+                "s'il",
+                "si"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deplacements-hebergement",
+      "title": "Les déplacements, l'hébergement et les préparatifs",
+      "minutes": 10,
+      "lede": "Vocabulary for travel planning: how to move, where to sleep and what to prepare.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les voyages (2)",
+          "items": [
+            {
+              "fr": "un guide touristique"
+            },
+            {
+              "fr": "les préparatifs"
+            },
+            {
+              "fr": "un risque"
+            },
+            {
+              "fr": "un sac"
+            },
+            {
+              "fr": "une valise"
+            },
+            {
+              "fr": "se débrouiller"
+            },
+            {
+              "fr": "guider"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les déplacements",
+          "items": [
+            {
+              "fr": "un billet"
+            },
+            {
+              "fr": "un chemin"
+            },
+            {
+              "fr": "une étape"
+            },
+            {
+              "fr": "un itinéraire"
+            },
+            {
+              "fr": "un kilomètre"
+            },
+            {
+              "fr": "une petite route"
+            },
+            {
+              "fr": "une route principale"
+            },
+            {
+              "fr": "longer"
+            },
+            {
+              "fr": "passer par"
+            },
+            {
+              "fr": "rejoindre"
+            },
+            {
+              "fr": "remonter"
+            },
+            {
+              "fr": "s'arrêter à"
+            },
+            {
+              "fr": "en ligne droite"
+            },
+            {
+              "fr": "à vélo"
+            },
+            {
+              "fr": "en bus"
+            },
+            {
+              "fr": "en voiture"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'hébergement",
+          "items": [
+            {
+              "fr": "une auberge"
+            },
+            {
+              "fr": "le camping",
+              "icon": "⛺"
+            },
+            {
+              "fr": "le couchsurfing"
+            },
+            {
+              "fr": "chez l'habitant"
+            },
+            {
+              "fr": "un hôte"
+            },
+            {
+              "fr": "une hôtesse"
+            },
+            {
+              "fr": "une pension"
+            },
+            {
+              "fr": "une résidence"
+            },
+            {
+              "fr": "dormir à la belle étoile"
+            },
+            {
+              "fr": "accueillir"
+            },
+            {
+              "fr": "héberger"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un guide touristique = a tourist guide (the person) or a guidebook (the book): Un guide de voyage. Guider = to guide. Se débrouiller = to manage, to get by (informal): Je me débrouille en espagnol = I get by in Spanish.\n- Un hôte / une hôtesse = host (the person who welcomes). Hôte can also mean “guest”, so context decides; un invité is clearly a guest. Une hôtesse de l'air = an air hostess (flight attendant).\n- Chez l'habitant = at a local's home (as a paying or unpaid guest). Le couchsurfing = sleeping on a local's sofa (free exchange). Une auberge (de jeunesse) = a hostel; une pension = a guesthouse (full or half board); un camping = a campsite.\n- Dormir à la belle étoile = to sleep outdoors under the stars. Héberger = to put someone up for the night; accueillir = to welcome. Héberger quelqu'un chez soi; l'hébergement = accommodation.\n- Une étape = a stage / a stop along the way (a stage of a trip, of a tour). Un chemin = a path / way; un itinéraire = a planned route; la route = the road. Un billet = a ticket (travel); un ticket = a ticket for the metro or bus.\n- Longer = to go along (longer la côte), passer par = to go through (passer par Lyon), rejoindre = to join / to reach, remonter = to go back up (remonter la rivière)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je dormirai dans une auberge ou chez l'habitant."
+            },
+            {
+              "fr": "Mes hôtes m'accueillent avec plaisir."
+            },
+            {
+              "fr": "Nous longerons la côte en vélo."
+            },
+            {
+              "fr": "Je passe par de petites routes."
+            },
+            {
+              "fr": "Je me débrouille en espagnol."
+            },
+            {
+              "fr": "J'achète un billet de train pour Séville."
+            },
+            {
+              "fr": "Pour les préparatifs, je fais mon sac et ma valise."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un lieu où l'on dort sous la tente, c'est un ___ .",
+              "answers": [
+                "camping"
+              ]
+            },
+            {
+              "prompt": "Dormir dehors sous les étoiles, c'est dormir à la belle ___ .",
+              "answers": [
+                "étoile"
+              ]
+            },
+            {
+              "prompt": "Un voyageur dort ___ l'habitant. (dans la maison de quelqu'un)",
+              "answers": [
+                "chez"
+              ]
+            },
+            {
+              "prompt": "La personne qui accueille un voyageur est l'___ . (m.)",
+              "answers": [
+                "hôte"
+              ]
+            },
+            {
+              "prompt": "On achète un ___ pour prendre le train.",
+              "answers": [
+                "billet"
+              ]
+            },
+            {
+              "prompt": "Un voyage se fait en plusieurs ___ . (parties)",
+              "answers": [
+                "étapes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Décrivez un projet de voyage",
+          "prompt": "À deux : choisissez un type de voyage (en bateau, la visite d'une grande ville, un safari…). Décidez des modes de transport, du logement, de l'itinéraire et de la durée. Échangez vos notes, posez des questions, puis rapportez vos échanges à la classe.",
+          "model": "Je vais faire le tour du Portugal à vélo. Je partirai de Porto en juin et j'arriverai à Faro après trois semaines. Je dormirai en auberge et chez l'habitant. Mon ami me demande si c'est dangereux. Je réponds que non : les routes sont petites et calmes."
+        }
+      ]
+    }
+  ]
+}

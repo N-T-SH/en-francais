@@ -1,0 +1,659 @@
+{
+  "id": "a2-faire-la-promotion-dun-voyage",
+  "order": 129,
+  "number": 29,
+  "unit": 8,
+  "unitTitle": "Voyagez",
+  "kicker": "Unité 8 · Leçon 29",
+  "title": "Faire la promotion d'un voyage",
+  "summary": "Nominalisation · pronoms compléments (synthèse) · mer, bateaux, voyages · sons [j] et [ʒ]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "nominalisation-voyage",
+      "title": "La nominalisation et le vocabulaire du voyage",
+      "minutes": 10,
+      "lede": "To sell a trip, an advert often turns verbs into nouns: partir → le départ, arriver → l'arrivée. Nouns make the information shorter and more striking.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "De l'action au nom",
+          "headers": [
+            "Verbe",
+            "Nom",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "partir",
+              "le départ",
+              "Départ de Marseille à vingt heures."
+            ],
+            [
+              "arriver",
+              "l'arrivée",
+              "Arrivée à Ajaccio le lendemain matin."
+            ],
+            [
+              "durer",
+              "la durée",
+              "Durée du voyage : six jours."
+            ],
+            [
+              "traverser",
+              "la traversée",
+              "La traversée dure douze heures."
+            ],
+            [
+              "loger",
+              "le logement",
+              "Logement en cabine double."
+            ],
+            [
+              "visiter",
+              "la visite",
+              "Visite guidée de la ville."
+            ]
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les voyages (1)",
+          "items": [
+            {
+              "fr": "une arrivée"
+            },
+            {
+              "fr": "une aventure"
+            },
+            {
+              "fr": "une cabine"
+            },
+            {
+              "fr": "un continent"
+            },
+            {
+              "fr": "un départ"
+            },
+            {
+              "fr": "une destination"
+            },
+            {
+              "fr": "une durée"
+            },
+            {
+              "fr": "une escale"
+            },
+            {
+              "fr": "un passager"
+            },
+            {
+              "fr": "une passagère"
+            },
+            {
+              "fr": "en avion"
+            },
+            {
+              "fr": "en bateau"
+            },
+            {
+              "fr": "en car"
+            },
+            {
+              "fr": "en train"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La mer et les bateaux",
+          "items": [
+            {
+              "fr": "à bord"
+            },
+            {
+              "fr": "un cargo"
+            },
+            {
+              "fr": "un capitaine"
+            },
+            {
+              "fr": "un équipage"
+            },
+            {
+              "fr": "un lever de soleil"
+            },
+            {
+              "fr": "un coucher de soleil"
+            },
+            {
+              "fr": "la marine"
+            },
+            {
+              "fr": "un navire"
+            },
+            {
+              "fr": "un océan"
+            },
+            {
+              "fr": "un officier"
+            },
+            {
+              "fr": "une passerelle"
+            },
+            {
+              "fr": "un port"
+            },
+            {
+              "fr": "une route maritime"
+            },
+            {
+              "fr": "une traversée"
+            },
+            {
+              "fr": "une baleine",
+              "icon": "🐋"
+            },
+            {
+              "fr": "un dauphin",
+              "icon": "🐬"
+            },
+            {
+              "fr": "un poisson volant"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Nominalisation = verb → noun. The gender follows the ending: -ée (une arrivée, une durée, une traversée) and -tion (une destination) are feminine; -ement (un logement) is masculine. Some nouns have no suffix: un départ (m., from partir).\n- Adverts often use nouns without articles and without verbs: Départ le 12 juin. Durée : 6 jours. Logement en cabine. It saves space and highlights information.\n- Une escale = a stopover (port of call; also a stop at an airport): Le bateau fait escale à Gênes. Une traversée = a crossing (by sea or air). Un navire / un bateau / un cargo / un ferry are boats; un navire is the formal word for a large ship.\n- A bord = on board: à bord du navire, à bord de l'avion. Monter à bord = to board. En train / en bateau / en avion / en car (en + vehicle), but à vélo, à pied (à for things you ride with your body).\n- Un passager / une passagère = passenger; un équipage = crew (the people who work on the boat); un capitaine = captain. La marine = the navy (also marine: nautical, la marine marchande = merchant navy).\n- Un lever de soleil / un coucher de soleil: soleil is masculine. L'océan (m.), la mer (f.). Dauphins and baleines are mammals; un poisson volant is a flying fish."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Départ du Havre à vingt heures."
+            },
+            {
+              "fr": "La traversée dure six jours."
+            },
+            {
+              "fr": "Le bateau fait escale à Lisbonne."
+            },
+            {
+              "fr": "Les passagers logent dans des cabines avec vue sur la mer."
+            },
+            {
+              "fr": "À bord, on voit des dauphins et des baleines."
+            },
+            {
+              "fr": "Le capitaine et l'équipage vous accueillent."
+            },
+            {
+              "fr": "Quel beau coucher de soleil sur l'océan !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Du verbe au nom",
+          "items": [
+            {
+              "prompt": "partir → le ___",
+              "answers": [
+                "départ"
+              ]
+            },
+            {
+              "prompt": "arriver → l'___",
+              "answers": [
+                "arrivée"
+              ]
+            },
+            {
+              "prompt": "durer → la ___",
+              "answers": [
+                "durée"
+              ]
+            },
+            {
+              "prompt": "traverser → la ___",
+              "answers": [
+                "traversée"
+              ]
+            },
+            {
+              "prompt": "loger → le ___",
+              "answers": [
+                "logement"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Les personnes qui voyagent à bord sont les ___ .",
+              "answers": [
+                "passagers"
+              ]
+            },
+            {
+              "prompt": "Les personnes qui travaillent à bord forment l'___ .",
+              "answers": [
+                "équipage"
+              ]
+            },
+            {
+              "prompt": "Un arrêt en cours de route pour un bateau est une ___ .",
+              "answers": [
+                "escale"
+              ]
+            },
+            {
+              "prompt": "Une chambre sur un bateau s'appelle une ___ .",
+              "answers": [
+                "cabine"
+              ]
+            },
+            {
+              "prompt": "Je voyage ___ bateau. (en / à)",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je voyage ___ vélo. (en / à)",
+              "answers": [
+                "à"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoms-synthese",
+      "title": "Les pronoms compléments : synthèse",
+      "minutes": 12,
+      "lede": "A complete view of the object pronouns (COD, COI, y, en) and of their place in the sentence, including the imperative.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "COD et COI",
+          "headers": [
+            "Sujet",
+            "COD",
+            "COI"
+          ],
+          "rows": [
+            [
+              "je",
+              "me / m'",
+              "me / m'"
+            ],
+            [
+              "tu",
+              "te / t'",
+              "te / t'"
+            ],
+            [
+              "il, elle, on",
+              "le / la / l'",
+              "lui"
+            ],
+            [
+              "nous",
+              "nous",
+              "nous"
+            ],
+            [
+              "vous",
+              "vous",
+              "vous"
+            ],
+            [
+              "ils, elles",
+              "les",
+              "leur"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Y et en",
+          "headers": [
+            "Pronom",
+            "Remplace",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "y",
+              "un lieu (à, dans, sur…)",
+              "J'y ai fait la connaissance d'autres passagers. (dans la salle à manger)"
+            ],
+            [
+              "en",
+              "un lieu avec de",
+              "On en est reparti après le dîner. (de Pointe-à-Pitre)"
+            ],
+            [
+              "en",
+              "une quantité",
+              "Des voyages classiques, j'en ai fait beaucoup."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "À l'impératif",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmatif : pronom après le verbe",
+              "Regardez-les ! · Regarde-moi !"
+            ],
+            [
+              "négatif : pronom avant le verbe",
+              "N'y allez pas ! · Ne me regarde pas !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- COD answers “who(m)? / what?” (no preposition): Je vois la mer → Je la vois. COI answers “to whom?” (à + person): Je parle au capitaine → Je lui parle. For things introduced by à, use y; for things introduced by de, use en.\n- Position (all pronouns): before the conjugated verb (Je la vois), before the auxiliary in the passé composé (Je l'ai vue, Il lui a dit), before the infinitive (Il a pu lui parler, Je vais y aller). With y/en: J'y suis allé, J'en ai mangé.\n- Two pronouns together: me / te / nous / vous come first (Il me le donne), but le / la / les come before lui / leur (Il le lui donne). With y and en, y comes before en: Il y en a. You only need to recognise these at A2.\n- Imperative affirmative: verb + hyphen + pronoun: Regardez-les ! Donne-moi ! Parle-lui ! Me / te become moi / toi: Regarde-moi, Lève-toi. -er verbs and aller keep the s before y / en: Vas-y ! Penses-y ! Manges-en !\n- Imperative negative: pronoun before the verb, as usual: Ne me regarde pas. N'y allez pas. Ne leur parlez pas.\n- Past participle agreement with a COD before the verb: La mer, je l'ai vue (feminine agreement), Les dauphins, je les ai vus (plural). With COI there is no agreement: Je leur ai parlé."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "La terre, on ne la voit plus."
+            },
+            {
+              "fr": "Je lui ai appris quelques mots de français."
+            },
+            {
+              "fr": "J'y ai fait la connaissance des autres passagers."
+            },
+            {
+              "fr": "On en est reparti après le dîner."
+            },
+            {
+              "fr": "Des voyages classiques, j'en ai fait beaucoup."
+            },
+            {
+              "fr": "Regardez-les, vous comprendrez !"
+            },
+            {
+              "fr": "N'y allez pas en avion, allez-y en bateau."
+            },
+            {
+              "fr": "Ne me regarde pas comme ça !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "COD, COI, y ou en ?",
+          "items": [
+            {
+              "prompt": "Je vois la mer. → Je ___ vois.",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "la",
+                "lui",
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je parle au capitaine. → Je ___ parle.",
+              "answers": [
+                "lui"
+              ],
+              "choices": [
+                "la",
+                "lui",
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je vais à Lisbonne. → J'___ vais.",
+              "answers": [
+                "y"
+              ],
+              "choices": [
+                "la",
+                "lui",
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je reviens de Rome. → J'___ reviens.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "la",
+                "lui",
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "J'ai fait beaucoup de voyages. → J'___ ai fait beaucoup.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "la",
+                "lui",
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je donne les billets aux passagers. → Je ___ donne les billets.",
+              "answers": [
+                "leur"
+              ],
+              "choices": [
+                "les",
+                "lui",
+                "leur",
+                "y"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "À l'impératif",
+          "items": [
+            {
+              "prompt": "Regardez les dauphins ! → Regardez-___ !",
+              "answers": [
+                "les"
+              ]
+            },
+            {
+              "prompt": "Écoute-moi ! → Ne ___ écoute pas !",
+              "answers": [
+                "m'"
+              ],
+              "choices": [
+                "me",
+                "m'",
+                "moi"
+              ]
+            },
+            {
+              "prompt": "Allez-y ! → N'___ allez pas !",
+              "answers": [
+                "y"
+              ]
+            },
+            {
+              "prompt": "Parle-lui ! → Ne ___ parle pas !",
+              "answers": [
+                "lui"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-j-zh",
+      "title": "Les sons [j] et [ʒ]",
+      "minutes": 5,
+      "lede": "[j] (as in “yes”) and [ʒ] (as the s in “measure”) are easily confused. For [j] the lips are spread (smiling); for [ʒ] they are rounded.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux sons",
+          "headers": [
+            "Son",
+            "Lèvres",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[j]",
+              "souriantes",
+              "l'ail · le travail · un rayon · bien"
+            ],
+            [
+              "[ʒ]",
+              "arrondies",
+              "l'âge · un nageur · je · le jour"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- [j] (semi-vowel): spelled y, i + vowel, -ill-, -il, -ail: voyage [vwajaʒ] (both sounds!), travail, ail, payer, bien [bjɛ̃], un ailleurs. Lips smile; the tongue is high; no friction.\n- [ʒ] (fricative): spelled j or g before e, i, y; also ge + a/o: je, jour, âge, nageur, voyage, mangeons. Lips rounded; air flows with friction and voice.\n- Pairs: ail [aj] / âge [aʒ]; paye [pɛj] / page [paʒ]; yeux [jø] / jeu [ʒø]. The word voyage has both: [vwa.jaʒ].\n- A common mistake is to say [dʒ] as in English “judge”: French [ʒ] has no “d”. Another is to replace [ʒ] with [ʃ] (sh)."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "l'ail"
+            },
+            {
+              "fr": "l'âge"
+            },
+            {
+              "fr": "un nageur"
+            },
+            {
+              "fr": "le travail"
+            },
+            {
+              "fr": "un voyage"
+            },
+            {
+              "fr": "le jour"
+            },
+            {
+              "fr": "je voyage"
+            },
+            {
+              "fr": "le pays"
+            },
+            {
+              "fr": "la page"
+            },
+            {
+              "fr": "les yeux"
+            },
+            {
+              "fr": "le jeu"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "[j] ou [ʒ] ?",
+          "items": [
+            {
+              "prompt": "Dans « âge », on entend ___ .",
+              "answers": [
+                "[ʒ]"
+              ],
+              "choices": [
+                "[j]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « ail », on entend ___ .",
+              "answers": [
+                "[j]"
+              ],
+              "choices": [
+                "[j]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « voyage », on entend [j] et ___ .",
+              "answers": [
+                "[ʒ]"
+              ],
+              "choices": [
+                "[j]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « yeux », on entend ___ .",
+              "answers": [
+                "[j]"
+              ],
+              "choices": [
+                "[j]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « jeu », on entend ___ .",
+              "answers": [
+                "[ʒ]"
+              ],
+              "choices": [
+                "[j]",
+                "[ʒ]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Faites la promotion d'un voyage",
+          "prompt": "À deux : choisissez une formule de voyage (croisière, camping, randonnée…). Décidez des informations à donner (transport, logement, restauration, activités). Mettez en valeur un élément positif. Enregistrez votre publicité.",
+          "model": "Venez découvrir les îles en voilier ! Départ de Marseille, durée : une semaine. Vous logez à bord, dans de petites cabines. Chaque jour, on s'arrête dans un nouveau port. Réservez-la dès maintenant, vous ne le regretterez pas ! Le capitaine vous attend."
+        }
+      ]
+    }
+  ]
+}

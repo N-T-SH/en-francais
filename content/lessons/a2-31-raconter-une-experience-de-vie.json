@@ -1,0 +1,624 @@
+{
+  "id": "a2-raconter-une-experience-de-vie",
+  "order": 131,
+  "number": 31,
+  "unit": 8,
+  "unitTitle": "Voyagez",
+  "kicker": "Unité 8 · Leçon 31",
+  "title": "Raconter une expérience de vie à l'étranger",
+  "summary": "Plus-que-parfait · place des pronoms · habitation et relations · graphie-phonie",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "plus-que-parfait",
+      "title": "Le plus-que-parfait",
+      "minutes": 11,
+      "lede": "The plus-que-parfait is the pluperfect (“had done”). It describes an action that was already finished before another action or moment in the past.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation : avoir ou être à l'imparfait + participe passé",
+          "headers": [
+            "Sujet",
+            "avoir : voir",
+            "être : arriver"
+          ],
+          "rows": [
+            [
+              "j'",
+              "avais vu",
+              "étais arrivé(e)"
+            ],
+            [
+              "tu",
+              "avais vu",
+              "étais arrivé(e)"
+            ],
+            [
+              "il / elle / on",
+              "avait vu",
+              "était arrivé(e)"
+            ],
+            [
+              "nous",
+              "avions vu",
+              "étions arrivé(e)s"
+            ],
+            [
+              "vous",
+              "aviez vu",
+              "étiez arrivé(e)(s)"
+            ],
+            [
+              "ils / elles",
+              "avaient vu",
+              "étaient arrivé(s)(es)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Trois temps du récit",
+          "headers": [
+            "Temps",
+            "Emploi",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "imparfait",
+              "situation, contexte, circonstances",
+              "Dans cette maison, il n'y avait pas de miroirs."
+            ],
+            [
+              "passé composé",
+              "action ponctuelle ou à durée limitée",
+              "À huit ans, j'ai vécu en Afrique."
+            ],
+            [
+              "plus-que-parfait",
+              "action antérieure à une autre action passée",
+              "Le logement que le gouvernement avait prévu."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Plus-que-parfait = auxiliary in the imparfait + past participle. Same auxiliary as the passé composé (avoir or être), same agreement rules: Elle était arrivée. Ils s'étaient rencontrés. The participle agrees with a preceding COD: la lettre qu'elle avait écrite.\n- Use it when you need to show that an action happened BEFORE another past action or moment: Quand je suis arrivé, le train était déjà parti. (The train left first.) If actions are in order, no need for plus-que-parfait: Je suis arrivé, le train est parti.\n- Typical markers: déjà (already), ne … pas encore, ne … jamais, avant, auparavant, la veille (the day before). Before leaving, I had already learned some words: Avant de partir, j'avais déjà appris quelques mots.\n- English had + participle usually corresponds to the plus-que-parfait: He had left → Il était parti. But “had” is not always a pluperfect: I had breakfast is a simple past (J'ai pris mon petit déjeuner). Check the order of actions.\n- Pronominal verbs: je m'étais levé(e), nous nous étions rencontrés. Negative: Je n'avais jamais vu la mer. Pronouns before the auxiliary: Je le lui avais dit.\n- Don't confuse avait [avɛ] (imparfait of avoir: he had) with a [a] (present: he has): Il avait parlé (he had spoken) vs Il a parlé (he spoke / he has spoken)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Quand je suis arrivé, le train était déjà parti."
+            },
+            {
+              "fr": "Avant de partir, j'avais déjà appris quelques mots de langue locale."
+            },
+            {
+              "fr": "Je n'avais jamais vu la mer."
+            },
+            {
+              "fr": "La maison que mon père avait construite était simple."
+            },
+            {
+              "fr": "Elle s'était installée dans le village un an avant."
+            },
+            {
+              "fr": "Nous avions déjà mangé quand ils sont arrivés."
+            },
+            {
+              "fr": "Ils étaient partis la veille."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Plus-que-parfait",
+          "items": [
+            {
+              "prompt": "Quand je suis arrivé, le train ___ déjà parti. (partir : être, imparfait)",
+              "answers": [
+                "était"
+              ],
+              "choices": [
+                "était",
+                "est",
+                "avait"
+              ]
+            },
+            {
+              "prompt": "Avant de partir, j'___ déjà appris quelques mots. (avoir, imparfait)",
+              "answers": [
+                "avais"
+              ],
+              "choices": [
+                "avais",
+                "ai",
+                "étais"
+              ]
+            },
+            {
+              "prompt": "Je n'___ jamais vu la mer. (avoir, imparfait)",
+              "answers": [
+                "avais"
+              ],
+              "choices": [
+                "avais",
+                "ai",
+                "étais"
+              ]
+            },
+            {
+              "prompt": "Elle ___ déjà mangé quand ils sont arrivés. (avoir, imparfait)",
+              "answers": [
+                "avait"
+              ],
+              "choices": [
+                "avait",
+                "a",
+                "était"
+              ]
+            },
+            {
+              "prompt": "Nous ___ déjà partis la veille. (être, imparfait)",
+              "answers": [
+                "étions"
+              ],
+              "choices": [
+                "étions",
+                "sommes",
+                "avions"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Imparfait, passé composé ou plus-que-parfait ?",
+          "items": [
+            {
+              "prompt": "Dans ce village, il n'___ pas d'électricité. (avoir : situation)",
+              "answers": [
+                "y avait"
+              ],
+              "choices": [
+                "y avait",
+                "y a eu",
+                "y avait eu"
+              ]
+            },
+            {
+              "prompt": "À huit ans, j'___ en Afrique. (vivre : événement)",
+              "answers": [
+                "ai vécu"
+              ],
+              "choices": [
+                "vivais",
+                "ai vécu",
+                "avais vécu"
+              ]
+            },
+            {
+              "prompt": "Mes parents ___ la maison avant ma naissance. (construire : action antérieure)",
+              "answers": [
+                "avaient construit"
+              ],
+              "choices": [
+                "construisaient",
+                "ont construit",
+                "avaient construit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoms-place-recit",
+      "title": "La place des pronoms et le récit au passé",
+      "minutes": 10,
+      "lede": "A quick review of where the pronouns go, then a method to tell a story of life abroad with the three past tenses.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Place des pronoms",
+          "headers": [
+            "Temps",
+            "Place",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "présent",
+              "avant le verbe",
+              "Il lui parle."
+            ],
+            [
+              "passé composé",
+              "avant l'auxiliaire",
+              "Il lui a dit. · Il ne lui a pas dit."
+            ],
+            [
+              "infinitif",
+              "avant l'infinitif",
+              "Il a pu lui parler. · Il n'a jamais pu lui parler."
+            ],
+            [
+              "plus-que-parfait",
+              "avant l'auxiliaire",
+              "Il le lui avait dit."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- In a negative sentence, ne goes before the pronoun and pas after the auxiliary: Il ne lui a pas dit. Il ne lui avait jamais parlé. With an infinitive: Il n'a jamais pu lui parler (pronoun immediately before the infinitive, not before pu).\n- A story of life abroad follows three steps: 1. context in the imparfait (Quand j'avais huit ans, j'habitais en Afrique), 2. events in the passé composé (Un jour, nous avons déménagé), 3. earlier facts in the plus-que-parfait (Mon père y avait déjà travaillé).\n- Describe a place: habitation, people, climate, food. Say what you felt (j'étais curieux), what you lived (j'ai appris la langue), what you had never done (je n'avais jamais mangé de manioc).\n- Use connectors for time: d'abord, puis, ensuite, un jour, plus tard, à ce moment-là, quelques mois après, deux ans plus tard. Note: plus tard (later) vs après (after): Deux ans plus tard.\n- Family relationships are described with adjectives in the imparfait: Mon père était sévère. Notre relation était difficile. Il était souvent absent. Other useful adjectives: tendre, distant, proche, chaleureux.\n- Take care with pronoun agreement in a narrative: La lettre, je l'ai lue (feminine, a trap), mes parents, je les ai vus."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Il lui a dit de partir."
+            },
+            {
+              "fr": "Il n'a jamais pu lui parler."
+            },
+            {
+              "fr": "Il ne lui avait jamais parlé de cette époque."
+            },
+            {
+              "fr": "Quand j'avais huit ans, j'habitais dans un village."
+            },
+            {
+              "fr": "Un jour, nous avons déménagé."
+            },
+            {
+              "fr": "Mon père y avait déjà travaillé."
+            },
+            {
+              "fr": "Notre relation était difficile : il était souvent absent."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Où mettre le pronom ?",
+          "items": [
+            {
+              "prompt": "Il parle à son père. → Il ___ parle.",
+              "answers": [
+                "lui"
+              ]
+            },
+            {
+              "prompt": "Il a dit la vérité à ses amis. → Il leur ___ dit la vérité.",
+              "answers": [
+                "a"
+              ],
+              "choices": [
+                "a",
+                "avait",
+                "est"
+              ]
+            },
+            {
+              "prompt": "Il n'a jamais pu parler à sa mère. → Il n'a jamais pu ___ parler.",
+              "answers": [
+                "lui"
+              ]
+            },
+            {
+              "prompt": "J'ai mangé du manioc. → J'___ ai mangé.",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Il avait dit la vérité à son père. → Il la ___ avait dite.",
+              "answers": [
+                "lui"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "habitation-relations",
+      "title": "L'habitation et les relations familiales",
+      "minutes": 9,
+      "lede": "Vocabulary to describe a simple dwelling in a remote place, and the family relations in a life story.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'habitation",
+          "items": [
+            {
+              "fr": "la brousse"
+            },
+            {
+              "fr": "une case"
+            },
+            {
+              "fr": "le ciment"
+            },
+            {
+              "fr": "le crépi"
+            },
+            {
+              "fr": "une dalle"
+            },
+            {
+              "fr": "un hamac",
+              "icon": "🛏️"
+            },
+            {
+              "fr": "un logement de fonction"
+            },
+            {
+              "fr": "un mur"
+            },
+            {
+              "fr": "un parpaing"
+            },
+            {
+              "fr": "un réservoir"
+            },
+            {
+              "fr": "un sol"
+            },
+            {
+              "fr": "un toit"
+            },
+            {
+              "fr": "la tôle ondulée"
+            },
+            {
+              "fr": "un village"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les relations familiales",
+          "items": [
+            {
+              "fr": "une image négative"
+            },
+            {
+              "fr": "un père sévère"
+            },
+            {
+              "fr": "un rapport difficile"
+            },
+            {
+              "fr": "absent"
+            },
+            {
+              "fr": "absente"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- La brousse = the bush, the countryside (in Africa, Australia): vivre dans la brousse. Une case = a hut (traditional round house); un village = a small town; une ville = a town. Un logement de fonction = housing provided with a job.\n- Un mur = a wall (outside, vertical); une cloison = an inside wall (partition); un plafond = a ceiling; un toit = a roof; un sol = a floor / ground. Un parpaing = a concrete block; le ciment = cement; une dalle = a concrete slab; la tôle ondulée = corrugated iron.\n- Un hamac = a hammock. It starts with an aspirated h: no liaison and no elision (le hamac, des hamacs [de amak]). Un réservoir = a tank (water, fuel). Le crépi = rough plaster on a wall.\n- Sévère = strict (often about a person), not severe: un père sévère. Absent(e) = absent / not there: Il était souvent absent (he was often away). Un rapport / une relation = a relationship: Ils avaient un rapport difficile.\n- Describing a place that no longer exists: use the imparfait: Il y avait un toit en tôle. Il n'y avait pas de miroirs. For one event: Un jour, le toit est tombé (passé composé).\n- Une image négative = a negative picture / image: Il avait une image négative de ses voisins. Pour un enfant, l'image du père est importante."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Nous habitions une case dans la brousse."
+            },
+            {
+              "fr": "Le toit était en tôle ondulée."
+            },
+            {
+              "fr": "Il n'y avait pas de miroirs dans la maison."
+            },
+            {
+              "fr": "Nous dormions dans des hamacs accrochés au mur."
+            },
+            {
+              "fr": "Mon père était sévère et souvent absent."
+            },
+            {
+              "fr": "Nous avions un rapport difficile."
+            },
+            {
+              "fr": "Le village était isolé."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Une maison traditionnelle ronde en Afrique est une ___ .",
+              "answers": [
+                "case"
+              ]
+            },
+            {
+              "prompt": "Un grand récipient qui garde l'eau est un ___ .",
+              "answers": [
+                "réservoir"
+              ]
+            },
+            {
+              "prompt": "On dort dans un ___ accroché à deux arbres.",
+              "answers": [
+                "hamac"
+              ]
+            },
+            {
+              "prompt": "Un père qui est strict et dur est un père ___ .",
+              "answers": [
+                "sévère"
+              ]
+            },
+            {
+              "prompt": "Quand quelqu'un n'est pas là, il est ___ .",
+              "answers": [
+                "absent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphie-phonie",
+      "title": "La graphie et la phonie",
+      "minutes": 5,
+      "lede": "One letter can have different sounds, and one sound different spellings. Learning the common patterns helps you read aloud.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Une lettre, plusieurs sons",
+          "headers": [
+            "Lettre",
+            "Sons",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "g",
+              "[ʒ] devant e, i, y · [g] devant a, o, u",
+              "image · négatif · gare · global"
+            ],
+            [
+              "c",
+              "[s] devant e, i, y · [k] devant a, o, u",
+              "ciment · case · cinéma · couleur"
+            ],
+            [
+              "s",
+              "[s] · [z] entre deux voyelles",
+              "sévère · maison · impressionnant · classe"
+            ],
+            [
+              "ss",
+              "toujours [s]",
+              "réservoir · impression"
+            ],
+            [
+              "x",
+              "[ks] · [gz] · muet",
+              "extra · examen · deux"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- G and c are “soft” before e, i, y ([ʒ], [s]) and “hard” before a, o, u ([g], [k]). To keep a soft sound before a, o, u: add e (mangeons) or a cedilla (ç: garçon, reçu).\n- One s between vowels sounds [z]: maison, vision, désert. Double ss is always [s]: dessert, impression. S at the start of a word is [s]: sévère, sol.\n- The letters gn make [ɲ] (like “ny” in “canyon”): ignorer, un signe, un campagnol. Ch is [ʃ] (chez), ph = [f] (photo), qu = [k] (que).\n- Learn by families: -tion = [sjɔ̃] (nation); -ssion = [sjɔ̃] (passion, impression); -sion after a vowel = [zjɔ̃] (télévision), after a consonant [sjɔ̃] (tension)."
+        },
+        {
+          "type": "phrases",
+          "title": "Lisez",
+          "items": [
+            {
+              "fr": "une image négative"
+            },
+            {
+              "fr": "ignorer"
+            },
+            {
+              "fr": "une case en ciment"
+            },
+            {
+              "fr": "un lointain voyage avec toi"
+            },
+            {
+              "fr": "un réservoir"
+            },
+            {
+              "fr": "sévère"
+            },
+            {
+              "fr": "impressionnant"
+            },
+            {
+              "fr": "une dalle de ciment"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son ?",
+          "items": [
+            {
+              "prompt": "Dans « image », le g se prononce ___ .",
+              "answers": [
+                "[ʒ]"
+              ],
+              "choices": [
+                "[g]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « gare », le g se prononce ___ .",
+              "answers": [
+                "[g]"
+              ],
+              "choices": [
+                "[g]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « case », le s se prononce ___ .",
+              "answers": [
+                "[z]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            },
+            {
+              "prompt": "Dans « impressionnant », le « ss » se prononce ___ .",
+              "answers": [
+                "[s]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]"
+              ]
+            },
+            {
+              "prompt": "Dans « ciment », le c se prononce ___ .",
+              "answers": [
+                "[s]"
+              ],
+              "choices": [
+                "[k]",
+                "[s]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Racontez une expérience de vie",
+          "prompt": "Choisissez une expérience de vie à l'étranger (réelle ou imaginaire) et un moment de cette expérience. Racontez-la par écrit : décrivez le lieu, les habitants, l'hébergement. Dites ce que vous avez ressenti et vécu.",
+          "model": "À neuf ans, j'ai vécu pendant un an dans un petit village de montagne. Nous habitions une maison en pierre, avec un toit de tôle. Mon père y avait travaillé avant de nous accueillir. J'étais curieux et un peu timide. Un jour, j'ai joué au football avec les enfants du village. Je n'avais jamais ri autant !"
+        }
+      ]
+    }
+  ]
+}

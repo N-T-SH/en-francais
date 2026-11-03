@@ -1,0 +1,293 @@
+{
+  "id": "a2-techniques-pour-carnet-photos",
+  "order": 132,
+  "number": 32,
+  "unit": 8,
+  "unitTitle": "Voyagez",
+  "kicker": "Unité 8 · Leçon 32",
+  "title": "Techniques pour…",
+  "summary": "Faire un carnet de voyage · la médiation : commenter des photos",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "carnet-de-voyage",
+      "title": "Faire un carnet de voyage",
+      "minutes": 10,
+      "lede": "A travel journal (carnet de voyage) is a personal text, dated, with descriptions, impressions and illustrations. It uses the five senses and a clear punctuation.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les éléments d'un carnet de voyage",
+          "headers": [
+            "Élément",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Dater",
+              "lundi 18 mai, 22 h"
+            ],
+            [
+              "Parler de ses activités",
+              "Je suis allée à la plage. L'après-midi, j'ai visité la ville."
+            ],
+            [
+              "Décrire",
+              "Lisbonne, c'est une ville de collines ! Il y a des petits cafés, des tramways jaunes."
+            ],
+            [
+              "Faire des appréciations",
+              "L'hôtel est très bien, simple et confortable."
+            ],
+            [
+              "Parler de ses sensations",
+              "la vue · l'odorat · le toucher · l'ouïe · le goût"
+            ],
+            [
+              "Ponctuer le texte",
+              "le point, la virgule, les deux points, le point d'exclamation, les guillemets, les parenthèses"
+            ],
+            [
+              "Organiser en paragraphes",
+              "un paragraphe = un sujet"
+            ],
+            [
+              "Illustrer",
+              "dessins, cartes, tickets d'entrée"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les cinq sens",
+          "headers": [
+            "Sens",
+            "Verbe",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "la vue",
+              "voir, regarder",
+              "On voit la mer de ma fenêtre."
+            ],
+            [
+              "l'odorat",
+              "sentir",
+              "Ça sent bon !"
+            ],
+            [
+              "le toucher",
+              "toucher, sentir",
+              "J'ai senti le froid de l'eau."
+            ],
+            [
+              "l'ouïe",
+              "entendre, écouter",
+              "J'ai entendu de la musique dans la rue."
+            ],
+            [
+              "le goût",
+              "goûter",
+              "C'était très épicé."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Dates: lundi 18 mai (no capital letters on days or months); le 1er mai; the hour: 22 h (or 22 h 30). In a diary, begin each page with the date and sometimes the time or the weather.\n- Tenses: passé composé for what you did (Je suis allée à la plage), imparfait for the setting and feelings (Il faisait beau, j'étais contente). Present for general facts about the place (Lisbonne est une ville de collines).\n- Sentir has two meanings: to smell (Ça sent bon = it smells good) and to feel (physical sensation: J'ai senti le froid). Se sentir + adjective = to feel (emotionally): Je me sens bien. Goûter = to taste (Goûtez ce plat !) or to have an afternoon snack (le goûter).\n- Punctuation in French: a space before ! ? : ; and inside guillemets (« … »): Quelle belle plage ! Il m'a dit : « Venez avec nous ! » English has no such spaces. Points de suspension (…) = ellipsis; les deux points (:) introduce a list or a quote.\n- Paragraphs: a paragraph groups sentences about one idea. Start a new paragraph for a new day, a new place, a new activity. Leave a blank line (or indent) between paragraphs.\n- A travel diary is personal: use je and nous, express emotions (Quel bonheur ! J'étais déçue). Keep exclamations to the strongest moments."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Lundi dix-huit mai, vingt-deux heures.",
+              "label": "Lundi 18 mai, 22 h."
+            },
+            {
+              "fr": "Enfin à Lisbonne ! C'est la première fois que je viens ici."
+            },
+            {
+              "fr": "Il y a des cafés, des tramways jaunes et des collines."
+            },
+            {
+              "fr": "Ça sent bon le poisson grillé."
+            },
+            {
+              "fr": "J'ai entendu de la musique dans la rue."
+            },
+            {
+              "fr": "L'hôtel est simple et confortable."
+            },
+            {
+              "fr": "Quel bonheur !"
+            },
+            {
+              "fr": "J'ai goûté un pastel de nata : c'était délicieux."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel sens ?",
+          "items": [
+            {
+              "prompt": "« Ça sent bon ! » : le sens de l'___ .",
+              "answers": [
+                "odorat"
+              ]
+            },
+            {
+              "prompt": "« J'ai entendu de la musique. » : le sens de l'___ .",
+              "answers": [
+                "ouïe"
+              ]
+            },
+            {
+              "prompt": "« On voit la mer. » : le sens de la ___ .",
+              "answers": [
+                "vue"
+              ]
+            },
+            {
+              "prompt": "« C'était épicé. » : le sens du ___ .",
+              "answers": [
+                "goût"
+              ]
+            },
+            {
+              "prompt": "Dans une date, le jour et le mois s'écrivent sans ___ . (lettre majuscule)",
+              "answers": [
+                "majuscule"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Une page de carnet de voyage",
+          "prompt": "Écrivez la page d'un carnet de voyage réel ou imaginaire : datez-la, parlez des lieux et des activités, décrivez, faites des appréciations, parlez de vos sensations. Choisissez les documents pour l'illustrer.",
+          "model": "Mardi 3 juin, 21 h. Enfin à Lisbonne ! Il faisait chaud et l'air sentait la mer. L'après-midi, j'ai pris le tramway jaune et j'ai visité le château. Quelle vue ! Ce soir, j'ai mangé du poisson grillé dans un petit restaurant : c'était délicieux. J'ai collé mon ticket de tramway sur la page."
+        }
+      ]
+    },
+    {
+      "id": "mediation-photos",
+      "title": "La médiation : commenter des photos",
+      "minutes": 9,
+      "lede": "Mediation: you look at a photo and you explain it to someone who cannot see it. You describe, you say what you think the place is, and you give the atmosphere.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Décrire une photo",
+          "headers": [
+            "Fonction",
+            "Expressions"
+          ],
+          "rows": [
+            [
+              "Situer dans l'image",
+              "Sur la photo, on voit… · Au premier plan… · À l'arrière-plan / Au fond… · À gauche / À droite · Au centre"
+            ],
+            [
+              "Décrire les gens",
+              "Il y a un homme qui… · Des enfants jouent… · Les gens portent…"
+            ],
+            [
+              "Décrire le lieu",
+              "C'est une rue étroite, des maisons colorées, une rivière…"
+            ],
+            [
+              "Faire des hypothèses",
+              "C'est sans doute… · Ça doit être… · Je pense que c'est en Asie parce que…"
+            ],
+            [
+              "Dire l'ambiance",
+              "L'ambiance est calme / animée / chaleureuse."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Describe in the present tense: Sur la photo, on voit une rue. Il y a un vendeur qui porte un chapeau. To say what you think, use sans doute or devoir (probability): C'est sans doute à Hanoï. Ça doit être le matin (It must be morning).\n- Place words: au premier plan (in the foreground), à l'arrière-plan (in the background), au fond (at the back), à gauche (on the left), à droite (on the right), au centre, en haut, en bas, devant, derrière.\n- L'ambiance = the atmosphere (of a place or an event). Useful adjectives: calme, animé(e), bruyant(e), chaleureux / chaleureuse, tranquille, coloré(e). To report a comment: Emmanuel dit que c'est… (reported speech, see Leçon 30).\n- To report someone's comment: use dire que + present: Emmanuel dit que la photo a été prise en Asie. Il explique que les maisons sont sur l'eau. Il pense que c'est calme.\n- Mediation = passing on key information to someone who cannot see or hear it: who? where? when? what atmosphere? Don't list every detail: choose the most important.\n- Careful with false friends: sensible (sensitive, not “sensible”), actuel (current), une figure (a face, not a “figure”)."
+        },
+        {
+          "type": "phrases",
+          "title": "Décrire une photo",
+          "items": [
+            {
+              "fr": "Sur la photo, on voit une rue animée."
+            },
+            {
+              "fr": "Au premier plan, il y a un vendeur de fruits."
+            },
+            {
+              "fr": "À l'arrière-plan, on voit des maisons colorées."
+            },
+            {
+              "fr": "À gauche, des enfants jouent."
+            },
+            {
+              "fr": "C'est sans doute en Asie."
+            },
+            {
+              "fr": "Je pense que c'est le matin."
+            },
+            {
+              "fr": "L'ambiance est chaleureuse et très animée."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la description",
+          "items": [
+            {
+              "prompt": "Sur la photo, on ___ une rue animée. (voir)",
+              "answers": [
+                "voit"
+              ]
+            },
+            {
+              "prompt": "Au premier ___ , il y a un marchand de fruits.",
+              "answers": [
+                "plan"
+              ]
+            },
+            {
+              "prompt": "À l'___ -plan, on voit des maisons. (le fond)",
+              "answers": [
+                "arrière"
+              ]
+            },
+            {
+              "prompt": "C'est ___ doute en Asie. (sans)",
+              "answers": [
+                "sans"
+              ]
+            },
+            {
+              "prompt": "L'___ est chaleureuse et très animée. (l'atmosphère)",
+              "answers": [
+                "ambiance"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Commentez des photos",
+          "prompt": "Choisissez deux photos de voyage. Décrivez-les, imaginez où elles ont été prises, dites l'ambiance et les informations sur les personnes et les lieux. Rapportez à un camarade ce que dit un autre ami de ces photos.",
+          "model": "Sur la première photo, on voit un marché très animé. Au premier plan, il y a des vendeurs. C'est sans doute en Asie. Mon ami Emmanuel dit que la photo a été prise à Hanoï. Il explique que les gens sont très accueillants. Il pense que c'est une ville magnifique."
+        }
+      ]
+    }
+  ]
+}
