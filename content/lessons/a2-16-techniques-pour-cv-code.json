@@ -1,0 +1,240 @@
+{
+  "id": "a2-techniques-pour-cv-code",
+  "order": 116,
+  "number": 16,
+  "unit": 4,
+  "unitTitle": "Envisagez l'avenir",
+  "kicker": "Unité 4 · Leçon 16",
+  "title": "Techniques pour…",
+  "summary": "Faire son CV · la médiation : expliquer le code vestimentaire au travail",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "faire-son-cv",
+      "title": "Faire son CV",
+      "minutes": 10,
+      "lede": "A CV (curriculum vitae) in France is usually one page. It is organised in headings and lists, with the most recent job first.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les rubriques d'un CV",
+          "headers": [
+            "Rubrique",
+            "Contenu"
+          ],
+          "rows": [
+            [
+              "Coordonnées",
+              "adresse, téléphone, e-mail"
+            ],
+            [
+              "Informations personnelles",
+              "âge, situation familiale"
+            ],
+            [
+              "Présentation",
+              "un petit texte : fonction actuelle, compétences, projet professionnel"
+            ],
+            [
+              "Expériences professionnelles",
+              "postes, entreprises, dates, missions (du plus récent au plus ancien)"
+            ],
+            [
+              "Formation",
+              "diplômes, écoles, années"
+            ],
+            [
+              "Compétences",
+              "langues, informatique, management…"
+            ],
+            [
+              "Centres d'intérêt",
+              "loisirs"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- A French CV traditionally lists: contact details (coordonnées), personal info, a short presentation (3 lines), professional experience, education, skills, interests. Put a photo if you want (optional in many sectors, increasingly omitted).\n- Order: the most recent first (reverse chronological): Restaurant Le Lac, de 2021 à aujourd'hui; Café des Arts, de 2018 à 2021; Pizzeria Roma, de 2016 à 2018. Use de … à … for periods.\n- Presentation text: use je + present for your current job and skills (Je suis serveuse dans un restaurant), j'ai + noun for strengths (J'ai une grande expérience du contact avec les clients), and je souhaite + infinitive for the project (Je souhaite devenir responsable de salle).\n- Lists: no article before the first word: Gestion des stocks. Accueil des clients. Organisation du planning. (not “l'organisation”). Use nouns or noun phrases, not full sentences.\n- Languages: langue maternelle (mother tongue), then the level using the CEFR scale: anglais (B2), allemand (A2). The levels run A1, A2, B1, B2, C1, C2.\n- A CV should fit on one page. A diploma with honours: mention assez bien, bien, très bien."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je suis serveuse dans un restaurant de Lyon."
+            },
+            {
+              "fr": "J'ai une grande expérience du contact avec les clients."
+            },
+            {
+              "fr": "Je souhaite devenir responsable de salle."
+            },
+            {
+              "fr": "Café des Arts, Lyon, de deux mille dix-huit à deux mille vingt et un.",
+              "label": "Café des Arts, Lyon, de 2018 à 2021."
+            },
+            {
+              "fr": "Organisation du planning de l'équipe."
+            },
+            {
+              "fr": "Langue maternelle : français. Anglais, niveau B deux.",
+              "label": "Langue maternelle : français. Anglais, niveau B2."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez le CV",
+          "items": [
+            {
+              "prompt": "Le texte de ___ donne la fonction actuelle et le projet.",
+              "answers": [
+                "présentation"
+              ]
+            },
+            {
+              "prompt": "Les ___ professionnelles sont classées du plus récent au plus ancien.",
+              "answers": [
+                "expériences"
+              ]
+            },
+            {
+              "prompt": "Restaurant Le Lac, ___ 2021 à aujourd'hui. (de/depuis)",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Pour la liste des missions, on ne met pas d'___ au début. (l'/la/un)",
+              "answers": [
+                "article"
+              ]
+            },
+            {
+              "prompt": "Mon français est ma langue ___ . (la première)",
+              "answers": [
+                "maternelle"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre CV",
+          "prompt": "Faites votre CV : choisissez vos expériences et vos compétences les plus importantes et rédigez les rubriques (coordonnées, présentation, expériences, formation, compétences, centres d'intérêt).",
+          "model": "Présentation : Je suis étudiante en gestion. J'ai de l'expérience dans l'accueil. Je souhaite travailler dans le tourisme. Expériences : agence de voyages Soleil, Annecy, de 2021 à 2023 : accueil des clients, gestion des réservations. Formation : licence de gestion, université de Lyon, 2019–2022. Langues : français (langue maternelle), anglais (B2)."
+        }
+      ]
+    },
+    {
+      "id": "mediation-code-vestimentaire",
+      "title": "La médiation : expliquer le code vestimentaire au travail",
+      "minutes": 9,
+      "lede": "Mediation: you read an article about dress codes and a friend's e-mail, then you answer with the useful advice in your own words.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le code vestimentaire en France",
+          "headers": [
+            "Milieu",
+            "Conseil"
+          ],
+          "rows": [
+            [
+              "finance, conseil, immobilier",
+              "look classique : costume gris ou bleu marine, cravate"
+            ],
+            [
+              "milieux créatifs, start-up, communication",
+              "vêtements plus colorés et plus décontractés"
+            ],
+            [
+              "règles générales",
+              "pas de chemises à manches courtes, pas de sandales, pas de bermuda l'été"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un code vestimentaire = a dress code. S'habiller = to get dressed / to dress: Comment dois-je m'habiller ? Un tailleur = a woman's suit (jacket + skirt/trousers). Un costume = a man's suit; une cravate = a tie; un bermuda = Bermuda shorts; une manche = a sleeve.\n- Giving advice: Tu devrais porter un costume. Évite les sandales. Il vaut mieux porter… (it's better to wear…). Il ne faut pas porter… Soyez décontractés mais toujours chics.\n- To reply to a friend's e-mail: Salut Rita ! Merci pour ton message. Voici quelques conseils… (informal register: tu, salut, Bises).\n- Make the advice concrete and short: bullets, not a long text. Select what's useful for the person who asks (here: working in a bank, women's dress).\n- Prefer positive phrasing: Porte des chaussures simples. rather than a long list of prohibitions.\n- Mediation tip: you can say how it works in your culture, but the question is about France."
+        },
+        {
+          "type": "phrases",
+          "title": "Un exemple de réponse",
+          "items": [
+            {
+              "fr": "Salut Rita, merci pour ton message !"
+            },
+            {
+              "fr": "À la banque, le look est plutôt classique."
+            },
+            {
+              "fr": "Je te conseille un tailleur gris ou bleu marine."
+            },
+            {
+              "fr": "Évite les sandales et les chemises à manches courtes."
+            },
+            {
+              "fr": "Des chaussures très simples, c'est parfait."
+            },
+            {
+              "fr": "Si tu veux, je peux t'accompagner pour faire les magasins."
+            },
+            {
+              "fr": "Bises, à très bientôt !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un homme met un ___ et une cravate pour travailler dans une banque.",
+              "answers": [
+                "costume"
+              ]
+            },
+            {
+              "prompt": "Une femme met un ___ pour une réunion importante. (veste + jupe ou pantalon)",
+              "answers": [
+                "tailleur"
+              ]
+            },
+            {
+              "prompt": "Je te ___ de porter un look classique. (conseiller)",
+              "answers": [
+                "conseille"
+              ]
+            },
+            {
+              "prompt": "Il ne faut pas porter de chemises à ___ courtes.",
+              "answers": [
+                "manches"
+              ]
+            },
+            {
+              "prompt": "Comment dois-je ___ pour aller travailler ? (s'habiller)",
+              "answers": [
+                "m'habiller"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Répondez à Rita",
+          "prompt": "Rita arrive en France dans deux semaines et va travailler dans une banque. Elle demande des conseils sur la façon de s'habiller. Écrivez-lui un e-mail pour lui répondre.",
+          "model": "Salut Rita ! À la banque, il faut un look classique. Je te conseille un tailleur gris ou bleu marine. Évite les sandales et porte des chaussures simples. Si tu veux, on peut faire les magasins ensemble. Bises, à très bientôt !"
+        }
+      ]
+    }
+  ]
+}

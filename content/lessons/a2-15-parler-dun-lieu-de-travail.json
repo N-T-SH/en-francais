@@ -1,0 +1,569 @@
+{
+  "id": "a2-parler-dun-lieu-de-travail",
+  "order": 115,
+  "number": 15,
+  "unit": 4,
+  "unitTitle": "Envisagez l'avenir",
+  "kicker": "Unité 4 · Leçon 15",
+  "title": "Parler d'un lieu de travail",
+  "summary": "Souhaiter et espérer · si + présent + futur · espace de travail et tarifs · sons [s], [z], [ʃ], [ʒ]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "souhaiter-esperer",
+      "title": "Exprimer un souhait et un espoir",
+      "minutes": 10,
+      "lede": "Two verbs of wish: souhaiter (+ infinitive) expresses a wish; espérer que (+ indicative) expresses a hope.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Souhait et espoir",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "souhaiter + infinitif",
+              "Je souhaite organiser une réunion."
+            ],
+            [
+              "vouloir / aimer / souhaiter au conditionnel + infinitif",
+              "Je voudrais parler au directeur. · J'aimerais / Je souhaiterais visiter l'espace."
+            ],
+            [
+              "espérer que + indicatif",
+              "J'espère que mon projet va vite démarrer."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Souhaiter + infinitive when the subject is the same: Je souhaite organiser une réunion. Espérer que + indicative: J'espère que tout va bien. After espérer que use the indicative (present, future, futur proche, passé composé, imparfait): J'espère que tu viendras. J'espère qu'il a réussi.\n- Espérer + infinitive (same subject) is more natural than a clause: J'espère venir demain. With a different subject, use que: J'espère que tu viens demain.\n- Espérer = to hope; souhaiter = to wish. A wish can be unrealistic; a hope is something you think is possible. Je souhaite vous voir bientôt (formal) / J'espère te voir bientôt (informal).\n- The conditional is a very polite way to state a wish: Je voudrais parler à… (I would like to speak to…), J'aimerais avoir accès à… (I would like to have access). Je souhaiterais is more formal.\n- Spelling: espérer has accent changes: j'espère, tu espères, il espère, nous espérons, vous espérez, ils espèrent (è before a silent ending, é before a pronounced one).\n- Que becomes qu' before a vowel: J'espère qu'il viendra."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je souhaite organiser une réunion."
+            },
+            {
+              "fr": "Je voudrais parler au directeur."
+            },
+            {
+              "fr": "J'aimerais visiter l'espace."
+            },
+            {
+              "fr": "Je souhaiterais trouver un collaborateur rapidement."
+            },
+            {
+              "fr": "J'espère que mon projet va vite démarrer."
+            },
+            {
+              "fr": "J'espère qu'il viendra demain."
+            },
+            {
+              "fr": "J'espère pouvoir travailler ici."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Souhaiter ou espérer ?",
+          "items": [
+            {
+              "prompt": "Je ___ organiser une réunion. (souhaiter)",
+              "answers": [
+                "souhaite"
+              ]
+            },
+            {
+              "prompt": "J'___ que tu vas bien. (espérer)",
+              "answers": [
+                "espère"
+              ]
+            },
+            {
+              "prompt": "J'espère qu'il ___ demain. (venir : futur)",
+              "answers": [
+                "viendra"
+              ]
+            },
+            {
+              "prompt": "J'___ visiter l'espace. (aimer, conditionnel)",
+              "answers": [
+                "aimerais"
+              ]
+            },
+            {
+              "prompt": "Je ___ parler au directeur. (vouloir, conditionnel)",
+              "answers": [
+                "voudrais"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "si-futur",
+      "title": "Si + présent + futur : faire une hypothèse sur le futur",
+      "minutes": 10,
+      "lede": "To say what will happen if something happens, French uses si + present in the condition, and the future (or present, or imperative) in the result.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Si + présent + futur",
+          "headers": [
+            "Condition",
+            "Résultat",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "si + présent",
+              "futur simple",
+              "Si je choisis le forfait à cent euros, j'aurai un casier."
+            ],
+            [
+              "si + présent",
+              "présent",
+              "Si vous n'avez pas besoin de salle, ce forfait vous convient."
+            ],
+            [
+              "si + présent",
+              "impératif",
+              "Si vous venez, appelez-moi."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Rule: NEVER use the future after si in this structure: Si tu viens (not “si tu viendras”), je serai content. The future goes in the result clause only. English does the same (if you come, I will be glad).\n- Si + il / ils → s'il / s'ils; but si + elle / elles / on / je → si elle, si on, si je: S'il pleut, nous resterons. Si on veut, on peut venir.\n- Compare with quand: Quand je gagnerai de l'argent… (certain future); Si je gagne de l'argent… (possible, not certain). Quand + future vs si + present.\n- The order of the clauses can change: J'aurai un poste dédié si je prends la formule. There's no comma when the si-clause comes second.\n- Result clause options: futur simple (j'aurai), futur proche (je vais avoir), present (ça m'intéresse), imperative (appelez-moi), il faut + infinitive (il faut réserver).\n- Si + imparfait + conditionnel (hypothetical or unreal) is a different structure (Si j'avais de l'argent, j'achèterais…): not for A2 lesson 15."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Si je choisis le forfait à cent euros, j'aurai un casier.",
+              "label": "Si je choisis le forfait à 100 €, j'aurai un casier."
+            },
+            {
+              "fr": "Si vous n'avez pas besoin de salle, ce forfait vous convient."
+            },
+            {
+              "fr": "S'il pleut, nous resterons au bureau."
+            },
+            {
+              "fr": "Si tu as le temps, passe me voir."
+            },
+            {
+              "fr": "Si on travaille ensemble, ce sera plus facile."
+            },
+            {
+              "fr": "Quand j'aurai de l'argent, je louerai un bureau."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Si + présent + futur",
+          "items": [
+            {
+              "prompt": "Si je ___ le forfait, j'aurai un casier. (choisir)",
+              "answers": [
+                "choisis"
+              ]
+            },
+            {
+              "prompt": "Si tu ___ , j'irai avec toi. (venir)",
+              "answers": [
+                "viens"
+              ]
+            },
+            {
+              "prompt": "S'il ___ , nous resterons ici. (pleuvoir)",
+              "answers": [
+                "pleut"
+              ]
+            },
+            {
+              "prompt": "Si vous venez, vous ___ un café. (avoir : futur)",
+              "answers": [
+                "aurez"
+              ]
+            },
+            {
+              "prompt": "Si on travaille ensemble, ce ___ plus facile. (être : futur)",
+              "answers": [
+                "sera"
+              ]
+            },
+            {
+              "prompt": "___ ils viennent, je serai content. (S' / Si)",
+              "answers": [
+                "S'"
+              ],
+              "choices": [
+                "Si",
+                "S'"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre espace de travail idéal",
+          "prompt": "Décidez d'un lieu de travail (privé, public, ouvert, fermé) pour vous ou pour votre groupe. Décrivez l'espace, le mobilier et le matériel. Utilisez souhaiter, espérer et si + présent + futur.",
+          "model": "Je souhaiterais travailler dans un espace de coworking. J'espère qu'il y aura une cuisine équipée. Si je trouve un bureau lumineux, je viendrai tous les jours. Si l'espace est trop cher, je choisirai un bureau partagé."
+        }
+      ]
+    },
+    {
+      "id": "espace-travail-tarif",
+      "title": "L'espace de travail, l'équipement et les tarifs",
+      "minutes": 9,
+      "lede": "The words of the workplace: types of office, furniture, computer equipment, and the vocabulary of prices and subscriptions.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'espace de travail",
+          "items": [
+            {
+              "fr": "un secteur d'activité"
+            },
+            {
+              "fr": "un bureau fermé"
+            },
+            {
+              "fr": "un bureau privatif"
+            },
+            {
+              "fr": "un bureau partagé"
+            },
+            {
+              "fr": "un open space"
+            },
+            {
+              "fr": "un poste de travail dédié"
+            },
+            {
+              "fr": "non dédié"
+            },
+            {
+              "fr": "un espace de coworking"
+            },
+            {
+              "fr": "un espace détente"
+            },
+            {
+              "fr": "une salle de réunion"
+            },
+            {
+              "fr": "une cuisine équipée"
+            },
+            {
+              "fr": "le design"
+            },
+            {
+              "fr": "lumineux"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le mobilier",
+          "items": [
+            {
+              "fr": "un fauteuil",
+              "icon": "💺"
+            },
+            {
+              "fr": "un rangement"
+            },
+            {
+              "fr": "un casier"
+            },
+            {
+              "fr": "un caisson"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'équipement informatique",
+          "items": [
+            {
+              "fr": "une imprimante",
+              "icon": "🖨️"
+            },
+            {
+              "fr": "la fibre optique"
+            },
+            {
+              "fr": "un scanner"
+            },
+            {
+              "fr": "une visioconférence"
+            },
+            {
+              "fr": "le wifi"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La tarification",
+          "items": [
+            {
+              "fr": "un accès gratuit"
+            },
+            {
+              "fr": "un forfait"
+            },
+            {
+              "fr": "une remise"
+            },
+            {
+              "fr": "en option"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un open space (also un espace ouvert) = open-plan office. Un bureau = both an office and a desk. Un bureau fermé / privatif = a private office. Un poste de travail = a workstation.\n- Coworking: the English word is used in French (pronounced like English, [kowɔʁkiŋ]). Un espace de coworking = a shared workspace. Un forfait = a package, a fixed-price plan (un forfait téléphone = phone plan).\n- HT = hors taxes (excluding tax); TTC = toutes taxes comprises (including tax). Prices in a business ad are usually HT: 120 € HT par mois. A price TTC is what you actually pay.\n- En option = optional (extra). Une remise = a discount (not “remittance”). Un tarif = a price list; la tarification = the pricing. Gratuit = free (no cost); libre = free (not occupied).\n- Fibre optique = fibre optic: la fibre. Visioconférence = video conference (also: une réunion en visio). Un scanner [skanœʁ] = a scanner.\n- Mobilier = furniture (masculine, singular): le mobilier est neuf. Un meuble = a piece of furniture. Un casier = a locker."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "L'espace propose des bureaux fermés et un open space."
+            },
+            {
+              "fr": "Il y a une cuisine équipée et un espace détente."
+            },
+            {
+              "fr": "L'accès est possible vingt-quatre heures sur vingt-quatre.",
+              "label": "L'accès est possible 24 h sur 24."
+            },
+            {
+              "fr": "Le forfait coûte cent vingt euros par mois.",
+              "label": "Le forfait coûte 120 € par mois."
+            },
+            {
+              "fr": "Le casier est en option."
+            },
+            {
+              "fr": "Il y a de la fibre optique et une imprimante."
+            },
+            {
+              "fr": "La remise est de dix pour cent.",
+              "label": "La remise est de 10 %."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un bureau pour une seule personne est un bureau ___ . (fermé)",
+              "answers": [
+                "privatif | fermé"
+              ]
+            },
+            {
+              "prompt": "Une salle pour se détendre s'appelle un espace ___ .",
+              "answers": [
+                "détente"
+              ]
+            },
+            {
+              "prompt": "Un prix fixe pour un service pendant un mois est un ___ .",
+              "answers": [
+                "forfait"
+              ]
+            },
+            {
+              "prompt": "Une réduction de prix s'appelle une ___ .",
+              "answers": [
+                "remise"
+              ]
+            },
+            {
+              "prompt": "Un meuble pour ranger ses affaires est un ___ . (petit meuble)",
+              "answers": [
+                "casier | caisson"
+              ]
+            },
+            {
+              "prompt": "120 € ___ signifie : hors taxes.",
+              "answers": [
+                "HT"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-s-z-ch-j",
+      "title": "Les sons [s], [z], [ʃ] et [ʒ]",
+      "minutes": 5,
+      "lede": "Four fricative sounds in two pairs: [s]/[z] (hiss/buzz) and [ʃ]/[ʒ] (the English “sh” and the French j). In each pair, the first is voiceless and the second voiced.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quatre sons",
+          "headers": [
+            "Son",
+            "Description",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[s]",
+              "souriant, sourd, tendu",
+              "se · espérer · un caisson · un accès · une option"
+            ],
+            [
+              "[z]",
+              "souriant, sonore, relâché",
+              "une entreprise · deux heures · nous avons"
+            ],
+            [
+              "[ʃ]",
+              "arrondi, sourd, tendu",
+              "chez · chercher"
+            ],
+            [
+              "[ʒ]",
+              "arrondi, sonore, relâché",
+              "je · partager"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- Voiced sounds ([z], [ʒ]) make the throat vibrate (put a finger on your throat): zoo, jour. Voiceless sounds ([s], [ʃ]) don't: soleil, chat. Say each pair slowly to feel the difference.\n- [ʃ] is spelled ch (chez, chercher) and is like English “sh”. [ʒ] is spelled j (je, jour) or g before e, i, y (manger, girafe): like the s in “measure”. French [ʒ] is not “dj” (as in judge).\n- Spelling clues: ge + a, o = [ʒ] (nous mangeons, a mangeons), c before e/i = [s] (merci), ç = [s] (ça), ss = [s] (classe), s between vowels = [z] (maison), z = [z].\n- Liaison with [z]: les amis, deux heures, nous avons. Liaison with [ʒ]: not usual."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "se"
+            },
+            {
+              "fr": "espérer"
+            },
+            {
+              "fr": "un caisson"
+            },
+            {
+              "fr": "un accès"
+            },
+            {
+              "fr": "une entreprise"
+            },
+            {
+              "fr": "deux heures"
+            },
+            {
+              "fr": "nous avons"
+            },
+            {
+              "fr": "chez"
+            },
+            {
+              "fr": "chercher"
+            },
+            {
+              "fr": "je"
+            },
+            {
+              "fr": "partager"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son ?",
+          "items": [
+            {
+              "prompt": "Dans « chez », le premier son est ___ .",
+              "answers": [
+                "[ʃ]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]",
+                "[ʃ]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « je », le premier son est ___ .",
+              "answers": [
+                "[ʒ]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]",
+                "[ʃ]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « un accès », le dernier son est ___ .",
+              "answers": [
+                "[s]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]",
+                "[ʃ]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « deux heures », la liaison est ___ .",
+              "answers": [
+                "[z]"
+              ],
+              "choices": [
+                "[s]",
+                "[z]",
+                "[ʃ]",
+                "[ʒ]"
+              ]
+            },
+            {
+              "prompt": "Dans « partager », le son [ʒ] est écrit « ___ ».",
+              "answers": [
+                "g"
+              ],
+              "choices": [
+                "j",
+                "g",
+                "ch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

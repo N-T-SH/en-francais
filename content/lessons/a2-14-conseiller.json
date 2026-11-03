@@ -1,0 +1,500 @@
+{
+  "id": "a2-conseiller",
+  "order": 114,
+  "number": 14,
+  "unit": 4,
+  "unitTitle": "Envisagez l'avenir",
+  "kicker": "Unité 4 · Leçon 14",
+  "title": "Conseiller",
+  "summary": "Impératif · obligation et conseil · si + présent · l'entreprise et la formation",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "imperatif",
+      "title": "L'impératif pour dire de faire quelque chose",
+      "minutes": 9,
+      "lede": "The imperative gives instructions, orders and advice. It exists only in three forms: tu, nous and vous, and it drops the subject pronoun.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation : le présent sans le pronom sujet",
+          "headers": [
+            "Verbe",
+            "tu",
+            "nous",
+            "vous"
+          ],
+          "rows": [
+            [
+              "écouter",
+              "Écoute !",
+              "Écoutons !",
+              "Écoutez !"
+            ],
+            [
+              "aller",
+              "Va !",
+              "Allons !",
+              "Allez !"
+            ],
+            [
+              "choisir",
+              "Choisis !",
+              "Choisissons !",
+              "Choisissez !"
+            ],
+            [
+              "venir",
+              "Viens !",
+              "Venons !",
+              "Venez !"
+            ],
+            [
+              "être",
+              "Sois !",
+              "Soyons !",
+              "Soyez !"
+            ],
+            [
+              "avoir",
+              "Aie !",
+              "Ayons !",
+              "Ayez !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Only 3 persons: tu, nous (let's…), vous. No imperative for je, il, elle, ils. Allons voir le programme (let's go and look at the schedule).\n- -er verbs and aller lose the final -s in the tu form: tu regardes → Regarde ! tu vas → Va ! But the s comes back before en / y for liaison: Vas-y ! Manges-en !\n- Être, avoir, savoir, vouloir are irregular: sois / soyez, aie / ayez, sache / sachez, veuille / veuillez (formal: Veuillez patienter). Negative: Ne sois pas en retard. N'aie pas peur.\n- Negative: ne + verb + pas around the verb: Ne regarde pas ! N'allez pas là-bas ! In the negative, object pronouns stay before the verb: Ne le fais pas ! Ne vous inquiétez pas !\n- Affirmative with pronouns: verb + hyphen + pronoun: Donne-le-moi ! (me → moi, te → toi): Lève-toi ! Asseyez-vous ! But Ne te lève pas !\n- The imperative is direct. For a softer advice, use: Tu devrais… / On pourrait… / Si tu veux, … (see the next section)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Allons voir le programme du salon."
+            },
+            {
+              "fr": "Écoute-moi !"
+            },
+            {
+              "fr": "Commence par une étude de marché."
+            },
+            {
+              "fr": "Regarde le programme."
+            },
+            {
+              "fr": "Soyez à l'heure."
+            },
+            {
+              "fr": "N'ayez pas peur."
+            },
+            {
+              "fr": "Ne fais pas ça !"
+            },
+            {
+              "fr": "Assieds-toi."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez à l'impératif",
+          "items": [
+            {
+              "prompt": "Tu écoutes. → ___ !",
+              "answers": [
+                "Écoute"
+              ]
+            },
+            {
+              "prompt": "Vous choisissez. → ___ !",
+              "answers": [
+                "Choisissez"
+              ]
+            },
+            {
+              "prompt": "Nous allons au salon. → ___ au salon !",
+              "answers": [
+                "Allons"
+              ]
+            },
+            {
+              "prompt": "Tu vas au salon. → ___ au salon !",
+              "answers": [
+                "Va"
+              ]
+            },
+            {
+              "prompt": "Vous êtes à l'heure. → ___ à l'heure !",
+              "answers": [
+                "Soyez"
+              ]
+            },
+            {
+              "prompt": "Tu n'as pas peur. → N'___ pas peur !",
+              "answers": [
+                "aie"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obligation-conseil",
+      "title": "Exprimer l'obligation et conseiller",
+      "minutes": 12,
+      "lede": "There are several ways to say that something must be done and to give advice. Their strength differs: il faut and devoir express obligation; devrais / pourrais are softer.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "L'obligation",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "il faut + infinitif",
+              "Il faut réserver sa place."
+            ],
+            [
+              "c'est indispensable de / c'est nécessaire de + infinitif",
+              "C'est indispensable de préparer son budget."
+            ],
+            [
+              "devoir (indicatif) + infinitif",
+              "Le salon est demain, tu dois absolument y aller."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Conseiller et proposer",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "devoir (conditionnel) + infinitif",
+              "Tu devrais lire ce livre."
+            ],
+            [
+              "pouvoir (conditionnel) + infinitif",
+              "On pourrait déjeuner ensemble."
+            ],
+            [
+              "si + présent + présent / impératif",
+              "Si tu es libre, on y va ensemble. · Si tu veux un conseil, lis ce blog."
+            ],
+            [
+              "conseiller à quelqu'un de + infinitif",
+              "Je te conseille de réserver ta place."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Il faut + infinitive is impersonal: Il faut bien choisir. Il faut can also take a noun (Il faut du temps). Il faudrait + infinitive (conditional) is softer: Il faudrait y aller.\n- C'est nécessaire / indispensable de + infinitive: no subject. With a subject use que + subjunctive (not at A2). Devoir + infinitive has a subject: Je dois y aller, Tu dois absolument aller à ce salon.\n- Devoir (present) = must; devoir (conditional) = should: Tu dois partir (an obligation) vs Tu devrais partir (a piece of advice, less strong). Pouvoir (conditional) = could (suggestion): On pourrait y aller.\n- Si + présent + présent / impératif: the condition (si + present) is followed by a present or an imperative: Si tu es libre, on y va ensemble. Si tu as le temps, passe me voir. Note: si + il → s'il, but si + elle stays: si elle.\n- Conseiller à quelqu'un de faire quelque chose: Je te conseille de venir. Je vous conseille de réserver. Conseiller is followed by à + person and de + infinitive. Il me conseille un livre = he recommends a book to me.\n- Don't use “il faut que tu” + indicative (it needs the subjunctive: Il faut que tu viennes): at A2 stay with il faut + infinitive, devoir, or the imperative."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Il faut réserver sa place."
+            },
+            {
+              "fr": "C'est indispensable de préparer son budget."
+            },
+            {
+              "fr": "C'est nécessaire d'avoir une bonne idée."
+            },
+            {
+              "fr": "Le salon est demain, tu dois absolument y aller."
+            },
+            {
+              "fr": "Tu devrais lire ce livre."
+            },
+            {
+              "fr": "On pourrait déjeuner ensemble."
+            },
+            {
+              "fr": "Si tu es libre, on y va ensemble."
+            },
+            {
+              "fr": "Si tu veux un conseil, lis ce blog."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Obligation ou conseil ?",
+          "items": [
+            {
+              "prompt": "Tu ___ absolument y aller ! (devoir, obligation)",
+              "answers": [
+                "dois"
+              ]
+            },
+            {
+              "prompt": "Tu ___ lire ce livre. (devoir, conseil poli)",
+              "answers": [
+                "devrais"
+              ]
+            },
+            {
+              "prompt": "On ___ y aller ensemble. (pouvoir, suggestion)",
+              "answers": [
+                "pourrait"
+              ]
+            },
+            {
+              "prompt": "Il ___ réserver sa place. (falloir)",
+              "answers": [
+                "faut"
+              ]
+            },
+            {
+              "prompt": "C'est ___ de préparer son budget. (nécessaire/indispensable)",
+              "answers": [
+                "indispensable | nécessaire"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Si + présent",
+          "items": [
+            {
+              "prompt": "Si tu ___ un conseil, lis ce blog. (vouloir)",
+              "answers": [
+                "veux"
+              ]
+            },
+            {
+              "prompt": "Si tu as le temps, ___ -moi ! (appeler, impératif)",
+              "answers": [
+                "appelle"
+              ]
+            },
+            {
+              "prompt": "___ tu es libre, on y va ensemble. (condition)",
+              "answers": [
+                "Si"
+              ]
+            },
+            {
+              "prompt": "Si vous ___ de l'aide, demandez-moi. (avoir besoin de)",
+              "answers": [
+                "avez besoin"
+              ]
+            },
+            {
+              "prompt": "Si tu veux apprendre, ___ un cours en ligne. (choisir, impératif tu)",
+              "answers": [
+                "choisis"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Donnez des conseils",
+          "prompt": "Donnez des conseils pour apprendre le français : où et comment apprendre, avec quel matériel, comment pratiquer la conversation. Utilisez l'impératif, il faut, devoir et si + présent.",
+          "model": "Pour apprendre le français, il faut parler tous les jours. Tu devrais regarder des vidéos et lire des journaux. Si tu veux pratiquer, trouve un correspondant. Écoute aussi des chansons : c'est indispensable de travailler la prononciation !"
+        }
+      ]
+    },
+    {
+      "id": "entreprise-vocabulaire",
+      "title": "L'entreprise, l'information et les projets",
+      "minutes": 8,
+      "lede": "Vocabulary to talk about creating a business, looking for information and attending professional events.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le travail (3)",
+          "items": [
+            {
+              "fr": "les affaires"
+            },
+            {
+              "fr": "un conseiller"
+            },
+            {
+              "fr": "une conseillère"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'entreprise",
+          "items": [
+            {
+              "fr": "un créateur d'entreprise"
+            },
+            {
+              "fr": "une créatrice d'entreprise"
+            },
+            {
+              "fr": "un dirigeant"
+            },
+            {
+              "fr": "une dirigeante"
+            },
+            {
+              "fr": "un micro-entrepreneur"
+            },
+            {
+              "fr": "une micro-entrepreneuse"
+            },
+            {
+              "fr": "un domaine"
+            },
+            {
+              "fr": "l'e-commerce"
+            },
+            {
+              "fr": "une étude de marché"
+            },
+            {
+              "fr": "un financement"
+            },
+            {
+              "fr": "le marketing"
+            },
+            {
+              "fr": "une start-up"
+            },
+            {
+              "fr": "entreprendre"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'information et la formation (1)",
+          "items": [
+            {
+              "fr": "une animation"
+            },
+            {
+              "fr": "un atelier"
+            },
+            {
+              "fr": "une conférence"
+            },
+            {
+              "fr": "un débat"
+            },
+            {
+              "fr": "une étape"
+            },
+            {
+              "fr": "un exposant"
+            },
+            {
+              "fr": "une exposante"
+            },
+            {
+              "fr": "un salon"
+            },
+            {
+              "fr": "une source d'information"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les projets",
+          "items": [
+            {
+              "fr": "concrétiser"
+            },
+            {
+              "fr": "lancer son affaire"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Entreprendre = to undertake / to start (a business, a project); une entreprise = a company, un entrepreneur = a business owner, la création d'entreprise = starting a company. Un micro-entrepreneur is the French self-employed status.\n- Les affaires means business (le monde des affaires), but also “belongings” (mes affaires = my things). Une affaire = a deal, a case, a bargain. Lancer son affaire = to start one's own business.\n- Un salon = a trade show / fair in this lesson, a living room (le salon) in others. Un atelier = a workshop (a place where you work), also a practical session. Une conférence = a lecture or talk (not “conference” in the sense of a big meeting, which is un congrès).\n- Un exposant = someone who exhibits at a fair (not “exponent”). Exposer = to exhibit. Une exposition = an exhibition.\n- Concrétiser = to make real: concrétiser un projet. Un projet is the plan; le but is the aim. Une étude de marché = a market study.\n- Pôle emploi (the French job centre, now called France Travail) is a service for job-seekers: it supports them financially and helps them find work."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Il veut créer sa start-up dans le domaine de l'e-commerce."
+            },
+            {
+              "fr": "Elle est dirigeante d'une petite entreprise."
+            },
+            {
+              "fr": "Pour concrétiser son projet, il doit faire une étude de marché."
+            },
+            {
+              "fr": "Les exposants présentent leurs produits au salon."
+            },
+            {
+              "fr": "Un atelier de quarante-cinq minutes."
+            },
+            {
+              "fr": "Il cherche un financement."
+            },
+            {
+              "fr": "Elle veut lancer son affaire."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Une personne qui crée une entreprise est un ___ d'entreprise.",
+              "answers": [
+                "créateur"
+              ]
+            },
+            {
+              "prompt": "On présente ses produits à un ___ . (une foire professionnelle)",
+              "answers": [
+                "salon"
+              ]
+            },
+            {
+              "prompt": "Une étude de ___ analyse les besoins des clients.",
+              "answers": [
+                "marché"
+              ]
+            },
+            {
+              "prompt": "Une personne qui expose ses produits est un ___ .",
+              "answers": [
+                "exposant"
+              ]
+            },
+            {
+              "prompt": "Réaliser un projet, c'est le ___ . (rendre concret)",
+              "answers": [
+                "concrétiser"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

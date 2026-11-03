@@ -1,0 +1,584 @@
+{
+  "id": "a2-demander-de-laide",
+  "order": 113,
+  "number": 13,
+  "unit": 4,
+  "unitTitle": "Envisagez l'avenir",
+  "kicker": "Unité 4 · Leçon 13",
+  "title": "Demander de l'aide",
+  "summary": "Le conditionnel présent · le ménage et les tâches · les sons [i], [y], [u]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "conditionnel-present",
+      "title": "Le conditionnel présent pour demander poliment",
+      "minutes": 11,
+      "lede": "The conditional (le conditionnel présent) is the polite form: it softens a request, a wish or advice. J'aimerais… Pourriez-vous… ?",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation : base du futur + terminaisons de l'imparfait",
+          "headers": [
+            "Sujet",
+            "souhaiter",
+            "aimer",
+            "pouvoir (je pourr-)"
+          ],
+          "rows": [
+            [
+              "je",
+              "souhaiterais",
+              "aimerais",
+              "pourrais"
+            ],
+            [
+              "tu",
+              "souhaiterais",
+              "aimerais",
+              "pourrais"
+            ],
+            [
+              "il / elle / on",
+              "souhaiterait",
+              "aimerait",
+              "pourrait"
+            ],
+            [
+              "nous",
+              "souhaiterions",
+              "aimerions",
+              "pourrions"
+            ],
+            [
+              "vous",
+              "souhaiteriez",
+              "aimeriez",
+              "pourriez"
+            ],
+            [
+              "ils / elles",
+              "souhaiteraient",
+              "aimeraient",
+              "pourraient"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Pour demander poliment",
+          "headers": [
+            "Direct",
+            "Poli"
+          ],
+          "rows": [
+            [
+              "Je veux de l'aide.",
+              "J'aimerais avoir de l'aide."
+            ],
+            [
+              "Vous pouvez m'aider ?",
+              "Pourriez-vous m'aider ?"
+            ],
+            [
+              "Quel jour voulez-vous ?",
+              "Quel jour voudriez-vous ?"
+            ],
+            [
+              "Je veux parler à Madame Dupont.",
+              "Je voudrais parler à Madame Dupont."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Stem = the future stem (je parlerai → parler-; je pourrai → pourr-; je serai → ser-; j'aurai → aur-; je ferai → fer-; je viendrai → viendr-), ending = imparfait ending (-ais, -ais, -ait, -ions, -iez, -aient). Remember: future stem + imperfect endings.\n- Je voudrais is the most useful polite phrase: Je voudrais un café. Je voudrais parler à Madame Dupont. Never use je veux with strangers (too direct). J'aimerais + infinitive: J'aimerais avoir de l'aide.\n- Pourriez-vous + infinitive = could you…? (formal). Pourrais-tu… ? (informal). Est-ce que vous pourriez… ? is the est-ce que form. Pourriez-vous m'aider ? is the standard polite request.\n- The ending -rais / -rait / -raient all sound alike [ʁɛ]; -rions / -riez end in [ʁjɔ̃] / [ʁje]. Compare the future: je parlerai [ʁe] vs the conditional je parlerais [ʁɛ] (closed vs open e).\n- Conditional of devoir: Tu devrais (you should), On pourrait (we could), Je voudrais (I would like): these three give advice or soften a request.\n- The conditional is also the form of a wish (Je souhaiterais ranger mes affaires), a possibility or a hypothesis (see later lessons). In a polite request, nothing is truly “conditional”: it is just politeness."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'aimerais avoir de l'aide."
+            },
+            {
+              "fr": "Je souhaiterais ranger mes affaires dans le garage."
+            },
+            {
+              "fr": "Pourriez-vous m'aider ?"
+            },
+            {
+              "fr": "Pourriez-vous venir samedi matin ?"
+            },
+            {
+              "fr": "De quelle aide auriez-vous besoin ?"
+            },
+            {
+              "fr": "Pourriez-vous me donner votre numéro de téléphone ?"
+            },
+            {
+              "fr": "Je voudrais parler à Madame Dupont."
+            },
+            {
+              "fr": "Qu'est-ce que je pourrais faire pour vous ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez au conditionnel",
+          "items": [
+            {
+              "prompt": "J'___ avoir de l'aide. (aimer)",
+              "answers": [
+                "aimerais"
+              ]
+            },
+            {
+              "prompt": "Je ___ un café. (vouloir)",
+              "answers": [
+                "voudrais"
+              ]
+            },
+            {
+              "prompt": "Vous ___ m'aider ? (pouvoir)",
+              "answers": [
+                "pourriez"
+              ]
+            },
+            {
+              "prompt": "Nous ___ venir. (pouvoir)",
+              "answers": [
+                "pourrions"
+              ]
+            },
+            {
+              "prompt": "Elle ___ partir. (souhaiter)",
+              "answers": [
+                "souhaiterait"
+              ]
+            },
+            {
+              "prompt": "Ils ___ habiter ici. (aimer)",
+              "answers": [
+                "aimeraient"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Rendez la phrase polie",
+          "items": [
+            {
+              "prompt": "Je veux un renseignement. → Je ___ un renseignement.",
+              "answers": [
+                "voudrais"
+              ]
+            },
+            {
+              "prompt": "Vous pouvez m'aider ? → ___ -vous m'aider ?",
+              "answers": [
+                "Pourriez"
+              ]
+            },
+            {
+              "prompt": "Tu peux venir ? → Tu ___ venir ?",
+              "answers": [
+                "pourrais"
+              ]
+            },
+            {
+              "prompt": "J'aime avoir de l'aide. → J'___ avoir de l'aide.",
+              "answers": [
+                "aimerais"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aide-menage-maison",
+      "title": "Demander de l'aide : le ménage, les tâches et le logement",
+      "minutes": 10,
+      "lede": "Housework, DIY and small jobs are a daily topic. Learn the vocabulary of the tasks, the rooms and the polite expressions that go with them.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La politesse",
+          "items": [
+            {
+              "fr": "merci"
+            },
+            {
+              "fr": "merci beaucoup"
+            },
+            {
+              "fr": "merci mille fois"
+            },
+            {
+              "fr": "je vous remercie"
+            },
+            {
+              "fr": "avec plaisir"
+            },
+            {
+              "fr": "je vous en prie"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les caractéristiques",
+          "items": [
+            {
+              "fr": "un talent"
+            },
+            {
+              "fr": "une personne de confiance"
+            },
+            {
+              "fr": "gentil"
+            },
+            {
+              "fr": "gentille"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le logement (2)",
+          "items": [
+            {
+              "fr": "la cave"
+            },
+            {
+              "fr": "la chambre"
+            },
+            {
+              "fr": "la salle de bains"
+            },
+            {
+              "fr": "le salon"
+            },
+            {
+              "fr": "une armoire"
+            },
+            {
+              "fr": "un tableau"
+            },
+            {
+              "fr": "par terre"
+            },
+            {
+              "fr": "partout"
+            },
+            {
+              "fr": "chez soi"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les tâches ménagères",
+          "items": [
+            {
+              "fr": "arroser les plantes",
+              "icon": "🪴"
+            },
+            {
+              "fr": "faire les courses"
+            },
+            {
+              "fr": "faire la lessive"
+            },
+            {
+              "fr": "faire le ménage"
+            },
+            {
+              "fr": "faire la vaisselle"
+            },
+            {
+              "fr": "laver la salle de bains"
+            },
+            {
+              "fr": "passer l'aspirateur"
+            },
+            {
+              "fr": "ranger"
+            },
+            {
+              "fr": "le repassage"
+            },
+            {
+              "fr": "un fer à repasser"
+            },
+            {
+              "fr": "une planche à repasser"
+            },
+            {
+              "fr": "le petit bricolage"
+            },
+            {
+              "fr": "bricoler"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les actions",
+          "items": [
+            {
+              "fr": "garder des enfants"
+            },
+            {
+              "fr": "nourrir"
+            },
+            {
+              "fr": "promener"
+            },
+            {
+              "fr": "rendre service"
+            },
+            {
+              "fr": "se baisser"
+            },
+            {
+              "fr": "se pencher"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Merci (+) → merci beaucoup (++) → merci mille fois (+++). Reply with Je vous en prie (formal) or De rien / Pas de quoi (informal), or Avec plaisir (in response to a request).\n- Rendre service à quelqu'un = to do someone a favour: Peux-tu me rendre service ? A service (a business) is un service, but a favour is also un service.\n- Faire le ménage = to do the housework / cleaning (a general chore). Nettoyer = to clean something specific. Passer l'aspirateur = to vacuum. Faire la vaisselle = to do the dishes. Ranger = to tidy.\n- Garder des enfants = to babysit (also: faire du baby-sitting). Nourrir un animal = to feed. Promener le chien = to walk the dog. Se promener = to go for a walk (reflexive).\n- Par terre = on the floor / on the ground (no article: Il y a un livre par terre). Partout = everywhere. Chez soi = at one's own home: On est bien chez soi. Chez moi, chez toi, chez lui…\n- Un bricoleur = a DIY person; le bricolage = DIY; bricoler = to tinker. Un coup de main = a helping hand: Je peux te donner un coup de main ? (give a hand)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Merci beaucoup pour votre aide."
+            },
+            {
+              "fr": "Je vous en prie."
+            },
+            {
+              "fr": "Pouvez-vous m'aider à faire le ménage ?"
+            },
+            {
+              "fr": "Je passe l'aspirateur et je fais la lessive."
+            },
+            {
+              "fr": "Il y a des livres partout, même par terre."
+            },
+            {
+              "fr": "Je cherche quelqu'un pour garder mes enfants."
+            },
+            {
+              "fr": "Elle arrose les plantes et promène le chien."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle tâche ?",
+          "items": [
+            {
+              "prompt": "On utilise un aspirateur pour passer l'___ .",
+              "answers": [
+                "aspirateur"
+              ]
+            },
+            {
+              "prompt": "On lave les assiettes : on fait la ___ .",
+              "answers": [
+                "vaisselle"
+              ]
+            },
+            {
+              "prompt": "On met les vêtements dans la machine : on fait la ___ .",
+              "answers": [
+                "lessive"
+              ]
+            },
+            {
+              "prompt": "On donne de l'eau aux plantes : on les ___ . (arroser)",
+              "answers": [
+                "arrose"
+              ]
+            },
+            {
+              "prompt": "Les livres sont ___ terre. (au sol)",
+              "answers": [
+                "par"
+              ]
+            },
+            {
+              "prompt": "Quand quelqu'un te remercie, tu réponds : « Je vous en ___ . »",
+              "answers": [
+                "prie"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Demandez de l'aide",
+          "prompt": "À deux : pensez à votre logement. Dites à votre camarade pour quoi vous aimeriez avoir de l'aide. Votre camarade propose un service et calcule le prix.",
+          "model": "J'aimerais avoir de l'aide pour faire le ménage et repasser. Pourriez-vous venir deux heures par semaine ? – Avec plaisir. Le ménage coûte vingt euros de l'heure."
+        }
+      ]
+    },
+    {
+      "id": "sons-i-y-u",
+      "title": "Les sons [i], [y] et [u]",
+      "minutes": 5,
+      "lede": "Three closed vowels that look similar but are produced differently: [i] (spread lips), [y] (rounded lips, tongue forward) and [u] (rounded lips, tongue back).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois voyelles fermées",
+          "headers": [
+            "Son",
+            "Description",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[i]",
+              "souriant : lèvres étirées",
+              "merci · Clichy · difficile"
+            ],
+            [
+              "[y]",
+              "arrondi, aigu : langue en avant",
+              "Lulu · bienvenue · la rue"
+            ],
+            [
+              "[u]",
+              "arrondi, grave : langue en arrière",
+              "bonjour · beaucoup · les courses"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- To make [y]: say [i] (smile), then round your lips as if for [u] without moving your tongue. This is the sound in tu, rue, une, sur, vu, bien sûr.\n- [u] is spelled ou (bonjour, nous, tout, vous); [y] is spelled u (tu, nu, sur); [i] is spelled i or y (ici, si, y, style). Never say tu as “too” and ou as “you”.\n- Minimal pairs: tu [ty] / tout [tu] / thé; rue [ʁy] / roue [ʁu] / ri; vu [vy] / vous [vu] / vie [vi]. Practise changing only lip shape.\n- English speakers often say “oo” [u] for [y]: tu → too. Fix: tongue forward, lips tight round."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "merci"
+            },
+            {
+              "fr": "difficile"
+            },
+            {
+              "fr": "Lulu"
+            },
+            {
+              "fr": "bienvenue"
+            },
+            {
+              "fr": "la rue"
+            },
+            {
+              "fr": "bonjour"
+            },
+            {
+              "fr": "beaucoup"
+            },
+            {
+              "fr": "les courses"
+            },
+            {
+              "fr": "tu"
+            },
+            {
+              "fr": "tout"
+            },
+            {
+              "fr": "vu"
+            },
+            {
+              "fr": "vous"
+            },
+            {
+              "fr": "vie"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son ?",
+          "items": [
+            {
+              "prompt": "Dans « merci », le son final est ___ .",
+              "answers": [
+                "[i]"
+              ],
+              "choices": [
+                "[i]",
+                "[y]",
+                "[u]"
+              ]
+            },
+            {
+              "prompt": "Dans « Lulu », le son est ___ .",
+              "answers": [
+                "[y]"
+              ],
+              "choices": [
+                "[i]",
+                "[y]",
+                "[u]"
+              ]
+            },
+            {
+              "prompt": "Dans « beaucoup », le son final est ___ .",
+              "answers": [
+                "[u]"
+              ],
+              "choices": [
+                "[i]",
+                "[y]",
+                "[u]"
+              ]
+            },
+            {
+              "prompt": "Dans « la rue », le son est ___ .",
+              "answers": [
+                "[y]"
+              ],
+              "choices": [
+                "[i]",
+                "[y]",
+                "[u]"
+              ]
+            },
+            {
+              "prompt": "Dans « vous », le son est ___ .",
+              "answers": [
+                "[u]"
+              ],
+              "choices": [
+                "[i]",
+                "[y]",
+                "[u]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
