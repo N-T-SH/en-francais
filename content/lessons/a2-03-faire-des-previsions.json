@@ -1,0 +1,628 @@
+{
+  "id": "a2-faire-des-previsions",
+  "order": 103,
+  "number": 3,
+  "unit": 1,
+  "unitTitle": "Entrez en relation !",
+  "kicker": "Unité 1 · Leçon 3",
+  "title": "Faire des prévisions",
+  "summary": "Le futur simple · indicateurs de temps · amour, argent, santé · les nasales",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "futur-simple",
+      "title": "Le futur simple",
+      "minutes": 11,
+      "lede": "The simple future (le futur simple) is the tense of predictions: horoscopes, weather forecasts, plans for next year.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation : infinitif + terminaisons",
+          "headers": [
+            "Sujet",
+            "parler",
+            "finir",
+            "prendre (sans le e final)"
+          ],
+          "rows": [
+            [
+              "je",
+              "parlerai",
+              "finirai",
+              "prendrai"
+            ],
+            [
+              "tu",
+              "parleras",
+              "finiras",
+              "prendras"
+            ],
+            [
+              "il / elle / on",
+              "parlera",
+              "finira",
+              "prendra"
+            ],
+            [
+              "nous",
+              "parlerons",
+              "finirons",
+              "prendrons"
+            ],
+            [
+              "vous",
+              "parlerez",
+              "finirez",
+              "prendrez"
+            ],
+            [
+              "ils / elles",
+              "parleront",
+              "finiront",
+              "prendront"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les radicaux irréguliers",
+          "headers": [
+            "Verbe",
+            "Futur (je…)"
+          ],
+          "rows": [
+            [
+              "avoir",
+              "j'aurai"
+            ],
+            [
+              "être",
+              "je serai"
+            ],
+            [
+              "faire",
+              "je ferai"
+            ],
+            [
+              "aller",
+              "j'irai"
+            ],
+            [
+              "pouvoir",
+              "je pourrai"
+            ],
+            [
+              "savoir",
+              "je saurai"
+            ],
+            [
+              "venir",
+              "je viendrai"
+            ],
+            [
+              "devoir",
+              "je devrai"
+            ],
+            [
+              "voir",
+              "je verrai"
+            ],
+            [
+              "vouloir",
+              "je voudrai"
+            ],
+            [
+              "falloir",
+              "il faudra"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- The endings -ai, -as, -a, -ons, -ez, -ont are the present tense of avoir (j'ai, tu as, il a, nous avons → -ons, vous avez → -ez, ils ont → -ont). They are added to the infinitive: parler + ai.\n- -re verbs lose the final e: prendre → prendr-, vendre → vendr-, attendre → attendr-. Être, avoir, faire, aller, pouvoir… have irregular stems, but every future stem ends in -r, and the endings never change.\n- Spelling changes in some -er verbs: acheter → j'achèterai, appeler → j'appellerai, jeter → je jetterai, payer → je paierai, envoyer → j'enverrai. The sound before the ending is [ɛ] or [ɛʁ].\n- Pronunciation: the e of -erai is silent (parlerai [paʁləʁe] or [paʁlʁe]). Je serai [ʒəsəʁe], j'aurai [ʒoʁe], nous irons [nuziʁɔ̃]. Je ferai sounds [ʒəfəʁe] not “fairai”.\n- Compare: futur proche (Je vais partir: close, planned, spoken) and futur simple (Je partirai: more distant, formal, predictions). Both are common; horoscopes and forecasts prefer the futur simple.\n- Vous verrez, vous irez, vous aurez: the future vous form always ends in -ez. Ils auront, ils iront, ils seront: -ont.\n- Il faudra = it will be necessary (falloir has only il). Il pleuvra = it will rain."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Demain, il fera beau."
+            },
+            {
+              "fr": "Vous aurez de bonnes nouvelles."
+            },
+            {
+              "fr": "Je serai à Paris la semaine prochaine."
+            },
+            {
+              "fr": "Nous partagerons de bons moments."
+            },
+            {
+              "fr": "Vous prendrez une décision importante."
+            },
+            {
+              "fr": "Elle ira au travail en vélo."
+            },
+            {
+              "fr": "Ils pourront venir en juin."
+            },
+            {
+              "fr": "Il faudra faire attention."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez au futur simple",
+          "items": [
+            {
+              "prompt": "Demain, je ___ au cinéma. (aller)",
+              "answers": [
+                "irai"
+              ]
+            },
+            {
+              "prompt": "Vous ___ de bonnes nouvelles. (avoir)",
+              "answers": [
+                "aurez"
+              ]
+            },
+            {
+              "prompt": "Il ___ beau demain. (faire)",
+              "answers": [
+                "fera"
+              ]
+            },
+            {
+              "prompt": "Nous ___ à l'heure. (être)",
+              "answers": [
+                "serons"
+              ]
+            },
+            {
+              "prompt": "Elles ___ venir. (pouvoir)",
+              "answers": [
+                "pourront"
+              ]
+            },
+            {
+              "prompt": "Tu ___ une décision. (prendre)",
+              "answers": [
+                "prendras"
+              ]
+            },
+            {
+              "prompt": "Je ___ mes amis. (voir)",
+              "answers": [
+                "verrai"
+              ]
+            },
+            {
+              "prompt": "Il ___ partir. (falloir)",
+              "answers": [
+                "faudra"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "indicateurs-temps-futur",
+      "title": "Placer une action dans le futur",
+      "minutes": 9,
+      "lede": "To say when something will happen, use time expressions: demain, à partir de, dans, and quand + future.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les indicateurs",
+          "headers": [
+            "Expression",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "demain · après-demain",
+              "Demain, il fera beau."
+            ],
+            [
+              "la semaine prochaine · le mois prochain · l'année prochaine",
+              "L'année prochaine, je voyagerai."
+            ],
+            [
+              "à partir de + moment",
+              "À partir de lundi, vous dépenserez moins."
+            ],
+            [
+              "dans + durée",
+              "Dans quelques jours, vous vous sentirez mieux."
+            ],
+            [
+              "quand + futur",
+              "Vous ferez attention quand vous sortirez."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Quand + future: when the main clause is in the future, the clause after quand is also in the future: Quand tu arriveras, tu m'appelleras. English uses the present (when you arrive), French copies the future. Same with dès que (as soon as) and après que.\n- À partir de = starting from (a point where something begins): À partir de lundi, il pleuvra. Dans + duration = in (from now): Dans trois jours. Il y a + duration = ago (past). Pendant = for (a completed period). Compare: dans une semaine (future), il y a une semaine (past).\n- Après-demain = the day after tomorrow, avant-hier = the day before yesterday. La semaine prochaine / dernière, le mois prochain / dernier, l'année prochaine / dernière: prochain follows the noun.\n- Pour + infinitive: L'année prochaine sera idéale pour voyager. = in order to. See also Leçon 25 of A1.\n- Spoken French often prefers the futur proche (Demain, il va faire beau); the futur simple is common in writing, forecasts and promises.\n- If a sentence begins with si (if) + present, the main verb is future: S'il pleut, nous resterons. This si + present + future pattern comes back in Leçon 15."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Demain, le soleil brillera."
+            },
+            {
+              "fr": "Après-demain, il pleuvra."
+            },
+            {
+              "fr": "La semaine prochaine, vous partirez en vacances."
+            },
+            {
+              "fr": "À partir de jeudi, vous aurez plus de temps."
+            },
+            {
+              "fr": "Dans quelques jours, vous recevrez une bonne nouvelle."
+            },
+            {
+              "fr": "Quand vous arriverez, vous appellerez vos amis."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel indicateur ?",
+          "items": [
+            {
+              "prompt": "(le jour qui suit demain) ___ , il fera froid.",
+              "answers": [
+                "Après-demain"
+              ]
+            },
+            {
+              "prompt": "___ partir de lundi, il fera chaud.",
+              "answers": [
+                "À"
+              ],
+              "choices": [
+                "À",
+                "De",
+                "Dans"
+              ]
+            },
+            {
+              "prompt": "___ trois jours, nous partirons en vacances. (dans/il y a)",
+              "answers": [
+                "Dans"
+              ],
+              "choices": [
+                "Dans",
+                "Il y a",
+                "Pendant"
+              ]
+            },
+            {
+              "prompt": "Quand tu ___ à Paris, tu m'appelleras. (arriver, futur)",
+              "answers": [
+                "arriveras"
+              ]
+            },
+            {
+              "prompt": "La ___ prochaine, nous irons à la mer. (7 jours)",
+              "answers": [
+                "semaine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amour-argent-sante",
+      "title": "L'amour, l'argent et la santé : le vocabulaire des prévisions",
+      "minutes": 8,
+      "lede": "The three big topics of any horoscope: love and relationships, money and health. You need the words to read and write predictions.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les relations et les sentiments",
+          "items": [
+            {
+              "fr": "l'amitié"
+            },
+            {
+              "fr": "l'amour"
+            },
+            {
+              "fr": "la joie"
+            },
+            {
+              "fr": "une rencontre"
+            },
+            {
+              "fr": "le romantisme"
+            },
+            {
+              "fr": "la tendresse"
+            },
+            {
+              "fr": "la vie familiale"
+            },
+            {
+              "fr": "amical"
+            },
+            {
+              "fr": "partager de bons moments"
+            },
+            {
+              "fr": "recevoir"
+            },
+            {
+              "fr": "tomber amoureux"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'argent",
+          "items": [
+            {
+              "fr": "financier"
+            },
+            {
+              "fr": "financière"
+            },
+            {
+              "fr": "faire des économies"
+            },
+            {
+              "fr": "gagner de l'argent",
+              "icon": "💰"
+            },
+            {
+              "fr": "dépenser de l'argent"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La santé",
+          "items": [
+            {
+              "fr": "l'énergie"
+            },
+            {
+              "fr": "la fatigue"
+            },
+            {
+              "fr": "le stress"
+            },
+            {
+              "fr": "être en pleine forme"
+            },
+            {
+              "fr": "se sentir bien"
+            },
+            {
+              "fr": "se sentir mal"
+            },
+            {
+              "fr": "se sentir fatigué"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- L'amour is masculine in the singular (un amour fou) but is often feminine in the plural in poetry (de grandes amours). L'amitié is feminine (une amitié) and it is formed from ami. Amical(e) means friendly: une soirée amicale.\n- Gagner = to earn (money) or to win: gagner de l'argent, gagner un match. Dépenser = to spend (money), not “depend” (that is dépendre de). Faire des économies = to save money (économiser is also used).\n- Une rencontre = a meeting, encounter (not an appointment: that is un rendez-vous). Tomber amoureux de quelqu'un = to fall in love with somebody (amoureux agrees: elle est tombée amoureuse).\n- Se sentir + adjective: Je me sens fatigué(e). Vous vous sentirez mieux (you'll feel better). Mieux is the comparative of bien: aller mieux = to feel better.\n- Être en forme = to be fit, in good form. Être en pleine forme = to be in top form. La forme also means shape: en forme de coeur.\n- Le stress is masculine: le stress au travail. Il faut éviter le stress. L'énergie is feminine: beaucoup d'énergie."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Vous tomberez amoureux cette année."
+            },
+            {
+              "fr": "Cette année, vous ferez des économies."
+            },
+            {
+              "fr": "Vous gagnerez plus d'argent."
+            },
+            {
+              "fr": "Vous dépenserez moins pour vos vacances."
+            },
+            {
+              "fr": "Vous vous sentirez fatigué en mars."
+            },
+            {
+              "fr": "Vous serez en pleine forme au printemps."
+            },
+            {
+              "fr": "Vous partagerez de bons moments avec vos amis."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Ne pas dépenser tout son argent, c'est faire des ___ .",
+              "answers": [
+                "économies"
+              ]
+            },
+            {
+              "prompt": "Quand on est très fatigué, on manque d'___ .",
+              "answers": [
+                "énergie"
+              ]
+            },
+            {
+              "prompt": "Une personne qui a une maladie est en mauvaise ___ . (la santé du corps)",
+              "answers": [
+                "santé"
+              ]
+            },
+            {
+              "prompt": "Gagner de l'___ : recevoir un salaire.",
+              "answers": [
+                "argent"
+              ]
+            },
+            {
+              "prompt": "Elle est ___ amoureuse de lui. (tomber, passé composé)",
+              "answers": [
+                "tombée"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre horoscope",
+          "prompt": "Imaginez l'horoscope d'une personne célèbre (ou de votre signe) pour l'année prochaine : l'amour, la famille, le travail, l'argent, la santé. Utilisez le futur simple.",
+          "model": "Verseau : cette année, vous rencontrerez de nouveaux amis. Au travail, vous prendrez une décision importante. Vous gagnerez plus d'argent, mais vous dépenserez beaucoup en été. En octobre, vous serez fatigué : il faudra vous reposer."
+        }
+      ]
+    },
+    {
+      "id": "nasales-on-in-an",
+      "title": "Les voyelles nasales [ɔ̃], [ɛ̃] et [ɑ̃]",
+      "minutes": 5,
+      "lede": "Three nasal vowels: air goes through the nose and mouth. The n or m is not pronounced as a consonant.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois voyelles nasales",
+          "headers": [
+            "Son",
+            "Écritures",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[ɔ̃] arrondi",
+              "on, om",
+              "on · bon · tomber · mon"
+            ],
+            [
+              "[ɛ̃] souriant",
+              "in, im, ain, ein, ien",
+              "vin · demain · bien · sympa"
+            ],
+            [
+              "[ɑ̃] ouvert",
+              "an, am, en, em",
+              "an · argent · novembre · temps"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- [ɔ̃] is a round, closed sound (lips rounded): on, bon, nom. [ɑ̃] is open and back: an, en, dans. [ɛ̃] is spread (smiling): in, vin, un.\n- The vowel is nasal only if n or m ends the syllable (bon, tomber). If n or m is followed by a vowel, the vowel is oral: bon [bɔ̃] / bonne [bɔn]; an [ɑ̃] / année [ane]; vin [vɛ̃] / vinaigre [vinɛgʁ].\n- Liaison: some words lose nasality (bon appétit [bɔnapeti]) but others keep it (un ami [œ̃nami], mon ami [mɔ̃nami]).\n- Don't pronounce the n like a consonant at the end: not “bon-n”, “vin-n”. Keep the mouth open for the vowel and let air pass through the nose."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "on"
+            },
+            {
+              "fr": "bon"
+            },
+            {
+              "fr": "tomber"
+            },
+            {
+              "fr": "vin"
+            },
+            {
+              "fr": "demain"
+            },
+            {
+              "fr": "bien"
+            },
+            {
+              "fr": "sympa"
+            },
+            {
+              "fr": "an"
+            },
+            {
+              "fr": "argent"
+            },
+            {
+              "fr": "novembre"
+            },
+            {
+              "fr": "Mon cousin a un grand chien."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle nasale ?",
+          "items": [
+            {
+              "prompt": "Dans « bon », la voyelle est ___ .",
+              "answers": [
+                "[ɔ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɛ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « demain », la voyelle finale est ___ .",
+              "answers": [
+                "[ɛ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɛ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « argent », la première voyelle nasale est ___ .",
+              "answers": [
+                "[ɑ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɛ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « novembre », la première nasale est ___ .",
+              "answers": [
+                "[ɔ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɛ̃]",
+                "[ɑ̃]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

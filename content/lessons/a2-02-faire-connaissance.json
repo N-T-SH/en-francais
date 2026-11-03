@@ -1,0 +1,728 @@
+{
+  "id": "a2-faire-connaissance",
+  "order": 102,
+  "number": 2,
+  "unit": 1,
+  "unitTitle": "Entrez en relation !",
+  "kicker": "Unité 1 · Leçon 2",
+  "title": "Faire connaissance",
+  "summary": "Relations et caractère · fréquence · qui et que · formes de la question · avec et sans",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "relations-caractere",
+      "title": "Les relations et le caractère",
+      "minutes": 8,
+      "lede": "Vocabulary to talk about people you meet: the relationship you have with them, and their character.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les relations",
+          "items": [
+            {
+              "fr": "un ami"
+            },
+            {
+              "fr": "une amie"
+            },
+            {
+              "fr": "un collègue"
+            },
+            {
+              "fr": "une collègue"
+            },
+            {
+              "fr": "un copain"
+            },
+            {
+              "fr": "une copine"
+            },
+            {
+              "fr": "un voisin"
+            },
+            {
+              "fr": "une voisine"
+            },
+            {
+              "fr": "l'entourage"
+            },
+            {
+              "fr": "les gens"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les verbes des relations",
+          "items": [
+            {
+              "fr": "connaître"
+            },
+            {
+              "fr": "croiser"
+            },
+            {
+              "fr": "découvrir"
+            },
+            {
+              "fr": "déjeuner avec"
+            },
+            {
+              "fr": "devenir ami"
+            },
+            {
+              "fr": "fréquenter"
+            },
+            {
+              "fr": "se faire des amis"
+            },
+            {
+              "fr": "se parler"
+            },
+            {
+              "fr": "faire le premier pas"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le caractère",
+          "items": [
+            {
+              "fr": "timide"
+            },
+            {
+              "fr": "agréable"
+            },
+            {
+              "fr": "désagréable"
+            },
+            {
+              "fr": "drôle"
+            },
+            {
+              "fr": "sérieux"
+            },
+            {
+              "fr": "sérieuse"
+            },
+            {
+              "fr": "généreux"
+            },
+            {
+              "fr": "généreuse"
+            },
+            {
+              "fr": "égoïste"
+            },
+            {
+              "fr": "modeste"
+            },
+            {
+              "fr": "prétentieux"
+            },
+            {
+              "fr": "prétentieuse"
+            },
+            {
+              "fr": "sympa"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Contraires",
+          "headers": [
+            "Mot",
+            "Contraire"
+          ],
+          "rows": [
+            [
+              "agréable",
+              "désagréable"
+            ],
+            [
+              "généreux",
+              "égoïste"
+            ],
+            [
+              "modeste",
+              "prétentieux"
+            ],
+            [
+              "sympa",
+              "pas sympa"
+            ],
+            [
+              "une qualité",
+              "un défaut"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un copain / une copine = a friend (informal), but also a boyfriend / girlfriend: Ma copine means “my girlfriend” in many contexts. For a plain friend use un ami / une amie. Les copains = the mates.\n- Fréquenter = to see regularly, to spend time with: Je fréquente des gens intéressants. It does not mean “frequent” as an adjective.\n- Croiser quelqu'un = to pass someone (in the street, in the corridor), often without speaking: Je croise ma voisine tous les matins. Rencontrer = to meet someone for the first time or by appointment. Connaître = to know.\n- Sympa is the short form of sympathique and is invariable: un garçon sympa, une fille sympa, des gens sympas (add -s in the plural only). Pas sympa = unkind.\n- Agreement of character adjectives: sérieux / sérieuse, généreux / généreuse, prétentieux / prétentieuse (x → se). Timide, drôle, égoïste, modeste end in -e and don't change.\n- Un défaut is a flaw (not “default”); une qualité = a good quality. Qu'est-ce que tu as comme défauts ? J'ai plusieurs défauts."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je croise ma voisine tous les matins."
+            },
+            {
+              "fr": "Mon collègue est sérieux et généreux."
+            },
+            {
+              "fr": "Elle est drôle mais un peu timide."
+            },
+            {
+              "fr": "Il est prétentieux : il n'est pas modeste."
+            },
+            {
+              "fr": "Mes copains sont très sympas."
+            },
+            {
+              "fr": "Je voudrais me faire des amis."
+            },
+            {
+              "fr": "Faire le premier pas n'est pas facile."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le contraire",
+          "items": [
+            {
+              "prompt": "Le contraire de généreux : ___ .",
+              "answers": [
+                "égoïste"
+              ]
+            },
+            {
+              "prompt": "Le contraire de modeste : ___ .",
+              "answers": [
+                "prétentieux"
+              ]
+            },
+            {
+              "prompt": "Le contraire de agréable : ___ .",
+              "answers": [
+                "désagréable"
+              ]
+            },
+            {
+              "prompt": "Le contraire de une qualité : un ___ .",
+              "answers": [
+                "défaut"
+              ]
+            },
+            {
+              "prompt": "Une femme généreuse, un homme ___ . (généreux)",
+              "answers": [
+                "généreux"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frequence-adverbes",
+      "title": "Dire la fréquence : jamais, rarement, parfois, souvent, toujours",
+      "minutes": 7,
+      "lede": "Five words say how often something happens. Learn them on a scale from zero to always.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "L'échelle de fréquence",
+          "headers": [
+            "Niveau",
+            "Mot",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "0",
+              "ne … jamais",
+              "Je ne pense jamais à mes défauts."
+            ],
+            [
+              "−",
+              "rarement",
+              "On prend rarement le temps de se parler."
+            ],
+            [
+              "+",
+              "parfois",
+              "On essaie parfois."
+            ],
+            [
+              "++",
+              "souvent",
+              "On rencontre souvent des gens sympas."
+            ],
+            [
+              "+++",
+              "toujours",
+              "C'est toujours difficile."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Ne … jamais is a full negation (no pas): Je ne mange jamais de viande. Jamais alone, as an answer: Tu fumes ? – Jamais ! Ne … jamais + de: Je n'ai jamais de temps.\n- Rarement, parfois, souvent, toujours go right after the conjugated verb: Je vais souvent au cinéma. In the passé composé they go between auxiliary and participle: J'ai souvent vu ce film. For emphasis they can start the sentence: Parfois, je rêve.\n- Rarement, parfois, souvent and toujours are not negations (no ne): Je vais rarement au cinéma. But souvent can appear in a negative sentence: Je ne vais pas souvent au cinéma (I don't often go).\n- Parfois = sometimes (a spoken word, fine to use); quelquefois is the same; de temps en temps = from time to time. Toujours = always, but also “still”: Il est toujours là (he's still there).\n- Rarement is built from rare + -ment (adverb ending): rare → rarement, like lent → lentement."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je ne mange jamais de viande."
+            },
+            {
+              "fr": "Elle voit rarement ses voisins."
+            },
+            {
+              "fr": "Nous allons parfois au cinéma."
+            },
+            {
+              "fr": "Il rencontre souvent des gens sympas."
+            },
+            {
+              "fr": "Vous êtes toujours en retard !"
+            },
+            {
+              "fr": "Je n'ai jamais de temps."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Placez le mot",
+          "items": [
+            {
+              "prompt": "(0) Je ne vais ___ au théâtre.",
+              "answers": [
+                "jamais"
+              ],
+              "choices": [
+                "jamais",
+                "rarement",
+                "toujours"
+              ]
+            },
+            {
+              "prompt": "(−) Elle appelle ___ sa mère. (presque jamais)",
+              "answers": [
+                "rarement"
+              ],
+              "choices": [
+                "rarement",
+                "souvent",
+                "toujours"
+              ]
+            },
+            {
+              "prompt": "(+) Nous mangeons ___ au restaurant. (de temps en temps)",
+              "answers": [
+                "parfois"
+              ],
+              "choices": [
+                "parfois",
+                "souvent",
+                "toujours"
+              ]
+            },
+            {
+              "prompt": "(+++) Il est ___ à l'heure. (tout le temps)",
+              "answers": [
+                "toujours"
+              ],
+              "choices": [
+                "jamais",
+                "parfois",
+                "toujours"
+              ]
+            },
+            {
+              "prompt": "(++) Je vais ___ à la piscine. (assez fréquemment)",
+              "answers": [
+                "souvent"
+              ],
+              "choices": [
+                "rarement",
+                "souvent",
+                "jamais"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoms-relatifs-qui-que",
+      "title": "Les pronoms relatifs qui et que",
+      "minutes": 9,
+      "lede": "A relative pronoun links two sentences: qui replaces the subject, que replaces the direct object.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Qui ou que ?",
+          "headers": [
+            "Fonction",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "qui = sujet du verbe",
+              "Un voisin qui promène son chien. (le voisin promène)"
+            ],
+            [
+              "que = complément d'objet direct (COD)",
+              "Une voisine que vous croisez. (vous croisez la voisine)"
+            ],
+            [
+              "que devant une voyelle",
+              "Une voisine qu'on croise. (qu')"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Qui is the subject: a verb follows it directly (Une amie qui habite à Lyon). Que is the object: a subject follows it (Une amie que je connais depuis dix ans). Test: if there is already a subject (je, vous, on, il), use que.\n- Qui NEVER elides: un ami qui arrive. Que ALWAYS elides before a vowel: une amie qu'il connaît, le livre qu'on lit.\n- English can leave the pronoun out (the man I met); French cannot: L'homme que j'ai rencontré. Don't forget que.\n- After que the passé composé participle agrees with the antecedent (the noun que replaces): la voisine que j'ai croisée, les gens que j'ai rencontrés. This is an extra rule for A2; at A1 level you can ignore it.\n- With people AND things: Le livre que tu lis. L'ami qui t'appelle. Qui can also be an interrogative (Qui est-ce ?). Don't mix the question word qui with the relative pronoun.\n- The antecedent is always the noun just before: C'est la voisine qui promène son chien."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Un voisin qui promène son chien."
+            },
+            {
+              "fr": "Une voisine que vous croisez tous les matins."
+            },
+            {
+              "fr": "Un copain que vous voyez dans les fêtes."
+            },
+            {
+              "fr": "Une collègue qui déjeune avec vous."
+            },
+            {
+              "fr": "Un livre qu'on lit en vacances."
+            },
+            {
+              "fr": "L'ami qui m'a invité habite à Lyon."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Qui ou que ?",
+          "items": [
+            {
+              "prompt": "Une amie ___ habite à Lyon.",
+              "answers": [
+                "qui"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "Un voisin ___ je croise souvent.",
+              "answers": [
+                "que"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "Un collègue ___ aime la musique.",
+              "answers": [
+                "qui"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "Une personne ___ on connaît bien. (devant une voyelle)",
+              "answers": [
+                "qu'"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "Le livre ___ tu lis est intéressant.",
+              "answers": [
+                "que"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "La femme ___ parle est ma voisine.",
+              "answers": [
+                "qui"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interrogation-avec-sans",
+      "title": "Poser des questions, avec et sans",
+      "minutes": 10,
+      "lede": "Three kinds of question forms, many question words, and two prepositions (avec / sans) to describe how or with what.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois formes",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "intonation",
+              "Tu as des défauts ?"
+            ],
+            [
+              "est-ce que",
+              "Est-ce que tu as des défauts ?"
+            ],
+            [
+              "inversion",
+              "As-tu des défauts ?"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les mots interrogatifs",
+          "headers": [
+            "Mot",
+            "Intonation",
+            "Avec est-ce que",
+            "Avec inversion"
+          ],
+          "rows": [
+            [
+              "quoi / que",
+              "Tu fais quoi ?",
+              "Qu'est-ce que tu fais ?",
+              "Que fais-tu ?"
+            ],
+            [
+              "combien (de)",
+              "Tu as combien d'amis ?",
+              "Combien d'amis est-ce que tu as ?",
+              "Combien d'amis as-tu ?"
+            ],
+            [
+              "où",
+              "Tu vis où ?",
+              "Où est-ce que tu vis ?",
+              "Où vis-tu ?"
+            ],
+            [
+              "quand",
+              "Tu pars quand ?",
+              "Quand est-ce que tu pars ?",
+              "Quand pars-tu ?"
+            ],
+            [
+              "pourquoi",
+              "Tu pars pourquoi ?",
+              "Pourquoi est-ce que tu pars ?",
+              "Pourquoi pars-tu ?"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Quel, quelle, quels, quelles",
+          "headers": [
+            "Exemple",
+            "Pourquoi"
+          ],
+          "rows": [
+            [
+              "Quel livre lis-tu ?",
+              "livre = masculin singulier"
+            ],
+            [
+              "Quelles sont tes qualités ?",
+              "qualités = féminin pluriel"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Avec et sans",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "avec / sans + pronom tonique",
+              "avec toi · sans moi"
+            ],
+            [
+              "avec / sans + nom",
+              "avec ton portable · sans mon téléphone"
+            ],
+            [
+              "sans + infinitif",
+              "sans connaître les gens"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Quoi is used in informal questions (Tu fais quoi ?) and after a preposition (À quoi tu penses ? De quoi parlez-vous ?). At the start of a question, use que / qu': Qu'est-ce que tu fais ? Que fais-tu ?\n- Quel is an adjective: it always goes with a noun and agrees with it (quel livre, quelle fille, quels amis, quelles qualités). Quel est ton livre préféré ? (the verb être sits between). Never “quoi livre”.\n- Combien de + noun: no article after de: Combien d'amis ? Combien de temps ? Tu as combien de frères ?\n- In inversion with il / elle / on after a vowel add -t-: Où habite-t-il ? Combien de temps dure-t-elle ? (see Leçon 28 of A1).\n- Avec toi / sans toi use the stressed pronoun (not tu): Je pars sans lui. Avec ton portable = with + noun. Sans + infinitive, no article: Il parle sans connaître le sujet (without knowing).\n- Sans + noun often drops the article: sans sucre, sans problème, sans enfants. Pas de sucre = no sugar."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Tu fais quoi pendant tes vacances ?"
+            },
+            {
+              "fr": "Qu'est-ce que tu fais le week-end ?"
+            },
+            {
+              "fr": "Que fais-tu quand tu es libre ?"
+            },
+            {
+              "fr": "Tu as combien d'amis ?"
+            },
+            {
+              "fr": "Quelles sont tes principales qualités ?"
+            },
+            {
+              "fr": "Quel livre es-tu en train de lire ?"
+            },
+            {
+              "fr": "Je ne peux pas vivre sans mon portable."
+            },
+            {
+              "fr": "Il parle sans connaître le sujet."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Choisissez la bonne forme",
+          "items": [
+            {
+              "prompt": "___ livre lis-tu ? (quel / quelle)",
+              "answers": [
+                "Quel"
+              ],
+              "choices": [
+                "Quel",
+                "Quelle",
+                "Quels"
+              ]
+            },
+            {
+              "prompt": "___ sont tes qualités ? (quel...)",
+              "answers": [
+                "Quelles"
+              ],
+              "choices": [
+                "Quel",
+                "Quelle",
+                "Quelles"
+              ]
+            },
+            {
+              "prompt": "Combien ___ amis as-tu ?",
+              "answers": [
+                "d'"
+              ],
+              "choices": [
+                "de",
+                "d'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Tu fais ___ ? (informel)",
+              "answers": [
+                "quoi"
+              ],
+              "choices": [
+                "quoi",
+                "que",
+                "qui"
+              ]
+            },
+            {
+              "prompt": "___ -ce que tu fais ? (formel)",
+              "answers": [
+                "Qu'est"
+              ],
+              "choices": [
+                "Qu'est",
+                "Que est",
+                "Quoi est"
+              ]
+            },
+            {
+              "prompt": "Je pars sans ___ . (toi/tu)",
+              "answers": [
+                "toi"
+              ],
+              "choices": [
+                "toi",
+                "tu",
+                "te"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Dix questions",
+          "prompt": "À deux : posez cinq questions (avec intonation, est-ce que et inversion) sur les loisirs, le caractère et les habitudes de votre camarade. Répondez à ses cinq questions.",
+          "model": "– Tu fais quoi le week-end ? – Je vais souvent au cinéma. – Est-ce que tu as des défauts ? – Oui, je suis parfois timide. – Quel livre es-tu en train de lire ? – Un roman policier."
+        }
+      ]
+    }
+  ]
+}

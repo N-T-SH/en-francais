@@ -36,7 +36,7 @@ export function Revise() {
     "Crée une fiche de révision (content/revisions) pour mes points faibles :",
     ...refs.map((r) => {
       const s = sectionScore(results, r.key);
-      return `- ${r.key} — ${r.number} ${r.section.title}${s !== null ? ` (score ${Math.round(s * 100)} %)` : ""}`;
+      return `- ${r.key} — ${r.label} ${r.section.title}${s !== null ? ` (score ${Math.round(s * 100)} %)` : ""}`;
     }),
   ].join("\n");
 
@@ -87,7 +87,7 @@ export function Revise() {
               return (
                 <li key={r.key}>
                   <a href={href.lesson(r.lesson.id, r.section.id)}>
-                    <span className="num">{r.number}</span>
+                    <span className="num">{r.label}</span>
                     <span className="weak-body">
                       <span className="weak-title">{r.section.title}</span>
                       <span className="weak-sub">{r.lesson.title}{s !== null ? ` · dernier score ${Math.round(s * 100)} %` : ""}</span>
@@ -121,7 +121,7 @@ export function Revise() {
             {suggestions.map((r) => (
               <li key={r.key}>
                 <a href={href.lesson(r.lesson.id, r.section.id)}>
-                  <span className="num">{r.number}</span>
+                  <span className="num">{r.label}</span>
                   <span className="weak-body"><span className="weak-title">{r.section.title}</span></span>
                 </a>
                 <button type="button" className="btn btn-soft btn-sm" onClick={() => actions.toggleWeak(r.key, true)}>
@@ -194,7 +194,7 @@ function Quiz({ pool, onReshuffle }: { pool: SectionRef[]; onReshuffle: () => vo
     <>
       {items.map(({ ref, block, key }) => (
         <div key={key}>
-          <p className="from">{ref.number} · {ref.section.title}</p>
+          <p className="from">{ref.label} · {ref.section.title}</p>
           <ExerciseCard block={block} resultKey={key} />
         </div>
       ))}
@@ -222,7 +222,7 @@ function Listen({ pool }: { pool: SectionRef[] }) {
         const offset = phrases.indexOf(items[0]);
         return (
           <div className="card" key={r.key}>
-            <h4>{r.number} · {r.section.title}</h4>
+            <h4>{r.label} · {r.section.title}</h4>
             <div className="chips">
               {items.map((p, i) => <SpeakChip key={i} phrase={p} active={offset + i === index} />)}
             </div>

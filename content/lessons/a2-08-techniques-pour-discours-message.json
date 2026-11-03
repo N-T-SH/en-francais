@@ -1,0 +1,259 @@
+{
+  "id": "a2-techniques-pour-discours-message",
+  "order": 108,
+  "number": 8,
+  "unit": 2,
+  "unitTitle": "Parlez de vous",
+  "kicker": "Unité 2 · Leçon 8",
+  "title": "Techniques pour…",
+  "summary": "Faire un discours amical · la médiation : transmettre un message oral à l'écrit",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "discours-amical",
+      "title": "Faire un discours amical",
+      "minutes": 9,
+      "lede": "A friendly speech (at a wedding, a birthday, a farewell) follows a standard pattern: you thank, congratulate, tell a short story, wish well and raise a toast.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les parties d'un discours",
+          "headers": [
+            "Étape",
+            "Expressions"
+          ],
+          "rows": [
+            [
+              "Introduire son discours",
+              "C'est un honneur de prendre la parole. · C'est un grand plaisir d'être présent ce soir."
+            ],
+            [
+              "Se présenter",
+              "Je me présente : je m'appelle Karim, je suis l'ami de Basile."
+            ],
+            [
+              "Remercier",
+              "Je veux vous remercier… · Merci aussi de…"
+            ],
+            [
+              "Introduire une anecdote",
+              "J'aimerais révéler des secrets. · Je vais vous raconter…"
+            ],
+            [
+              "Féliciter",
+              "Je vous félicite pour… · Félicitations aussi pour…"
+            ],
+            [
+              "Formuler des vœux",
+              "Je vous souhaite… · Soyez heureux et profitez de…"
+            ],
+            [
+              "Conclure",
+              "Et pour finir…"
+            ],
+            [
+              "Porter un toast",
+              "Levons nos verres en l'honneur de… · Vive les mariés !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Je vous souhaite + noun: Je vous souhaite beaucoup de bonheur. Je vous souhaite de + infinitive: Je vous souhaite d'être heureux. Soyez heureux (imperative of être) is a wish.\n- Féliciter quelqu'un pour / de quelque chose: Je vous félicite pour votre mariage. Félicitations ! is used on its own as an exclamation. Never “congratuler”.\n- Remercier quelqu'un de / pour quelque chose: Je vous remercie de votre présence. Merci de + infinitive: Merci d'être venus.\n- C'est un honneur de + infinitive: C'est un honneur de prendre la parole. (It's an honour to speak.) The structure c'est + noun + de + infinitive.\n- Levons nos verres en l'honneur de… (let's raise our glasses to…) uses the imperative of lever with nous. À la santé de… = to the health of…; Santé ! / Tchin-tchin ! for the toast itself.\n- In a formal speech use vous; with close friends you may use tu: Je te souhaite… Not both in the same speech. Vive les mariés ! (long live the bride and groom) is a fixed exclamation."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez un discours",
+          "items": [
+            {
+              "fr": "C'est un honneur de prendre la parole ce soir."
+            },
+            {
+              "fr": "Je me présente : je suis Karim, le meilleur ami de Basile."
+            },
+            {
+              "fr": "Je veux vous remercier d'être venus si nombreux."
+            },
+            {
+              "fr": "Je vais vous raconter une histoire."
+            },
+            {
+              "fr": "Je vous félicite pour votre mariage."
+            },
+            {
+              "fr": "Je vous souhaite beaucoup de bonheur."
+            },
+            {
+              "fr": "Et pour finir, levons nos verres en l'honneur des mariés !"
+            },
+            {
+              "fr": "Vive les mariés !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez le discours",
+          "items": [
+            {
+              "prompt": "C'est un ___ de prendre la parole.",
+              "answers": [
+                "honneur"
+              ]
+            },
+            {
+              "prompt": "Je vous ___ pour votre mariage. (féliciter)",
+              "answers": [
+                "félicite"
+              ]
+            },
+            {
+              "prompt": "Je vous ___ beaucoup de bonheur. (souhaiter)",
+              "answers": [
+                "souhaite"
+              ]
+            },
+            {
+              "prompt": "Levons nos ___ en l'honneur des mariés !",
+              "answers": [
+                "verres"
+              ]
+            },
+            {
+              "prompt": "Je veux vous ___ d'être venus. (merci)",
+              "answers": [
+                "remercier"
+              ]
+            },
+            {
+              "prompt": "Et pour ___ , un toast !",
+              "answers": [
+                "finir"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Un discours pour un ami",
+          "prompt": "Faites un discours pour l'anniversaire ou le mariage d'un(e) ami(e) francophone (réel ou imaginaire) : présentez-vous, remerciez, racontez une anecdote, félicitez, formulez des vœux et portez un toast.",
+          "model": "Chers amis, c'est un honneur de prendre la parole. Je suis Léa, la plus vieille amie de Marie. Je vais vous raconter une histoire : quand elle avait dix ans, elle était très timide. Aujourd'hui, elle est mariée et heureuse. Je vous souhaite beaucoup de bonheur ! Levons nos verres en l'honneur de Marie et de Paul !"
+        }
+      ]
+    },
+    {
+      "id": "mediation-message-oral",
+      "title": "La médiation : transmettre un message oral à l'écrit",
+      "minutes": 9,
+      "lede": "Mediation: you hear a message (a voicemail) and report it in writing to someone who cannot hear it. You keep the main information and organise it.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Que transmettre ?",
+          "headers": [
+            "Information",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Qui ?",
+              "La maman de Baptiste."
+            ],
+            [
+              "Quand ?",
+              "Elle a téléphoné le six février."
+            ],
+            [
+              "Quoi ?",
+              "Le mariage aura lieu le quinze juin."
+            ],
+            [
+              "Où ?",
+              "À la mairie de Lyon, puis un repas dans un restaurant."
+            ],
+            [
+              "Que faire ?",
+              "Il faut répondre avant le premier mars."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Write in the third person and use the past for the call: La maman de Baptiste a laissé un message. The event itself is in the future (aura lieu) or the present depending on when you write.\n- Keep only the essentials: who, when, where, what to do. Drop the greetings, hesitations, repetitions (euh, bon alors…).\n- Change pronouns and time words: « Je vous appelle demain » → Elle a dit qu'elle appelle(ra) demain. Demain from the speaker's day may be a different day for the reader: give the actual date if you know it.\n- Structure of an e-mail: Objet : message sur répondeur. Bonjour Karim, … Cordialement / Amicalement. Use the polite or informal register suited to the reader.\n- A set of useful verbs: informer que, demander de, rappeler que, inviter à, proposer de + infinitive. Elle t'informe que…, elle demande de répondre…\n- Dates: écrire le six février (or le 6 février); say the message in words only when read aloud."
+        },
+        {
+          "type": "phrases",
+          "title": "Un message transformé en e-mail",
+          "items": [
+            {
+              "fr": "Bonjour Karim, la maman de Baptiste a laissé un message le six février."
+            },
+            {
+              "fr": "Le mariage aura lieu le quinze juin."
+            },
+            {
+              "fr": "La cérémonie sera à la mairie de Lyon à quatorze heures."
+            },
+            {
+              "fr": "Elle te demande de répondre avant le premier mars."
+            },
+            {
+              "fr": "Elle t'invite à venir avec ta famille."
+            },
+            {
+              "fr": "Amicalement."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Transmettez le message",
+          "items": [
+            {
+              "prompt": "La maman de Baptiste a ___ un message. (laisser, participe)",
+              "answers": [
+                "laissé"
+              ]
+            },
+            {
+              "prompt": "Le mariage ___ lieu le quinze juin. (avoir, futur)",
+              "answers": [
+                "aura"
+              ]
+            },
+            {
+              "prompt": "Elle te ___ de répondre. (demander)",
+              "answers": [
+                "demande"
+              ]
+            },
+            {
+              "prompt": "Elle t'___ à venir avec ta famille. (inviter)",
+              "answers": [
+                "invite"
+              ]
+            },
+            {
+              "prompt": "___ : message sur répondeur. (ligne d'un e-mail)",
+              "answers": [
+                "Objet"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Écrivez l'e-mail",
+          "prompt": "Karim est en voyage. Écrivez-lui un e-mail pour transmettre les informations d'un message laissé sur le répondeur : qui a appelé, quand, ce qu'il faut faire.",
+          "model": "Bonjour Karim, la maman de Baptiste a laissé un message le six février. Le mariage aura lieu le quinze juin à Lyon. Elle t'invite et te demande de répondre avant le premier mars. À bientôt ! Léa"
+        }
+      ]
+    }
+  ]
+}

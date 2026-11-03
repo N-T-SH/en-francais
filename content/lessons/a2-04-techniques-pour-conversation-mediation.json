@@ -1,0 +1,277 @@
+{
+  "id": "a2-techniques-pour-conversation-mediation",
+  "order": 104,
+  "number": 4,
+  "unit": 1,
+  "unitTitle": "Entrez en relation !",
+  "kicker": "Unité 1 · Leçon 4",
+  "title": "Techniques pour…",
+  "summary": "Participer à une conversation · la médiation : présenter un fait culturel",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "participer-conversation",
+      "title": "Participer à une conversation",
+      "minutes": 9,
+      "lede": "A natural conversation does more than exchange information: you enter it, take the floor, show you listen, hesitate, react and leave politely.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les gestes de la conversation",
+          "headers": [
+            "Fonction",
+            "Expressions"
+          ],
+          "rows": [
+            [
+              "Entrer en contact",
+              "Vous connaissez beaucoup de monde ici ? · Vous êtes ici pour le travail ?"
+            ],
+            [
+              "Prendre la parole",
+              "Moi, je dirais… · Pour moi, …"
+            ],
+            [
+              "Attirer l'attention",
+              "Dis donc, … · Au fait, …"
+            ],
+            [
+              "Montrer qu'on écoute",
+              "Ah d'accord, je comprends. · C'est vrai ?"
+            ],
+            [
+              "Créer une relation informelle",
+              "On peut se tutoyer ?"
+            ],
+            [
+              "Dire qu'on n'a pas compris",
+              "Pardon ? · Comment ? · Vous pouvez répéter ?"
+            ],
+            [
+              "Hésiter",
+              "Euh… · Alors… · Comment dire…"
+            ],
+            [
+              "Marquer la surprise",
+              "Ah bon ? · Vraiment ?"
+            ],
+            [
+              "Mettre fin à la conversation",
+              "Excusez-moi, on m'attend. · Je dois y aller."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Tu or vous? In an informal party you can ask On peut se tutoyer ? (can we say tu?). The older or more senior person usually proposes it. Se tutoyer = to use tu with each other; se vouvoyer = to use vous.\n- Hein ? is a spoken, informal way to say “what?”. In polite conversation use Pardon ? or Comment ? (not Quoi ?, which is rude).\n- Dis donc / Dites donc grabs attention or shows surprise. Au fait = by the way (not “in fact”: that is en fait). Ah bon ? = Really? (expresses surprise, not disagreement).\n- Moi, je dirais… softens an opinion (I would say…). The conditional je dirais is more polite than Je dis.\n- Fillers are normal: euh, ben, alors, bon. Avoid long silences: say Comment dire… instead.\n- To leave: Excusez-moi, on m'appelle / Je dois y aller / J'ai été ravi(e) de vous rencontrer. Don't just walk away."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Vous connaissez beaucoup de monde ici ?"
+            },
+            {
+              "fr": "Moi, je dirais que c'est une bonne idée."
+            },
+            {
+              "fr": "Dis donc, tu as vu le match hier ?"
+            },
+            {
+              "fr": "Au fait, on se tutoie ?"
+            },
+            {
+              "fr": "Ah d'accord, je comprends."
+            },
+            {
+              "fr": "C'est vrai ? Ah bon ?"
+            },
+            {
+              "fr": "Pardon ? Vous pouvez répéter, s'il vous plaît ?"
+            },
+            {
+              "fr": "Excusez-moi, on m'attend."
+            },
+            {
+              "fr": "Euh… comment dire…"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle fonction ?",
+          "items": [
+            {
+              "prompt": "« Ah bon ? » marque la ___ .",
+              "answers": [
+                "surprise"
+              ],
+              "choices": [
+                "surprise",
+                "fin",
+                "hésitation"
+              ]
+            },
+            {
+              "prompt": "« Dis donc » sert à attirer l'___ .",
+              "answers": [
+                "attention"
+              ]
+            },
+            {
+              "prompt": "« Excusez-moi, on m'attend » met ___ à la conversation.",
+              "answers": [
+                "fin"
+              ],
+              "choices": [
+                "fin",
+                "suite",
+                "pause"
+              ]
+            },
+            {
+              "prompt": "« On peut se tutoyer ? » crée une relation ___ .",
+              "answers": [
+                "informelle"
+              ],
+              "choices": [
+                "formelle",
+                "informelle"
+              ]
+            },
+            {
+              "prompt": "« Euh… comment dire… » signifie l'___ .",
+              "answers": [
+                "hésitation"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Une conversation à une soirée",
+          "prompt": "À deux, puis à trois : choisissez un thème (le français, les loisirs, l'actualité) et discutez. Un troisième camarade rejoint la conversation : utilisez les expressions pour entrer, prendre la parole, écouter, hésiter et conclure.",
+          "model": "– Vous connaissez beaucoup de monde ici ? – Non, seulement Marie. Et vous ? – Moi, je suis son collègue. On peut se tutoyer ? – Bien sûr ! – Dis donc, tu fais quoi le week-end ? – Euh… j'aime la randonnée. – Ah bon ? Moi aussi !"
+        }
+      ]
+    },
+    {
+      "id": "mediation-fait-culturel",
+      "title": "La médiation : présenter un fait culturel",
+      "minutes": 9,
+      "lede": "Mediation means explaining something from one culture to a person from another: you choose the key facts, simplify, and give advice.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Présenter un fait culturel",
+          "headers": [
+            "Étape",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1. Nommer",
+              "La Fête de la musique."
+            ],
+            [
+              "2. Situer",
+              "C'est le vingt et un juin, dans toute la France."
+            ],
+            [
+              "3. Décrire",
+              "On joue de la musique dans la rue. C'est gratuit."
+            ],
+            [
+              "4. Expliquer le sens",
+              "On célèbre le début de l'été."
+            ],
+            [
+              "5. Donner un conseil",
+              "Venez avec des amis et arrivez tôt."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Use on for traditions: En France, on fête le Nouvel An avec des amis. On = people in general. It takes the singular verb form but means “we/people”.\n- Typical phrases: C'est la tradition de… · On a l'habitude de… · Cela porte bonheur (it brings luck) · C'est une fête où l'on… (where one…). Use present tense, simple vocabulary and short sentences.\n- Cultural words that don't translate: keep the French word and explain it: « la galette des rois » (a cake eaten in January). Give a short example or comparison with another culture.\n- To compare: Chez nous, on fait… En France, on fait… / Contrairement à… (unlike…). Avoid jugement words (bizarre): use surprenant (surprising) or différent.\n- Giving advice to a friend: Il faut apporter un cadeau. Ne soyez pas en retard. N'oubliez pas de dire « Bonne année ! ». The imperative (see A1 Leçon 24).\n- Mediation is not word-for-word translation: you pass on the ideas, in your own words."
+        },
+        {
+          "type": "phrases",
+          "title": "Un exemple : la Fête de la musique",
+          "items": [
+            {
+              "fr": "La Fête de la musique a lieu le vingt et un juin."
+            },
+            {
+              "fr": "On joue de la musique dans la rue et dans les parcs."
+            },
+            {
+              "fr": "C'est gratuit et tout le monde peut participer."
+            },
+            {
+              "fr": "On célèbre le début de l'été."
+            },
+            {
+              "fr": "Chez moi, on fait des fêtes familiales à la maison."
+            },
+            {
+              "fr": "Venez avec des amis, et arrivez tôt !"
+            },
+            {
+              "fr": "Ne soyez pas surpris : il y a beaucoup de monde."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "En France, ___ fête le Nouvel An avec des amis. (pronom général)",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "prompt": "C'est la ___ de manger une galette en janvier. (coutume)",
+              "answers": [
+                "tradition"
+              ]
+            },
+            {
+              "prompt": "Cela ___ bonheur. (donne de la chance)",
+              "answers": [
+                "porte"
+              ]
+            },
+            {
+              "prompt": "___ nous, on fait la fête en famille. (dans mon pays)",
+              "answers": [
+                "Chez"
+              ]
+            },
+            {
+              "prompt": "Ne ___ pas en retard. (être, impératif vous)",
+              "answers": [
+                "soyez"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Présentez une fête",
+          "prompt": "Un(e) ami(e) est invité(e) à une fête traditionnelle de votre culture. Décrivez la fête (quand, où, ce qu'on fait) et donnez-lui des conseils.",
+          "model": "Chez moi, on fête le Nouvel An chinois en février. On mange en famille et on offre de l'argent aux enfants dans des enveloppes rouges. Apportez des fruits, portez du rouge et n'arrivez pas en retard !"
+        }
+      ]
+    }
+  ]
+}

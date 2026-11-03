@@ -1,0 +1,716 @@
+{
+  "id": "a2-parler-relations-familiales",
+  "order": 105,
+  "number": 5,
+  "unit": 2,
+  "unitTitle": "Parlez de vous",
+  "kicker": "Unité 2 · Leçon 5",
+  "title": "Parler des relations familiales",
+  "summary": "La famille recomposée · pronoms COD · tout et la place des adjectifs · passé composé",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "famille-vocabulaire",
+      "title": "La famille recomposée et les relations",
+      "minutes": 9,
+      "lede": "Families today are not only made of two parents and their children. Learn the words for blended families and for how family members get on.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La famille (2)",
+          "items": [
+            {
+              "fr": "une famille recomposée"
+            },
+            {
+              "fr": "papa"
+            },
+            {
+              "fr": "maman"
+            },
+            {
+              "fr": "un fils unique"
+            },
+            {
+              "fr": "une fille unique"
+            },
+            {
+              "fr": "une fratrie"
+            },
+            {
+              "fr": "un demi-frère"
+            },
+            {
+              "fr": "une demi-sœur"
+            },
+            {
+              "fr": "un quasi-frère"
+            },
+            {
+              "fr": "une quasi-sœur"
+            },
+            {
+              "fr": "un beau-père"
+            },
+            {
+              "fr": "une belle-mère"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les relations et les sentiments",
+          "items": [
+            {
+              "fr": "adorer"
+            },
+            {
+              "fr": "aimer bien"
+            },
+            {
+              "fr": "s'entendre bien"
+            },
+            {
+              "fr": "avoir des affinités"
+            },
+            {
+              "fr": "se respecter"
+            },
+            {
+              "fr": "s'amuser"
+            },
+            {
+              "fr": "faire rire"
+            },
+            {
+              "fr": "se disputer"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La fréquence et les proportions",
+          "items": [
+            {
+              "fr": "de temps en temps"
+            },
+            {
+              "fr": "un week-end sur deux"
+            },
+            {
+              "fr": "deux semaines par mois"
+            },
+            {
+              "fr": "un enfant sur dix"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Qui est qui ?",
+          "headers": [
+            "Mot",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "une famille recomposée",
+              "a stepfamily: a couple with children from previous relationships"
+            ],
+            [
+              "un demi-frère / une demi-sœur",
+              "half-brother / half-sister (one shared parent)"
+            ],
+            [
+              "un quasi-frère / une quasi-sœur",
+              "stepbrother / stepsister (no shared parent)"
+            ],
+            [
+              "une fratrie",
+              "all the brothers and sisters of one family"
+            ],
+            [
+              "un fils / une fille unique",
+              "an only child"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Quasi-frère is an everyday invention (“almost-brother”) used for a stepbrother. Official French: demi-frère means half-brother (shared parent); beau-frère means brother-in-law (also used for stepbrother in some regions).\n- Fils unique = only son, fille unique = only daughter. Fratrie is the group of brothers and sisters. Plus d'un enfant sur dix means “more than one child in ten”.\n- S'entendre bien (avec quelqu'un) = to get on well (not “to hear each other”): Je m'entends bien avec ma belle-mère. S'entendre mal = to get on badly. Avoir des affinités avec = to click with someone.\n- Se disputer = to argue (reflexive). Adorer = to love, to adore (stronger than aimer): J'adore ma sœur. Faire rire quelqu'un = to make someone laugh.\n- Papa / maman are informal words; in writing, mon père / ma mère. Grand(s) parents: le grand-père, la grand-mère, les grands-parents.\n- Proportions: un enfant sur dix (1 in 10), un week-end sur deux (every other weekend). Par = per: deux fois par semaine."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Mon beau-père a deux enfants d'un premier mariage."
+            },
+            {
+              "fr": "Elle a un demi-frère et une quasi-sœur."
+            },
+            {
+              "fr": "Je m'entends très bien avec ma mère."
+            },
+            {
+              "fr": "Nous nous disputons de temps en temps."
+            },
+            {
+              "fr": "Mon père vit avec nous un week-end sur deux."
+            },
+            {
+              "fr": "Plus d'un enfant sur dix vit dans une famille recomposée."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel mot ?",
+          "items": [
+            {
+              "prompt": "Un enfant qui n'a pas de frère ni de sœur est un fils ___ .",
+              "answers": [
+                "unique"
+              ]
+            },
+            {
+              "prompt": "L'ensemble des frères et sœurs d'une famille s'appelle la ___ .",
+              "answers": [
+                "fratrie"
+              ]
+            },
+            {
+              "prompt": "Mon père a un enfant avec une autre femme : c'est mon ___ -frère.",
+              "answers": [
+                "demi"
+              ]
+            },
+            {
+              "prompt": "Ils se ___ souvent : ils ne sont pas d'accord. (se disputer)",
+              "answers": [
+                "disputent"
+              ]
+            },
+            {
+              "prompt": "Je m'___ bien avec mon quasi-frère. (s'entendre)",
+              "answers": [
+                "entends"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoms-cod",
+      "title": "Les pronoms COD : me, te, le, la, les",
+      "minutes": 10,
+      "lede": "A direct object pronoun (COD) replaces a noun that answers “who?” or “what?” after the verb. It goes BEFORE the verb in French.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les pronoms COD",
+          "headers": [
+            "Personne",
+            "Singulier",
+            "Pluriel"
+          ],
+          "rows": [
+            [
+              "1re",
+              "me / m'",
+              "nous"
+            ],
+            [
+              "2e",
+              "te / t'",
+              "vous"
+            ],
+            [
+              "3e",
+              "le / la / l'",
+              "les"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Exemples",
+          "headers": [
+            "Phrase",
+            "Le pronom remplace…"
+          ],
+          "rows": [
+            [
+              "Elle m'appelle quasi-sœur.",
+              "moi"
+            ],
+            [
+              "Il la voit de temps en temps. (sa mère)",
+              "la = féminin singulier"
+            ],
+            [
+              "On les trouve partout. (ces familles)",
+              "les = pluriel"
+            ],
+            [
+              "Je le vois chaque week-end. (mon père)",
+              "le = masculin singulier"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- COD = complément d'objet direct: the person or thing receiving the action with no preposition (je vois ma sœur → je la vois). If there is a preposition à, it is an indirect object (COI): see later lessons.\n- Position: the pronoun goes before the conjugated verb: Je la vois. Je ne la vois pas. With an infinitive after another verb, before the infinitive: Je vais la voir. Je veux le faire.\n- Le / la become l' before a vowel or silent h: Je l'adore. Je l'aime. Me / te also become m' / t': Il m'aime. Elle t'écoute.\n- In the passé composé the pronoun goes before the auxiliary, and the participle agrees with it (feminine/plural): Je l'ai vue (her). Je les ai vus. Je les ai vues. The agreement is an A2 rule; at least remember that j'ai vu means “I saw him” and j'ai vue means “I saw her”.\n- English keeps the object after the verb (I see her); French puts the pronoun before it. Mistake to avoid: “je vois la”.\n- Les is also a pronoun for things: Je les trouve intéressants (these books). Don't confuse the pronoun les with the article les (les enfants): the pronoun precedes a verb."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Elle m'appelle sa quasi-sœur."
+            },
+            {
+              "fr": "Ces familles, on les trouve partout."
+            },
+            {
+              "fr": "Son père, elle le voit de temps en temps."
+            },
+            {
+              "fr": "Sa belle-mère, il l'aime bien."
+            },
+            {
+              "fr": "Je ne les vois pas souvent."
+            },
+            {
+              "fr": "Nous les invitons à dîner."
+            },
+            {
+              "fr": "Tu me comprends ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Remplacez par un pronom",
+          "items": [
+            {
+              "prompt": "Je vois mon père. → Je ___ vois.",
+              "answers": [
+                "le"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les",
+                "l'"
+              ]
+            },
+            {
+              "prompt": "Elle aime sa belle-mère. → Elle ___ aime.",
+              "answers": [
+                "l'"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les",
+                "l'"
+              ]
+            },
+            {
+              "prompt": "Nous invitons les enfants. → Nous ___ invitons.",
+              "answers": [
+                "les"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les",
+                "l'"
+              ]
+            },
+            {
+              "prompt": "Tu connais ma sœur ? → Tu ___ connais ?",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les",
+                "l'"
+              ]
+            },
+            {
+              "prompt": "Il adore ses amis. → Il ___ adore.",
+              "answers": [
+                "les"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les",
+                "l'"
+              ]
+            },
+            {
+              "prompt": "Elle voit la maison. → Elle ne ___ voit pas.",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "le",
+                "la",
+                "les",
+                "l'"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre famille",
+          "prompt": "Présentez la famille d'une personne célèbre (réelle ou imaginaire). Utilisez les pronoms COD : « Ses frères, il les voit souvent. »",
+          "model": "Sa mère, il l'adore. Son père, il le voit un week-end sur deux. Ses demi-frères, il les trouve drôles. Sa belle-mère, il l'aime bien."
+        }
+      ]
+    },
+    {
+      "id": "tout-adjectifs-passe",
+      "title": "L'adjectif tout et la place des adjectifs",
+      "minutes": 9,
+      "lede": "Two small areas of grammar that cause many errors: tout agrees (tout, toute, tous, toutes), and adjectives usually follow the noun except a few common ones.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Tout (adjectif indéfini)",
+          "headers": [
+            "",
+            "masculin",
+            "féminin"
+          ],
+          "rows": [
+            [
+              "singulier",
+              "tout le milieu",
+              "toute la famille"
+            ],
+            [
+              "pluriel",
+              "tous les milieux",
+              "toutes les régions"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "La place de l'adjectif",
+          "headers": [
+            "Règle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "En général, après le nom",
+              "une famille recomposée · une sœur biologique"
+            ],
+            [
+              "Avant le nom : petit, grand, nouveau, beau, même, mauvais, gros, premier…",
+              "un petit choc · une grande famille · de nouvelles familles"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Tout agrees with the noun that follows: tout le monde (masc.), toute la journée (fem.), tous les jours (masc. plural), toutes les semaines (fem. plural). Tous is pronounced [tus] as an adjective (tous les jours), but [tu] before a verb (ils sont tous là: pronoun).\n- Tout le monde = everybody, and it takes a singular verb: Tout le monde est là. Tous les gens (plural) is also possible. Tout can also mean “quite” before an adjective: elle est tout heureuse.\n- A couple of adjectives change meaning with position: un ancien collègue (former) vs un immeuble ancien (old); ma propre chambre (my own) vs une chambre propre (clean); un grand homme (great) vs un homme grand (tall).\n- Before a plural noun, des becomes de: de nouvelles familles, de petites choses. But some people keep des in speech: des petites choses.\n- Beau, nouveau, vieux have a special form before masculine nouns that start with a vowel: un bel enfant, un nouvel ami, un vieil homme. The memory trick BAGS (Beauty, Age, Goodness, Size) lists the types of adjectives that go before the noun.\n- Plural of adjectives: add -s (petits), -x for -eau (beaux, nouveaux), and no change for those ending in -s or -x (gros, heureux)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "On les trouve dans tous les milieux sociaux."
+            },
+            {
+              "fr": "Elle travaille toute la journée."
+            },
+            {
+              "fr": "Nous voyons nos amis tous les week-ends."
+            },
+            {
+              "fr": "Toutes les familles sont différentes."
+            },
+            {
+              "fr": "C'est une grande famille recomposée."
+            },
+            {
+              "fr": "J'ai de nouveaux voisins."
+            },
+            {
+              "fr": "Elle a un petit frère et une grande sœur."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Tout, toute, tous, toutes",
+          "items": [
+            {
+              "prompt": "___ la famille est là. (toute)",
+              "answers": [
+                "Toute"
+              ],
+              "choices": [
+                "Tout",
+                "Toute",
+                "Tous",
+                "Toutes"
+              ]
+            },
+            {
+              "prompt": "Il travaille ___ les jours. (tous)",
+              "answers": [
+                "tous"
+              ],
+              "choices": [
+                "tout",
+                "toute",
+                "tous",
+                "toutes"
+              ]
+            },
+            {
+              "prompt": "Je mange ___ le gâteau. (tout)",
+              "answers": [
+                "tout"
+              ],
+              "choices": [
+                "tout",
+                "toute",
+                "tous",
+                "toutes"
+              ]
+            },
+            {
+              "prompt": "Elle voit ___ ses amies. (toutes)",
+              "answers": [
+                "toutes"
+              ],
+              "choices": [
+                "tout",
+                "toute",
+                "tous",
+                "toutes"
+              ]
+            },
+            {
+              "prompt": "___ le monde parle. (tout)",
+              "answers": [
+                "Tout"
+              ],
+              "choices": [
+                "Tout",
+                "Toute",
+                "Tous",
+                "Toutes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Avant ou après ?",
+          "items": [
+            {
+              "prompt": "une famille ___ (recomposée)",
+              "answers": [
+                "recomposée"
+              ]
+            },
+            {
+              "prompt": "une ___ famille (grande)",
+              "answers": [
+                "grande"
+              ]
+            },
+            {
+              "prompt": "de ___ amis (nouveaux)",
+              "answers": [
+                "nouveaux"
+              ]
+            },
+            {
+              "prompt": "un ___ appartement (bel / beau, devant voyelle)",
+              "answers": [
+                "bel"
+              ],
+              "choices": [
+                "beau",
+                "bel",
+                "belle"
+              ]
+            },
+            {
+              "prompt": "une sœur ___ (biologique)",
+              "answers": [
+                "biologique"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-bases",
+      "title": "Le passé composé pour raconter",
+      "minutes": 10,
+      "lede": "The passé composé tells what happened. It uses avoir or être + the past participle. A few verbs use être, and then the participle agrees with the subject.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Avoir ou être ?",
+          "headers": [
+            "Auxiliaire",
+            "Verbes",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "avoir (la majorité)",
+              "rencontrer, parler, manger, voir, faire…",
+              "J'ai rencontré ses enfants."
+            ],
+            [
+              "être (verbes de mouvement + quelques autres)",
+              "naître, mourir, aller, venir, arriver, entrer, sortir, partir, rester, monter, descendre, passer, retourner, tomber",
+              "Je suis parti en vacances avec eux. Ma mère est entrée dans ma chambre."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Avoir + participle: the participle does NOT agree with the subject: Nous avons parlé toute la nuit. Être + participle: it DOES agree with the subject: Elle est arrivée, Ils sont partis, Elles sont restées.\n- Passé composé covers three English tenses: J'ai rencontré = I met / I have met / I did meet. Do not look for a French equivalent of “have met”.\n- Participles: -er → -é (rencontrer → rencontré); -ir → -i (finir → fini, partir → parti); many irregulars: vu, fait, pris, eu, été, dit, mis (learn them in families).\n- A few verbs of movement take avoir when they have a direct object: J'ai monté les valises. J'ai sorti le chien. J'ai descendu l'escalier (but: Je suis monté, je suis sorti, je suis descendu).\n- Pronominal verbs use être (see Leçon 7): Ils se sont rencontrés en 1950.\n- Time words: hier, l'année dernière, en 1950, un jour (one day). A past tense paired with a single point in time almost always takes the passé composé."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Un jour, ma mère est entrée dans ma chambre."
+            },
+            {
+              "fr": "Elle m'a dit : « Voici mon compagnon. »"
+            },
+            {
+              "fr": "J'ai rencontré ses enfants et nous avons dîné ensemble."
+            },
+            {
+              "fr": "Je suis parti en vacances avec eux."
+            },
+            {
+              "fr": "Nous avons beaucoup ri."
+            },
+            {
+              "fr": "Ma mère s'est mariée l'année dernière."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Avoir ou être ?",
+          "items": [
+            {
+              "prompt": "J'___ rencontré ses enfants. (avoir)",
+              "answers": [
+                "ai"
+              ]
+            },
+            {
+              "prompt": "Elle ___ arrivée en retard. (être)",
+              "answers": [
+                "est"
+              ]
+            },
+            {
+              "prompt": "Nous ___ parlé toute la nuit. (avoir)",
+              "answers": [
+                "avons"
+              ]
+            },
+            {
+              "prompt": "Ils ___ partis hier. (être)",
+              "answers": [
+                "sont"
+              ]
+            },
+            {
+              "prompt": "Je ___ resté à la maison. (être)",
+              "answers": [
+                "suis"
+              ]
+            },
+            {
+              "prompt": "Tu ___ vu mon frère ? (avoir)",
+              "answers": [
+                "as"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Accordez le participe",
+          "items": [
+            {
+              "prompt": "Elle est ___ à Lyon. (aller)",
+              "answers": [
+                "allée"
+              ]
+            },
+            {
+              "prompt": "Ils sont ___ à huit heures. (arriver)",
+              "answers": [
+                "arrivés"
+              ]
+            },
+            {
+              "prompt": "Nous sommes ___ au cinéma. (aller, nous = des femmes)",
+              "answers": [
+                "allées"
+              ]
+            },
+            {
+              "prompt": "Les enfants sont ___ . (rester)",
+              "answers": [
+                "restés"
+              ]
+            },
+            {
+              "prompt": "Marie est ___ en 1990. (naître)",
+              "answers": [
+                "née"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Présentez la famille d'une célébrité",
+          "prompt": "À deux : choisissez une personne célèbre, présentez sa famille et dessinez son arbre généalogique. Décrivez ou imaginez les relations dans cette famille.",
+          "model": "Elle est née en 1980 à Lyon. Son père est parti quand elle avait cinq ans, mais elle le voit un week-end sur deux. Sa mère s'est remariée, et elle a un demi-frère. Elle s'entend bien avec sa belle-mère."
+        }
+      ]
+    }
+  ]
+}

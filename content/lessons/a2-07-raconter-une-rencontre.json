@@ -1,0 +1,653 @@
+{
+  "id": "a2-raconter-une-rencontre",
+  "order": 107,
+  "number": 7,
+  "unit": 2,
+  "unitTitle": "Parlez de vous",
+  "kicker": "Unité 2 · Leçon 7",
+  "title": "Raconter une rencontre",
+  "summary": "Passé composé pronominal · passé composé et imparfait · description et temps · sons [ə], [e], [ɛ]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "pronominaux-passe-compose",
+      "title": "Le passé composé des verbes pronominaux",
+      "minutes": 10,
+      "lede": "Pronominal verbs (se rencontrer, se marier…) form the passé composé with être. The participle agrees with the subject.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Se rencontrer au passé composé",
+          "headers": [
+            "Sujet",
+            "Passé composé"
+          ],
+          "rows": [
+            [
+              "je",
+              "je me suis rencontré(e)"
+            ],
+            [
+              "tu",
+              "tu t'es rencontré(e)"
+            ],
+            [
+              "il",
+              "il s'est rencontré"
+            ],
+            [
+              "elle",
+              "elle s'est rencontrée"
+            ],
+            [
+              "nous",
+              "nous nous sommes rencontré(e)s"
+            ],
+            [
+              "vous",
+              "vous vous êtes rencontré(e)(s)"
+            ],
+            [
+              "ils",
+              "ils se sont rencontrés"
+            ],
+            [
+              "elles",
+              "elles se sont rencontrées"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "La négation",
+          "headers": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "sujet + ne + pronom + être + pas + participe",
+              "Nous ne nous sommes plus quittés."
+            ],
+            [
+              "ne … plus",
+              "Nous ne nous sommes plus revus."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- All pronominal verbs use être. Order: subject + pronoun + être + participle: Ils se sont mariés. Negative: Ils ne se sont pas mariés (ne goes before the pronoun, pas after être).\n- The participle agrees with the subject: Elle s'est mariée. Ils se sont regardés. Elles se sont rencontrées. Don't forget the -e and -s.\n- Exception to know: with verbs followed by à + person (parler à, téléphoner à, écrire à), the participle does not agree: Elles se sont parlé. Ils se sont téléphoné. In the book at this level you only need the main rule.\n- With a body part, the participle stays invariable: Elle s'est lavé les mains. But Elle s'est lavée (no object after: it agrees).\n- Many pronominal verbs have no English equivalent: s'en aller, se rendre compte, se souvenir. They simply learn as units: Ils se sont revus.\n- Se retrouver = to meet again (by chance or by appointment); se revoir = to see each other again; se quitter = to leave each other / to break up; se reconnaître = to recognise each other."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Ils se sont rencontrés en mille neuf cent cinquante.",
+              "label": "Ils se sont rencontrés en 1950."
+            },
+            {
+              "fr": "Nous nous sommes retrouvés au travail."
+            },
+            {
+              "fr": "Elle s'est mariée en juillet."
+            },
+            {
+              "fr": "Nous nous sommes parlé toute la nuit."
+            },
+            {
+              "fr": "Ils ne se sont plus quittés."
+            },
+            {
+              "fr": "Nous ne nous sommes plus revus."
+            },
+            {
+              "fr": "Elles se sont baignées dans la mer."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Au passé composé",
+          "items": [
+            {
+              "prompt": "Ils ___ rencontrés en 1950. (se rencontrer)",
+              "answers": [
+                "se sont"
+              ],
+              "choices": [
+                "se sont",
+                "ont se",
+                "sont se"
+              ]
+            },
+            {
+              "prompt": "Elle ___ mariée en juillet. (se marier)",
+              "answers": [
+                "s'est"
+              ],
+              "choices": [
+                "s'est",
+                "est",
+                "a"
+              ]
+            },
+            {
+              "prompt": "Nous ___ revus. (se revoir)",
+              "answers": [
+                "nous sommes"
+              ],
+              "choices": [
+                "nous sommes",
+                "nous avons",
+                "sommes nous"
+              ]
+            },
+            {
+              "prompt": "Je ___ levée à sept heures. (se lever, féminin)",
+              "answers": [
+                "me suis"
+              ],
+              "choices": [
+                "me suis",
+                "m'ai",
+                "je suis"
+              ]
+            },
+            {
+              "prompt": "Ils ne se sont ___ quittés. (négation : plus)",
+              "answers": [
+                "plus"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Accordez",
+          "items": [
+            {
+              "prompt": "Elles se sont ___ . (rencontrer)",
+              "answers": [
+                "rencontrées"
+              ]
+            },
+            {
+              "prompt": "Ils se sont ___ . (marier)",
+              "answers": [
+                "mariés"
+              ]
+            },
+            {
+              "prompt": "Elle s'est ___ . (baigner)",
+              "answers": [
+                "baignée"
+              ]
+            },
+            {
+              "prompt": "Nous nous sommes ___ . (retrouver, nous = deux hommes)",
+              "answers": [
+                "retrouvés"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passe-compose-imparfait",
+      "title": "Le passé composé et l'imparfait pour faire un récit",
+      "minutes": 11,
+      "lede": "A story in the past mixes two tenses: the passé composé for events (what happened) and the imparfait for the background (what things were like).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux temps, deux fonctions",
+          "headers": [
+            "Temps",
+            "Il sert à…",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "passé composé",
+              "raconter une action ponctuelle, chronologique",
+              "J'ai levé la tête. J'ai vu une femme."
+            ],
+            [
+              "imparfait",
+              "décrire le contexte (moment, personnes, lieux, sentiments)",
+              "C'était en été. Il était onze heures. Elle était magnifique."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Passé composé = the main line of the story (the actions you could film one after the other). Imparfait = the decor (weather, time, people's appearance, feelings, habits).\n- Typical story: C'était un jeudi. Il faisait chaud. Je lisais sur la plage. (imparfait: background). Soudain, j'ai vu une femme. Je suis tombé amoureux. (passé composé: events).\n- An action in progress when another one happens: Je lisais quand j'ai vu une femme. The imparfait = ongoing, the passé composé = interruption.\n- Repeated habit in the past: imparfait (Le week-end, nous allions à la mer). One single occasion: passé composé (Un week-end, nous sommes allés à la mer).\n- Clues: imparfait often goes with toujours, souvent, tous les jours, à cette époque-là. Passé composé often goes with un jour, soudain, hier, en 2010, puis, ensuite.\n- Some verbs describe states and prefer the imparfait (être, avoir, savoir, penser, croire): J'étais heureux. J'avais faim. But J'ai eu peur (a sudden fear) is a passé composé event."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "C'était en été, un jeudi."
+            },
+            {
+              "fr": "Il était onze heures et il faisait chaud."
+            },
+            {
+              "fr": "J'étais sur la plage et je lisais un journal."
+            },
+            {
+              "fr": "J'ai levé la tête et j'ai vu une femme."
+            },
+            {
+              "fr": "Elle était magnifique."
+            },
+            {
+              "fr": "Elle portait un maillot blanc et elle avait les cheveux courts."
+            },
+            {
+              "fr": "Je suis tombé amoureux."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Imparfait ou passé composé ?",
+          "items": [
+            {
+              "prompt": "Il ___ chaud ce jour-là. (faire : description)",
+              "answers": [
+                "faisait"
+              ],
+              "choices": [
+                "faisait",
+                "a fait"
+              ]
+            },
+            {
+              "prompt": "Soudain, j'___ une femme. (voir : événement)",
+              "answers": [
+                "ai vu"
+              ],
+              "choices": [
+                "voyais",
+                "ai vu"
+              ]
+            },
+            {
+              "prompt": "Elle ___ un maillot blanc. (porter : description)",
+              "answers": [
+                "portait"
+              ],
+              "choices": [
+                "portait",
+                "a porté"
+              ]
+            },
+            {
+              "prompt": "Je ___ la tête. (lever : action ponctuelle)",
+              "answers": [
+                "ai levé"
+              ],
+              "choices": [
+                "levais",
+                "ai levé"
+              ]
+            },
+            {
+              "prompt": "Nous ___ toute la nuit. (parler : événement)",
+              "answers": [
+                "avons parlé"
+              ],
+              "choices": [
+                "parlions",
+                "avons parlé"
+              ]
+            },
+            {
+              "prompt": "Il ___ onze heures. (être : l'heure)",
+              "answers": [
+                "était"
+              ],
+              "choices": [
+                "était",
+                "a été"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Racontez une rencontre",
+          "prompt": "Racontez une rencontre réelle ou imaginaire : choisissez le moment et le lieu, décrivez les deux personnes (imparfait) et racontez quatre ou cinq actions dans l'ordre (passé composé).",
+          "model": "C'était en septembre, un samedi après-midi. Il faisait beau. J'étais à la bibliothèque et je cherchais un livre. Un homme grand et brun m'a parlé. Nous avons discuté toute l'après-midi. Un an plus tard, nous nous sommes mariés."
+        }
+      ]
+    },
+    {
+      "id": "description-rencontre",
+      "title": "La description physique, les relations et le temps",
+      "minutes": 8,
+      "lede": "The vocabulary of a story about meeting someone: physical description, the stages of a relationship and time markers.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La description physique",
+          "items": [
+            {
+              "fr": "grand",
+              "label": "grand · grande"
+            },
+            {
+              "fr": "blond",
+              "label": "blond · blonde"
+            },
+            {
+              "fr": "brun",
+              "label": "brun · brune"
+            },
+            {
+              "fr": "les cheveux courts"
+            },
+            {
+              "fr": "les cheveux longs"
+            },
+            {
+              "fr": "enceinte"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les relations (4)",
+          "items": [
+            {
+              "fr": "un amoureux"
+            },
+            {
+              "fr": "une amoureuse"
+            },
+            {
+              "fr": "avoir un coup de foudre"
+            },
+            {
+              "fr": "se voir"
+            },
+            {
+              "fr": "se revoir"
+            },
+            {
+              "fr": "se reconnaître"
+            },
+            {
+              "fr": "se retrouver"
+            },
+            {
+              "fr": "passer la soirée"
+            },
+            {
+              "fr": "se marier"
+            },
+            {
+              "fr": "se quitter"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les indicateurs de temps",
+          "items": [
+            {
+              "fr": "après l'école"
+            },
+            {
+              "fr": "pendant les vacances"
+            },
+            {
+              "fr": "toute la nuit"
+            },
+            {
+              "fr": "en fin de matinée"
+            },
+            {
+              "fr": "à partir de ce moment"
+            },
+            {
+              "fr": "un jeudi"
+            },
+            {
+              "fr": "en été"
+            },
+            {
+              "fr": "au printemps"
+            },
+            {
+              "fr": "un an après"
+            },
+            {
+              "fr": "six mois plus tard"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le coup de foudre",
+          "headers": [
+            "Expression",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "avoir un coup de foudre",
+              "to fall in love at first sight (literally: a stroke of lightning)"
+            ],
+            [
+              "un amoureux",
+              "a person in love (also a boyfriend in some regions)"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Brun = dark-haired (brown). For eyes: les yeux marron (invariable), les yeux bleus, verts. Blond(e): une femme blonde. Roux / rousse = red-haired. Les cheveux (hair) is plural in French: elle a les cheveux courts.\n- Enceinte = pregnant (never used with “enceinte” for a man or an object). It does not change in the masculine, because it is only used for women: elle est enceinte.\n- Se voir (to see each other, to meet up), se revoir (to see each other again), se retrouver (to meet again or to find oneself): Nous nous sommes retrouvés au travail.\n- Time markers: un an après = one year later / after (looking back from the story); dans un an = in a year (from now). Six mois plus tard = six months later. Compare with il y a six mois (six months ago).\n- En été / au printemps / en automne / en hiver: au printemps is the only season with au. En + year or month: en 1950, en juillet. Le jeudi (every Thursday) vs un jeudi (one Thursday: single occasion) vs jeudi (this/last Thursday).\n- Passer la soirée avec = to spend the evening with. Passer du temps = to spend time. Pendant = during/for."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Elle avait les cheveux courts et bruns."
+            },
+            {
+              "fr": "Il était grand et blond."
+            },
+            {
+              "fr": "Ils ont eu un coup de foudre."
+            },
+            {
+              "fr": "Ils se sont revus un an après."
+            },
+            {
+              "fr": "Nous avons passé la soirée ensemble."
+            },
+            {
+              "fr": "En été, nous nous baignons dans la mer."
+            },
+            {
+              "fr": "Elle était enceinte de six mois."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Quand on tombe amoureux tout de suite, on dit : un coup de ___ .",
+              "answers": [
+                "foudre"
+              ]
+            },
+            {
+              "prompt": "Une femme qui attend un bébé est ___ . (adjectif)",
+              "answers": [
+                "enceinte"
+              ]
+            },
+            {
+              "prompt": "Je l'ai rencontrée en 2010 et nous nous sommes mariés un an ___ . (plus tard)",
+              "answers": [
+                "après"
+              ]
+            },
+            {
+              "prompt": "Nous avons parlé ___ la nuit. (la nuit entière)",
+              "answers": [
+                "toute"
+              ]
+            },
+            {
+              "prompt": "Le contraire de blond (cheveux sombres) : ___ .",
+              "answers": [
+                "brun"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-schwa-e",
+      "title": "Les sons [ə] et [e]/[ɛ]",
+      "minutes": 4,
+      "lede": "Three e sounds: the unstressed [ə] (je, le), the closed [e] (é, er, ez) and the open [ɛ] (è, ê, ai).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois sons",
+          "headers": [
+            "Son",
+            "Écriture",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[ə]",
+              "e",
+              "je · le · demain · retour"
+            ],
+            [
+              "[e]",
+              "é, er, ez",
+              "les · j'ai (parfois) · été · parler"
+            ],
+            [
+              "[ɛ]",
+              "è, ê, ai, ei, e + consonnes",
+              "j'aime · il est · elle · la mer"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- [ə] is a weak, rounded sound (lips rounded, tongue forward): je, me, te, le. It disappears often in speech: je ne sais pas → j'sais pas. [e] is tense and closed: les, été, parler. [ɛ] is open: elle, mer, j'aime.\n- Final -er (parler, chanter) is [e], not [ɛʁ]: the r is silent. But mer, hiver, fer end in [ɛʁ] (r pronounced).\n- Spelling clues: é = [e], è / ê = [ɛ]. Ai is [e] in j'ai [ʒe] and in the future (je parlerai), but [ɛ] in most words: j'aime, maison, fais.\n- Don't turn [e] into a diphthong “ay”: say it pure and short. Practise: les, des, mes, tes, ses, ces (all [e])."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "je"
+            },
+            {
+              "fr": "le"
+            },
+            {
+              "fr": "les"
+            },
+            {
+              "fr": "j'ai"
+            },
+            {
+              "fr": "été"
+            },
+            {
+              "fr": "parler"
+            },
+            {
+              "fr": "elle"
+            },
+            {
+              "fr": "la mer"
+            },
+            {
+              "fr": "il est"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel son ?",
+          "items": [
+            {
+              "prompt": "Dans « je », la voyelle est ___ .",
+              "answers": [
+                "[ə]"
+              ],
+              "choices": [
+                "[ə]",
+                "[e]",
+                "[ɛ]"
+              ]
+            },
+            {
+              "prompt": "Dans « les », la voyelle est ___ .",
+              "answers": [
+                "[e]"
+              ],
+              "choices": [
+                "[ə]",
+                "[e]",
+                "[ɛ]"
+              ]
+            },
+            {
+              "prompt": "Dans « elle », la première voyelle est ___ .",
+              "answers": [
+                "[ɛ]"
+              ],
+              "choices": [
+                "[ə]",
+                "[e]",
+                "[ɛ]"
+              ]
+            },
+            {
+              "prompt": "Dans « parler », la finale est ___ .",
+              "answers": [
+                "[e]"
+              ],
+              "choices": [
+                "[ə]",
+                "[e]",
+                "[ɛ]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

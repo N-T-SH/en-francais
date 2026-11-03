@@ -18,7 +18,7 @@ export function createProvider(config: ProviderConfig): LlmProvider {
 // Prompts. The content schema itself (with its field descriptions) is sent as
 // the structured-output format, so the prompts focus on teaching choices.
 
-const SYSTEM = `You write revision material for an adult learner preparing for the TEF (Test d'évaluation de français), currently at level A1.
+const SYSTEM = `You write revision material for an adult learner preparing for the TEF (Test d'évaluation de français), working through levels A1 and A2 (the Inspire 1 and Inspire 2 textbooks).
 All learner-facing text is in French. English appears only as short glosses in phrase "en" fields.
 Principles:
 - Stay faithful to the class material: same vocabulary, examples and names. Fix obvious typos and gender/agreement errors.

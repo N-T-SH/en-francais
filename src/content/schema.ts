@@ -81,16 +81,19 @@ export const Section = z.object({
   blocks: z.array(Block).min(1),
 });
 
+export const LEVELS = ["A1", "A2", "B1", "B2"] as const;
+export type Level = (typeof LEVELS)[number];
+
 export const Lesson = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
   order: z.number().describe("Sort order in the library"),
-  number: z.number().int().positive().optional().describe("Lesson number in the textbook (shown in section numbers, e.g. 10.2). Defaults to the position in the library"),
-  unit: z.number().int().positive().optional().describe("Textbook unit; lessons are grouped by unit in the library"),
+  number: z.number().int().positive().optional().describe("Lesson number in its textbook (shown in section numbers, e.g. 10.2). Numbers restart at 1 in each level. Defaults to the position in the library"),
+  unit: z.number().int().positive().optional().describe("Textbook unit; lessons are grouped by level, then unit, in the library"),
   unitTitle: z.string().optional().describe("Title of the unit, e.g. 'Faites connaissance !'"),
   kicker: z.string().describe("Short source label, e.g. 'Unité 3 · Leçon 10'"),
   title: z.string(),
   summary: z.string().describe("One line listing the topics"),
-  level: z.string().default("A1"),
+  level: z.enum(["A1", "A2", "B1", "B2"]).default("A1").describe("CEFR level = textbook: A1 → Inspire 1, A2 → Inspire 2. Lessons are grouped by level in the library"),
   date: z.string().optional().describe("ISO date the class took place"),
   sections: z.array(Section).min(1),
 });

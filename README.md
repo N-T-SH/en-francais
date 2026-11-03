@@ -1,6 +1,6 @@
 # En français
 
-An app for revising my French (TEF, A1) lessons: reference tables, phrases read
+An app for revising my French (TEF, levels A1 and A2) lessons: reference tables, phrases read
 aloud with a natural voice, self-checking exercises, and focused revision of
 weak spots. It works offline and installs on Android and desktop.
 

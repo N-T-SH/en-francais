@@ -1,0 +1,545 @@
+{
+  "id": "a2-decrire-le-passe",
+  "order": 106,
+  "number": 6,
+  "unit": 2,
+  "unitTitle": "Parlez de vous",
+  "kicker": "Unité 2 · Leçon 6",
+  "title": "Décrire le passé",
+  "summary": "L'imparfait · immigration, travail, caractère · les nasales [ɔ̃] et [ɑ̃]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "imparfait",
+      "title": "L'imparfait pour décrire au passé",
+      "minutes": 11,
+      "lede": "The imparfait describes how things were in the past: states, appearances, feelings and habits. It sets the scene.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation : nous du présent − -ons + terminaisons",
+          "headers": [
+            "Sujet",
+            "aller (nous allons)",
+            "avoir (nous avons)",
+            "être (irrégulier)"
+          ],
+          "rows": [
+            [
+              "je",
+              "j'allais",
+              "j'avais",
+              "j'étais"
+            ],
+            [
+              "tu",
+              "tu allais",
+              "tu avais",
+              "tu étais"
+            ],
+            [
+              "il / elle / on",
+              "il allait",
+              "il avait",
+              "il était"
+            ],
+            [
+              "nous",
+              "nous allions",
+              "nous avions",
+              "nous étions"
+            ],
+            [
+              "vous",
+              "vous alliez",
+              "vous aviez",
+              "vous étiez"
+            ],
+            [
+              "ils / elles",
+              "ils allaient",
+              "ils avaient",
+              "ils étaient"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Usages",
+          "headers": [
+            "On l'utilise pour",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "décrire l'état des choses et des personnes (apparence, personnalité)",
+              "Ma mère était toujours souriante."
+            ],
+            [
+              "parler des sentiments",
+              "Elle avait peur."
+            ],
+            [
+              "parler des habitudes passées",
+              "Le week-end, nous allions voir des monuments."
+            ],
+            [
+              "décrire un contexte",
+              "Il faisait beau. Il y avait beaucoup de monde."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Stem: take the nous form of the present, remove -ons: nous parlons → parl-; nous finissons → finiss-; nous prenons → pren-; nous faisons → fais-. Then add -ais, -ais, -ait, -ions, -iez, -aient.\n- Only être is irregular (the stem ét-): j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.\n- Endings -ais, -ait, -aient all sound the same [ɛ]. Only je / tu / il and ils differ in writing: il parlait [paʁlɛ], ils parlaient [paʁlɛ]. Nous parlions and vous parliez end in -ions / -iez (the “i” is pronounced [j]).\n- Verbs in -ier (étudier, oublier) keep the i in the stems: nous étudiions, vous étudiiez (two i's!). Verbs in -ger and -cer: nous mangions (no extra e: i is already soft), nous commencions (but ils commençaient: ç before a).\n- Imparfait = background: how things were. The passé composé = events: what happened. Ma mère travaillait comme employée de maison (habit/state) vs Un jour, elle a quitté son travail (event).\n- Il y avait = there was / there were (imparfait of il y a): Il y avait beaucoup de travail. Il n'y avait pas de banlieue."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "C'était au début des années soixante.",
+              "label": "C'était au début des années 60."
+            },
+            {
+              "fr": "Ma mère travaillait comme employée de maison."
+            },
+            {
+              "fr": "Mon père était maçon."
+            },
+            {
+              "fr": "Nous n'avions pas d'appareil photo."
+            },
+            {
+              "fr": "Il faisait beau."
+            },
+            {
+              "fr": "Mon père avait vingt-huit ans et ma mère vingt-sept."
+            },
+            {
+              "fr": "Ils avaient toujours des vêtements élégants."
+            },
+            {
+              "fr": "Quand j'étais petit, j'étais très timide."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Conjuguez à l'imparfait",
+          "items": [
+            {
+              "prompt": "Quand j'___ petit, j'aimais lire. (être)",
+              "answers": [
+                "étais"
+              ]
+            },
+            {
+              "prompt": "Il ___ beau ce jour-là. (faire)",
+              "answers": [
+                "faisait"
+              ]
+            },
+            {
+              "prompt": "Nous ___ une petite maison. (avoir)",
+              "answers": [
+                "avions"
+              ]
+            },
+            {
+              "prompt": "Ils ___ toujours élégants. (être)",
+              "answers": [
+                "étaient"
+              ]
+            },
+            {
+              "prompt": "Tu ___ souvent à la mer ? (aller)",
+              "answers": [
+                "allais"
+              ]
+            },
+            {
+              "prompt": "Elle ___ beaucoup. (parler)",
+              "answers": [
+                "parlait"
+              ]
+            },
+            {
+              "prompt": "Vous ___ où à l'époque ? (habiter)",
+              "answers": [
+                "habitiez"
+              ]
+            },
+            {
+              "prompt": "Il y ___ peu de travail. (avoir)",
+              "answers": [
+                "avait"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "La ville de votre enfance",
+          "prompt": "Décrivez la ville ou le quartier où vous habitiez quand vous étiez petit(e) : les bâtiments, les gens, les habitudes. Comparez avec aujourd'hui.",
+          "model": "Quand j'étais petit, j'habitais dans une petite ville. Il y avait un grand parc et un seul supermarché. Le week-end, nous allions voir nos grands-parents. Aujourd'hui, il y a beaucoup plus de monde."
+        }
+      ]
+    },
+    {
+      "id": "immigration-travail-caractere",
+      "title": "L'immigration, le travail et le caractère",
+      "minutes": 8,
+      "lede": "Words to tell a family history: where people came from, what they did for a living, and what they were like.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'immigration",
+          "items": [
+            {
+              "fr": "un immigré"
+            },
+            {
+              "fr": "une immigrée"
+            },
+            {
+              "fr": "émigrer"
+            },
+            {
+              "fr": "immigrer"
+            },
+            {
+              "fr": "s'installer"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le travail",
+          "items": [
+            {
+              "fr": "le chômage"
+            },
+            {
+              "fr": "un employé de maison"
+            },
+            {
+              "fr": "une employée de maison"
+            },
+            {
+              "fr": "dur"
+            },
+            {
+              "fr": "le bâtiment"
+            },
+            {
+              "fr": "un chantier"
+            },
+            {
+              "fr": "un maçon"
+            },
+            {
+              "fr": "un ouvrier"
+            },
+            {
+              "fr": "une ouvrière"
+            },
+            {
+              "fr": "construire"
+            },
+            {
+              "fr": "en construction"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le caractère",
+          "items": [
+            {
+              "fr": "courageux"
+            },
+            {
+              "fr": "courageuse"
+            },
+            {
+              "fr": "modeste"
+            },
+            {
+              "fr": "réservé"
+            },
+            {
+              "fr": "réservée"
+            },
+            {
+              "fr": "souriant"
+            },
+            {
+              "fr": "souriante"
+            },
+            {
+              "fr": "avoir beaucoup d'énergie"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les lieux et les transports",
+          "items": [
+            {
+              "fr": "la banlieue"
+            },
+            {
+              "fr": "la campagne",
+              "icon": "🌾"
+            },
+            {
+              "fr": "un hypermarché",
+              "icon": "🛒"
+            },
+            {
+              "fr": "le RER"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La famille (3)",
+          "items": [
+            {
+              "fr": "les grands-parents"
+            },
+            {
+              "fr": "le grand-père"
+            },
+            {
+              "fr": "la grand-mère"
+            },
+            {
+              "fr": "les petits-enfants"
+            },
+            {
+              "fr": "le petit-fils"
+            },
+            {
+              "fr": "la petite-fille"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les indicateurs de temps",
+          "items": [
+            {
+              "fr": "à cette époque-là"
+            },
+            {
+              "fr": "au début des années soixante",
+              "label": "au début des années 60"
+            },
+            {
+              "fr": "dans les années soixante",
+              "label": "dans les années 60"
+            },
+            {
+              "fr": "aujourd'hui"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Émigrer = to leave one's country; immigrer = to arrive in another country. Un immigré (a person who has immigrated); un émigré (someone who has left). Immigration = the arrival; une personne issue de l'immigration = a person whose family has come from abroad.\n- La banlieue = the suburbs of a large city, often with a connotation of social housing (especially around Paris). Not “the suburbs” in the sense of a rich district. Le RER = a rapid train linking Paris and its suburbs.\n- Un hypermarché = a very large supermarket. Un chantier = a building site; un maçon = a bricklayer; un ouvrier = a manual worker; le bâtiment = the building trade (also a building).\n- Dur means hard in the sense of difficult or tough (un travail dur); difficile = hard to do. L'employé de maison = a domestic worker.\n- Les grands-parents has a hyphen: grand-père, grand-mère (not grand père). The plural of grand-mère is grands-mères. Les petits-enfants: petit-fils, petite-fille.\n- Courageux / courageuse, souriant / souriante (note: souriant has the same ending as a present participle but is an adjective). Réservé = reserved (shy), not “booked”.\n- Decades: dans les années soixante (in the sixties) = from 1960 to 1969. Au début des années soixante-dix = in the early seventies."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Mes parents ont émigré du Portugal."
+            },
+            {
+              "fr": "Mon père était maçon sur des chantiers."
+            },
+            {
+              "fr": "Ma mère travaillait comme employée de maison."
+            },
+            {
+              "fr": "Ils habitaient en banlieue, près d'un hypermarché."
+            },
+            {
+              "fr": "C'étaient des gens modestes et courageux."
+            },
+            {
+              "fr": "À cette époque-là, le travail était dur."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Quelqu'un qui construit des maisons est un ___ . (métier)",
+              "answers": [
+                "maçon"
+              ]
+            },
+            {
+              "prompt": "La partie d'une grande ville loin du centre, c'est la ___ .",
+              "answers": [
+                "banlieue"
+              ]
+            },
+            {
+              "prompt": "Mon père a quitté son pays : il a ___ . (émigrer, passé composé : il a émigré)",
+              "answers": [
+                "émigré"
+              ]
+            },
+            {
+              "prompt": "Les parents de mes parents sont mes ___ -parents.",
+              "answers": [
+                "grands"
+              ]
+            },
+            {
+              "prompt": "Ils ne manquaient de rien mais n'étaient pas riches : c'étaient des gens ___ . (simples, sans luxe)",
+              "answers": [
+                "modestes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sons-on-an",
+      "title": "Les nasales [ɔ̃] et [ɑ̃]",
+      "minutes": 4,
+      "lede": "Two nasal vowels to distinguish: [ɔ̃] is round and closed (on, bon), [ɑ̃] is open and relaxed (an, en).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux nasales",
+          "headers": [
+            "Son",
+            "Écriture",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[ɔ̃]",
+              "on, om devant p ou b",
+              "le maçon · nous avions · la maison · une ombre"
+            ],
+            [
+              "[ɑ̃]",
+              "en, an, em, am devant p ou b",
+              "le bâtiment · le chantier · la campagne · l'employé"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- [ɔ̃] is a rounded, closed vowel: lips form a small circle (maçon). [ɑ̃] is open, with the tongue lower and relaxed: lips less rounded (chantier).\n- Be careful: en and an sound the same [ɑ̃], and em/am before p or b: temps, campagne, ambition. Om/on: on, bon, nom, ombre.\n- Minimal pairs: son [sɔ̃] / sent [sɑ̃]; bon [bɔ̃] / banc [bɑ̃]; long [lɔ̃] / lent [lɑ̃]. Identical to your ear? Practise by rounding or opening your mouth.\n- No nasal before a vowel or a double n/m: bonne [bɔn], année [ane], homme [ɔm]."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "le maçon"
+            },
+            {
+              "fr": "nous avions"
+            },
+            {
+              "fr": "la maison"
+            },
+            {
+              "fr": "le bâtiment"
+            },
+            {
+              "fr": "le chantier"
+            },
+            {
+              "fr": "la campagne"
+            },
+            {
+              "fr": "l'employé"
+            },
+            {
+              "fr": "son"
+            },
+            {
+              "fr": "cent"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "[ɔ̃] ou [ɑ̃] ?",
+          "items": [
+            {
+              "prompt": "Dans « maçon », la nasale est ___ .",
+              "answers": [
+                "[ɔ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « chantier », la nasale est ___ .",
+              "answers": [
+                "[ɑ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « campagne », la nasale est ___ .",
+              "answers": [
+                "[ɑ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « maison », la nasale est ___ .",
+              "answers": [
+                "[ɔ̃]"
+              ],
+              "choices": [
+                "[ɔ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "« son » et « cent » sont ___ . (identiques ou différents)",
+              "answers": [
+                "différents"
+              ],
+              "choices": [
+                "identiques",
+                "différents"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

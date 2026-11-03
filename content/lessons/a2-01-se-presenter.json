@@ -1,0 +1,727 @@
+{
+  "id": "a2-se-presenter",
+  "order": 101,
+  "number": 1,
+  "unit": 1,
+  "unitTitle": "Entrez en relation !",
+  "kicker": "Unité 1 · Leçon 1",
+  "title": "Se présenter",
+  "summary": "L'état civil, le travail, les centres d'intérêt · passé récent, présent continu, futur proche · le rythme",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "etat-civil-famille",
+      "title": "L'état civil et la famille",
+      "minutes": 9,
+      "lede": "To introduce yourself at A2 you give more than your name: your marital status, your family, your nationality (possibly two) and what you do.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'état civil",
+          "items": [
+            {
+              "fr": "célibataire"
+            },
+            {
+              "fr": "pacsé"
+            },
+            {
+              "fr": "pacsée"
+            },
+            {
+              "fr": "marié"
+            },
+            {
+              "fr": "mariée"
+            },
+            {
+              "fr": "divorcé"
+            },
+            {
+              "fr": "divorcée"
+            },
+            {
+              "fr": "séparé"
+            },
+            {
+              "fr": "séparée"
+            },
+            {
+              "fr": "veuf"
+            },
+            {
+              "fr": "veuve"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le couple et les parents",
+          "items": [
+            {
+              "fr": "un compagnon"
+            },
+            {
+              "fr": "une compagne"
+            },
+            {
+              "fr": "un mari",
+              "icon": "🤵"
+            },
+            {
+              "fr": "une femme"
+            },
+            {
+              "fr": "un conjoint"
+            },
+            {
+              "fr": "une conjointe"
+            },
+            {
+              "fr": "un beau-père"
+            },
+            {
+              "fr": "une belle-mère"
+            },
+            {
+              "fr": "les beaux-parents"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les enfants",
+          "items": [
+            {
+              "fr": "un fils"
+            },
+            {
+              "fr": "une fille"
+            },
+            {
+              "fr": "un beau-fils"
+            },
+            {
+              "fr": "une belle-fille"
+            },
+            {
+              "fr": "un gendre"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La double nationalité",
+          "items": [
+            {
+              "fr": "franco-algérien"
+            },
+            {
+              "fr": "franco-algérienne"
+            },
+            {
+              "fr": "hispano-suisse"
+            },
+            {
+              "fr": "italo-canadien"
+            },
+            {
+              "fr": "italo-canadienne"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Quel statut ?",
+          "headers": [
+            "Mot",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "célibataire",
+              "not in a relationship (single)"
+            ],
+            [
+              "pacsé(e)",
+              "in a PACS (a civil partnership; see Leçon 22 of A1)"
+            ],
+            [
+              "marié(e)",
+              "married"
+            ],
+            [
+              "divorcé(e)",
+              "divorced"
+            ],
+            [
+              "séparé(e)",
+              "separated"
+            ],
+            [
+              "veuf / veuve",
+              "widowed"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- These words agree with the person: Elle est mariée. Il est marié. Both sound the same, only the spelling shows the gender. Veuf has an irregular feminine: veuve.\n- Un mari / une femme = husband / wife (une femme also means “woman”). Un compagnon / une compagne = partner (not necessarily married). Un conjoint / une conjointe = spouse or partner, used on forms.\n- Beau-père and belle-mère mean both father-in-law / mother-in-law and stepfather / stepmother. Context tells you which. Un beau-fils = son-in-law or stepson; un gendre = son-in-law only.\n- Parents means mum and dad (not “relatives”, which is la famille or les proches). Un parent is one parent. Enfants in French also means children of any age: J'ai deux enfants (they may be adults).\n- Double nationality: the two adjectives are joined by a hyphen, the first is shortened (franco-, hispano-, italo-), and only the second agrees: Elle est franco-algérienne.\n- Status questions: Vous êtes marié(e) ? Vous avez des enfants ? French forms say Situation familiale: célibataire, marié(e), pacsé(e), divorcé(e), séparé(e), veuf (veuve)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je suis célibataire et je n'ai pas d'enfants."
+            },
+            {
+              "fr": "Ma sœur est mariée et elle a deux filles."
+            },
+            {
+              "fr": "Mon père est veuf depuis deux ans."
+            },
+            {
+              "fr": "Il est franco-algérien : sa mère est française et son père est algérien."
+            },
+            {
+              "fr": "Mon compagnon et moi, nous sommes pacsés."
+            },
+            {
+              "fr": "Elle est séparée de son mari."
+            },
+            {
+              "fr": "Ma belle-mère habite à Lyon."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Mon mari et moi, nous sommes ___ . (mariés)",
+              "answers": [
+                "mariés"
+              ]
+            },
+            {
+              "prompt": "Elle n'a pas de partenaire : elle est ___ .",
+              "answers": [
+                "célibataire"
+              ]
+            },
+            {
+              "prompt": "Son mari est mort : elle est ___ .",
+              "answers": [
+                "veuve"
+              ]
+            },
+            {
+              "prompt": "La mère de mon mari est ma ___ .",
+              "answers": [
+                "belle-mère"
+              ]
+            },
+            {
+              "prompt": "Un homme qui a deux nationalités, française et suisse : il est franco-___ .",
+              "answers": [
+                "suisse"
+              ]
+            },
+            {
+              "prompt": "Le fils de mon mari n'est pas mon fils : c'est mon ___ . (beau-)",
+              "answers": [
+                "beau-fils"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "travail-interets-adresse",
+      "title": "Le travail, les centres d'intérêt et l'adresse",
+      "minutes": 8,
+      "lede": "Three more things you say when you introduce yourself: what you do for a living, what you like doing, and where you live.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le travail",
+          "items": [
+            {
+              "fr": "un chômeur"
+            },
+            {
+              "fr": "une chômeuse"
+            },
+            {
+              "fr": "un étudiant"
+            },
+            {
+              "fr": "une étudiante"
+            },
+            {
+              "fr": "un salarié"
+            },
+            {
+              "fr": "une salariée"
+            },
+            {
+              "fr": "un travailleur indépendant"
+            },
+            {
+              "fr": "une travailleuse indépendante"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les centres d'intérêt",
+          "items": [
+            {
+              "fr": "la danse",
+              "icon": "💃"
+            },
+            {
+              "fr": "les expositions",
+              "icon": "🖼️"
+            },
+            {
+              "fr": "la musique classique",
+              "icon": "🎻"
+            },
+            {
+              "fr": "la randonnée pédestre",
+              "icon": "🥾"
+            },
+            {
+              "fr": "les spectacles",
+              "icon": "🎭"
+            },
+            {
+              "fr": "le yoga",
+              "icon": "🧘"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "L'adresse en France",
+          "headers": [
+            "Ordre",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "prénom + nom",
+              "Camille Roux"
+            ],
+            [
+              "numéro + rue",
+              "douze, rue des Lilas"
+            ],
+            [
+              "code postal + ville",
+              "soixante-neuf mille trois cents Lyon"
+            ]
+          ],
+          "note": "Written: Camille Roux / 12 rue des Lilas / 69003 Lyon. The postcode comes before the city, and the number before the street name."
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un chômeur / une chômeuse is a jobseeker (unemployed). Le chômage = unemployment. Être au chômage = to be out of work. Un salarié = an employee on a contract; un travailleur indépendant = self-employed (also un auto-entrepreneur).\n- After être, jobs have no article: Je suis salarié. Je suis étudiante. But with an adjective, the article returns: Je suis un étudiant sérieux.\n- Interests are often introduced with J'aime / Je m'intéresse à / Je fais de(la): J'aime la danse. Je fais du yoga. Je m'intéresse aux spectacles. (se) intéresser à = to be interested in.\n- La randonnée pédestre = hiking (on foot). Une exposition is an exhibition, not an “exposure”. Un spectacle = a show (dance, theatre, circus).\n- French postcodes are five digits and come BEFORE the city; the first two digits give the département (69 = Rhône). The street number comes before the street name, with no comma in the address itself.\n- Say a postcode in pairs or as one number if needed; for an address label, write numbers in digits."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je suis salariée dans une banque."
+            },
+            {
+              "fr": "Il est travailleur indépendant : il est graphiste."
+            },
+            {
+              "fr": "Elle est au chômage depuis un mois."
+            },
+            {
+              "fr": "Mon mari est étudiant en informatique."
+            },
+            {
+              "fr": "J'aime la musique classique et la randonnée pédestre."
+            },
+            {
+              "fr": "Je fais du yoga le mardi soir."
+            },
+            {
+              "fr": "J'habite au douze, rue des Lilas, à Lyon."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Elle n'a pas de travail : elle est au ___ .",
+              "answers": [
+                "chômage"
+              ]
+            },
+            {
+              "prompt": "Il travaille pour lui, sans patron : il est travailleur ___ .",
+              "answers": [
+                "indépendant"
+              ]
+            },
+            {
+              "prompt": "Je suis salarié : je ne suis pas ___ . (self-employed)",
+              "answers": [
+                "indépendant"
+              ]
+            },
+            {
+              "prompt": "J'aime marcher dans la nature : je fais de la ___ pédestre.",
+              "answers": [
+                "randonnée"
+              ]
+            },
+            {
+              "prompt": "Dans une adresse, le code ___ vient avant la ville.",
+              "answers": [
+                "postal"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre carte mentale",
+          "prompt": "Présentez-vous à la classe : votre nom, votre âge, votre profession, votre situation familiale, vos enfants, votre lieu de vie et vos centres d'intérêt.",
+          "model": "Je m'appelle Anna Silva. J'ai trente-deux ans. Je suis salariée dans un hôpital. Je suis mariée et j'ai un fils. J'habite à Lisbonne. J'aime la danse et la randonnée."
+        }
+      ]
+    },
+    {
+      "id": "trois-temps-presenter",
+      "title": "Trois façons de parler du présent et du futur proche",
+      "minutes": 10,
+      "lede": "When you introduce yourself you mix three tenses: the recent past (venir de), the continuous present (être en train de) and the near future (aller).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les trois structures",
+          "headers": [
+            "Structure",
+            "Formation",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "passé récent",
+              "venir au présent + de + infinitif",
+              "Je viens de me marier."
+            ],
+            [
+              "présent continu",
+              "être au présent + en train de + infinitif",
+              "Nous sommes en train de chercher un appartement."
+            ],
+            [
+              "futur proche",
+              "aller au présent + infinitif",
+              "Je vais m'occuper d'un nouveau projet."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Être en train de = to be in the middle of doing something right now. It translates the English “-ing” form (I'm looking for…), which French normally doesn't mark: Je cherche un appartement is also correct. Use en train de to insist that the action is going on at this moment.\n- Être en train de works with actions, not states: Je suis en train de manger, but never “je suis en train d'être fatigué”. For states use the plain present: Je suis fatigué.\n- Venir de + infinitive = just: Je viens d'avoir mon deuxième enfant. The verb venir is in the present tense, the action is past. Don't confuse with venir de + place (Je viens de Rome).\n- With a pronominal verb, the pronoun belongs to the infinitive: Je viens de me marier. Nous sommes en train de nous présenter. Je vais m'occuper d'un projet. Pronoun and subject match: me / te / se / nous / vous.\n- Negation goes around the first verb: Je ne vais pas partir. Nous ne sommes pas en train de manger. Je ne viens pas de partir (rare).\n- These three structures place events relative to now: past (viens de), present (suis en train de), future (vais). To know which one a sentence uses, look at the first verb."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je viens de me marier."
+            },
+            {
+              "fr": "Je viens d'avoir mon deuxième enfant."
+            },
+            {
+              "fr": "Nous sommes en train de chercher un appartement."
+            },
+            {
+              "fr": "Je suis en train d'apprendre le français."
+            },
+            {
+              "fr": "Elle est en train de se présenter."
+            },
+            {
+              "fr": "Je vais m'occuper d'un nouveau projet."
+            },
+            {
+              "fr": "Nous allons nous marier en juin."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel temps ?",
+          "items": [
+            {
+              "prompt": "Je ___ de finir mon travail. (venir : il y a cinq minutes)",
+              "answers": [
+                "viens"
+              ],
+              "choices": [
+                "viens",
+                "suis",
+                "vais"
+              ]
+            },
+            {
+              "prompt": "Nous sommes en ___ de déjeuner. (maintenant)",
+              "answers": [
+                "train"
+              ],
+              "choices": [
+                "train",
+                "train de",
+                "cours"
+              ]
+            },
+            {
+              "prompt": "Je ___ partir demain. (aller : futur proche)",
+              "answers": [
+                "vais"
+              ],
+              "choices": [
+                "viens",
+                "suis",
+                "vais"
+              ]
+            },
+            {
+              "prompt": "Elle ___ de se marier. (venir : récemment)",
+              "answers": [
+                "vient"
+              ],
+              "choices": [
+                "vient",
+                "est",
+                "va"
+              ]
+            },
+            {
+              "prompt": "Vous êtes en train ___ travailler ?",
+              "answers": [
+                "de"
+              ],
+              "choices": [
+                "de",
+                "d'",
+                "à"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Avec un verbe pronominal",
+          "items": [
+            {
+              "prompt": "Je viens de ___ marier.",
+              "answers": [
+                "me"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Nous sommes en train de ___ présenter.",
+              "answers": [
+                "nous"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Elle va ___ occuper de ce projet. (se / s')",
+              "answers": [
+                "s'"
+              ],
+              "choices": [
+                "m'",
+                "t'",
+                "s'",
+                "nous",
+                "vous"
+              ]
+            },
+            {
+              "prompt": "Tu es en train de ___ reposer ?",
+              "answers": [
+                "te"
+              ],
+              "choices": [
+                "me",
+                "te",
+                "se",
+                "nous",
+                "vous"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Trois phrases",
+          "prompt": "Écrivez trois phrases sur vous : un événement qui vient d'arriver (passé récent), une activité en cours (présent continu) et un projet (futur proche).",
+          "model": "Je viens de changer de travail. Je suis en train d'apprendre l'espagnol. Je vais voyager en Espagne cet été."
+        }
+      ]
+    },
+    {
+      "id": "rythme-groupe",
+      "title": "Le groupe rythmique et l'accentuation",
+      "minutes": 5,
+      "lede": "In French you do not stress words one by one: you pronounce a group of words as if it were a single long word.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le groupe rythmique",
+          "headers": [
+            "Phrase",
+            "Syllabes",
+            "Rythme"
+          ],
+          "rows": [
+            [
+              "Bonjour à tous.",
+              "4",
+              "Bon-jou-ra-tous"
+            ],
+            [
+              "J'aime la danse.",
+              "3",
+              "jèm-la-danse"
+            ],
+            [
+              "Je suis étudiant.",
+              "5",
+              "je-sui-zé-tu-diant"
+            ],
+            [
+              "Il a six mois.",
+              "4",
+              "i-la-si-mois"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- A rhythmic group is a short group of words with one meaning (article + noun, pronoun + verb, preposition + noun). It is pronounced as one word: je-suis-é-tu-diant.\n- All syllables are about the same length, except the last syllable of the group, which is longer (and higher when you ask a question).\n- The final e is silent at the end of a group (danse, aime), but pronounced before a consonant inside the group when needed for flow (Je ne sais pas, often je n'sais pas).\n- Liaison and enchaînement build the group: Bon-jou-ra-tous. Never pause after je, ne, le, la, un, de.\n- English stresses one syllable per word (BANana). French stresses the end of the group instead: practise lengthening the last syllable."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "Bonjour à tous."
+            },
+            {
+              "fr": "J'aime la danse."
+            },
+            {
+              "fr": "Je suis étudiant."
+            },
+            {
+              "fr": "Il a six mois."
+            },
+            {
+              "fr": "J'habite à Marseille."
+            },
+            {
+              "fr": "Vous travaillez à Aix ?"
+            },
+            {
+              "fr": "Nous sommes en train de nous présenter."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Combien de syllabes ?",
+          "items": [
+            {
+              "prompt": "« Bonjour à tous » : combien de syllabes ? (en chiffres)",
+              "answers": [
+                "4"
+              ],
+              "choices": [
+                "3",
+                "4",
+                "5"
+              ]
+            },
+            {
+              "prompt": "« J'aime la danse » : combien de syllabes ?",
+              "answers": [
+                "3"
+              ],
+              "choices": [
+                "3",
+                "4",
+                "5"
+              ]
+            },
+            {
+              "prompt": "« Il a six mois » : combien de syllabes ?",
+              "answers": [
+                "4"
+              ],
+              "choices": [
+                "3",
+                "4",
+                "5"
+              ]
+            },
+            {
+              "prompt": "« Je suis étudiant » : combien de syllabes ?",
+              "answers": [
+                "5"
+              ],
+              "choices": [
+                "3",
+                "4",
+                "5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

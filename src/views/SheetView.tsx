@@ -19,7 +19,7 @@ export function SheetView({ id }: { id: string }) {
           {sheet.covers.map((k) => {
             const r = sectionIndex.get(k);
             return r ? (
-              <a key={k} className="pill" href={href.lesson(r.lesson.id, r.section.id)}>{r.number} {r.section.title}</a>
+              <a key={k} className="pill" href={href.lesson(r.lesson.id, r.section.id)}>{r.label} {r.section.title}</a>
             ) : null;
           })}
         </div>

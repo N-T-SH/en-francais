@@ -694,3 +694,13 @@ tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--paper-2) 50%,
 .check { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
 .check input { margin-top: 4px; accent-color: var(--sage); width: 18px; height: 18px; }
 .check small { display: block; color: var(--ink-soft); font-size: 0.82rem; }
+
+/* Level tabs (A1 / A2 …) and unit progress in the library */
+.level-tabs { display: flex; width: 100%; max-width: 420px; margin: 14px 0 6px; }
+.level-tabs button { flex: 1; display: flex; flex-direction: column; align-items: center; line-height: 1.15; font-family: var(--serif); font-size: 1.05rem; padding: 8px 12px; }
+.level-tabs small { font-family: var(--sans); font-size: 0.7rem; font-weight: 500; color: var(--ink-faint); }
+.level-tabs button.is-on small { color: var(--ink-soft); }
+.level-name { margin: 0 0 4px; color: var(--ink-soft); font-size: 0.9rem; }
+.unit-title { flex-wrap: wrap; }
+.unit-name { flex: 1 1 auto; }
+.unit-count { margin-left: auto; font-family: var(--sans); font-size: 0.78rem; font-weight: 500; color: var(--ink-faint); }

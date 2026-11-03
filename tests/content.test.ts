@@ -41,15 +41,30 @@ describe("library structure", () => {
     .filter((f) => f.endsWith(".json"))
     .map((f) => Lesson.parse(JSON.parse(readFileSync(new URL(`../content/lessons/${f}`, import.meta.url), "utf8"))));
 
-  it("has unique lesson numbers, in order, matching the file prefix", () => {
-    const numbers = lessons.map((l) => l.number);
-    expect(new Set(numbers).size).toBe(numbers.length);
-    const sorted = [...lessons].sort((a, b) => a.order - b.order).map((l) => l.number);
-    expect(sorted).toEqual([...sorted].sort((a, b) => (a as number) - (b as number)));
+  const byLevel = (level: string) => lessons.filter((l) => l.level === level);
+
+  it("has unique lesson ids and numbers per level, in textbook order", () => {
+    expect(new Set(lessons.map((l) => l.id)).size).toBe(lessons.length);
+    for (const level of ["A1", "A2"]) {
+      const inLevel = byLevel(level);
+      const numbers = inLevel.map((l) => l.number);
+      expect(new Set(numbers).size, level).toBe(numbers.length);
+      const sorted = [...inLevel].sort((a, b) => a.order - b.order).map((l) => l.number as number);
+      expect(sorted, level).toEqual([...sorted].sort((a, b) => a - b));
+    }
   });
 
-  it("puts lessons 8–11 in unit 3", () => {
-    const unit3 = lessons.filter((l) => l.unit === 3).map((l) => l.number);
+  it("keeps the A2 lessons apart from the A1 ones", () => {
+    for (const l of byLevel("A2")) expect(l.id.startsWith("a2-"), l.id).toBe(true);
+    for (const l of byLevel("A1")) expect(l.id.startsWith("a2-"), l.id).toBe(false);
+  });
+
+  it("puts lessons 8–11 of A1 in unit 3", () => {
+    const unit3 = byLevel("A1").filter((l) => l.unit === 3).map((l) => l.number);
     expect(unit3).toEqual([8, 9, 10, 11]);
+  });
+
+  it("groups the A2 lessons four to a unit (3 lessons + Techniques pour…)", () => {
+    for (const l of byLevel("A2")) expect(l.unit, l.id).toBe(Math.ceil((l.number as number) / 4));
   });
 });
