@@ -1,0 +1,765 @@
+{
+  "id": "a2-raconter-une-experience-exceptionnelle",
+  "order": 118,
+  "number": 18,
+  "unit": 5,
+  "unitTitle": "Partagez",
+  "kicker": "Unité 5 · Leçon 18",
+  "title": "Raconter une expérience exceptionnelle",
+  "summary": "Adverbes en -ment · très, trop, beaucoup · exclamations · voyage et monument · sons /E/, /Œ/, /O/",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "adverbes-ment",
+      "title": "Les adverbes en -ment : exprimer la manière",
+      "minutes": 10,
+      "lede": "Adverbs in -ment say how an action is done. You build them from the adjective, usually its feminine form + -ment.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation",
+          "headers": [
+            "Adjectif",
+            "Féminin",
+            "Adverbe"
+          ],
+          "rows": [
+            [
+              "lent",
+              "lente",
+              "lentement"
+            ],
+            [
+              "clair",
+              "claire",
+              "clairement"
+            ],
+            [
+              "direct",
+              "directe",
+              "directement"
+            ],
+            [
+              "chaleureux",
+              "chaleureuse",
+              "chaleureusement"
+            ],
+            [
+              "rapide",
+              "rapide",
+              "rapidement"
+            ],
+            [
+              "heureux",
+              "heureuse",
+              "heureusement"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Cas particuliers",
+          "headers": [
+            "Terminaison de l'adjectif",
+            "Adverbe",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "-ent",
+              "-emment [amɑ̃]",
+              "fréquent → fréquemment · évident → évidemment"
+            ],
+            [
+              "-ant",
+              "-amment [amɑ̃]",
+              "constant → constamment · courant → couramment"
+            ],
+            [
+              "-é, -i, -u",
+              "adjectif masculin + -ment",
+              "vrai → vraiment · absolu → absolument · poli → poliment"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Regular rule: feminine adjective + -ment: lent → lente → lentement; heureux → heureuse → heureusement. “-ly” in English corresponds to -ment in French: slowly = lentement, clearly = clairement.\n- Adjectives ending in -ent / -ant: -ent → -emment, -ant → -amment, both pronounced [amɑ̃]: fréquemment, constamment. The only exception for -ent is lent → lentement.\n- After a vowel (é, i, u), the masculine is used: vrai → vraiment, poli → poliment, absolu → absolument. Also: gai → gaiement or gaîment.\n- Irregular: bon → bien (not “bonnement”), mauvais → mal, meilleur → mieux, petit → peu. Vite is an adverb already (not “vitement”): Il marche vite. Aussi: Il parle fort (not “fortement”, though fortement exists for “strongly”).\n- Position: after the conjugated verb: Il parle lentement. Il est rentré directement. In the passé composé, short adverbs go between auxiliary and participle (Il a bien mangé), long ones usually after (Il a mangé rapidement).\n- Adverbs are invariable: no agreement. Elles parlent lentement (never “lentes”)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Il parle lentement."
+            },
+            {
+              "fr": "Elle explique clairement."
+            },
+            {
+              "fr": "Nous avons été accueillis chaleureusement."
+            },
+            {
+              "fr": "Il est rentré directement."
+            },
+            {
+              "fr": "Il marche rapidement."
+            },
+            {
+              "fr": "Vous devez absolument visiter ce château."
+            },
+            {
+              "fr": "C'est vraiment beau !"
+            },
+            {
+              "fr": "Il vient fréquemment."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Formez l'adverbe",
+          "items": [
+            {
+              "prompt": "lent → ___",
+              "answers": [
+                "lentement"
+              ]
+            },
+            {
+              "prompt": "clair → ___",
+              "answers": [
+                "clairement"
+              ]
+            },
+            {
+              "prompt": "direct → ___",
+              "answers": [
+                "directement"
+              ]
+            },
+            {
+              "prompt": "chaleureux → ___",
+              "answers": [
+                "chaleureusement"
+              ]
+            },
+            {
+              "prompt": "vrai → ___",
+              "answers": [
+                "vraiment"
+              ]
+            },
+            {
+              "prompt": "absolu → ___",
+              "answers": [
+                "absolument"
+              ]
+            },
+            {
+              "prompt": "constant → ___",
+              "answers": [
+                "constamment"
+              ]
+            },
+            {
+              "prompt": "fréquent → ___",
+              "answers": [
+                "fréquemment"
+              ]
+            },
+            {
+              "prompt": "bon → ___",
+              "answers": [
+                "bien"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez avec l'adverbe",
+          "items": [
+            {
+              "prompt": "Sa façon de parler est naturelle. → Il parle ___ .",
+              "answers": [
+                "naturellement"
+              ]
+            },
+            {
+              "prompt": "Ses explications sont claires. → Il explique ___ .",
+              "answers": [
+                "clairement"
+              ]
+            },
+            {
+              "prompt": "Il est très sérieux. → Il travaille ___ .",
+              "answers": [
+                "sérieusement"
+              ]
+            },
+            {
+              "prompt": "Sa réponse est rapide. → Il répond ___ .",
+              "answers": [
+                "rapidement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tres-trop-beaucoup-exclamations",
+      "title": "Très, trop, beaucoup et les exclamations",
+      "minutes": 10,
+      "lede": "Three words express degree: très (very), trop (too much) and beaucoup (a lot). Each one works with a different type of word. Exclamations express enthusiasm.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Très, trop, beaucoup",
+          "headers": [
+            "Mot",
+            "Modifie",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "très",
+              "un adjectif ou un adverbe (jamais un verbe)",
+              "C'était très bon. Ça s'est très bien passé."
+            ],
+            [
+              "trop",
+              "un adjectif, un adverbe ou un verbe",
+              "C'est trop rapide. Il marche trop vite. Il marche trop."
+            ],
+            [
+              "beaucoup",
+              "un verbe (ou un nom avec de)",
+              "On a beaucoup marché. Il y a beaucoup de monde."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les exclamations",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "quel(le)(s) + nom + !",
+              "Quelle chance ! · Quel endroit incroyable !"
+            ],
+            [
+              "comme / qu'est-ce que + phrase + !",
+              "Comme c'est beau ! · Qu'est-ce que c'est beau !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Très + adjective / adverb: très grand, très bien, très vite. Never “très beaucoup” and never très + verb (not “j'aime très ça”: j'aime beaucoup ça). Très modifies adjectives and adverbs only.\n- Trop = too much: trop cher (too expensive), trop vite, trop manger. It is negative: Il fait trop chaud. Beaucoup = a lot: positive or neutral: J'ai beaucoup marché. Don't use très where you mean beaucoup.\n- Passé composé: beaucoup and trop go between the auxiliary and participle: On a beaucoup marché. Il a trop mangé. (not “on a marché beaucoup”).\n- Beaucoup de + noun, trop de + noun: beaucoup de monde, trop de bruit, trop d'amis. Never “beaucoup des”. See A1 Leçon 17.\n- Exclamation: quel agrees with the noun: Quel voyage ! Quelle chance ! Quels paysages ! Quelles vacances ! Comme + sentence: Comme c'est beau ! (more literary) / Qu'est-ce que c'est beau ! (spoken).\n- Quel / quelle in an exclamation has no article after: Quelle belle vue ! (not “quelle une belle vue”). Quel + adjective + noun is fine: Quelle belle vue !"
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "C'était très bon."
+            },
+            {
+              "fr": "Ça s'est très bien passé."
+            },
+            {
+              "fr": "C'est trop rapide."
+            },
+            {
+              "fr": "Il marchait trop vite."
+            },
+            {
+              "fr": "On a beaucoup marché."
+            },
+            {
+              "fr": "Quelle chance !"
+            },
+            {
+              "fr": "Comme c'est beau !"
+            },
+            {
+              "fr": "Qu'est-ce que c'est beau !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Très, trop ou beaucoup ?",
+          "items": [
+            {
+              "prompt": "Ce plat est ___ bon : j'adore.",
+              "answers": [
+                "très"
+              ],
+              "choices": [
+                "très",
+                "trop",
+                "beaucoup"
+              ]
+            },
+            {
+              "prompt": "Il a ___ mangé : il est malade.",
+              "answers": [
+                "trop"
+              ],
+              "choices": [
+                "très",
+                "trop",
+                "beaucoup"
+              ]
+            },
+            {
+              "prompt": "Nous avons ___ marché aujourd'hui.",
+              "answers": [
+                "beaucoup"
+              ],
+              "choices": [
+                "très",
+                "trop",
+                "beaucoup"
+              ]
+            },
+            {
+              "prompt": "La visite était ___ courte : je voulais rester plus longtemps.",
+              "answers": [
+                "trop"
+              ],
+              "choices": [
+                "très",
+                "trop",
+                "beaucoup"
+              ]
+            },
+            {
+              "prompt": "Il y a ___ de monde ici.",
+              "answers": [
+                "beaucoup"
+              ],
+              "choices": [
+                "très",
+                "trop",
+                "beaucoup"
+              ]
+            },
+            {
+              "prompt": "Elle parle ___ bien français.",
+              "answers": [
+                "très"
+              ],
+              "choices": [
+                "très",
+                "trop",
+                "beaucoup"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Exclamations",
+          "items": [
+            {
+              "prompt": "___ belle vue ! (quel)",
+              "answers": [
+                "Quelle"
+              ],
+              "choices": [
+                "Quel",
+                "Quelle",
+                "Quels",
+                "Comme"
+              ]
+            },
+            {
+              "prompt": "___ endroit incroyable ! (quel)",
+              "answers": [
+                "Quel"
+              ],
+              "choices": [
+                "Quel",
+                "Quelle",
+                "Quels",
+                "Comme"
+              ]
+            },
+            {
+              "prompt": "___ c'est beau ! (exclamation avec une phrase)",
+              "answers": [
+                "Comme"
+              ],
+              "choices": [
+                "Quel",
+                "Quelle",
+                "Comme"
+              ]
+            },
+            {
+              "prompt": "___ -ce que c'est bon ! (exclamation, forme orale)",
+              "answers": [
+                "Qu'est"
+              ],
+              "choices": [
+                "Qu'est",
+                "Quel",
+                "Quelle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyage-aerien-chateau-cuisine",
+      "title": "Voyage, monument, cuisine et expérience exceptionnelle",
+      "minutes": 9,
+      "lede": "Vocabulary for an extraordinary trip: flying, historical monuments, restaurants and adjectives to describe something unique.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Le transport aérien",
+          "items": [
+            {
+              "fr": "un aérodrome"
+            },
+            {
+              "fr": "un aller-retour"
+            },
+            {
+              "fr": "un hélicoptère",
+              "icon": "🚁"
+            },
+            {
+              "fr": "aérien"
+            },
+            {
+              "fr": "aérienne"
+            },
+            {
+              "fr": "atterrir"
+            },
+            {
+              "fr": "monter à bord"
+            },
+            {
+              "fr": "survoler"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le château",
+          "items": [
+            {
+              "fr": "les appartements privés"
+            },
+            {
+              "fr": "les chambres"
+            },
+            {
+              "fr": "la cour"
+            },
+            {
+              "fr": "les lieux secrets"
+            },
+            {
+              "fr": "sa majesté"
+            },
+            {
+              "fr": "le roi",
+              "icon": "👑"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La cuisine (2)",
+          "items": [
+            {
+              "fr": "un accueil"
+            },
+            {
+              "fr": "un déjeuner"
+            },
+            {
+              "fr": "une étoile",
+              "icon": "⭐"
+            },
+            {
+              "fr": "un menu"
+            },
+            {
+              "fr": "une table"
+            },
+            {
+              "fr": "déguster"
+            },
+            {
+              "fr": "savourer"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'exception",
+          "items": [
+            {
+              "fr": "exceptionnel"
+            },
+            {
+              "fr": "exceptionnelle"
+            },
+            {
+              "fr": "inoubliable"
+            },
+            {
+              "fr": "mémorable"
+            },
+            {
+              "fr": "privilégié"
+            },
+            {
+              "fr": "privilégiée"
+            },
+            {
+              "fr": "sensationnel"
+            },
+            {
+              "fr": "superbe"
+            },
+            {
+              "fr": "unique"
+            },
+            {
+              "fr": "de toute beauté"
+            },
+            {
+              "fr": "pas comme les autres"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Un aller-retour = a round trip (a return ticket); un aller simple = a one-way ticket. Atterrir = to land (plane), amerrir = to land on water. Survoler = to fly over. Monter à bord (de) = to board.\n- Déguster = to taste with attention (a wine, a dish); savourer = to enjoy slowly. Not “to degust”. Dégustation = a tasting. Un menu dégustation = a tasting menu. Une étoile = a star (also a Michelin star).\n- Un château = a castle or a stately home; un roi / une reine = a king / queen; sa majesté = his / her majesty (the possessive agrees with majesté (f.): sa majesté, even for a king).\n- Exceptionnel = exceptional (also “outstanding”). Inoubliable (unforgettable) and mémorable (memorable, worth remembering) are positive adjectives. Inoubliable has the prefix in- (not), like inconnu, incroyable.\n- Adjectives in -el: exceptionnel / exceptionnelle (double l and n), sensationnel / sensationnelle. Unique, superbe, magique, formidable don't change in the feminine.\n- Une expérience = an experience (not an experiment, which is une expérience scientifique too in French! Context: Elle a fait une expérience en laboratoire = she did an experiment)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Nous avons pris un hélicoptère pour survoler le château."
+            },
+            {
+              "fr": "L'hélicoptère a atterri près du château."
+            },
+            {
+              "fr": "On dégustait un menu de chef dans un restaurant étoilé."
+            },
+            {
+              "fr": "C'était une expérience inoubliable."
+            },
+            {
+              "fr": "La visite était exceptionnelle."
+            },
+            {
+              "fr": "Un aller-retour en hélicoptère, c'est mémorable !"
+            },
+            {
+              "fr": "Quel endroit unique !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un billet pour aller et revenir : un ___ .",
+              "answers": [
+                "aller-retour"
+              ]
+            },
+            {
+              "prompt": "Un avion qui se pose : il ___ . (atterrir)",
+              "answers": [
+                "atterrit"
+              ]
+            },
+            {
+              "prompt": "Un repas dans un restaurant étoilé est une expérience ___ . (adjectif)",
+              "answers": [
+                "exceptionnelle"
+              ]
+            },
+            {
+              "prompt": "Une expérience qu'on n'oublie pas est ___ .",
+              "answers": [
+                "inoubliable"
+              ]
+            },
+            {
+              "prompt": "Un restaurant très célèbre peut avoir une ___ au guide Michelin.",
+              "answers": [
+                "étoile"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Racontez une expérience exceptionnelle",
+          "prompt": "À deux, puis en groupe : racontez une expérience exceptionnelle (visite culturelle, voyage, rencontre…). Choisissez la plus exceptionnelle et expliquez pourquoi.",
+          "model": "L'été dernier, nous avons fait une promenade en montgolfière au-dessus de la campagne. Nous avons survolé des villages et des rivières. Nous avons ensuite déjeuné dans une ferme. C'était inoubliable ! Quelle chance d'avoir pu vivre ça !"
+        }
+      ]
+    },
+    {
+      "id": "sons-e-oe-o",
+      "title": "Les sons /E/, /Œ/ et /O/",
+      "minutes": 4,
+      "lede": "Three groups of vowels distinguished by lip position: /E/ is spread (e), /Œ/ is rounded and front (eu), /O/ is rounded and back (o).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trois groupes",
+          "headers": [
+            "Groupe",
+            "Sons",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "/E/",
+              "[e] et [ɛ] : souriant",
+              "majesté · déjeuner · chef · jamais"
+            ],
+            [
+              "/Œ/",
+              "[ə], [ø] et [œ] : arrondi, aigu",
+              "menu · lieu · chaleureux · accueil"
+            ],
+            [
+              "/O/",
+              "[o] et [ɔ] : arrondi, grave",
+              "beau · autre · aérodrome · bord"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- /E/ = lips spread (like a smile): é, è, ai, er, ez: majesté, jamais. /Œ/ = lips rounded, tongue forward: eu, œu, e: menu, lieu, accueil, sœur. /O/ = lips rounded, tongue back: o, au, eau: beau, aérodrome.\n- Closed [e] vs open [ɛ]: les [le] vs lait [lɛ]; é / ez / er = closed, è / ê / ai (final) / e + double consonant = open. Eu closed [ø] in deux / bleu; open [œ] before a pronounced consonant: peur, sœur, accueil.\n- Be careful: eau, au, o at the end of a syllable is closed [o]: beau, chaud, chose. O before a pronounced consonant is open [ɔ]: bord, porte, école.\n- Don't say the English diphthongs: beau is a pure [o], not “bow”; deux is a pure [ø]."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "majesté"
+            },
+            {
+              "fr": "déjeuner"
+            },
+            {
+              "fr": "chef"
+            },
+            {
+              "fr": "jamais"
+            },
+            {
+              "fr": "menu"
+            },
+            {
+              "fr": "lieu"
+            },
+            {
+              "fr": "chaleureux"
+            },
+            {
+              "fr": "accueil"
+            },
+            {
+              "fr": "beau"
+            },
+            {
+              "fr": "autre"
+            },
+            {
+              "fr": "aérodrome"
+            },
+            {
+              "fr": "bord"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quel groupe ?",
+          "items": [
+            {
+              "prompt": "Dans « déjeuner », la dernière voyelle est dans le groupe ___ .",
+              "answers": [
+                "/E/"
+              ],
+              "choices": [
+                "/E/",
+                "/Œ/",
+                "/O/"
+              ]
+            },
+            {
+              "prompt": "Dans « chaleureux », la dernière voyelle est dans le groupe ___ .",
+              "answers": [
+                "/Œ/"
+              ],
+              "choices": [
+                "/E/",
+                "/Œ/",
+                "/O/"
+              ]
+            },
+            {
+              "prompt": "Dans « beau », la voyelle est dans le groupe ___ .",
+              "answers": [
+                "/O/"
+              ],
+              "choices": [
+                "/E/",
+                "/Œ/",
+                "/O/"
+              ]
+            },
+            {
+              "prompt": "Dans « accueil », la voyelle « eu » est dans le groupe ___ .",
+              "answers": [
+                "/Œ/"
+              ],
+              "choices": [
+                "/E/",
+                "/Œ/",
+                "/O/"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

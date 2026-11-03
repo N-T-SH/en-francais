@@ -1,0 +1,427 @@
+{
+  "id": "a2-decrire-un-projet-de-vie",
+  "order": 119,
+  "number": 19,
+  "unit": 5,
+  "unitTitle": "Partagez",
+  "kicker": "Unité 5 · Leçon 19",
+  "title": "Décrire un projet de vie",
+  "summary": "Trop de · avant et après · ne … plus, ne … pas encore · adverbes en -ment (2) · le son [ʁ]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "trop-de-avant-apres",
+      "title": "Trop de + nom, avant et après",
+      "minutes": 9,
+      "lede": "Three small structures: trop de (too many / too much) with a noun, and avant / après to say what happens before or after something.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Trop de + nom",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "trop de / d' + nom",
+              "trop de problèmes · trop de frustrations · trop d'insatisfactions"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Avant et après",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "avant + nom",
+              "Avant la méditation, j'étais très stressé."
+            ],
+            [
+              "avant de + infinitif",
+              "Avant de devenir professeur, je dois me former."
+            ],
+            [
+              "après + nom",
+              "Après cette formation, je suivrai un stage."
+            ],
+            [
+              "après + infinitif passé",
+              "Après avoir fini, je suis rentré."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Trop de + noun (no article): trop de travail, trop d'amis, trop de bruit. Trop + adjective: trop cher. Never “trop des amis”. Compare beaucoup de, assez de, peu de, plus de.\n- Avant de + infinitive (not “avant” alone before a verb): Avant de partir, j'ai fermé la porte. Avant + noun: Avant le repas. Avant que + subjunctive is a different structure (not at A2).\n- Après + noun: Après le travail, je fais du sport. Après + verb: après avoir + past participle (Après avoir mangé, je suis parti) or après être + participle (Après être arrivé…). Do not say “après manger” (colloquial).\n- Avant / après + time: Avant midi / Après deux heures. Avant 2010, j'habitais à Lyon. Dès (as soon as): Dès que j'arrive… (not yet). Puis / ensuite = then, afterwards (see also d'abord, enfin).\n- Sequence markers: d'abord, ensuite, puis, enfin / à la fin. Use them to tell the steps of your project: D'abord je me forme, puis je cherche un stage, enfin je trouve un emploi.\n- Avant is a preposition; auparavant = beforehand (adverb, formal). After a past tense: avant → before; après → after: C'était avant la méditation."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Avant la méditation, j'étais très stressé."
+            },
+            {
+              "fr": "Avant de devenir professeur, je dois me former."
+            },
+            {
+              "fr": "Après cette formation, je suivrai un stage."
+            },
+            {
+              "fr": "Après avoir fini mes études, je voyagerai."
+            },
+            {
+              "fr": "Il y a trop de problèmes et trop de bruit."
+            },
+            {
+              "fr": "Trop d'amis, c'est fatigant !"
+            },
+            {
+              "fr": "Avant de dormir, je lis toujours."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Avant, avant de ou après ?",
+          "items": [
+            {
+              "prompt": "___ le repas, je lave mes mains. (juste avant)",
+              "answers": [
+                "Avant"
+              ],
+              "choices": [
+                "Avant",
+                "Avant de",
+                "Après"
+              ]
+            },
+            {
+              "prompt": "___ partir, je ferme la porte. (avant l'action)",
+              "answers": [
+                "Avant de"
+              ],
+              "choices": [
+                "Avant",
+                "Avant de",
+                "Après"
+              ]
+            },
+            {
+              "prompt": "___ la formation, je chercherai un stage. (ensuite)",
+              "answers": [
+                "Après"
+              ],
+              "choices": [
+                "Avant",
+                "Avant de",
+                "Après"
+              ]
+            },
+            {
+              "prompt": "___ dormir, je lis un livre. (avant)",
+              "answers": [
+                "Avant de"
+              ],
+              "choices": [
+                "Avant",
+                "Avant de",
+                "Après"
+              ]
+            },
+            {
+              "prompt": "Il y a ___ bruit ici ! (trop + nom)",
+              "answers": [
+                "trop de"
+              ],
+              "choices": [
+                "trop",
+                "trop de",
+                "trop des"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ne-plus-pas-encore",
+      "title": "La négation : ne … plus et ne … pas encore",
+      "minutes": 10,
+      "lede": "Two more negations: ne … plus (no longer) and ne … pas encore (not yet). Each has a positive counterpart: toujours / encore and déjà.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les négations",
+          "headers": [
+            "Négation",
+            "Contraire positif",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "ne … plus (no longer)",
+              "toujours, encore (still)",
+              "Je n'ai plus l'énergie. ≠ J'ai toujours l'énergie."
+            ],
+            [
+              "ne … pas encore (not yet)",
+              "déjà (already)",
+              "Vous n'êtes pas encore fatigué. ≠ Vous êtes déjà fatigué."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Ne … plus: the plus is pronounced [ply] before a consonant, [plyz] before a vowel in speech, and [plys] at the end of a sentence (Je n'en veux plus [plys]). Don't confuse with plus = more: J'en veux plus (I want more) vs Je n'en veux plus (I don't want any more).\n- Ne … plus replaces the positive toujours / encore: Tu travailles encore ? – Non, je ne travaille plus. Je n'habite plus à Paris = I no longer live in Paris.\n- Ne … pas encore = not yet: Il n'est pas encore là. Short answer: Pas encore ! (Not yet!) The positive: Il est déjà là (he's already here).\n- Position: around the conjugated verb: Je n'ai plus de temps. Je ne suis pas encore prêt. In the passé composé: Je n'ai plus mangé. Je n'ai pas encore mangé. (plus and pas encore go after the auxiliary).\n- After ne … plus the partitive becomes de: Je n'ai plus de temps, plus d'énergie. Same as ne … pas de / ne … jamais de.\n- French has several negatives: ne … pas, ne … jamais, ne … rien, ne … plus, ne … pas encore, ne … personne. They all surround the conjugated verb. In informal speech ne is dropped (J'ai plus d'énergie), but write it in full."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je n'ai plus l'énergie."
+            },
+            {
+              "fr": "Vous ne pouvez plus supporter votre routine."
+            },
+            {
+              "fr": "Vous n'êtes pas encore fatigué de vos activités."
+            },
+            {
+              "fr": "Il n'est pas encore là."
+            },
+            {
+              "fr": "Je n'habite plus à Paris."
+            },
+            {
+              "fr": "Tu as déjà fini ? Non, pas encore !"
+            },
+            {
+              "fr": "Elle ne travaille plus ici."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Plus, encore ou déjà ?",
+          "items": [
+            {
+              "prompt": "Je suis ___ fatigué : il n'est que midi ! (déjà)",
+              "answers": [
+                "déjà"
+              ],
+              "choices": [
+                "déjà",
+                "pas encore",
+                "plus"
+              ]
+            },
+            {
+              "prompt": "Il n'est ___ prêt : il doit finir. (pas encore)",
+              "answers": [
+                "pas encore"
+              ],
+              "choices": [
+                "déjà",
+                "pas encore",
+                "plus"
+              ]
+            },
+            {
+              "prompt": "Je n'ai ___ d'énergie. (ne … plus)",
+              "answers": [
+                "plus"
+              ],
+              "choices": [
+                "déjà",
+                "pas encore",
+                "plus"
+              ]
+            },
+            {
+              "prompt": "Elle ne travaille ___ ici : elle est partie. (ne … plus)",
+              "answers": [
+                "plus"
+              ],
+              "choices": [
+                "déjà",
+                "pas encore",
+                "plus"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Mettez à la forme négative",
+          "items": [
+            {
+              "prompt": "J'habite toujours à Paris. → Je n'habite ___ à Paris.",
+              "answers": [
+                "plus"
+              ]
+            },
+            {
+              "prompt": "Il est déjà là. → Il n'est ___ encore là.",
+              "answers": [
+                "pas"
+              ]
+            },
+            {
+              "prompt": "Tu as encore faim ? → Tu n'as ___ faim ?",
+              "answers": [
+                "plus"
+              ]
+            },
+            {
+              "prompt": "Elle a déjà fini. → Elle n'a ___ encore fini.",
+              "answers": [
+                "pas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adverbes-ment-2",
+      "title": "Les adverbes en -ment (2) et le son [ʁ]",
+      "minutes": 8,
+      "lede": "The adverbs in -emment and -amment, and the French r sound, which is made in the throat.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Adjectifs en -ent / -ant",
+          "headers": [
+            "Adjectif",
+            "Adverbe"
+          ],
+          "rows": [
+            [
+              "fréquent",
+              "fréquemment [fʁekamɑ̃]"
+            ],
+            [
+              "évident",
+              "évidemment"
+            ],
+            [
+              "constant",
+              "constamment"
+            ],
+            [
+              "courant",
+              "couramment"
+            ],
+            [
+              "lent (exception)",
+              "lentement"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- -emment and -amment are both pronounced [amɑ̃]: fréquemment [fʁekamɑ̃], constamment [kɔ̃stamɑ̃]. They sound the same; check the spelling: -ent adjective → -emment; -ant adjective → -amment.\n- The French r [ʁ] is a light sound made at the back of the throat. It is not the English r or a rolled r. Practise by gargling softly or saying a long “ah” and closing the back of the tongue slightly.\n- Examples: un cours, former, un centre, arrête. The r after a vowel is very light, sometimes almost disappears: Arrêtez ! [aʁete].\n- A final -r in -er verbs is silent: former [fɔʁme], parler [paʁle]. But r is pronounced in mer, hiver, un cours (r at the end of the noun)."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "un cours"
+            },
+            {
+              "fr": "former"
+            },
+            {
+              "fr": "un centre"
+            },
+            {
+              "fr": "arrête"
+            },
+            {
+              "fr": "Arrêtez !"
+            },
+            {
+              "fr": "fréquemment"
+            },
+            {
+              "fr": "constamment"
+            },
+            {
+              "fr": "évidemment"
+            },
+            {
+              "fr": "couramment"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "-emment ou -amment ?",
+          "items": [
+            {
+              "prompt": "fréquent → fréqu___ (-emment ou -amment)",
+              "answers": [
+                "emment"
+              ],
+              "choices": [
+                "emment",
+                "amment"
+              ]
+            },
+            {
+              "prompt": "constant → const___",
+              "answers": [
+                "amment"
+              ],
+              "choices": [
+                "emment",
+                "amment"
+              ]
+            },
+            {
+              "prompt": "évident → évid___",
+              "answers": [
+                "emment"
+              ],
+              "choices": [
+                "emment",
+                "amment"
+              ]
+            },
+            {
+              "prompt": "courant → cour___",
+              "answers": [
+                "amment"
+              ],
+              "choices": [
+                "emment",
+                "amment"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Un projet de vie",
+          "prompt": "Décrivez un projet de vie (réel ou imaginaire), étape par étape : où et comment vous voulez changer de vie. Utilisez d'abord, ensuite, puis, enfin, avant de, après, ne … plus, ne … pas encore.",
+          "model": "D'abord, je vais finir mes études. Ensuite, je chercherai un travail dans le tourisme. Avant de partir à l'étranger, je dois apprendre l'espagnol. Je n'ai pas encore de projet précis, mais je ne veux plus travailler dans un bureau. Enfin, j'aimerais ouvrir une petite agence de voyages."
+        }
+      ]
+    }
+  ]
+}

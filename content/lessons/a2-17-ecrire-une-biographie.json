@@ -1,0 +1,517 @@
+{
+  "id": "a2-ecrire-une-biographie",
+  "order": 117,
+  "number": 17,
+  "unit": 5,
+  "unitTitle": "Partagez",
+  "kicker": "Unité 5 · Leçon 17",
+  "title": "Écrire une biographie",
+  "summary": "Passé composé et imparfait · il y a, depuis, pendant, en · sport et engagement associatif",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "pc-imparfait-recit",
+      "title": "Le passé composé et l'imparfait pour faire un récit",
+      "minutes": 11,
+      "lede": "A biography uses both tenses together: the passé composé for the events that make up the story, and the imparfait for the circumstances around them (age, feelings, background).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux temps, deux rôles",
+          "headers": [
+            "Temps",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "passé composé",
+              "un événement ponctuel, chronologique",
+              "Le 12 mai 2010, elle a gagné son premier titre."
+            ],
+            [
+              "imparfait",
+              "la situation, les circonstances, le contexte",
+              "Elle avait vingt ans. Elle s'entraînait tous les jours."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Passé composé answers “what happened?” (the main events, in order). Imparfait answers “what was it like?” (age, weather, feelings, habits, what was going on). A biography alternates: Elle voulait devenir pilote, mais à seize ans, elle a eu un accident.\n- Typical imparfait expressions: tous les jours, souvent, toujours, à cette époque, quand elle était petite, pendant son enfance. Typical passé composé expressions: un jour, en 2012, le 3 mars, soudain, ensuite.\n- Age at an event: Elle avait 16 ans quand elle a eu son accident. (imparfait for the age, passé composé for the event). Never: “elle a eu 16 ans quand…”. But Elle a eu seize ans en mars is also correct for “she turned 16”.\n- Two actions in the past: the one in progress is imparfait, the interruption is passé composé: Elle s'entraînait quand le téléphone a sonné.\n- Verbs of state (être, avoir, vouloir, savoir, penser, croire, pouvoir) are usually in the imparfait unless the sentence marks a precise moment: Il voulait gagner (he wanted: state). Il a voulu abandonner à ce moment-là (he decided at that moment).\n- Some verbs change meaning: Elle savait nager (she knew how to swim) / Elle a su la nouvelle (she learned the news). Il connaissait Paul (he knew Paul) / Il a connu Paul en 2010 (he met Paul)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Quand elle était petite, elle rêvait de faire de la boxe."
+            },
+            {
+              "fr": "Elle a commencé la boxe à quinze ans."
+            },
+            {
+              "fr": "Les entraînements étaient difficiles, mais elle a décidé de continuer."
+            },
+            {
+              "fr": "Elle voulait devenir championne olympique."
+            },
+            {
+              "fr": "Elle avait dix-huit ans quand elle a gagné son premier combat."
+            },
+            {
+              "fr": "Elle a pratiqué ce sport jusqu'à trente ans."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Passé composé ou imparfait ?",
+          "items": [
+            {
+              "prompt": "Quand elle ___ petite, elle rêvait de boxe. (être)",
+              "answers": [
+                "était"
+              ]
+            },
+            {
+              "prompt": "Elle ___ la boxe à 15 ans. (commencer : événement)",
+              "answers": [
+                "a commencé"
+              ]
+            },
+            {
+              "prompt": "Les entraînements ___ difficiles. (être : description)",
+              "answers": [
+                "étaient"
+              ]
+            },
+            {
+              "prompt": "Elle ___ devenir championne. (vouloir : désir de l'époque)",
+              "answers": [
+                "voulait"
+              ]
+            },
+            {
+              "prompt": "Elle ___ 18 ans quand elle a gagné. (avoir : âge)",
+              "answers": [
+                "avait"
+              ]
+            },
+            {
+              "prompt": "Elle ___ son premier titre en 2012. (gagner : événement)",
+              "answers": [
+                "a gagné"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "il-y-a-depuis-pendant",
+      "title": "Il y a, depuis, pendant, de… à…, en : situer et mesurer le temps",
+      "minutes": 11,
+      "lede": "Five small words that look similar but place or measure time in different ways. This is a classic A2 trap.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Situer dans le temps",
+          "headers": [
+            "Expression",
+            "Sens",
+            "Verbe",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "il y a + durée",
+              "an event finished X ago",
+              "passé composé",
+              "Vous avez arrêté la compétition il y a trois ans."
+            ],
+            [
+              "depuis + durée ou moment",
+              "an event that started and still continues",
+              "présent",
+              "Elle pratique l'athlétisme depuis l'âge de 6 ans."
+            ],
+            [
+              "pendant + durée",
+              "how long something lasted (completed)",
+              "passé composé",
+              "Pendant treize ans, elle a gagné des compétitions."
+            ],
+            [
+              "de … à …",
+              "the start and the end",
+              "passé composé",
+              "de 2006 à 2018"
+            ],
+            [
+              "en + durée",
+              "the time needed to do something",
+              "passé composé",
+              "En trois ans, vous avez fait beaucoup pour le sport."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Il y a + duration = ago: Il y a trois ans, j'ai arrêté. (Three years ago). Depuis + duration = for / since: J'habite ici depuis trois ans (and I still live here). Present tense with depuis: French says J'habite, not “j'ai habité”.\n- Depuis can take a moment (depuis 2018, depuis lundi, depuis l'âge de 6 ans) or a length (depuis trois ans). Both mean the action continues now.\n- Pendant = for (how long): J'ai habité à Paris pendant cinq ans (I lived there for five years, and I've moved since). Pendant can also be “during”: pendant les vacances. Pendant is often dropped in speech: J'ai habité cinq ans à Paris.\n- En + duration = in (how much time to complete): J'ai fini en deux heures. Dans + duration = in (from now): Je finis dans deux heures (future).\n- Compare four tenses: Il y a trois ans, j'ai déménagé (past) / J'habite ici depuis trois ans (still) / J'ai travaillé pendant trois ans (finished) / J'ai tout fait en trois ans (to complete a task).\n- Common mistake: using the passé composé with depuis (“j'ai habité depuis trois ans”): with depuis, use the present or imparfait (Il habitait là depuis trois ans quand…)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Il y a trois ans, elle a arrêté la compétition."
+            },
+            {
+              "fr": "Elle fait de l'athlétisme depuis l'âge de six ans."
+            },
+            {
+              "fr": "Pendant treize ans, elle a gagné des compétitions."
+            },
+            {
+              "fr": "Elle a été championne de deux mille six à deux mille dix-huit.",
+              "label": "Elle a été championne de 2006 à 2018."
+            },
+            {
+              "fr": "En un an, elle a fait des progrès incroyables."
+            },
+            {
+              "fr": "Elle habite à Lyon depuis deux ans."
+            },
+            {
+              "fr": "Il y a un mois, elle a déménagé."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Il y a ou depuis ?",
+          "items": [
+            {
+              "prompt": "Elle a arrêté la boxe ___ trois ans. (événement passé)",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "il y a",
+                "depuis",
+                "pendant"
+              ]
+            },
+            {
+              "prompt": "Il habite ici ___ dix ans. (c'est toujours vrai)",
+              "answers": [
+                "depuis"
+              ],
+              "choices": [
+                "il y a",
+                "depuis",
+                "pendant"
+              ]
+            },
+            {
+              "prompt": "Elle a été championne ___ treize ans. (période terminée)",
+              "answers": [
+                "pendant"
+              ],
+              "choices": [
+                "il y a",
+                "depuis",
+                "pendant"
+              ]
+            },
+            {
+              "prompt": "Elle est présidente ___ 2018. (toujours)",
+              "answers": [
+                "depuis"
+              ],
+              "choices": [
+                "il y a",
+                "depuis",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Ils ont gagné le titre ___ un mois. (passé)",
+              "answers": [
+                "il y a"
+              ],
+              "choices": [
+                "il y a",
+                "depuis",
+                "pendant"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Pendant, en ou de … à … ?",
+          "items": [
+            {
+              "prompt": "Il court le 100 mètres ___ moins de dix secondes. (durée pour accomplir)",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "pendant",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Elle a joué ___ toute sa carrière. (durée)",
+              "answers": [
+                "pendant"
+              ],
+              "choices": [
+                "pendant",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Il a travaillé ___ 2010 à 2015. (début et fin)",
+              "answers": [
+                "de"
+              ],
+              "choices": [
+                "de",
+                "pendant",
+                "en"
+              ]
+            },
+            {
+              "prompt": "J'ai appris cette langue ___ six mois. (pour la maîtriser)",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "pendant",
+                "en"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sport-handisport",
+      "title": "Le sport, le handisport et l'engagement associatif",
+      "minutes": 9,
+      "lede": "Vocabulary for sports, competitions, medals and the people and organisations around them.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les disciplines",
+          "items": [
+            {
+              "fr": "l'athlétisme"
+            },
+            {
+              "fr": "le cent mètres"
+            },
+            {
+              "fr": "le saut en longueur"
+            },
+            {
+              "fr": "le saut en hauteur"
+            },
+            {
+              "fr": "le saut à la perche"
+            },
+            {
+              "fr": "le triple saut"
+            },
+            {
+              "fr": "la boxe",
+              "icon": "🥊"
+            },
+            {
+              "fr": "la natation",
+              "icon": "🏊"
+            },
+            {
+              "fr": "le basket",
+              "icon": "🏀"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les compétitions",
+          "items": [
+            {
+              "fr": "les Jeux olympiques"
+            },
+            {
+              "fr": "les Jeux paralympiques"
+            },
+            {
+              "fr": "les Championnats d'Europe"
+            },
+            {
+              "fr": "les Championnats du monde"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les titres et les médailles",
+          "items": [
+            {
+              "fr": "un palmarès"
+            },
+            {
+              "fr": "un champion"
+            },
+            {
+              "fr": "une championne"
+            },
+            {
+              "fr": "une médaille d'or",
+              "icon": "🥇"
+            },
+            {
+              "fr": "une médaille d'argent",
+              "icon": "🥈"
+            },
+            {
+              "fr": "une médaille de bronze",
+              "icon": "🥉"
+            },
+            {
+              "fr": "un record du monde"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le milieu sportif",
+          "items": [
+            {
+              "fr": "un athlète"
+            },
+            {
+              "fr": "une athlète"
+            },
+            {
+              "fr": "une carrière sportive"
+            },
+            {
+              "fr": "le comité olympique"
+            },
+            {
+              "fr": "un entraîneur"
+            },
+            {
+              "fr": "une entraîneuse"
+            },
+            {
+              "fr": "une association"
+            },
+            {
+              "fr": "un bénévole"
+            },
+            {
+              "fr": "une bénévole"
+            },
+            {
+              "fr": "parrainer"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Le handisport = sport for people with disabilities (also called le sport adapté, le parasport). Les Jeux paralympiques = the Paralympic Games. Paralympique, olympique: spelled with y (olympique).\n- Le cent mètres [lə sɑ̃ mɛtʁ]: write 100 m; say it in words. Les Jeux olympiques d'été / d'hiver. The plural of athlète is athlètes; the noun is invariable in gender: un athlète / une athlète.\n- Médaille d'or / d'argent / de bronze: use d' with or and argent, de with bronze. Un record du monde = a world record; battre un record = to break a record (not “break” in the sense of damaging).\n- Un palmarès = a list of wins and honours. Une carrière = a career. Un champion / une championne: championne in the feminine; Championnat = a championship (competition).\n- Parrainer (also parrain / marraine = godfather / godmother) = to sponsor, to support: Elle parraine une association. Un sponsor is also used for company sponsors.\n- Une association = a non-profit organisation (loi 1901). Un bénévole = a volunteer (unpaid). Un volontaire is also a volunteer (usually with a long-term mission)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Elle a gagné une médaille d'or au saut en longueur."
+            },
+            {
+              "fr": "Il a battu le record du monde."
+            },
+            {
+              "fr": "Elle est championne d'Europe depuis deux mille dix-huit.",
+              "label": "Elle est championne d'Europe depuis 2018."
+            },
+            {
+              "fr": "Les Jeux paralympiques ont lieu après les Jeux olympiques."
+            },
+            {
+              "fr": "Il pratique le saut en hauteur."
+            },
+            {
+              "fr": "Elle parraine une association sportive."
+            },
+            {
+              "fr": "Un bénévole aide à organiser la course."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "On gagne une médaille d'___ si on est premier.",
+              "answers": [
+                "or"
+              ]
+            },
+            {
+              "prompt": "La liste de tous les titres d'un athlète s'appelle le ___ .",
+              "answers": [
+                "palmarès"
+              ]
+            },
+            {
+              "prompt": "Un sport avec un grand bassin d'eau : la ___ .",
+              "answers": [
+                "natation"
+              ]
+            },
+            {
+              "prompt": "Une personne qui aide sans être payée est un ___ .",
+              "answers": [
+                "bénévole"
+              ]
+            },
+            {
+              "prompt": "Les Jeux ___ sont organisés tous les quatre ans pour les athlètes handicapés.",
+              "answers": [
+                "paralympiques"
+              ]
+            },
+            {
+              "prompt": "Battre un ___ , c'est faire mieux que tout le monde avant.",
+              "answers": [
+                "record"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "La biographie d'un(e) sportif(ve)",
+          "prompt": "Écrivez la biographie d'un sportif ou d'une sportive (réel ou imaginaire) : des moments importants de sa vie personnelle et sportive. Utilisez le passé composé, l'imparfait, il y a, depuis, pendant.",
+          "model": "Lucas Moreau est né à Marseille en 1995. Quand il était petit, il adorait la natation. Il a commencé la compétition à douze ans. Il a gagné sa première médaille d'or en 2016. Pendant dix ans, il a été champion de France. Il a arrêté sa carrière il y a deux ans. Depuis, il est entraîneur."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a2-techniques-pour-poeme-texte",
+  "order": 120,
+  "number": 20,
+  "unit": 5,
+  "unitTitle": "Partagez",
+  "kicker": "Unité 5 · Leçon 20",
+  "title": "Techniques pour…",
+  "summary": "Écrire un poème · la médiation : réagir à un texte littéraire, créatif ou poétique",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "ecrire-un-poeme",
+      "title": "Écrire un poème",
+      "minutes": 10,
+      "lede": "A poem has a theme, a title, stanzas (strophes), lines (vers), syllables and rhymes. You can write a short one by following a few steps.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les étapes pour écrire un poème",
+          "headers": [
+            "Étape",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1. Choisir un thème",
+              "La mer"
+            ],
+            [
+              "2. Choisir un titre",
+              "Vagues"
+            ],
+            [
+              "3. Décider du nombre de strophes, de vers et de syllabes",
+              "2 strophes · 4 vers par strophe · 6 syllabes par vers"
+            ],
+            [
+              "4. Trouver des mots qui riment",
+              "mer / hiver · sable / aimable"
+            ],
+            [
+              "5. Écrire et lire à voix haute",
+              "Vérifier le rythme"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Strophe = stanza, vers = line of verse (singular and plural both vers: un vers, des vers), rime = rhyme. Un poème (masculine!), un recueil = a collection of poems, un poète / une poétesse = a poet.\n- Counting syllables: a final silent e at the end of a line is not counted: Partez au loin (4 syllables: par-tez-au-loin). Inside a line, a silent e before a consonant is counted in poetry (une petite fleur = u-ne-pe-ti-te-fleur), but is elided before a vowel (une amie = u-na-mie). For A2 the easiest method is to read the line aloud and clap each syllable.\n- Rhyme: two words that end with the same sound: mer / hiver / fer; soleil / sommeil. Rhyme is based on sound, not spelling: chant / champ rhyme though spelled differently. Types of rhyme: AABB (couplets), ABAB (alternating), ABBA (enclosed).\n- Imperative in poems: Partez ! Regardez ! Rêvez ! (vous) or Pars ! Regarde ! (tu). Poems also use the infinitive and the present for images. Metaphors and images matter more than grammar rules.\n- Poetic license: you may drop articles or change word order for rhythm: Au loin, la mer ; au loin, l'espoir. French poetry often uses inversion: Dans le vent chante la mer."
+        },
+        {
+          "type": "phrases",
+          "title": "Un poème d'exemple",
+          "items": [
+            {
+              "fr": "Regardez la mer"
+            },
+            {
+              "fr": "Qui brille au soleil ;"
+            },
+            {
+              "fr": "Écoutez le vent"
+            },
+            {
+              "fr": "Chanter le réveil."
+            },
+            {
+              "fr": "Partez sur le sable"
+            },
+            {
+              "fr": "Marcher doucement,"
+            },
+            {
+              "fr": "Rêvez d'un voyage"
+            },
+            {
+              "fr": "Au bord de l'océan."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le vocabulaire du poème",
+          "items": [
+            {
+              "prompt": "Un groupe de vers dans un poème s'appelle une ___ .",
+              "answers": [
+                "strophe"
+              ]
+            },
+            {
+              "prompt": "Deux mots qui ont la même fin de son riment : ils font une ___ .",
+              "answers": [
+                "rime"
+              ]
+            },
+            {
+              "prompt": "Une ligne d'un poème s'appelle un ___ .",
+              "answers": [
+                "vers"
+              ]
+            },
+            {
+              "prompt": "Un livre qui réunit plusieurs poèmes est un ___ .",
+              "answers": [
+                "recueil"
+              ]
+            },
+            {
+              "prompt": "Une personne qui écrit des poèmes est un ___ .",
+              "answers": [
+                "poète"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Écrivez un poème",
+          "prompt": "Écrivez un poème de quatre vers : choisissez un thème, listez le vocabulaire nécessaire, décidez du nombre de syllabes par vers, rédigez le poème avec des rimes et choisissez un titre.",
+          "model": "Titre : Mon jardin. Dans mon petit jardin / Il y a du soleil, / Des fleurs et du romarin / Et des oiseaux qui s'éveillent."
+        }
+      ]
+    },
+    {
+      "id": "mediation-texte-litteraire",
+      "title": "La médiation : réagir à un texte littéraire, créatif ou poétique",
+      "minutes": 9,
+      "lede": "Mediation: after reading a poem or a creative text, you give your reaction: do you like it, why, and what does it mean to you?",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Réagir à un texte",
+          "headers": [
+            "Fonction",
+            "Expressions"
+          ],
+          "rows": [
+            [
+              "Donner un avis positif",
+              "J'aime bien ce poème. · C'est beau. · J'aime les rimes. · Je le trouve très original."
+            ],
+            [
+              "Donner un avis négatif",
+              "Je n'aime pas ce poème. · Il n'est pas très original. · Ce n'est pas très intéressant. · Je préfère les poèmes sans rimes."
+            ],
+            [
+              "Justifier",
+              "parce que … · car … · J'aime bien les images."
+            ],
+            [
+              "Comparer",
+              "Je préfère… · J'aime mieux… · C'est plus … que …"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Opinion verbs: aimer (bien), adorer, détester, préférer, trouver + adjective: Je trouve ce poème triste (not “je trouve que ce poème est triste” (that is also fine)). Penser que + indicative: Je pense que ce poème est beau.\n- Je préfère A à B: Je préfère les poèmes sans rimes aux poèmes avec rimes. Préférer is followed by à before the thing you like less. J'aime mieux = I prefer (like better) is more informal.\n- Neutral and polite ways to disagree: Je ne suis pas d'accord avec… / Je comprends mais… / Pour moi, … Avoid “c'est nul” (rude) in a formal discussion; prefer Ce n'est pas très intéressant.\n- Justify with parce que + verb, or à cause de + noun: Je n'aime pas ce poème parce qu'il n'est pas original. Car (formal) = because: it can't start a sentence in speech.\n- Say what the text makes you feel: Ce poème me fait penser à… / Il me donne envie de voyager / Je me sens triste en le lisant.\n- A comment on a forum: short, polite, personal. Begin with your reaction, then the reason."
+        },
+        {
+          "type": "phrases",
+          "title": "Des commentaires sur un poème",
+          "items": [
+            {
+              "fr": "J'aime bien ce poème, il est très beau."
+            },
+            {
+              "fr": "J'aime les rimes et le rythme."
+            },
+            {
+              "fr": "Il n'est pas très original."
+            },
+            {
+              "fr": "Je préfère les poèmes sans rimes."
+            },
+            {
+              "fr": "Ce poème me fait penser à la mer."
+            },
+            {
+              "fr": "Je ne suis pas d'accord avec toi."
+            },
+            {
+              "fr": "Pour moi, c'est un poème optimiste."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Donnez un avis",
+          "items": [
+            {
+              "prompt": "J'___ bien ce poème. (aimer)",
+              "answers": [
+                "aime"
+              ]
+            },
+            {
+              "prompt": "Il n'est pas très ___ . (nouveau, différent)",
+              "answers": [
+                "original"
+              ]
+            },
+            {
+              "prompt": "Je ___ les poèmes sans rimes. (préférer)",
+              "answers": [
+                "préfère"
+              ]
+            },
+            {
+              "prompt": "Je ne suis pas d'___ avec toi.",
+              "answers": [
+                "accord"
+              ]
+            },
+            {
+              "prompt": "Ce poème me fait ___ à la mer. (penser)",
+              "answers": [
+                "penser"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre commentaire",
+          "prompt": "Relisez un poème (le vôtre ou celui d'un camarade). Écrivez une appréciation pour un site de poésie : donnez votre avis positif ou négatif et justifiez. Partagez-le avec votre groupe.",
+          "model": "J'aime beaucoup ce poème parce qu'il parle de la nature et qu'il est très simple. J'aime les rimes. Il me fait penser à mon enfance. Pour moi, c'est un poème optimiste."
+        }
+      ]
+    }
+  ]
+}
