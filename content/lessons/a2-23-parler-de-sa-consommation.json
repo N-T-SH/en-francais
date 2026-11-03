@@ -1,0 +1,724 @@
+{
+  "id": "a2-parler-de-sa-consommation",
+  "order": 123,
+  "number": 23,
+  "unit": 6,
+  "unitTitle": "Engagez-vous",
+  "kicker": "Unité 6 · Leçon 23",
+  "title": "Parler de sa consommation",
+  "summary": "Partitifs et quantités · le pronom en, ne … que · achats et écologie · sons [p] et [b]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "quantite-partitifs",
+      "title": "Les quantités et les articles partitifs",
+      "minutes": 10,
+      "lede": "To talk about what we buy, we say how much: either an imprecise amount (du, de la, des) or a precise amount (un kilo de, un peu de, beaucoup de).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Articles partitifs",
+          "headers": [
+            "masculin",
+            "féminin",
+            "pluriel"
+          ],
+          "rows": [
+            [
+              "du café",
+              "de la lessive",
+              "des pâtes"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "De l' devant une voyelle",
+          "headers": [
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "de l'ail · de l'huile · de l'eau"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les quantités précises",
+          "headers": [
+            "Type",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "quantité déterminée",
+              "un kilo de, un gramme de, un litre de, deux cents grammes de, une poignée de"
+            ],
+            [
+              "quantité indéterminée",
+              "beaucoup de, un peu de, plein de, trop de"
+            ],
+            [
+              "quantité zéro",
+              "pas de, plus de, jamais de"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Partitive articles (du, de la, de l', des) name an unspecified amount of something you can't count: du café, de la lessive, de l'eau, des céréales. English often has no word: I buy bread; French: J'achète du pain.\n- After a precise quantity, pas de, jamais de, plus de, beaucoup de, un peu de: always de (d') alone: un kilo de riz, beaucoup de lait, pas de plastique, trop d'emballages. Never “un kilo du riz”.\n- Un (petit) peu de = a little (positive): Il y a un peu de lait. Peu de = few / little (negative): Il y a peu de lait (not enough). Plein de (informal) = lots of.\n- Un paquet de, une boîte de, une bouteille de, un sac de, un pot de, un flacon de: containers + de. Une poignée de = a handful of. Un litre de (liquids), un kilo (weight), 250 grammes.\n- Gram: un gramme, 50 grammes: grammes takes an s. Kilo = kilogramme (short form, informal); un demi-kilo = half a kilo; 500 g = cinq cents grammes.\n- With a negation, du/de la/des → de: Je n'achète pas de plastique. Je n'ai plus de lessive. Same rule as in A1 Leçon 17."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je prends du café et de la lessive."
+            },
+            {
+              "fr": "J'achète des pâtes et de l'huile."
+            },
+            {
+              "fr": "Un kilo de riz, s'il vous plaît."
+            },
+            {
+              "fr": "Deux cents grammes de chocolat."
+            },
+            {
+              "fr": "Il y a beaucoup de légumes et un peu de fromage."
+            },
+            {
+              "fr": "Je n'achète plus de plastique."
+            },
+            {
+              "fr": "Une poignée d'amandes."
+            },
+            {
+              "fr": "Un litre de lait."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Du, de la, de l' ou des ?",
+          "items": [
+            {
+              "prompt": "Je prends ___ café.",
+              "answers": [
+                "du"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "J'achète ___ lessive.",
+              "answers": [
+                "de la"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Il mange ___ pâtes.",
+              "answers": [
+                "des"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Elle boit ___ eau.",
+              "answers": [
+                "de l'"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            },
+            {
+              "prompt": "Nous achetons ___ céréales.",
+              "answers": [
+                "des"
+              ],
+              "choices": [
+                "du",
+                "de la",
+                "de l'",
+                "des"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quantités précises",
+          "items": [
+            {
+              "prompt": "Un kilo ___ riz.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Un peu ___ lait.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Beaucoup ___ légumes.",
+              "answers": [
+                "de"
+              ]
+            },
+            {
+              "prompt": "Une poignée ___ amandes.",
+              "answers": [
+                "d'"
+              ]
+            },
+            {
+              "prompt": "Je n'achète pas ___ plastique.",
+              "answers": [
+                "de"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronom-en-ne-que",
+      "title": "Le pronom en et ne … que",
+      "minutes": 11,
+      "lede": "The pronoun en replaces a noun with du, de la, des or a quantity. And ne … que means “only”: it is not a negation.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le pronom en",
+          "headers": [
+            "Phrase avec nom",
+            "Phrase avec en"
+          ],
+          "rows": [
+            [
+              "Je mets du beurre de cacahuètes dans ce pot.",
+              "J'en mets dans ce pot."
+            ],
+            [
+              "J'achète des céréales.",
+              "J'en achète."
+            ],
+            [
+              "Je vais prendre 250 millilitres de lessive.",
+              "Je vais en prendre 250 millilitres."
+            ],
+            [
+              "Il me faut 300 grammes de farine.",
+              "Il m'en faut 300 grammes."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Ne … que",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "ne + verbe + que + ce qui est limité",
+              "Il n'y a que des produits sans emballage."
+            ],
+            [
+              "exemple",
+              "Je n'achète que des produits bio."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- En replaces du / de la / de l' / des + noun (the unspecified amount). Position: before the verb: J'en achète. Je n'en achète pas. Before the infinitive: Je vais en acheter. In the passé composé: J'en ai acheté (before the auxiliary).\n- When a number or quantity is given, it stays after the verb: J'en prends trois. Il m'en faut un kilo. J'en veux beaucoup. En replaces the thing, the quantity comes back.\n- En has other meanings (see A2 Leçon 11: de + place): Je viens de Paris → J'en viens. Here (A2 Leçon 23) it replaces partitives and quantities. Same word, same position.\n- Ne … que = only (a restriction, not a negation): Je n'achète que du bio = I only buy organic. No pas! Il n'y a que des produits sans emballage = There are only unpackaged products. The “que” goes directly before the word it limits.\n- Don't confuse ne … que (only) with ne … pas de (none) or ne … plus. Compare: Je ne mange pas de viande (I eat none) vs Je ne mange que de la viande (I eat only meat). Ne … que ≈ seulement: Je mange seulement de la viande.\n- After ne … que, partitives stay: Je n'achète que du pain (not “que de pain”): the rule “de after negation” does not apply because it is not a real negation."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je mets du beurre de cacahuètes dans ce pot."
+            },
+            {
+              "fr": "J'en mets dans ce pot."
+            },
+            {
+              "fr": "J'achète tout le temps des céréales."
+            },
+            {
+              "fr": "J'en achète tout le temps."
+            },
+            {
+              "fr": "Il me faut trois cents grammes de farine."
+            },
+            {
+              "fr": "Il m'en faut trois cents grammes."
+            },
+            {
+              "fr": "Dans ce magasin, il n'y a que des produits sans emballage."
+            },
+            {
+              "fr": "Je n'achète que des légumes de saison."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Remplacez par en",
+          "items": [
+            {
+              "prompt": "J'achète des pâtes. → J'___ achète.",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Il prend du café. → Il ___ prend.",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Tu veux de la lessive ? → Tu ___ veux ?",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je prends deux kilos de riz. → J'en prends ___ kilos.",
+              "answers": [
+                "deux"
+              ]
+            },
+            {
+              "prompt": "Nous avons des céréales. → Nous ___ avons.",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Je vais acheter du pain. → Je vais ___ acheter.",
+              "answers": [
+                "en"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Ne … que",
+          "items": [
+            {
+              "prompt": "Il y a seulement des produits bio. → Il n'y a ___ des produits bio.",
+              "answers": [
+                "que"
+              ]
+            },
+            {
+              "prompt": "Je mange seulement des légumes. → Je ne mange ___ des légumes.",
+              "answers": [
+                "que"
+              ]
+            },
+            {
+              "prompt": "Elle achète seulement du pain. → Elle n'achète ___ du pain.",
+              "answers": [
+                "que"
+              ]
+            },
+            {
+              "prompt": "Ne … que signifie ___ . (seulement / jamais)",
+              "answers": [
+                "seulement"
+              ],
+              "choices": [
+                "seulement",
+                "jamais"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "achats-ecologie",
+      "title": "Les achats, les contenants et l'écologie",
+      "minutes": 10,
+      "lede": "The vocabulary of consumption: what we buy, containers, weights and measures, and the habits of eco-consumers.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les achats et l'alimentation",
+          "items": [
+            {
+              "fr": "un consommateur"
+            },
+            {
+              "fr": "une consommatrice"
+            },
+            {
+              "fr": "un emballage"
+            },
+            {
+              "fr": "la lessive"
+            },
+            {
+              "fr": "la vente"
+            },
+            {
+              "fr": "le beurre de cacahuètes"
+            },
+            {
+              "fr": "le blé"
+            },
+            {
+              "fr": "une boisson"
+            },
+            {
+              "fr": "le café"
+            },
+            {
+              "fr": "les céréales"
+            },
+            {
+              "fr": "le chocolat"
+            },
+            {
+              "fr": "les croquettes"
+            },
+            {
+              "fr": "la farine"
+            },
+            {
+              "fr": "les fruits secs"
+            },
+            {
+              "fr": "les lentilles"
+            },
+            {
+              "fr": "le maïs"
+            },
+            {
+              "fr": "les pois chiches"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les quantités et les contenants",
+          "items": [
+            {
+              "fr": "un gramme"
+            },
+            {
+              "fr": "un kilo"
+            },
+            {
+              "fr": "un millilitre"
+            },
+            {
+              "fr": "le poids"
+            },
+            {
+              "fr": "peser"
+            },
+            {
+              "fr": "le volume"
+            },
+            {
+              "fr": "une poignée de"
+            },
+            {
+              "fr": "plein de"
+            },
+            {
+              "fr": "une boîte"
+            },
+            {
+              "fr": "un flacon"
+            },
+            {
+              "fr": "un paquet"
+            },
+            {
+              "fr": "un pot"
+            },
+            {
+              "fr": "une poubelle"
+            },
+            {
+              "fr": "un sac"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'écologie",
+          "items": [
+            {
+              "fr": "un écolo"
+            },
+            {
+              "fr": "en vrac"
+            },
+            {
+              "fr": "gaspiller"
+            },
+            {
+              "fr": "le gaspillage"
+            },
+            {
+              "fr": "réutiliser"
+            },
+            {
+              "fr": "réutilisable"
+            },
+            {
+              "fr": "se servir"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les matières (2)",
+          "items": [
+            {
+              "fr": "l'aluminium"
+            },
+            {
+              "fr": "le carton"
+            },
+            {
+              "fr": "le plastique"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- En vrac = loose, unpackaged (you fill your own container): acheter en vrac. This is a modern trend: un magasin en vrac. Opposite: emballé (packaged). Un emballage = a package; l'emballage plastique.\n- Gaspiller = to waste (food, water): gaspiller la nourriture. Le gaspillage = waste. Do not confuse with perdre = to lose. Réutiliser = to reuse; réutilisable = reusable; recycler = to recycle; trier = to sort (waste).\n- Se servir = to help oneself (to take): Servez-vous ! Se servir de quelque chose = to use something: Je me sers d'un sac réutilisable. Servir = to serve.\n- Peser = to weigh (transitive: Je pèse les fruits; intransitive: Ça pèse un kilo). Le poids = weight. Peser has an accent change: je pèse, nous pesons.\n- Un écolo (informal) = an eco-friendly person; un écologiste = an environmentalist (a politician or activist). L'écologie = ecology; écologique = eco-friendly.\n- Une poubelle = a bin (the container); the rubbish itself is les ordures or les déchets. Un sac poubelle = a bin bag. Jeter à la poubelle = to throw in the bin."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je fais mes courses dans un magasin en vrac."
+            },
+            {
+              "fr": "J'apporte mes propres pots et mes sacs réutilisables."
+            },
+            {
+              "fr": "On ne doit pas gaspiller la nourriture."
+            },
+            {
+              "fr": "J'achète des lentilles, des pois chiches et de la farine."
+            },
+            {
+              "fr": "Ce paquet pèse cinq cents grammes."
+            },
+            {
+              "fr": "Il faut réutiliser les boîtes en carton."
+            },
+            {
+              "fr": "Je me sers un peu de riz."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un produit non emballé, qu'on achète avec son pot, est vendu en ___ .",
+              "answers": [
+                "vrac"
+              ]
+            },
+            {
+              "prompt": "Jeter de la nourriture qu'on pourrait manger, c'est ___ . (verbe)",
+              "answers": [
+                "gaspiller"
+              ]
+            },
+            {
+              "prompt": "Ce sac peut être utilisé plusieurs fois : il est ___ .",
+              "answers": [
+                "réutilisable"
+              ]
+            },
+            {
+              "prompt": "Une personne qui achète des produits est un ___ .",
+              "answers": [
+                "consommateur"
+              ]
+            },
+            {
+              "prompt": "On met les déchets dans la ___ .",
+              "answers": [
+                "poubelle"
+              ]
+            },
+            {
+              "prompt": "Une ___ de bonbons : ce qu'on peut tenir dans une main.",
+              "answers": [
+                "poignée"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre consommation",
+          "prompt": "Faites la liste des aliments que vous achetez en une semaine. Précisez les quantités et les prix. Calculez en pourcentages l'argent dépensé pour chaque aliment.",
+          "model": "Cette semaine, j'ai acheté du pain, des pâtes, du riz, des légumes et des fruits. J'ai pris un kilo de riz et deux cents grammes de fromage. Je n'achète que des fruits de saison. Je dépense quarante pour cent de mon budget pour les légumes. J'en achète au marché."
+        }
+      ]
+    },
+    {
+      "id": "sons-p-b",
+      "title": "Les sons [p] et [b]",
+      "minutes": 4,
+      "lede": "[p] and [b] are produced the same way (lips together), but [p] is voiceless (the vocal cords don't vibrate) and [b] is voiced.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Deux sons",
+          "headers": [
+            "Son",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "[p]",
+              "un pot · un paquet · le poids · la poubelle"
+            ],
+            [
+              "[b]",
+              "une boîte · le beurre · le bois · la boisson"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- Put your fingers on your throat: for [b] you feel a vibration (boîte, bois), for [p] you don't (pot, pois). Pairs: pain / bain, pas / bas, poids / bois, pot / beau.\n- French [p] is not aspirated (no puff of air as in English “pie”): hold a piece of paper in front of your mouth: it should hardly move for French [p].\n- Spelling: p = [p], b = [b]. Doubled pp / bb = single sound: appeler, abbaye. Final -b is rare (club [klœb]); final -p is usually silent: trop [tʁo], beaucoup [boku], un coup [ku] (but un cap [kap], un stop [stɔp] pronounced).\n- A b before s or t is pronounced [p]: absolu [apsɔly], obtenir [ɔptəniʁ]."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez",
+          "items": [
+            {
+              "fr": "un pot"
+            },
+            {
+              "fr": "un paquet"
+            },
+            {
+              "fr": "le poids"
+            },
+            {
+              "fr": "une boîte"
+            },
+            {
+              "fr": "le beurre"
+            },
+            {
+              "fr": "le bois"
+            },
+            {
+              "fr": "pas"
+            },
+            {
+              "fr": "bas"
+            },
+            {
+              "fr": "pain"
+            },
+            {
+              "fr": "bain"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "[p] ou [b] ?",
+          "items": [
+            {
+              "prompt": "Dans « pot », le premier son est ___ .",
+              "answers": [
+                "[p]"
+              ],
+              "choices": [
+                "[p]",
+                "[b]"
+              ]
+            },
+            {
+              "prompt": "Dans « bois », le premier son est ___ .",
+              "answers": [
+                "[b]"
+              ],
+              "choices": [
+                "[p]",
+                "[b]"
+              ]
+            },
+            {
+              "prompt": "« pois » et « bois » sont ___ . (identiques ou différents)",
+              "answers": [
+                "différents"
+              ],
+              "choices": [
+                "identiques",
+                "différents"
+              ]
+            },
+            {
+              "prompt": "Dans « boîte », le premier son est ___ .",
+              "answers": [
+                "[b]"
+              ],
+              "choices": [
+                "[p]",
+                "[b]"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

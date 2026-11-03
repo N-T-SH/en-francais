@@ -1,0 +1,535 @@
+{
+  "id": "a2-sengager",
+  "order": 121,
+  "number": 21,
+  "unit": 6,
+  "unitTitle": "Engagez-vous",
+  "kicker": "Unité 6 · Leçon 21",
+  "title": "S'engager",
+  "summary": "Cause et conséquence · engagement et environnement · enchaînements consonantiques",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "cause-consequence",
+      "title": "Exprimer la cause et la conséquence",
+      "minutes": 11,
+      "lede": "To explain why something happens (the cause) and what follows (the consequence), French has a small set of connecting words. Each one has its own grammar.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La cause",
+          "headers": [
+            "Mot",
+            "Emploi",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "à cause de + nom / pronom",
+              "cause à résultat négatif",
+              "Le match est annulé à cause de la pluie."
+            ],
+            [
+              "grâce à + nom / pronom",
+              "cause à résultat positif",
+              "Grâce à une amie, j'ai découvert cette association."
+            ],
+            [
+              "parce que + phrase",
+              "répond à pourquoi ?",
+              "On agit parce qu'on se sent concerné."
+            ],
+            [
+              "comme + phrase (en début de phrase)",
+              "cause connue, placée en premier",
+              "Comme le train est en retard, je prends un taxi."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "La conséquence",
+          "headers": [
+            "Mot",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "donc",
+              "J'habite en montagne, donc je vois les effets du réchauffement."
+            ],
+            [
+              "alors",
+              "Je me suis dit : « Il faut agir. » Alors j'ai rejoint une association."
+            ],
+            [
+              "c'est pourquoi",
+              "Je me sens concerné, c'est pourquoi je participe."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- À cause de = because of (usually bad): À cause du bruit, je n'ai pas dormi. Grâce à = thanks to (good): Grâce à toi, j'ai réussi. Both are followed by a noun or pronoun, never by a verb: not “grâce à tu viens”.\n- Contractions: à cause de + le = à cause du; à cause de + les = à cause des; grâce à + le = grâce au; grâce à + les = grâce aux. Grâce à la mairie, grâce à l'école: no change before la / l'.\n- Parce que + a full sentence (subject + verb): Je suis fatigué parce que j'ai marché. Parce qu' before a vowel: parce qu'on, parce qu'il. Parce que answers Pourquoi ? : – Pourquoi tu pars ? – Parce que je suis fatigué.\n- Comme at the start of a sentence gives the cause first: Comme il pleut, nous restons à la maison. (Il pleut donc nous restons.) Comme can't answer pourquoi; and a different comme means “as / like” (Comme toi, j'aime ça).\n- Donc = so, therefore: usually after the verb or between the subject and the verb: J'ai donc décidé de partir. Alors = so / then: Alors, j'ai décidé de partir (spoken, start of sentence). C'est pourquoi = that's why, never followed by a noun alone: C'est pourquoi je participe.\n- Mind the spelling of grâce (with â) and à cause. Compare: Parce que (because) vs Pourquoi (why) vs Car (because, written, formal).\n- Cause and consequence are two sides of the same relationship: Il pleut, donc je prends un parapluie (cause → consequence) = Je prends un parapluie parce qu'il pleut (consequence → cause)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "La plage est fermée à cause de la pollution."
+            },
+            {
+              "fr": "Grâce à une amie, j'ai connu cette association."
+            },
+            {
+              "fr": "On agit parce qu'on se sent concerné."
+            },
+            {
+              "fr": "Comme nos dirigeants ne font rien, il faut montrer l'exemple."
+            },
+            {
+              "fr": "J'habite à la montagne, donc je vois les dégâts du réchauffement."
+            },
+            {
+              "fr": "Je me suis dit : « Tu dois agir. » Alors j'ai rejoint l'association."
+            },
+            {
+              "fr": "Je suis concerné, c'est pourquoi je participe."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "À cause de ou grâce à ?",
+          "items": [
+            {
+              "prompt": "Le concert est annulé ___ la pluie. (négatif)",
+              "answers": [
+                "à cause de"
+              ],
+              "choices": [
+                "à cause de",
+                "grâce à"
+              ]
+            },
+            {
+              "prompt": "J'ai trouvé du travail ___ mon professeur. (positif)",
+              "answers": [
+                "grâce à"
+              ],
+              "choices": [
+                "à cause de",
+                "grâce à"
+              ]
+            },
+            {
+              "prompt": "Nous avons raté le train ___ la grève. (négatif)",
+              "answers": [
+                "à cause de"
+              ],
+              "choices": [
+                "à cause de",
+                "grâce à"
+              ]
+            },
+            {
+              "prompt": "___ ton aide, j'ai fini à l'heure. (positif)",
+              "answers": [
+                "Grâce à"
+              ],
+              "choices": [
+                "À cause de",
+                "Grâce à"
+              ]
+            },
+            {
+              "prompt": "Le vol est retardé ___ du brouillard. (à cause de + le)",
+              "answers": [
+                "à cause"
+              ],
+              "choices": [
+                "à cause",
+                "grâce"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Cause ou conséquence ?",
+          "items": [
+            {
+              "prompt": "Il pleut, ___ je prends un parapluie. (conséquence)",
+              "answers": [
+                "donc"
+              ],
+              "choices": [
+                "donc",
+                "parce que",
+                "comme"
+              ]
+            },
+            {
+              "prompt": "Je prends un parapluie ___ il pleut. (cause)",
+              "answers": [
+                "parce qu'"
+              ],
+              "choices": [
+                "donc",
+                "parce qu'",
+                "c'est pourquoi"
+              ]
+            },
+            {
+              "prompt": "___ il pleut, je reste à la maison. (cause en début de phrase)",
+              "answers": [
+                "Comme"
+              ],
+              "choices": [
+                "Comme",
+                "Donc",
+                "Alors"
+              ]
+            },
+            {
+              "prompt": "Je suis concerné, c'est ___ je participe.",
+              "answers": [
+                "pourquoi"
+              ],
+              "choices": [
+                "pourquoi",
+                "parce que",
+                "donc"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "engagement-environnement",
+      "title": "L'engagement, l'environnement et les catastrophes naturelles",
+      "minutes": 10,
+      "lede": "The vocabulary of civic and environmental commitment: the actions, the organisations, the causes and the natural disasters that motivate people to act.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "L'engagement",
+          "items": [
+            {
+              "fr": "une action"
+            },
+            {
+              "fr": "une association"
+            },
+            {
+              "fr": "un combat"
+            },
+            {
+              "fr": "la défense"
+            },
+            {
+              "fr": "une grève"
+            },
+            {
+              "fr": "une manifestation"
+            },
+            {
+              "fr": "une motivation"
+            },
+            {
+              "fr": "un mouvement"
+            },
+            {
+              "fr": "une organisation"
+            },
+            {
+              "fr": "agir"
+            },
+            {
+              "fr": "défendre"
+            },
+            {
+              "fr": "être membre de"
+            },
+            {
+              "fr": "faire grève"
+            },
+            {
+              "fr": "lutter"
+            },
+            {
+              "fr": "manifester"
+            },
+            {
+              "fr": "s'engager"
+            },
+            {
+              "fr": "sensibiliser"
+            },
+            {
+              "fr": "se sentir concerné"
+            },
+            {
+              "fr": "soutenir"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "L'environnement",
+          "items": [
+            {
+              "fr": "le climat"
+            },
+            {
+              "fr": "un déchet"
+            },
+            {
+              "fr": "la fonte des glaces"
+            },
+            {
+              "fr": "un glacier"
+            },
+            {
+              "fr": "la planète",
+              "icon": "🌍"
+            },
+            {
+              "fr": "la pollution"
+            },
+            {
+              "fr": "un problème environnemental"
+            },
+            {
+              "fr": "le réchauffement climatique"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les catastrophes naturelles",
+          "items": [
+            {
+              "fr": "un incendie de forêt",
+              "icon": "🔥"
+            },
+            {
+              "fr": "une inondation",
+              "icon": "🌊"
+            },
+            {
+              "fr": "un ouragan",
+              "icon": "🌀"
+            },
+            {
+              "fr": "un tremblement de terre"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- S'engager (dans / pour) = to commit oneself, to get involved; un engagement = a commitment (also a promise). Elle s'engage pour le climat. Être engagé(e) = to be committed (or hired for a job: elle a été engagée).\n- Manifester = to demonstrate (take part in a protest); une manifestation = a demonstration (also: a cultural event). Faire grève = to go on strike (also faire la grève); une grève scolaire = a school strike.\n- Sensibiliser quelqu'un à quelque chose = to make someone aware of something: sensibiliser les jeunes aux problèmes environnementaux. Not “to sensitise”. Se sentir concerné(e) = to feel concerned (agree with the person).\n- Soutenir = to support (a cause, a person, a team): Je soutiens cette association. Défendre = to defend, to protect: défendre la planète. Lutter contre = to fight against: lutter contre la pollution.\n- Le réchauffement climatique = global warming; la fonte des glaces / la fonte du glacier = the melting. Une inondation = a flood (a fire = un incendie; an earthquake = un tremblement de terre).\n- Un déchet = a piece of waste; les déchets = waste in general. Déchets ménagers = household waste. Le ramassage des déchets = waste collection / clean-up."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je m'engage dans une association pour le climat."
+            },
+            {
+              "fr": "Les jeunes organisent des manifestations et des grèves scolaires."
+            },
+            {
+              "fr": "Nous voulons sensibiliser les habitants à la pollution."
+            },
+            {
+              "fr": "Le réchauffement climatique provoque la fonte des glaciers."
+            },
+            {
+              "fr": "Il y a eu une grande inondation dans la région."
+            },
+            {
+              "fr": "Nous soutenons le mouvement mondial."
+            },
+            {
+              "fr": "Il faut lutter contre les incendies de forêt."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Défiler dans la rue pour une cause, c'est ___ . (manifester)",
+              "answers": [
+                "manifester"
+              ]
+            },
+            {
+              "prompt": "Un groupe de personnes qui défendent une cause forme une ___ .",
+              "answers": [
+                "association"
+              ]
+            },
+            {
+              "prompt": "Quand les glaciers fondent, on parle de la ___ des glaces.",
+              "answers": [
+                "fonte"
+              ]
+            },
+            {
+              "prompt": "Informer les gens d'un problème, c'est les ___ à ce problème. (sensibiliser)",
+              "answers": [
+                "sensibiliser"
+              ]
+            },
+            {
+              "prompt": "Quand l'eau couvre une ville, c'est une ___ .",
+              "answers": [
+                "inondation"
+              ]
+            },
+            {
+              "prompt": "Le contraire de « détruire » dans le sens de protéger : ___ . (défendre)",
+              "answers": [
+                "défendre"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Engagez-vous",
+          "prompt": "Choisissez une cause pour laquelle vous voulez vous engager. Décidez des actions à mener, inventez un nom, un logo et un slogan pour votre association, puis enregistrez un témoignage de quelques phrases.",
+          "model": "Je m'engage pour la propreté de ma ville. Notre association s'appelle « Ville Propre ». Nous organisons un ramassage des déchets tous les samedis. Grâce à ce projet, les habitants sont plus sensibles à la pollution. Notre slogan : « Un déchet de moins, une ville plus belle ! »"
+        }
+      ]
+    },
+    {
+      "id": "enchainements-consonantiques",
+      "title": "Les enchaînements consonantiques",
+      "minutes": 6,
+      "lede": "Spoken French joins words together. In an enchaînement, a pronounced final consonant is carried over to the next word if that word begins with a vowel.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le principe",
+          "headers": [
+            "Écrit",
+            "On entend",
+            "Phénomène"
+          ],
+          "rows": [
+            [
+              "je fais la grève avec eux",
+              "je-fè-la-grè-va-vè-keu",
+              "enchaînement consonantique"
+            ],
+            [
+              "Il y a trente ans.",
+              "i-li-a-trɑ̃-tɑ̃",
+              "enchaînement consonantique"
+            ],
+            [
+              "La station a fermé.",
+              "la-sta-sjɔ̃-a-fer-mé",
+              "deux voyelles : pas de pause"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "tip",
+          "title": "How to hear it",
+          "text": "- Enchaînement: a consonant that is pronounced at the end of a word moves to the start of the next syllable if the next word starts with a vowel: grève avec → grè-va-vec; elle arrive → e-la-rive; cette association → cè-ta-sso-cia-tion.\n- Don't pause between the two words. The sentence sounds like a chain of syllables: each syllable ends on a vowel (consonant–vowel structure), which is why French sounds smooth.\n- Difference with liaison: in an enchaînement the consonant is already pronounced (grève, cette); in a liaison the consonant was silent and becomes audible (les_amis, vous_avez). Between two vowels (station a, il y a), don't pause either: just glide.\n- Never break the chain with a glottal stop (a little click before a vowel), as English speakers do before vowel-starting words: un_arbre, not “un / arbre”."
+        },
+        {
+          "type": "phrases",
+          "title": "Répétez en enchaînant",
+          "items": [
+            {
+              "fr": "Je fais la grève avec eux."
+            },
+            {
+              "fr": "La station a fermé."
+            },
+            {
+              "fr": "Il y a trente ans."
+            },
+            {
+              "fr": "J'habite à la montagne."
+            },
+            {
+              "fr": "Grâce à une amie."
+            },
+            {
+              "fr": "Elle a une action utile."
+            },
+            {
+              "fr": "Cette association est très active."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Combien de syllabes ?",
+          "items": [
+            {
+              "prompt": "« elle a » : combien de syllabes ? (en chiffres)",
+              "answers": [
+                "2"
+              ],
+              "choices": [
+                "1",
+                "2",
+                "3"
+              ]
+            },
+            {
+              "prompt": "« il y a trente ans » : combien de syllabes ?",
+              "answers": [
+                "5"
+              ],
+              "choices": [
+                "4",
+                "5",
+                "6"
+              ]
+            },
+            {
+              "prompt": "« cette association » : l'enchaînement relie la consonne ___ à la voyelle a.",
+              "answers": [
+                "t"
+              ],
+              "choices": [
+                "t",
+                "s",
+                "c"
+              ]
+            },
+            {
+              "prompt": "« grève avec » : l'enchaînement donne la syllabe « ___ ».",
+              "answers": [
+                "va"
+              ],
+              "choices": [
+                "ve",
+                "va",
+                "ga"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

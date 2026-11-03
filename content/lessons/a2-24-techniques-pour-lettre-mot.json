@@ -1,0 +1,329 @@
+{
+  "id": "a2-techniques-pour-lettre-mot",
+  "order": 124,
+  "number": 24,
+  "unit": 6,
+  "unitTitle": "Engagez-vous",
+  "kicker": "Unité 6 · Leçon 24",
+  "title": "Techniques pour…",
+  "summary": "Rédiger une lettre de demande de rendez-vous · la médiation : expliquer un mot ou une expression",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "lettre-rendez-vous",
+      "title": "Rédiger une lettre de demande de rendez-vous",
+      "minutes": 10,
+      "lede": "A formal letter has a fixed layout and fixed phrases. This lesson shows the layout and the polite formulas for asking for a meeting.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "La mise en page",
+          "headers": [
+            "Où ?",
+            "Quoi ?"
+          ],
+          "rows": [
+            [
+              "En haut, à gauche",
+              "Prénom, nom et coordonnées de l'expéditeur / de l'expéditrice"
+            ],
+            [
+              "En haut, à droite",
+              "Nom, fonction, adresse du / de la destinataire"
+            ],
+            [
+              "Sous le / la destinataire",
+              "Ville et date : Lyon, le 12 mars 2025"
+            ],
+            [
+              "Objet",
+              "Objet : demande de rendez-vous"
+            ],
+            [
+              "Formule d'appel",
+              "Madame, / Monsieur, / Madame, Monsieur,"
+            ],
+            [
+              "Corps de la lettre",
+              "introduction · demande · disponibilités"
+            ],
+            [
+              "Formule finale",
+              "salutations distinguées"
+            ],
+            [
+              "En bas",
+              "Signature"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les formules utiles",
+          "headers": [
+            "Fonction",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "Introduction",
+              "J'apprécie… · Je souhaiterais… · Je me permets de vous écrire pour…"
+            ],
+            [
+              "Formuler la demande",
+              "Avant …, je voudrais avoir des informations. · C'est pourquoi j'aimerais vous rencontrer."
+            ],
+            [
+              "Disponibilités et mode de contact",
+              "Est-ce que je pourrais vous joindre par téléphone ? · Je suis disponible tous les jours entre… et…"
+            ],
+            [
+              "Formule finale",
+              "Je vous remercie d'avance pour votre réponse et vous prie de recevoir, Madame, Monsieur, mes salutations distinguées."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Layout: the sender's block is top left, the recipient's block top right, then the place and date (Lyon, le 12 mars 2025), then Objet :, then the formule d'appel. A letter without these parts looks unprofessional in France.\n- Formule d'appel: Madame, / Monsieur, / Madame, Monsieur, (if you don't know the person). No “Cher” / “Chère” in a formal letter, and no first name. Followed by a comma and a line break; the first line starts with a capital letter.\n- Formule finale = a long, fixed closing sentence. Standard: Je vous prie de recevoir, Madame, Monsieur, mes salutations distinguées. Or: Je vous prie de croire, Madame, Monsieur, à l'assurance de ma considération distinguée. The title (Madame, Monsieur) is repeated in the closing.\n- Je vous remercie d'avance pour votre réponse (thanking in advance) is common and polite.\n- Use the conditional for polite requests: Je souhaiterais, j'aimerais, je voudrais, est-ce que je pourrais… (conditional present, see Leçon 13). Never je veux or je veux bien in a formal letter.\n- Joindre quelqu'un = to reach someone (by phone): Est-ce que je pourrais vous joindre par téléphone ? Joindre (to attach): Je joins mon CV (see A1 Leçon 28)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez les formules",
+          "items": [
+            {
+              "fr": "Madame, Monsieur,"
+            },
+            {
+              "fr": "Je souhaiterais ouvrir un magasin dans ma ville."
+            },
+            {
+              "fr": "Avant de déposer ma candidature, je voudrais avoir des informations pratiques."
+            },
+            {
+              "fr": "C'est pourquoi j'aimerais vous rencontrer."
+            },
+            {
+              "fr": "Est-ce que je pourrais vous joindre par téléphone ?"
+            },
+            {
+              "fr": "Je suis disponible tous les jours entre dix heures et vingt heures."
+            },
+            {
+              "fr": "Je vous remercie d'avance pour votre réponse et vous prie de recevoir, Madame, Monsieur, mes salutations distinguées."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez la lettre",
+          "items": [
+            {
+              "prompt": "En haut à gauche, on écrit les coordonnées de l'___ . (qui écrit)",
+              "answers": [
+                "expéditeur"
+              ],
+              "choices": [
+                "expéditeur",
+                "destinataire"
+              ]
+            },
+            {
+              "prompt": "En haut à droite, on écrit l'adresse du ___ . (qui reçoit)",
+              "answers": [
+                "destinataire"
+              ],
+              "choices": [
+                "expéditeur",
+                "destinataire"
+              ]
+            },
+            {
+              "prompt": "Madame, ___ , : formule d'appel quand on ne connaît pas la personne.",
+              "answers": [
+                "Monsieur"
+              ]
+            },
+            {
+              "prompt": "Je ___ vous rencontrer. (conditionnel de politesse)",
+              "answers": [
+                "souhaiterais | voudrais | aimerais"
+              ]
+            },
+            {
+              "prompt": "Je vous remercie d'___ pour votre réponse.",
+              "answers": [
+                "avance"
+              ]
+            },
+            {
+              "prompt": "Je vous prie de recevoir mes salutations ___ . (formule finale)",
+              "answers": [
+                "distinguées"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Une lettre de demande de rendez-vous",
+          "prompt": "Choisissez un destinataire (un directeur d'école, un responsable de magasin, un employeur…) et rédigez une lettre pour demander un rendez-vous : présentez-vous, expliquez la raison de votre demande, indiquez vos disponibilités et terminez par une formule de politesse.",
+          "model": "Camille Roux, 8 rue des Fleurs, 69003 Lyon. Madame la directrice, École de langues, 5 place Carnot, 69002 Lyon. Lyon, le 10 mars. Objet : demande de rendez-vous. Madame, Je souhaiterais suivre un cours de français. Avant de m'inscrire, j'aimerais avoir des informations. Est-ce que je pourrais vous joindre par téléphone ? Je suis disponible le mardi et le jeudi après dix-huit heures. Je vous remercie d'avance et vous prie de recevoir, Madame, mes salutations distinguées. Camille Roux"
+        }
+      ]
+    },
+    {
+      "id": "mediation-expliquer-mot",
+      "title": "La médiation : expliquer un mot ou une expression",
+      "minutes": 9,
+      "lede": "When someone does not understand a word, you can explain it with simple tools: a translation, an image, a synonym, an opposite, a mime, an example or a definition.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Sept techniques",
+          "headers": [
+            "Technique",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "la traduction",
+              "les fibres de soja → soy fibre (en anglais)"
+            ],
+            [
+              "une image (dessin, photo)",
+              "un chien → (dessin)"
+            ],
+            [
+              "un synonyme",
+              "l'engagement = la participation"
+            ],
+            [
+              "un contraire",
+              "gaspiller ≠ économiser"
+            ],
+            [
+              "le mime",
+              "se pencher → (on fait le geste)"
+            ],
+            [
+              "un exemple",
+              "biodégradable : le papier est biodégradable, le plastique non."
+            ],
+            [
+              "une définition",
+              "un végétalien : c'est une personne qui mange seulement des produits d'origine végétale."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- To define: C'est un / une … qui / que … (C'est une personne qui mange seulement des légumes). Use simple words and the relative pronouns qui, que, où: C'est un endroit où on achète du pain.\n- To give a synonym: c'est la même chose que… / ça veut dire… / = (equals). To give the opposite: c'est le contraire de… / ≠. To give an example: Par exemple… / Comme…\n- Ask for an explanation: Qu'est-ce que ça veut dire ? Vous pouvez expliquer ? C'est quoi, un …? Comment on dit … en français ? And check: Vous avez compris ? C'est clair ?\n- Choose the technique that is quickest: images for concrete nouns, a gesture for actions, a definition or example for abstract words, a synonym when the person already knows another word.\n- False friends worth explaining: une expérience (an experience, also an experiment), actuellement (currently, not “actually”), assister à (to attend, not “to assist”), sensible (sensitive, not “sensible”, which is raisonnable).\n- Mediation: you don't need the exact word. You need the other person to understand."
+        },
+        {
+          "type": "phrases",
+          "title": "Expliquer un mot",
+          "items": [
+            {
+              "fr": "Un végétalien, c'est une personne qui mange seulement des produits d'origine végétale."
+            },
+            {
+              "fr": "Gaspiller, c'est le contraire d'économiser."
+            },
+            {
+              "fr": "Une poignée, c'est ce qu'on peut tenir dans une main."
+            },
+            {
+              "fr": "Biodégradable : le papier est biodégradable, le plastique non."
+            },
+            {
+              "fr": "Qu'est-ce que ça veut dire ?"
+            },
+            {
+              "fr": "Vous pouvez expliquer ce mot ?"
+            },
+            {
+              "fr": "C'est un synonyme de participation."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle technique ?",
+          "items": [
+            {
+              "prompt": "« Gaspiller, c'est le contraire d'économiser. » : on utilise un ___ .",
+              "answers": [
+                "contraire"
+              ],
+              "choices": [
+                "contraire",
+                "synonyme",
+                "exemple",
+                "mime"
+              ]
+            },
+            {
+              "prompt": "« Le papier est biodégradable, le plastique non. » : on donne un ___ .",
+              "answers": [
+                "exemple"
+              ],
+              "choices": [
+                "contraire",
+                "synonyme",
+                "exemple",
+                "mime"
+              ]
+            },
+            {
+              "prompt": "« L'engagement = la participation. » : on utilise un ___ .",
+              "answers": [
+                "synonyme"
+              ],
+              "choices": [
+                "contraire",
+                "synonyme",
+                "exemple",
+                "mime"
+              ]
+            },
+            {
+              "prompt": "« Un végan est une personne qui… » : on donne une ___ .",
+              "answers": [
+                "définition"
+              ],
+              "choices": [
+                "définition",
+                "image",
+                "traduction"
+              ]
+            },
+            {
+              "prompt": "Pour expliquer « se baisser », on peut faire un ___ . (un geste)",
+              "answers": [
+                "mime"
+              ],
+              "choices": [
+                "mime",
+                "synonyme",
+                "contraire"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Expliquez ces mots",
+          "prompt": "Choisissez une technique pour expliquer chaque mot ou expression : la fonte des glaces, les inondations, le recyclage, le caoutchouc, les pois chiches, une poignée, une crème hydratante, sensibiliser. Variez les techniques ! Dites quelle technique est la plus efficace pour chaque mot.",
+          "model": "Pour « la fonte des glaces », je fais un dessin. Pour « le recyclage », je donne une définition : c'est transformer les déchets pour les réutiliser. Pour « une poignée », je mime avec la main. Pour « sensibiliser », je donne un synonyme : informer et faire réfléchir."
+        }
+      ]
+    }
+  ]
+}

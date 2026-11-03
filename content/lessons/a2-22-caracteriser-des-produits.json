@@ -1,0 +1,638 @@
+{
+  "id": "a2-caracteriser-des-produits",
+  "order": 122,
+  "number": 22,
+  "unit": 6,
+  "unitTitle": "Engagez-vous",
+  "kicker": "Unité 6 · Leçon 22",
+  "title": "Caractériser des produits",
+  "summary": "Possessifs · lequel et démonstratifs · matières et produits",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "possessifs",
+      "title": "Les adjectifs et les pronoms possessifs",
+      "minutes": 11,
+      "lede": "A possessive adjective goes before a noun (mon sac). A possessive pronoun replaces the noun (le mien). The pronoun always has an article.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Adjectif → pronom",
+          "headers": [
+            "Adjectif",
+            "Pronom (sing.)",
+            "Pronom (pl.)"
+          ],
+          "rows": [
+            [
+              "mon, ma, mes",
+              "le mien, la mienne",
+              "les miens, les miennes"
+            ],
+            [
+              "ton, ta, tes",
+              "le tien, la tienne",
+              "les tiens, les tiennes"
+            ],
+            [
+              "son, sa, ses",
+              "le sien, la sienne",
+              "les siens, les siennes"
+            ],
+            [
+              "notre, nos",
+              "le nôtre, la nôtre",
+              "les nôtres"
+            ],
+            [
+              "votre, vos",
+              "le vôtre, la vôtre",
+              "les vôtres"
+            ],
+            [
+              "leur, leurs",
+              "le leur, la leur",
+              "les leurs"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Exemples",
+          "headers": [
+            "Adjectif",
+            "Pronom"
+          ],
+          "rows": [
+            [
+              "Votre chemise est en soie ?",
+              "La mienne est en fibres de soja."
+            ],
+            [
+              "Tes tennis sont en plastique ?",
+              "Les nôtres sont en caoutchouc sauvage."
+            ],
+            [
+              "Ma vie est cent pour cent naturelle.",
+              "Et la vôtre ?"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- The pronoun agrees with the thing possessed, not with the owner: C'est son sac (his or her bag) → C'est le sien. Il a oublié sa veste → Il a oublié la sienne. Je n'ai pas vu tes clés, j'ai vu les miennes.\n- The pronoun always has an article (le, la, les): le mien, la tienne, les leurs. No article → it's an adjective: mon sac / ton sac.\n- Accents: notre / votre (adjectives, no accent, open o [ɔ]) vs le nôtre / le vôtre (pronouns, with a circumflex, closed o [o]). Leur never has an accent: le leur, la leur.\n- Contractions with à and de: à + le mien = au mien, à + les miens = aux miens, de + le mien = du mien, de + les siens = des siens. Je pense au tien, Il parle de la sienne (no change), Tu parles des miens ?\n- Adjective forms: mon is used before a feminine noun that begins with a vowel: mon amie, mon histoire (not “ma amie”). The pronoun is regular: la mienne.\n- Sa / son / ses: the gender of the object, not of the owner. Elle prend son sac (sac = masculine). Il prend sa veste (veste = feminine). English “his / her” hides this. In informal speech, add à lui / à elle for clarity: C'est sa voiture à elle."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Votre chemise est en soie ? La mienne est en fibres de soja."
+            },
+            {
+              "fr": "Tes tennis sont en plastique ? Les nôtres sont en coton bio."
+            },
+            {
+              "fr": "Mon sac est vert. Le tien est rouge."
+            },
+            {
+              "fr": "Ma vie est très naturelle. Et la vôtre ?"
+            },
+            {
+              "fr": "Il a oublié son parapluie, mais pas le sien."
+            },
+            {
+              "fr": "Elle a perdu ses gants et il a perdu les siens."
+            },
+            {
+              "fr": "Voici nos billets et voilà les leurs."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Remplacez par un pronom",
+          "items": [
+            {
+              "prompt": "Mon sac est vert. Le ___ est rouge. (ton sac)",
+              "answers": [
+                "tien"
+              ],
+              "choices": [
+                "tien",
+                "mien",
+                "sien"
+              ]
+            },
+            {
+              "prompt": "Ma robe est bleue, ___ est verte. (ta robe)",
+              "answers": [
+                "la tienne"
+              ],
+              "choices": [
+                "la tienne",
+                "le tien",
+                "la mienne"
+              ]
+            },
+            {
+              "prompt": "Leurs enfants sont petits. Les ___ sont grands. (nos)",
+              "answers": [
+                "nôtres"
+              ],
+              "choices": [
+                "nôtres",
+                "vôtres",
+                "leurs"
+              ]
+            },
+            {
+              "prompt": "Votre chambre est grande. ___ est petite. (ma)",
+              "answers": [
+                "La mienne"
+              ],
+              "choices": [
+                "La mienne",
+                "Le mien",
+                "La tienne"
+              ]
+            },
+            {
+              "prompt": "Il parle de ses amis. Elle parle des ___ . (siens / sien)",
+              "answers": [
+                "siens"
+              ],
+              "choices": [
+                "siens",
+                "sienne",
+                "miens"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Adjectif ou pronom ?",
+          "items": [
+            {
+              "prompt": "C'est ___ sac. (le sac de Paul)",
+              "answers": [
+                "son"
+              ],
+              "choices": [
+                "son",
+                "sa",
+                "ses",
+                "le sien"
+              ]
+            },
+            {
+              "prompt": "C'est ___ voiture. (la voiture de Marie)",
+              "answers": [
+                "sa"
+              ],
+              "choices": [
+                "son",
+                "sa",
+                "ses",
+                "la sienne"
+              ]
+            },
+            {
+              "prompt": "Ce sont ___ clés. (les clés de Léa et Paul)",
+              "answers": [
+                "leurs"
+              ],
+              "choices": [
+                "leur",
+                "leurs",
+                "le leur"
+              ]
+            },
+            {
+              "prompt": "C'est la voiture de Paul ? Oui, c'est la ___ . (pronom)",
+              "answers": [
+                "sienne"
+              ],
+              "choices": [
+                "sien",
+                "sienne",
+                "sa"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lequel-demonstratifs",
+      "title": "Lequel et les pronoms démonstratifs",
+      "minutes": 10,
+      "lede": "To ask “which one?” without repeating the noun, use lequel. To point at something, use celui-ci / celui-là and their feminine and plural forms.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Lequel",
+          "headers": [
+            "",
+            "masculin",
+            "féminin"
+          ],
+          "rows": [
+            [
+              "singulier",
+              "lequel",
+              "laquelle"
+            ],
+            [
+              "pluriel",
+              "lesquels",
+              "lesquelles"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les pronoms démonstratifs",
+          "headers": [
+            "",
+            "masculin",
+            "féminin"
+          ],
+          "rows": [
+            [
+              "singulier",
+              "celui-ci · celui-là",
+              "celle-ci · celle-là"
+            ],
+            [
+              "pluriel",
+              "ceux-ci · ceux-là",
+              "celles-ci · celles-là"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Exemples",
+          "headers": [
+            "Question",
+            "Réponse"
+          ],
+          "rows": [
+            [
+              "Regarde ce sac. – Lequel ?",
+              "Celui-là, le grand pour l'ordinateur."
+            ],
+            [
+              "Tu aimes ces chaussures ? – Lesquelles ?",
+              "Celles-là, en noir."
+            ],
+            [
+              "Quelle crème tu préfères ?",
+              "Celle-ci a une protection solaire."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Lequel = which one: it replaces quel + noun and agrees with it: quel sac → lequel ; quelle crème → laquelle ; quels gants → lesquels ; quelles chaussures → lesquelles. Test: Lequel = Quel sac ?\n- Celui / celle / ceux / celles cannot stand alone: you need -ci (near), -là (far), de + noun (celui de Paul), qui / que (celui qui parle). Celui-ci = this one; celui-là = that one.\n- Celui is masculine singular, celle feminine singular, ceux masculine plural, celles feminine plural. They agree with the noun they replace.\n- Ce / cet / cette / ces (adjectives) go before a noun: ce sac. Celui-ci / celui-là (pronouns) replace the noun. Compare: Je prends ce sac-ci (adjective, with -ci) = Je prends celui-ci.\n- Lequel with prepositions: auquel, duquel, desquels: Auquel penses-tu ? (au sac?) For A2 level, you only need lequel in direct questions.\n- Ceci / cela (ça) = this / that (things not named): Regarde ceci ! Cela m'intéresse. Ça = cela in speech."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Regarde ce sac. – Lequel ?"
+            },
+            {
+              "fr": "Celui-là, le grand pour mettre l'ordinateur."
+            },
+            {
+              "fr": "Tu aimes ces chaussures ? – Lesquelles ? – Celles-là."
+            },
+            {
+              "fr": "Quelle crème préfères-tu ? – Laquelle ? – Celle-ci."
+            },
+            {
+              "fr": "Ceux-là sont en noir."
+            },
+            {
+              "fr": "Elle sent bon, cette crème."
+            },
+            {
+              "fr": "Celle-ci a une protection solaire."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Lequel, laquelle, lesquels, lesquelles ?",
+          "items": [
+            {
+              "prompt": "Regarde ce pull. – ___ ?",
+              "answers": [
+                "Lequel"
+              ],
+              "choices": [
+                "Lequel",
+                "Laquelle",
+                "Lesquels",
+                "Lesquelles"
+              ]
+            },
+            {
+              "prompt": "J'aime cette robe. – ___ ?",
+              "answers": [
+                "Laquelle"
+              ],
+              "choices": [
+                "Lequel",
+                "Laquelle",
+                "Lesquels",
+                "Lesquelles"
+              ]
+            },
+            {
+              "prompt": "Prends ces gants. – ___ ?",
+              "answers": [
+                "Lesquels"
+              ],
+              "choices": [
+                "Lequel",
+                "Laquelle",
+                "Lesquels",
+                "Lesquelles"
+              ]
+            },
+            {
+              "prompt": "Regarde ces chaussures. – ___ ?",
+              "answers": [
+                "Lesquelles"
+              ],
+              "choices": [
+                "Lequel",
+                "Laquelle",
+                "Lesquels",
+                "Lesquelles"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Celui, celle, ceux, celles",
+          "items": [
+            {
+              "prompt": "Ce pull est trop petit. ___ -là est parfait. (masculin singulier)",
+              "answers": [
+                "Celui"
+              ],
+              "choices": [
+                "Celui",
+                "Celle",
+                "Ceux",
+                "Celles"
+              ]
+            },
+            {
+              "prompt": "Cette robe est chère. ___ -ci coûte moins cher. (féminin singulier)",
+              "answers": [
+                "Celle"
+              ],
+              "choices": [
+                "Celui",
+                "Celle",
+                "Ceux",
+                "Celles"
+              ]
+            },
+            {
+              "prompt": "Ces gants sont noirs. ___ -là sont rouges. (masculin pluriel)",
+              "answers": [
+                "Ceux"
+              ],
+              "choices": [
+                "Celui",
+                "Celle",
+                "Ceux",
+                "Celles"
+              ]
+            },
+            {
+              "prompt": "Ces chaussures sont jolies. ___ -ci sont moches. (féminin pluriel)",
+              "answers": [
+                "Celles"
+              ],
+              "choices": [
+                "Celui",
+                "Celle",
+                "Ceux",
+                "Celles"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "produits-matieres",
+      "title": "Les produits, les matières et les modes de vie",
+      "minutes": 10,
+      "lede": "Vocabulary to describe what products are made of and which lifestyle they match: organic, vegetarian, vegan, eco-friendly.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "Les régimes alimentaires et les modes de vie",
+          "items": [
+            {
+              "fr": "bio"
+            },
+            {
+              "fr": "biologique"
+            },
+            {
+              "fr": "écologique"
+            },
+            {
+              "fr": "végane"
+            },
+            {
+              "fr": "végétarien"
+            },
+            {
+              "fr": "végétarienne"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les matières",
+          "items": [
+            {
+              "fr": "le bois",
+              "icon": "🪵"
+            },
+            {
+              "fr": "le caoutchouc"
+            },
+            {
+              "fr": "le coton",
+              "icon": "🧵"
+            },
+            {
+              "fr": "le cuir"
+            },
+            {
+              "fr": "la fibre de soja"
+            },
+            {
+              "fr": "la laine",
+              "icon": "🧶"
+            },
+            {
+              "fr": "le plastique"
+            },
+            {
+              "fr": "biodégradable"
+            },
+            {
+              "fr": "en laine"
+            },
+            {
+              "fr": "en cuir"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les vêtements et les accessoires",
+          "items": [
+            {
+              "fr": "des chaussures",
+              "icon": "👟"
+            },
+            {
+              "fr": "une chemise",
+              "icon": "👔"
+            },
+            {
+              "fr": "des gants",
+              "icon": "🧤"
+            },
+            {
+              "fr": "des tennis"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les produits de toilette",
+          "items": [
+            {
+              "fr": "une crème hydratante"
+            },
+            {
+              "fr": "du dentifrice"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les appréciations familières",
+          "items": [
+            {
+              "fr": "pas mal"
+            },
+            {
+              "fr": "moche"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Bio / biologique = organic (food, cosmetics); écologique = eco-friendly (good for the environment): a product can be écologique without being bio. Végétarien = no meat or fish; végane / végan = no animal products at all (also no leather, honey, wool).\n- Les matières: en + material: un pull en laine, des gants en cuir, une chemise en soie, un sac en plastique. “Made of” is expressed with en or de: une table en bois (or de bois).\n- Biodégradable = it breaks down naturally (a banana peel is; plastic is not): Le papier est biodégradable. Le plastique, non. Un produit non biodégradable.\n- Pas mal (informal) = not bad, quite good: Ce sac est pas mal ! Moche (informal) = ugly: Ces chaussures sont moches. In writing use laid(e), peu élégant(e).\n- Une crème hydratante = a moisturiser (hydrater = to hydrate). Du dentifrice = toothpaste (partitive: du). Une brosse à dents = a toothbrush. Un savon = a soap.\n- Le coton bio is grown without pesticides; le cuir végétal = a leather substitute made without animal skin; le caoutchouc sauvage = wild rubber."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Ce pull est en laine et ce sac en cuir."
+            },
+            {
+              "fr": "Cette chemise est en coton bio."
+            },
+            {
+              "fr": "Les tennis sont en caoutchouc et en plastique recyclé."
+            },
+            {
+              "fr": "Ce produit est végane et biodégradable."
+            },
+            {
+              "fr": "Elle achète une crème hydratante et du dentifrice bio."
+            },
+            {
+              "fr": "Ces gants sont pas mal, mais ce sac est moche."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "En quelle matière ?",
+          "items": [
+            {
+              "prompt": "Un pull chaud est en ___ .",
+              "answers": [
+                "laine"
+              ]
+            },
+            {
+              "prompt": "Un jean est en ___ . (la matière de la plante)",
+              "answers": [
+                "coton"
+              ]
+            },
+            {
+              "prompt": "Un sac qui vient d'un animal est en ___ .",
+              "answers": [
+                "cuir"
+              ]
+            },
+            {
+              "prompt": "Une table peut être en ___ .",
+              "answers": [
+                "bois"
+              ]
+            },
+            {
+              "prompt": "Un produit sans aucun produit d'origine animale est ___ .",
+              "answers": [
+                "végane | végan | vegan"
+              ]
+            },
+            {
+              "prompt": "Un produit qui disparaît naturellement est ___ .",
+              "answers": [
+                "biodégradable"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Caractérisez un produit",
+          "prompt": "À deux : choisissez deux produits écologiques (une brosse à dents, un produit ménager, un vêtement…). Créez un prospectus : précisez la matière, comparez avec un produit non écologique, donnez un titre.",
+          "model": "Voici ma brosse à dents en bois. Elle est biodégradable. La vôtre est en plastique. Nos produits sont végans et pas chers. Lequel préférez-vous ? Celui-ci ou celui-là ?"
+        }
+      ]
+    }
+  ]
+}
