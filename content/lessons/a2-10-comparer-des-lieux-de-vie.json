@@ -1,0 +1,730 @@
+{
+  "id": "a2-comparer-des-lieux-de-vie",
+  "order": 110,
+  "number": 10,
+  "unit": 3,
+  "unitTitle": "Parlez de votre mode de vie",
+  "kicker": "Unité 3 · Leçon 10",
+  "title": "Comparer des lieux de vie",
+  "summary": "Genre et pluriel des noms · comparatifs · superlatif · vocabulaire de la ville et du logement",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "genre-pluriel-noms",
+      "title": "Le genre et le pluriel des noms",
+      "minutes": 9,
+      "lede": "Most nouns follow patterns: their ending often tells you the gender, and the plural is normally an -s. There are exceptions to learn.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Le genre : les terminaisons",
+          "headers": [
+            "Terminaison",
+            "Genre",
+            "Exemples"
+          ],
+          "rows": [
+            [
+              "-ion, -ie, -té",
+              "féminin",
+              "une location · la superficie · la natalité"
+            ],
+            [
+              "-ment, -age",
+              "masculin",
+              "un logement · un avantage"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le pluriel",
+          "headers": [
+            "Règle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "en général + s",
+              "un avantage → des avantages"
+            ],
+            [
+              "-eu, -eau + x",
+              "un bureau → des bureaux · un jeu → des jeux"
+            ],
+            [
+              "-al → -aux",
+              "un journal → des journaux"
+            ],
+            [
+              "-s, -x, -z : pas de changement",
+              "un bus → des bus · un prix → des prix"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Gender endings are strong clues but not laws: -ion, -ie, -té are feminine (la natalité, la superficie, la location), -ment and -age are masculine (le logement, un avantage). Exceptions: -ion masculine: un avion, un camion, un lion, un million. -age feminine: la plage, la page, la cage, la nage, une image. -té masculine: un été, le côté.\n- -eau and -eu add -x: bureaux, cheveux, jeux, bateaux. Exceptions: bleu → bleus (adjective), pneu → pneus, landau → landaus.\n- -al → -aux: journal → journaux, animal → animaux, hôpital → hôpitaux. Exceptions: bal → bals, festival → festivals, carnaval → carnavals.\n- Words ending in -s, -x, -z don't change: un bus / des bus, un prix / des prix, un nez / des nez.\n- Irregular plurals to learn: un œil → des yeux, madame → mesdames, monsieur → messieurs.\n- The plural -s is silent (un avantage / des avantages: only the article changes). To hear the plural, look at the determiner: le / les, un / des, ce / ces, mon / mes."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Une location touristique."
+            },
+            {
+              "fr": "La natalité baisse à Paris."
+            },
+            {
+              "fr": "Un logement avec un balcon."
+            },
+            {
+              "fr": "Les avantages d'une ville."
+            },
+            {
+              "fr": "Des bureaux, des journaux, des hôpitaux."
+            },
+            {
+              "fr": "Un bus, des bus."
+            },
+            {
+              "fr": "Les yeux bleus."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Masculin ou féminin ?",
+          "items": [
+            {
+              "prompt": "une ___ (location)",
+              "answers": [
+                "location"
+              ],
+              "choices": [
+                "location",
+                "logement"
+              ]
+            },
+            {
+              "prompt": "___ natalité baisse. (le/la)",
+              "answers": [
+                "La"
+              ],
+              "choices": [
+                "Le",
+                "La"
+              ]
+            },
+            {
+              "prompt": "___ logement est cher. (le/la)",
+              "answers": [
+                "Le"
+              ],
+              "choices": [
+                "Le",
+                "La"
+              ]
+            },
+            {
+              "prompt": "___ superficie est grande. (le/la)",
+              "answers": [
+                "La"
+              ],
+              "choices": [
+                "Le",
+                "La"
+              ]
+            },
+            {
+              "prompt": "Un ___ est un mot masculin. (logement / location)",
+              "answers": [
+                "logement"
+              ],
+              "choices": [
+                "logement",
+                "location"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Le pluriel",
+          "items": [
+            {
+              "prompt": "un bureau → des ___",
+              "answers": [
+                "bureaux"
+              ]
+            },
+            {
+              "prompt": "un journal → des ___",
+              "answers": [
+                "journaux"
+              ]
+            },
+            {
+              "prompt": "un prix → des ___",
+              "answers": [
+                "prix"
+              ]
+            },
+            {
+              "prompt": "un hôpital → des ___",
+              "answers": [
+                "hôpitaux"
+              ]
+            },
+            {
+              "prompt": "un bus → des ___",
+              "answers": [
+                "bus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comparer",
+      "title": "Les comparatifs",
+      "minutes": 12,
+      "lede": "To compare, French puts plus / aussi / moins before an adjective, an adverb, a noun or after a verb. Que introduces the second element.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Comparer avec un adjectif ou un adverbe",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "plus + adjectif / adverbe + (que)",
+              "Les Parisiennes font des enfants plus tard."
+            ],
+            [
+              "aussi + adjectif / adverbe + (que)",
+              "Les transports sont aussi nombreux (qu'à Paris)."
+            ],
+            [
+              "moins + adjectif / adverbe + (que)",
+              "On paie un loyer moins cher pour une superficie plus grande."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Comparer avec un nom ou un verbe",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "plus de / d' + nom (+ que)",
+              "On voulait plus d'espace."
+            ],
+            [
+              "autant de / d' + nom (+ que)",
+              "On a autant d'avantages (qu'à Paris)."
+            ],
+            [
+              "moins de / d' + nom (+ que)",
+              "Il y a moins de circulation."
+            ],
+            [
+              "verbe + plus / autant / moins (+ que)",
+              "La location limite plus les possibilités de se loger."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les formes irrégulières",
+          "headers": [
+            "Régulier (à ne pas utiliser)",
+            "Correct"
+          ],
+          "rows": [
+            [
+              "plus bon",
+              "meilleur(e)(s)"
+            ],
+            [
+              "plus bien",
+              "mieux"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Adjectives and adverbs use plus / aussi / moins directly: plus grand, aussi cher, moins vite. Nouns need de: plus de temps, autant d'amis, moins de bruit. Never “plus des amis”.\n- Que = than / as: plus grand que moi, aussi cher que ça. After que, pronouns are stressed: plus grand que moi (not “que je”).\n- Bon → meilleur, bien → mieux: La qualité de l'air est meilleure. On vit mieux ici. Never “plus bon” or “plus bien”. But plus mauvais is correct (and pire for abstract nouns). Aussi bon, aussi bien: aussi + bon / bien are fine.\n- Plus before a vowel: liaison [plyz] (plus_intéressant). Plus at the end of the sentence for “more” is [plys] (J'en veux plus). Plus in ne … plus (no more) is [ply] before a consonant.\n- Autant = as much / as many; aussi = as (adjectives, adverbs): Il est aussi grand que moi, but Il mange autant que moi.\n- Comparison with a verb: Il travaille plus que moi, Elle dort moins qu'avant. The verb comes first, then plus / moins."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Les Parisiennes font des enfants plus tard."
+            },
+            {
+              "fr": "Les transports sont aussi nombreux qu'à Paris."
+            },
+            {
+              "fr": "On paie un loyer moins cher pour une superficie plus grande."
+            },
+            {
+              "fr": "On voulait plus d'espace."
+            },
+            {
+              "fr": "On a autant d'avantages qu'à Paris."
+            },
+            {
+              "fr": "Il y a moins de circulation."
+            },
+            {
+              "fr": "La qualité de l'air est meilleure."
+            },
+            {
+              "fr": "On vit mieux ici."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Plus, aussi ou moins ?",
+          "items": [
+            {
+              "prompt": "Le loyer est ___ cher à Paris qu'en province. (plus)",
+              "answers": [
+                "plus"
+              ],
+              "choices": [
+                "plus",
+                "aussi",
+                "moins"
+              ]
+            },
+            {
+              "prompt": "Les transports sont ___ nombreux ici qu'à Paris. (égalité)",
+              "answers": [
+                "aussi"
+              ],
+              "choices": [
+                "plus",
+                "aussi",
+                "moins"
+              ]
+            },
+            {
+              "prompt": "Il y a ___ de circulation ici. (inférieur)",
+              "answers": [
+                "moins"
+              ],
+              "choices": [
+                "plus",
+                "aussi",
+                "moins"
+              ]
+            },
+            {
+              "prompt": "On a ___ d'espace à la campagne. (supérieur)",
+              "answers": [
+                "plus"
+              ],
+              "choices": [
+                "plus",
+                "aussi",
+                "moins"
+              ]
+            },
+            {
+              "prompt": "On a ___ d'avantages qu'à Paris. (égalité)",
+              "answers": [
+                "autant"
+              ],
+              "choices": [
+                "plus",
+                "autant",
+                "moins"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Meilleur ou mieux ?",
+          "items": [
+            {
+              "prompt": "La qualité de l'air est ___ . (bon)",
+              "answers": [
+                "meilleure"
+              ],
+              "choices": [
+                "meilleure",
+                "mieux"
+              ]
+            },
+            {
+              "prompt": "On vit ___ ici. (bien)",
+              "answers": [
+                "mieux"
+              ],
+              "choices": [
+                "meilleur",
+                "mieux"
+              ]
+            },
+            {
+              "prompt": "Ces fruits sont ___ que les autres. (bon)",
+              "answers": [
+                "meilleurs"
+              ],
+              "choices": [
+                "meilleurs",
+                "mieux"
+              ]
+            },
+            {
+              "prompt": "Elle chante ___ que moi. (bien)",
+              "answers": [
+                "mieux"
+              ],
+              "choices": [
+                "meilleure",
+                "mieux"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "superlatif",
+      "title": "Le superlatif",
+      "minutes": 9,
+      "lede": "The superlative says that something is the most or the least in a group: the biggest, the best, the least expensive.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Formation",
+          "headers": [
+            "Structure",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "le / la / les + plus / moins + adjectif",
+              "C'est la ville la plus culturelle du monde."
+            ],
+            [
+              "le / la / les + nom + le / la / les plus / moins + adjectif",
+              "les vins les plus prestigieux"
+            ],
+            [
+              "le / la / les meilleur(e)(s)",
+              "la meilleure ville · les meilleurs transports"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Adjective placement: when the adjective follows the noun, the superlative article is repeated: la ville la plus culturelle (not “la plus culturelle ville”). When the adjective goes before the noun, no repetition: la plus belle ville.\n- De after the superlative = in / of: la ville la plus culturelle du monde (in the world), le plus grand de la classe. Never “dans le monde”.\n- Bon → le meilleur, never “le plus bon”: le meilleur restaurant. Bien → le mieux (adverb): C'est lui qui chante le mieux. Mauvais → le plus mauvais / le pire (figurative).\n- The article agrees with the noun: le plus grand parc, la plus grande ville, les plus grands parcs, les plus grandes villes. Un des plus beaux musées = one of the most beautiful museums.\n- For comparison of two (Lyon is bigger than Nantes) use plus … que; for superlatives (Lyon is the biggest of France) use le plus … de.\n- The least: le moins: le moins cher (the cheapest), la ville la moins chère."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "C'est la ville la plus culturelle du monde."
+            },
+            {
+              "fr": "Les vins les plus prestigieux viennent de Bordeaux."
+            },
+            {
+              "fr": "La ville la plus proche de Paris."
+            },
+            {
+              "fr": "Le quartier le moins agréable."
+            },
+            {
+              "fr": "Les meilleurs transports."
+            },
+            {
+              "fr": "C'est le plus grand musée de France."
+            },
+            {
+              "fr": "Ce sont les plus belles plages."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Formez le superlatif",
+          "items": [
+            {
+              "prompt": "une ville culturelle → la ville ___ plus culturelle du monde",
+              "answers": [
+                "la"
+              ],
+              "choices": [
+                "la",
+                "le",
+                "les"
+              ]
+            },
+            {
+              "prompt": "un vin prestigieux → les vins ___ plus prestigieux",
+              "answers": [
+                "les"
+              ],
+              "choices": [
+                "la",
+                "le",
+                "les"
+              ]
+            },
+            {
+              "prompt": "une ville bonne → la ___ ville",
+              "answers": [
+                "meilleure"
+              ],
+              "choices": [
+                "meilleure",
+                "plus bonne",
+                "mieux"
+              ]
+            },
+            {
+              "prompt": "un quartier agréable (−) → le quartier le ___ agréable",
+              "answers": [
+                "moins"
+              ]
+            },
+            {
+              "prompt": "grand musée → le plus ___ musée de France",
+              "answers": [
+                "grand"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Le lieu de vie idéal",
+          "prompt": "À deux : choisissez une ville (de banlieue, une grande ville ou une petite ville de province), listez ses avantages (transports, vie culturelle, logement, environnement) et comparez-la avec une autre ville. La classe vote.",
+          "model": "Bordeaux est une ville moins grande que Paris, mais les transports sont aussi bons. Le logement coûte moins cher. C'est la ville la plus agréable pour moi : il y a plus de parcs et moins de circulation."
+        }
+      ]
+    },
+    {
+      "id": "vocabulaire-ville-logement",
+      "title": "La ville, le logement et les goûts",
+      "minutes": 8,
+      "lede": "The words to compare cities: population, services, transport and housing. And two verbs to say how much you like something: adorer and détester.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La ville (2)",
+          "items": [
+            {
+              "fr": "la proche banlieue"
+            },
+            {
+              "fr": "une capitale"
+            },
+            {
+              "fr": "un habitant"
+            },
+            {
+              "fr": "une habitante"
+            },
+            {
+              "fr": "la population"
+            },
+            {
+              "fr": "la province"
+            },
+            {
+              "fr": "la qualité de l'air"
+            },
+            {
+              "fr": "la qualité de vie"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les loisirs et les services",
+          "items": [
+            {
+              "fr": "une école"
+            },
+            {
+              "fr": "une exposition"
+            },
+            {
+              "fr": "un musée",
+              "icon": "🏛️"
+            },
+            {
+              "fr": "un théâtre",
+              "icon": "🎭"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les transports",
+          "items": [
+            {
+              "fr": "la circulation"
+            },
+            {
+              "fr": "une rue piétonne"
+            },
+            {
+              "fr": "le temps de transport"
+            },
+            {
+              "fr": "en bus"
+            },
+            {
+              "fr": "en métro"
+            },
+            {
+              "fr": "à vélo"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Le logement (1)",
+          "items": [
+            {
+              "fr": "une location touristique"
+            },
+            {
+              "fr": "le marché de l'immobilier"
+            },
+            {
+              "fr": "une superficie"
+            },
+            {
+              "fr": "un acheteur"
+            },
+            {
+              "fr": "une acheteuse"
+            },
+            {
+              "fr": "un vendeur"
+            },
+            {
+              "fr": "une vendeuse"
+            },
+            {
+              "fr": "se loger"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les goûts",
+          "items": [
+            {
+              "fr": "adorer"
+            },
+            {
+              "fr": "détester"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Une rue piétonne = a pedestrian street (no cars). Un piéton = a pedestrian. La circulation = traffic (not “circulation” of blood, which is la circulation du sang). Il y a beaucoup de circulation. La circulation is feminine and singular.\n- En province = outside Paris (in the rest of France). Vivre en province. The word is typically Parisian-centred: Paris vs la province. La capitale = the capital city.\n- Un habitant / une habitante is a person who lives in a place (the verb is habiter); la population is the total number: Paris a deux millions d'habitants.\n- Se loger = to find accommodation, to live (a place). Une location = a rental; the verb louer = both to rent and to rent out; un locataire = a tenant. Un propriétaire = an owner.\n- Adorer / détester are stronger than aimer / ne pas aimer: J'adore la vie culturelle. Je déteste la circulation. They take a direct object: no préposition: J'adore Paris (not “j'adore à Paris”).\n- Transport words: en bus, en métro, en train, en voiture, but à vélo, à pied (à for things you ride with your body: à vélo, à moto, à cheval)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Paris est la capitale de la France."
+            },
+            {
+              "fr": "La population augmente en Île-de-France."
+            },
+            {
+              "fr": "Je déteste la circulation."
+            },
+            {
+              "fr": "J'adore la vie culturelle."
+            },
+            {
+              "fr": "On va au travail à vélo."
+            },
+            {
+              "fr": "Le marché de l'immobilier est très cher."
+            },
+            {
+              "fr": "Une rue piétonne dans le centre."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Je vais au travail ___ vélo.",
+              "answers": [
+                "à"
+              ]
+            },
+            {
+              "prompt": "Je vais au travail ___ métro.",
+              "answers": [
+                "en"
+              ]
+            },
+            {
+              "prompt": "Une rue sans voitures est une rue ___ .",
+              "answers": [
+                "piétonne"
+              ]
+            },
+            {
+              "prompt": "J'___ la vie culturelle : j'aime beaucoup. (adorer)",
+              "answers": [
+                "adore"
+              ]
+            },
+            {
+              "prompt": "Je ___ la circulation : je n'aime pas du tout. (détester)",
+              "answers": [
+                "déteste"
+              ]
+            },
+            {
+              "prompt": "Les gens qui habitent à Paris sont des Parisiens, mais en général ce sont des ___ . (habitants)",
+              "answers": [
+                "habitants"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "a2-techniques-pour-email-evenement",
+  "order": 112,
+  "number": 12,
+  "unit": 3,
+  "unitTitle": "Parlez de votre mode de vie",
+  "kicker": "Unité 3 · Leçon 12",
+  "title": "Techniques pour…",
+  "summary": "Écrire un e-mail amical de remerciement · la médiation : présenter un événement culturel à l'oral",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "email-remerciement",
+      "title": "Écrire un e-mail amical de remerciement",
+      "minutes": 10,
+      "lede": "A thank-you e-mail to friends or family is warm and structured: greeting, news, memories, a short anecdote, thanks, an invitation and a friendly goodbye.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les parties de l'e-mail",
+          "headers": [
+            "Partie",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1. Saluer",
+              "Chère Valérie,"
+            ],
+            [
+              "2. Rituel de début : prendre des nouvelles",
+              "J'espère que tu vas bien. De notre côté, nous avons repris le travail."
+            ],
+            [
+              "3. Rappeler les faits",
+              "Nous avons adoré notre semaine à Lamballe, dans ta maison."
+            ],
+            [
+              "4. Raconter une anecdote",
+              "Il nous est arrivé un truc amusant : on a raté le bus !"
+            ],
+            [
+              "5. Faire une appréciation",
+              "Quelle nature ! C'était magnifique."
+            ],
+            [
+              "6. Remercier",
+              "On te remercie pour ta générosité."
+            ],
+            [
+              "7. Inviter",
+              "Nous t'accueillerons avec plaisir à notre tour."
+            ],
+            [
+              "8. Prendre congé",
+              "Nous t'embrassons bien fort. À très bientôt !"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Chère (f.) / Cher (m.) + first name for a friend: Chère Valérie, Cher Paul. For a group: Chers amis / Chères amies. Salut works for very close friends, but Cher / Chère is warmer in a thank-you note.\n- J'espère que tu vas bien: espérer que + indicative: J'espère que tu vas bien. (not subjunctive). De notre côté, … = on our side, …\n- Thanks: On te remercie pour / de + noun / infinitive: On te remercie pour ta générosité. On te remercie de nous avoir prêté ta maison (d'avoir + participle). Merci aussi pour…\n- Tu nous as offert l'occasion de + infinitive = you gave us the opportunity to: Tu nous as offert l'occasion de découvrir la région. Nous avons pu + infinitive = we were able to.\n- Invite: Nous t'accueillerons avec plaisir (future of accueillir). Tu es la bienvenue (f.) / Tu es le bienvenu (m.): the participle bienvenu agrees: Vous êtes les bienvenus.\n- Sign-off: Nous t'embrassons bien fort, Je t'embrasse, Bises. À (très) bientôt. Amitiés is also used. For official letters: Cordialement."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez l'e-mail",
+          "items": [
+            {
+              "fr": "Chère Valérie, j'espère que tu vas bien."
+            },
+            {
+              "fr": "De notre côté, nous avons repris le travail."
+            },
+            {
+              "fr": "Nous avons adoré notre semaine à Lamballe, dans ta maison."
+            },
+            {
+              "fr": "Il nous est arrivé un truc amusant : nous avons raté le bus !"
+            },
+            {
+              "fr": "Quelle nature ! C'était magnifique."
+            },
+            {
+              "fr": "On te remercie pour ta générosité et ta confiance."
+            },
+            {
+              "fr": "Nous t'accueillerons avec plaisir à notre tour."
+            },
+            {
+              "fr": "Nous t'embrassons bien fort. À très bientôt !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez l'e-mail",
+          "items": [
+            {
+              "prompt": "___ Valérie, j'espère que tu vas bien. (Chère/Cher)",
+              "answers": [
+                "Chère"
+              ],
+              "choices": [
+                "Cher",
+                "Chère"
+              ]
+            },
+            {
+              "prompt": "J'___ que tu vas bien. (espérer)",
+              "answers": [
+                "espère"
+              ]
+            },
+            {
+              "prompt": "De notre ___ , nous avons repris le travail.",
+              "answers": [
+                "côté"
+              ]
+            },
+            {
+              "prompt": "On te ___ pour ta générosité. (remercier)",
+              "answers": [
+                "remercie"
+              ]
+            },
+            {
+              "prompt": "Nous t'___ avec plaisir à notre tour. (accueillir, futur)",
+              "answers": [
+                "accueillerons"
+              ]
+            },
+            {
+              "prompt": "Nous t'___ bien fort. (embrasser)",
+              "answers": [
+                "embrassons"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre e-mail de remerciement",
+          "prompt": "Écrivez un e-mail amical de remerciement : à qui écrivez-vous (un ami ou un membre de votre famille) ? Pour quelle raison (soirée, sortie, séjour) ?",
+          "model": "Cher Marc, j'espère que tu vas bien. De notre côté, nous avons repris le travail. Nous avons adoré notre week-end chez toi ! Il nous est arrivé un truc amusant : nous avons perdu la clé ! Merci pour ta générosité. Nous t'accueillerons avec plaisir à notre tour. Je t'embrasse, Léa"
+        }
+      ]
+    },
+    {
+      "id": "mediation-evenement-culturel",
+      "title": "La médiation : présenter un événement culturel à l'oral",
+      "minutes": 9,
+      "lede": "Mediation: you read or hear information about an event (a festival) and present it orally to someone who needs the key facts.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Que présenter ?",
+          "headers": [
+            "Information",
+            "Exemple (festival)"
+          ],
+          "rows": [
+            [
+              "Le type d'événement",
+              "un festival de musique"
+            ],
+            [
+              "Le lieu",
+              "La Rochelle"
+            ],
+            [
+              "Les caractéristiques du programme",
+              "plus de quatre-vingts artistes, de nombreux styles"
+            ],
+            [
+              "L'année de création",
+              "né en 1985"
+            ],
+            [
+              "Le prix",
+              "environ trente euros la soirée"
+            ],
+            [
+              "Comment acheter ?",
+              "sur Internet ou sur place"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- A spoken presentation is different from an e-mail: shorter sentences, a clear order, and repetitions of key words. Prefer the present tense: Le festival a lieu à La Rochelle en juillet.\n- Start with the essentials: C'est un festival de musique qui a lieu à… Un festival se déroule / a lieu / est organisé. Se dérouler = to take place.\n- Present the programme with a few concrete examples, not a long list: On peut écouter du rock, du rap et de la chanson française.\n- Say prices in words, dates in words: quinze euros, le dix juillet. Give the practical info: Les billets se vendent en ligne ou à l'entrée.\n- End with a recommendation: Je vous conseille d'y aller ! Si vous aimez la musique, vous allez adorer. The imperative or je vous conseille de + infinitive.\n- Mediation: you don't translate word for word. You choose what is relevant for the person you speak to (a friend who wants to visit France)."
+        },
+        {
+          "type": "phrases",
+          "title": "Un exemple de message vocal",
+          "items": [
+            {
+              "fr": "Salut Léa, je t'appelle pour te parler d'un festival en France."
+            },
+            {
+              "fr": "C'est un festival de musique qui a lieu à La Rochelle, en juillet."
+            },
+            {
+              "fr": "Il y a plus de quatre-vingts artistes, de différents styles."
+            },
+            {
+              "fr": "Le festival existe depuis mille neuf cent quatre-vingt-cinq.",
+              "label": "Le festival existe depuis 1985."
+            },
+            {
+              "fr": "Une soirée coûte environ trente euros."
+            },
+            {
+              "fr": "Tu peux acheter les billets sur Internet."
+            },
+            {
+              "fr": "Je te conseille d'y aller !"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Le festival a ___ à La Rochelle en juillet. (se dérouler / avoir)",
+              "answers": [
+                "lieu"
+              ]
+            },
+            {
+              "prompt": "Il y a plus de quatre-vingts ___ . (les musiciens)",
+              "answers": [
+                "artistes"
+              ]
+            },
+            {
+              "prompt": "Les billets se vendent en ___ . (sur Internet)",
+              "answers": [
+                "ligne"
+              ]
+            },
+            {
+              "prompt": "Je te ___ d'y aller ! (je te le recommande)",
+              "answers": [
+                "conseille"
+              ]
+            },
+            {
+              "prompt": "Un festival de musique, c'est un événement ___ . (adjectif de la culture)",
+              "answers": [
+                "culturel"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Un message vocal",
+          "prompt": "Un(e) ami(e) francophone veut visiter votre pays. Préparez un message vocal pour lui parler d'un festival ou d'un événement culturel : où, quand, le programme, le prix, comment acheter des billets.",
+          "model": "Salut Sophie ! Si tu viens en juillet, il y a un festival de musique à Lisbonne. Il a lieu dans un grand parc, sur trois jours. Il y a des groupes de rock et de jazz. Les billets coûtent environ cinquante euros et on les achète sur Internet. Je te conseille d'y aller !"
+        }
+      ]
+    }
+  ]
+}

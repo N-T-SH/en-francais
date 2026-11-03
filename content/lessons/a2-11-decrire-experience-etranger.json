@@ -1,0 +1,744 @@
+{
+  "id": "a2-decrire-experience-etranger",
+  "order": 111,
+  "number": 11,
+  "unit": 3,
+  "unitTitle": "Parlez de votre mode de vie",
+  "kicker": "Unité 3 · Leçon 11",
+  "title": "Décrire une expérience à l'étranger",
+  "summary": "Prépositions de lieu · y et en · pronoms COI · géographie, cuisine · nasales [ɛ̃] et [ɑ̃]",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "prepositions-lieux",
+      "title": "Les prépositions devant les villes, les pays et les continents",
+      "minutes": 9,
+      "lede": "To say where you live or go, French uses different prepositions for cities, countries and continents. Learn the pattern with the gender of the country.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les prépositions",
+          "headers": [
+            "Lieu",
+            "Préposition",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "ville",
+              "à",
+              "J'habite à Lomé."
+            ],
+            [
+              "pays masculin (le)",
+              "au",
+              "Elle vit au Togo."
+            ],
+            [
+              "pays féminin (la) ou voyelle",
+              "en",
+              "Elle vit en France. · en Italie · en Iran"
+            ],
+            [
+              "pays pluriel (les)",
+              "aux",
+              "Elle vit aux États-Unis."
+            ],
+            [
+              "île, ville-pays",
+              "à",
+              "à Cuba · à Madagascar · à Malte · à Singapour"
+            ],
+            [
+              "continent",
+              "en",
+              "Le Togo est en Afrique."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Most countries ending in -e are feminine (la France, l'Italie, l'Allemagne, la Chine) and take en. Exceptions with -e that are masculine: le Mexique, le Cambodge, le Mozambique, le Zimbabwe (au Mexique).\n- Countries starting with a vowel take en whatever their gender: en Iran (masculine), en Israël, en Équateur, en Afghanistan, en Uruguay.\n- Au for masculine countries beginning with a consonant: au Togo, au Canada, au Japon, au Maroc, au Brésil, au Portugal. Aux for plural: aux États-Unis, aux Pays-Bas, aux Philippines.\n- From: de / du / d' / des: Je viens de France, du Togo, d'Italie, des États-Unis. Cities: de Lomé, d'Abidjan. Venir de + country (see A1 Leçon 14).\n- Cities: à + city (à Paris), but when the article is part of the name: au Caire, au Havre, à La Havane, à La Rochelle. Continents use en: en Afrique, en Asie, en Europe, en Amérique, en Océanie.\n- Islands: most are à (à Cuba, à Madagascar, à Malte, à Tahiti, à Hawaï), but some large ones are en (en Corse, en Sicile, en Sardaigne, en Irlande)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "J'habite à Lomé, au Togo."
+            },
+            {
+              "fr": "Elle vit en France."
+            },
+            {
+              "fr": "Ils sont allés aux États-Unis."
+            },
+            {
+              "fr": "Nous partons en Afrique."
+            },
+            {
+              "fr": "Il travaille au Japon."
+            },
+            {
+              "fr": "Je viens du Togo."
+            },
+            {
+              "fr": "Elle vient d'Italie."
+            },
+            {
+              "fr": "Ils habitent à Cuba."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Quelle préposition ?",
+          "items": [
+            {
+              "prompt": "J'habite ___ Lomé.",
+              "answers": [
+                "à"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Elle vit ___ Togo.",
+              "answers": [
+                "au"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Nous partons ___ France.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Ils travaillent ___ États-Unis.",
+              "answers": [
+                "aux"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Le Togo est ___ Afrique.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Il voyage ___ Iran. (voyelle)",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            },
+            {
+              "prompt": "Elle vit ___ Cuba.",
+              "answers": [
+                "à"
+              ],
+              "choices": [
+                "à",
+                "en",
+                "au",
+                "aux"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoms-y-en",
+      "title": "Les pronoms y et en pour remplacer un lieu",
+      "minutes": 10,
+      "lede": "Y and en replace a place, so you don't repeat it. Y replaces à / dans / en + place; en replaces de + place or quantity.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Y et en",
+          "headers": [
+            "Pronom",
+            "Remplace",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "y",
+              "un lieu avec à, au, en, dans, sur…",
+              "Je me sens bien au Togo. → Je m'y sens bien."
+            ],
+            [
+              "y",
+              "(un lieu où l'on va)",
+              "Je vais souvent à la plage. → J'y vais souvent."
+            ],
+            [
+              "en",
+              "un lieu avec de (venir de)",
+              "On revient toujours contents de cette région. → On en revient toujours contents."
+            ],
+            [
+              "en",
+              "(un lieu d'où l'on sort)",
+              "Quand je suis sortie du resto, j'avais faim. → Quand j'en suis sortie, j'avais faim."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Y and en go BEFORE the verb (or before the infinitive): J'y vais. Je vais y aller. Je n'y vais pas. J'en viens. Il faut en parler.\n- Y = there (to or at that place): Tu vas à la plage ? Oui, j'y vais. Tu es au Togo ? Oui, j'y suis. En = from there (or some of it): Tu viens du marché ? Oui, j'en viens.\n- J'y vais [ʒi vɛ]; the vowel y is pronounced [i]: the y here is the pronoun, not a consonant. Il y a = there is: this uses y as well (the same pronoun in a fixed phrase).\n- Y does not replace a person: J'ai parlé à Marie → je lui ai parlé (not j'y ai parlé). Y can replace a thing with à: Je pense à mon voyage → J'y pense.\n- Imperative: Vas-y ! (with s) but Va au marché ! (no pronoun, no s). Allons-y ! Ne t'en va pas / Va-t'en ! (go away!). Penses-y !\n- Passé composé: J'y suis allé. J'en suis revenu. The pronoun is placed before the auxiliary."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Je m'y sens bien."
+            },
+            {
+              "fr": "J'y vais souvent le matin."
+            },
+            {
+              "fr": "J'y vais à pied."
+            },
+            {
+              "fr": "On en revient toujours contents."
+            },
+            {
+              "fr": "Quand j'en suis sortie, j'avais faim."
+            },
+            {
+              "fr": "Tu vas au Togo ? Oui, j'y vais en juillet."
+            },
+            {
+              "fr": "Tu viens de Lomé ? Oui, j'en viens."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Y ou en ?",
+          "items": [
+            {
+              "prompt": "Tu vas à la plage ? Oui, j'___ vais.",
+              "answers": [
+                "y"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Tu viens du marché ? Oui, j'___ viens.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Vous allez au Togo ? Oui, nous ___ allons en juillet.",
+              "answers": [
+                "y"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Elle revient du Japon ? Oui, elle ___ revient.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Il habite à Lomé ? Oui, il ___ habite.",
+              "answers": [
+                "y"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            },
+            {
+              "prompt": "Vous sortez du restaurant ? Oui, nous ___ sortons.",
+              "answers": [
+                "en"
+              ],
+              "choices": [
+                "y",
+                "en"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoms-coi",
+      "title": "Les pronoms COI : me, te, lui, nous, vous, leur",
+      "minutes": 10,
+      "lede": "An indirect object pronoun (COI) replaces à + person. It answers the question “to whom?”.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les pronoms COI",
+          "headers": [
+            "Personne",
+            "Singulier",
+            "Pluriel"
+          ],
+          "rows": [
+            [
+              "1re",
+              "me / m'",
+              "nous"
+            ],
+            [
+              "2e",
+              "te / t'",
+              "vous"
+            ],
+            [
+              "3e",
+              "lui",
+              "leur"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Exemples",
+          "headers": [
+            "Phrase",
+            "Remplace"
+          ],
+          "rows": [
+            [
+              "On lui donne la liste des courses.",
+              "à la dame / à Chloé"
+            ],
+            [
+              "Je leur dis quoi faire.",
+              "aux colocataires"
+            ],
+            [
+              "Elle nous prépare à manger.",
+              "à nous"
+            ],
+            [
+              "Qu'est-ce que vous me conseillez ?",
+              "à moi"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Lui = to him / to her (no gender distinction): Je lui parle (to Paul or to Marie). Leur = to them: Je leur parle. Don't add an -s to leur (a pronoun is invariable). Leur (possessive adjective) does take -s: leurs amis.\n- COI replaces à + person: parler à, téléphoner à, donner à, dire à, écrire à, demander à, répondre à, conseiller à. Je donne des conseils aux volontaires → Je leur donne des conseils.\n- Only for people! For things with à, use y: Je pense à mon voyage → J'y pense. Verbs of thinking about a person take a stressed pronoun: Je pense à lui (not je lui pense).\n- Position: before the verb (like COD): Je lui parle. Il ne leur dit rien. Je vais leur parler. Passé composé: Je lui ai parlé (participle doesn't agree with COI).\n- Test: if you can say “to him / to her / to them” in English, use lui / leur. If it's direct (“him / her / them”), use le / la / les: Je le vois (I see him) vs Je lui parle (I talk to him).\n- Imperative affirmative: Donne-lui la liste ! Dis-leur ! (pronoun after the verb with a hyphen: moi / toi instead of me / te: Parle-moi !)."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "On lui donne la liste des courses."
+            },
+            {
+              "fr": "Je leur dis quoi faire."
+            },
+            {
+              "fr": "Elle nous prépare à manger."
+            },
+            {
+              "fr": "Qu'est-ce que vous me conseillez ?"
+            },
+            {
+              "fr": "Je ne leur donne pas de conseils."
+            },
+            {
+              "fr": "Je lui parle tous les jours."
+            },
+            {
+              "fr": "Tu leur téléphones ce soir ?"
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Lui ou leur ?",
+          "items": [
+            {
+              "prompt": "Je parle à Marie. → Je ___ parle.",
+              "answers": [
+                "lui"
+              ],
+              "choices": [
+                "lui",
+                "leur"
+              ]
+            },
+            {
+              "prompt": "Je parle aux voisins. → Je ___ parle.",
+              "answers": [
+                "leur"
+              ],
+              "choices": [
+                "lui",
+                "leur"
+              ]
+            },
+            {
+              "prompt": "Elle téléphone à son père. → Elle ___ téléphone.",
+              "answers": [
+                "lui"
+              ],
+              "choices": [
+                "lui",
+                "leur"
+              ]
+            },
+            {
+              "prompt": "Nous écrivons aux colocataires. → Nous ___ écrivons.",
+              "answers": [
+                "leur"
+              ],
+              "choices": [
+                "lui",
+                "leur"
+              ]
+            },
+            {
+              "prompt": "On donne la liste à Chloé. → On ___ donne la liste.",
+              "answers": [
+                "lui"
+              ],
+              "choices": [
+                "lui",
+                "leur"
+              ]
+            },
+            {
+              "prompt": "Ils disent merci aux volontaires. → Ils ___ disent merci.",
+              "answers": [
+                "leur"
+              ],
+              "choices": [
+                "lui",
+                "leur"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Choisissez le pronom",
+          "items": [
+            {
+              "prompt": "Tu conseilles à moi. → Tu ___ conseilles.",
+              "answers": [
+                "me"
+              ],
+              "choices": [
+                "me",
+                "m'",
+                "moi"
+              ]
+            },
+            {
+              "prompt": "Elle prépare à manger à nous. → Elle ___ prépare à manger.",
+              "answers": [
+                "nous"
+              ],
+              "choices": [
+                "nous",
+                "lui",
+                "leur"
+              ]
+            },
+            {
+              "prompt": "Il demande à vous. → Il ___ demande.",
+              "answers": [
+                "vous"
+              ],
+              "choices": [
+                "vous",
+                "leur",
+                "lui"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geographie-cuisine-nasales",
+      "title": "La géographie, la cuisine et les nasales [ɛ̃] et [ɑ̃]",
+      "minutes": 9,
+      "lede": "The words to describe a country (nature, climate) and the food you eat there, then two nasal vowels to tell apart.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La géographie",
+          "items": [
+            {
+              "fr": "un animal",
+              "icon": "🐾"
+            },
+            {
+              "fr": "des animaux"
+            },
+            {
+              "fr": "un climat tropical"
+            },
+            {
+              "fr": "une forêt",
+              "icon": "🌲"
+            },
+            {
+              "fr": "la nature"
+            },
+            {
+              "fr": "une plage",
+              "icon": "🏖️"
+            },
+            {
+              "fr": "une région"
+            },
+            {
+              "fr": "l'Afrique"
+            },
+            {
+              "fr": "l'Amérique"
+            },
+            {
+              "fr": "l'Asie"
+            },
+            {
+              "fr": "l'Europe"
+            },
+            {
+              "fr": "l'Océanie"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "La cuisine (1)",
+          "items": [
+            {
+              "fr": "un chef"
+            },
+            {
+              "fr": "une cheffe"
+            },
+            {
+              "fr": "doux"
+            },
+            {
+              "fr": "douce"
+            },
+            {
+              "fr": "pimenté"
+            },
+            {
+              "fr": "pimentée"
+            },
+            {
+              "fr": "sucré"
+            },
+            {
+              "fr": "sucrée"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les mots familiers",
+          "items": [
+            {
+              "fr": "un resto"
+            },
+            {
+              "fr": "un truc"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Oral et familier",
+          "headers": [
+            "Familier",
+            "Standard"
+          ],
+          "rows": [
+            [
+              "un resto",
+              "un restaurant"
+            ],
+            [
+              "un truc",
+              "une chose"
+            ],
+            [
+              "un prof",
+              "un professeur"
+            ],
+            [
+              "un ordi",
+              "un ordinateur"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Continents: l'Afrique, l'Amérique, l'Asie, l'Europe, l'Océanie: all feminine and used with en (en Afrique, en Asie); of a continent: le climat de l'Afrique.\n- Doux / douce = sweet, soft, mild (a mild climate, a sweet taste, a soft voice). Pimenté = spicy hot (with chili). Épicé = spiced (not necessarily hot). Sucré = sweet (sugar). Salé = salty.\n- Un truc = a thing / a gadget / a trick: Il m'est arrivé un truc amusant (something funny happened to me). Very common in speech, but avoid in formal writing (use chose). Un machin is similar.\n- Un resto = a restaurant (short). Un chef (m.) / une cheffe (f.): the feminine une cheffe is recent; une chef de cuisine is also used.\n- Nasals: [ɛ̃] (spread lips: un, in, ien, oin, ain, yn: la province, parisien, loin, sympa) and [ɑ̃] (open: en, an: le piment, dans, la campagne). En France → [ɑ̃ fʁɑ̃s]: two [ɑ̃].\n- Tropical climate = un climat tropical, la forêt tropicale. Climat is masculine (le climat), but la nature, la forêt, la plage are feminine."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Le climat du Togo est tropical."
+            },
+            {
+              "fr": "La forêt est magnifique."
+            },
+            {
+              "fr": "Les plages sont immenses."
+            },
+            {
+              "fr": "Ce plat est très pimenté."
+            },
+            {
+              "fr": "Elle est cheffe dans un grand restaurant."
+            },
+            {
+              "fr": "Il nous est arrivé un truc amusant."
+            },
+            {
+              "fr": "On mange au resto ce soir ?"
+            },
+            {
+              "fr": "En France, on dîne tard."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Complétez",
+          "items": [
+            {
+              "prompt": "Un plat avec beaucoup de piment est un plat ___ .",
+              "answers": [
+                "pimenté"
+              ]
+            },
+            {
+              "prompt": "Le contraire de salé : ___ .",
+              "answers": [
+                "sucré"
+              ]
+            },
+            {
+              "prompt": "Un climat chaud et humide est un climat ___ .",
+              "answers": [
+                "tropical"
+              ]
+            },
+            {
+              "prompt": "Une personne qui cuisine dans un restaurant est un ___ . (m.)",
+              "answers": [
+                "chef"
+              ]
+            },
+            {
+              "prompt": "Le Togo est en ___ . (le continent)",
+              "answers": [
+                "Afrique"
+              ]
+            },
+            {
+              "prompt": "Dans « loin », la voyelle nasale est ___ .",
+              "answers": [
+                "[ɛ̃]"
+              ],
+              "choices": [
+                "[ɛ̃]",
+                "[ɑ̃]"
+              ]
+            },
+            {
+              "prompt": "Dans « piment », la nasale finale est ___ .",
+              "answers": [
+                "[ɑ̃]"
+              ],
+              "choices": [
+                "[ɛ̃]",
+                "[ɑ̃]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "oral",
+          "title": "Votre expérience à l'étranger",
+          "prompt": "Décrivez une expérience à l'étranger (la vôtre, ou celle d'un étranger dans votre pays) : le pays, la ville, les relations avec les habitants, la vie quotidienne. Racontez une anecdote amusante.",
+          "model": "J'ai vécu au Canada pendant un an. J'habitais à Montréal avec deux colocataires. J'y allais à pied au travail. Un jour, il m'est arrivé un truc amusant : j'ai pris un bus qui allait dans l'autre direction. Je m'y sens bien : c'est une ville vivante !"
+        }
+      ]
+    }
+  ]
+}

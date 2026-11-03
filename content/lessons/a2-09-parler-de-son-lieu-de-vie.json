@@ -1,0 +1,577 @@
+{
+  "id": "a2-parler-de-son-lieu-de-vie",
+  "order": 109,
+  "number": 9,
+  "unit": 3,
+  "unitTitle": "Parlez de votre mode de vie",
+  "kicker": "Unité 3 · Leçon 9",
+  "title": "Parler de son lieu de vie",
+  "summary": "Le pronom on · qui, que, où · la ville et les commerces · les liaisons",
+  "level": "A2",
+  "sections": [
+    {
+      "id": "pronom-on",
+      "title": "Le pronom on",
+      "minutes": 7,
+      "lede": "On is the everyday indefinite pronoun: it means people in general, “one”, or, in conversation, “we”. It always takes the verb in the il / elle form.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Les deux sens de on",
+          "headers": [
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "les gens, tout le monde",
+              "On peut se rendre dans le centre. (= tout le monde peut…)"
+            ],
+            [
+              "nous (informel)",
+              "On écoute les témoignages de Jeanine, Arnaud et Inès. (= nous écoutons)"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- On + verb in the 3rd person singular, even when it means “we”: on mange, on va, on a fini. Never “on mangent”. But the adjective or participle agrees in meaning: On est contents (we are happy), Nous sommes allés → On est allés.\n- On = nous in speech, but in a written text addressed to a client or a boss, nous is more formal. On is also used for impersonal statements: En France, on dîne tard. On dit que… (they say that…). English uses “you / they / one”.\n- Liaison: on est [ɔ̃nɛ], on a [ɔ̃na]. You can reinforce on with nous: Nous, on va au parc (emphatic).\n- Reflexive: On se rend dans le centre (people go to the centre), On s'est vus hier (we saw each other: the participle is plural).\n- L'on exists in formal writing (si l'on veut), only to avoid hiatus. You can ignore it for now."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "On peut se rendre dans le centre pour faire ses courses."
+            },
+            {
+              "fr": "On peut se garer dans le centre-ville."
+            },
+            {
+              "fr": "On écoute les témoignages de Jeanine, Arnaud et Inès."
+            },
+            {
+              "fr": "En France, on fait ses courses le samedi."
+            },
+            {
+              "fr": "On va au marché ?"
+            },
+            {
+              "fr": "On est allés au cinéma hier."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Remplacez nous par on",
+          "items": [
+            {
+              "prompt": "Nous allons au marché. → On ___ au marché.",
+              "answers": [
+                "va"
+              ]
+            },
+            {
+              "prompt": "Nous faisons nos courses. → On ___ ses courses. (nos / ses)",
+              "answers": [
+                "fait"
+              ]
+            },
+            {
+              "prompt": "Nous prenons le bus. → On ___ le bus.",
+              "answers": [
+                "prend"
+              ]
+            },
+            {
+              "prompt": "Nous sommes contents. → On est ___ .",
+              "answers": [
+                "contents"
+              ]
+            },
+            {
+              "prompt": "Nous parlons français. → On ___ français.",
+              "answers": [
+                "parle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronom-relatif-ou",
+      "title": "Les pronoms relatifs : qui, que et où",
+      "minutes": 9,
+      "lede": "A relative pronoun links two sentences. Qui is the subject, que is the direct object, and où replaces a place (or sometimes a time).",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Qui, que, où",
+          "headers": [
+            "Pronom",
+            "Il remplace…",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "qui",
+              "le sujet",
+              "Je ne peux pas aller dans les centres commerciaux qui sont trop loin."
+            ],
+            [
+              "que / qu'",
+              "le COD",
+              "Les centres commerciaux qu'on construit en périphérie sont responsables."
+            ],
+            [
+              "où",
+              "un complément de lieu (ou de temps)",
+              "L'hôpital est devenu un centre médical où il n'y a pas de maternité."
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Où = where. It replaces a noun of place introduced by à / dans / en / sur: L'hôpital est devenu un centre médical. Il n'y a pas de maternité dans ce centre → … un centre médical où il n'y a pas de maternité.\n- Où can also express time: Le jour où je suis arrivé (the day when I arrived). Not “quand”: after a noun of time, use où.\n- Où is also the question word (Où habites-tu ?). Ou without an accent means “or”. The relative pronoun où always keeps the grave accent.\n- Test: qui is followed by a verb, que by a subject + verb, où by a subject + verb (or a verb). Un magasin qui ferme / un magasin que j'aime / un magasin où je vais.\n- Choose by function, not by gender or number. Don't write “la ville qui j'habite” (wrong): La ville où j'habite.\n- Dont (whose / of which) comes later; for now you only need qui, que, où."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Un centre commercial où on peut se garer gratuitement."
+            },
+            {
+              "fr": "Le bar-tabac où on peut acheter le journal."
+            },
+            {
+              "fr": "Une ville qui se vide."
+            },
+            {
+              "fr": "Les magasins que les gens préfèrent."
+            },
+            {
+              "fr": "L'hôpital est devenu un centre médical où il n'y a pas de maternité."
+            },
+            {
+              "fr": "Le jour où je suis arrivé, il pleuvait."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Qui, que ou où ?",
+          "items": [
+            {
+              "prompt": "La ville ___ j'habite est petite. (lieu)",
+              "answers": [
+                "où"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "où"
+              ]
+            },
+            {
+              "prompt": "Le commerçant ___ vend du pain est sympa. (sujet)",
+              "answers": [
+                "qui"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "où"
+              ]
+            },
+            {
+              "prompt": "Le magasin ___ je préfère est fermé. (COD)",
+              "answers": [
+                "que"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "où"
+              ]
+            },
+            {
+              "prompt": "Le centre commercial ___ on construit est loin. (COD)",
+              "answers": [
+                "qu'"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "qu'"
+              ]
+            },
+            {
+              "prompt": "La rue ___ il y a un marché est très animée. (lieu)",
+              "answers": [
+                "où"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "où"
+              ]
+            },
+            {
+              "prompt": "Le jour ___ j'ai déménagé, il neigeait. (temps)",
+              "answers": [
+                "où"
+              ],
+              "choices": [
+                "qui",
+                "que",
+                "où"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ville-commerces",
+      "title": "La ville, les commerces et les services",
+      "minutes": 9,
+      "lede": "The words to talk about your town: the centre and the outskirts, the shops (and the people who run them), and the public services.",
+      "blocks": [
+        {
+          "type": "phrases",
+          "title": "La ville (1)",
+          "items": [
+            {
+              "fr": "le centre-ville"
+            },
+            {
+              "fr": "la désertification"
+            },
+            {
+              "fr": "la périphérie"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les commerces",
+          "items": [
+            {
+              "fr": "un loyer"
+            },
+            {
+              "fr": "une boutique"
+            },
+            {
+              "fr": "un magasin"
+            },
+            {
+              "fr": "un marché"
+            },
+            {
+              "fr": "un supermarché"
+            },
+            {
+              "fr": "un hypermarché"
+            },
+            {
+              "fr": "un centre commercial"
+            },
+            {
+              "fr": "le bar-tabac"
+            },
+            {
+              "fr": "un buraliste"
+            },
+            {
+              "fr": "la boucherie",
+              "icon": "🥩"
+            },
+            {
+              "fr": "la boulangerie",
+              "icon": "🥖"
+            },
+            {
+              "fr": "l'épicerie"
+            },
+            {
+              "fr": "la poissonnerie",
+              "icon": "🐟"
+            },
+            {
+              "fr": "un fleuriste",
+              "icon": "💐"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les services",
+          "items": [
+            {
+              "fr": "un bureau de poste"
+            },
+            {
+              "fr": "un centre médical"
+            },
+            {
+              "fr": "un commissariat de police"
+            },
+            {
+              "fr": "un hôpital",
+              "icon": "🏥"
+            },
+            {
+              "fr": "la mairie"
+            },
+            {
+              "fr": "la municipalité"
+            },
+            {
+              "fr": "un parking"
+            },
+            {
+              "fr": "le stationnement"
+            },
+            {
+              "fr": "un bus",
+              "icon": "🚌"
+            }
+          ]
+        },
+        {
+          "type": "phrases",
+          "title": "Les activités",
+          "items": [
+            {
+              "fr": "faire les courses"
+            },
+            {
+              "fr": "faire des achats"
+            },
+            {
+              "fr": "faire du shopping"
+            },
+            {
+              "fr": "faire la queue"
+            },
+            {
+              "fr": "se faire livrer"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Le centre-ville (town centre), la périphérie / la banlieue (outskirts). Une désertification means “becoming a desert”: the shops and people leave. Les centres-villes se vident.\n- Chez le + person, à la + shop: chez le boucher = à la boucherie. Chez le buraliste = au bar-tabac. Chez le fleuriste. Both are correct; chez is more common in speech.\n- Faire les courses = grocery shopping (food); faire des achats = to buy things; faire du shopping = to browse / buy (clothes). Don't say “faire du shopping” for food. Faire la queue = to queue.\n- Un bar-tabac sells newspapers, cigarettes, stamps and serves coffee. The owner is un buraliste. A very French place.\n- Le stationnement = parking (the action: Le stationnement est gratuit); un parking = a car park. La mairie = the town hall; the mayor is le maire / la maire. L'hôtel de ville = the town hall of a city.\n- Un loyer = rent. Un magasin = a shop; un marché = an open-air market or a market (économie). Une boutique = a small shop."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Les centres-villes se vident."
+            },
+            {
+              "fr": "Je fais mes courses au supermarché."
+            },
+            {
+              "fr": "Au bar-tabac, on peut acheter le journal."
+            },
+            {
+              "fr": "Je vais chez le boucher."
+            },
+            {
+              "fr": "Le stationnement est gratuit le samedi."
+            },
+            {
+              "fr": "La mairie propose des bus gratuits."
+            },
+            {
+              "fr": "Il y a toujours beaucoup de monde : il faut faire la queue."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Où va-t-on ?",
+          "items": [
+            {
+              "prompt": "Pour acheter du pain : à la ___ .",
+              "answers": [
+                "boulangerie"
+              ]
+            },
+            {
+              "prompt": "Pour acheter de la viande : à la ___ .",
+              "answers": [
+                "boucherie"
+              ]
+            },
+            {
+              "prompt": "Pour acheter des fleurs : chez le ___ .",
+              "answers": [
+                "fleuriste"
+              ]
+            },
+            {
+              "prompt": "Pour envoyer une lettre : au bureau de ___ .",
+              "answers": [
+                "poste"
+              ]
+            },
+            {
+              "prompt": "Pour demander un acte de naissance : à la ___ .",
+              "answers": [
+                "mairie"
+              ]
+            },
+            {
+              "prompt": "On gare sa voiture dans un ___ .",
+              "answers": [
+                "parking"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "task",
+          "mode": "written",
+          "title": "Votre centre-ville",
+          "prompt": "Parlez de votre centre-ville et de vos habitudes d'achats : listez les commerces et les services qui existent ou qui ont fermé. Où faites-vous vos courses ? Proposez des solutions pour dynamiser le centre.",
+          "model": "Dans mon centre-ville, il y a une boulangerie, une pharmacie et un bar-tabac. Le supermarché est en périphérie : on y va en voiture. Beaucoup de magasins ont fermé. La mairie pourrait offrir le stationnement gratuit."
+        }
+      ]
+    },
+    {
+      "id": "liaisons",
+      "title": "Les liaisons obligatoires et interdites",
+      "minutes": 6,
+      "lede": "Liaison is the pronunciation of a normally silent final consonant before a vowel. In some cases it is required, in others forbidden.",
+      "blocks": [
+        {
+          "type": "table",
+          "title": "Quand ?",
+          "headers": [
+            "Liaison obligatoire",
+            "Liaison interdite"
+          ],
+          "rows": [
+            [
+              "déterminant + nom : les_amis, un_ami",
+              "après et : un garçon et_un homme"
+            ],
+            [
+              "pronom + verbe : vous_avez, on_a, ils_ont",
+              "avant un h aspiré : les héros, en haut"
+            ],
+            [
+              "adjectif + nom : un petit_ami, de grands_enfants",
+              "après un nom singulier : un étudiant_américain"
+            ],
+            [
+              "c'est, il est, ils sont + voyelle : c'est_un, ils sont_ici",
+              "entre un nom sujet et son verbe : les gens_ont"
+            ]
+          ]
+        },
+        {
+          "type": "note",
+          "tone": "warning",
+          "title": "Gotchas",
+          "text": "- Obligatory liaison: determiner + noun (un_arbre, les_enfants), personal pronoun + verb (nous_avons, ils_arrivent), after short words like en, dans, chez, sans, très (en_Afrique, dans_un hôpital, très_aimable), numbers + noun (deux_ans, trois_euros).\n- Forbidden liaison: after et (un homme et une femme), before h aspiré (les_héros: no liaison), after a singular noun (un enfant adorable: no liaison), between a subject noun and its verb (les gens ont: no liaison).\n- Liaison sounds: s, x, z → [z] (les_amis, deux_ans); t, d → [t] (un petit_ami, un grand_homme → [t]); n → [n] (un_ami, mon_ami); r → [ʁ] (premier_étage); p → [p] (trop_aimable).\n- Some vowels change: un_ami [œ̃nami] (the n is pronounced, the vowel loses nasality in some speakers), mon_ami [mɔ̃nami] (stays nasal for many). Don't worry about nuance.\n- Optional liaison is a formal speaking style: Je suis_allé, vous êtes_étudiant (optional): it sounds formal.\n- H muet vs h aspiré: l'hôtel, l'homme, l'hôpital (h muet: liaison): les_hôtels. Le héros, la haine, le hockey (h aspiré: no liaison): les héros. The dictionary marks h aspiré with an asterisk."
+        },
+        {
+          "type": "phrases",
+          "title": "Écoutez",
+          "items": [
+            {
+              "fr": "Quatre-vingt-deux ans."
+            },
+            {
+              "fr": "On écoute."
+            },
+            {
+              "fr": "Dans un hôpital."
+            },
+            {
+              "fr": "Le boulanger est parti."
+            },
+            {
+              "fr": "Je fais mes courses au supermarché."
+            },
+            {
+              "fr": "Nous accueillons aujourd'hui."
+            },
+            {
+              "fr": "Les héros sont arrivés."
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "title": "Liaison : oui ou non ?",
+          "items": [
+            {
+              "prompt": "« les amis » : liaison ___ .",
+              "answers": [
+                "oui"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "« un homme et un garçon » : liaison après « et » ___ .",
+              "answers": [
+                "non"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "« vous avez » : liaison ___ .",
+              "answers": [
+                "oui"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "« les héros » : liaison ___ .",
+              "answers": [
+                "non"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            },
+            {
+              "prompt": "« dans un hôpital » : liaison ___ .",
+              "answers": [
+                "oui"
+              ],
+              "choices": [
+                "oui",
+                "non"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
