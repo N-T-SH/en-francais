@@ -19,8 +19,8 @@ function savedLevel(): Level | null {
 export function Home() {
   const done = useStore((s) => s.done);
   const weak = useStore((s) => s.weak);
-  const next = [...sectionIndex.values()].find((r) => !done.includes(r.key));
-  const [level, setLevelState] = useState<Level>(() => savedLevel() ?? next?.lesson.level ?? levels[0]);
+  const firstTodo = [...sectionIndex.values()].find((r) => !done.includes(r.key));
+  const [level, setLevelState] = useState<Level>(() => savedLevel() ?? firstTodo?.lesson.level ?? levels[0]);
   const setLevel = (l: Level) => {
     setLevelState(l);
     try {
@@ -36,6 +36,7 @@ export function Home() {
   const weakCount = inLevel.filter((r) => weak.includes(r.key)).length;
   const pct = total ? Math.round((doneCount / total) * 100) : 0;
   const levelLessons = lessons.filter((l) => l.level === level);
+  const next = inLevel.find((r) => !done.includes(r.key));
 
   return (
     <div className="page">

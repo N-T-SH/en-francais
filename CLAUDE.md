@@ -9,11 +9,11 @@ deployed to GitHub Pages by `.github/workflows/deploy.yml` on every push to `mai
 The learner usually shares notes, slides, PDFs or photos in a Claude session and
 asks for them to be added. To do that:
 
-1. Read all the material. Create `content/lessons/NN-<id>.json`, where NN is the
-   **textbook lesson number** (one app lesson per textbook lesson; lessons 8–10
-   and the "Techniques pour…" page 11 are separate lessons). Set `number` (same
-   as NN), `order` (sort position; same as `number`), `unit`, `unitTitle` and
-   `kicker` ("Unité 3 · Leçon 10"), following the units below.
+1. Read all the material. Create the lesson file for the right **level** (see
+   "Library structure" below: `NN-<id>.json` for A1, `a2-NN-<id>.json` for A2), where NN
+   is the **textbook lesson number** (one app lesson per textbook lesson, including each
+   "Techniques pour…" page). Set `level`, `number`, `order`, `unit`, `unitTitle` and
+   `kicker` ("Unité 3 · Leçon 10") as described in that section.
 2. Follow the schema in `src/content/schema.ts` (the zod field descriptions are the
    spec) and the style of the existing lessons:
    - Language: examples, vocabulary, exercises and task instructions are in French.
@@ -53,22 +53,33 @@ asks for them to be added. To do that:
    - ids: lowercase kebab-case, no accents; section ids unique within a lesson.
 3. Run `npm run validate` and `npm test`, then build with `npm run build`.
 
-## Library structure (textbook: *Inspire 1*, Hachette, A1)
+## Library structure: levels and textbooks
 
-The app follows the textbook's table of contents (Sommaire). Lessons covered so far (the whole book, Leçons 1–31):
+The library is grouped by **CEFR level**, one textbook per level, and the home
+screen has a tab per level that has lessons. Within a level, lessons follow the
+book's table of contents (Sommaire): unit → lesson. Lesson numbers restart at 1
+in each book, so a section is identified as `A2·3.2` in the UI.
 
-| Unité | Leçons in the app |
-|---|---|
-| 1 · Découvrez ! | 1 Saluer · 2 Épeler et compter · 3 Parler de la France et de la francophonie |
-| 2 · Entrez en contact ! | 4 Se présenter · 5 Échanger des informations personnelles · 6 Préciser des informations · 7 Techniques pour… |
-| 3 · Faites connaissance ! | 8 Parler de la famille · 9 Décrire une personne · 10 Échanger sur ses goûts · 11 Techniques pour… |
-| 4 · Organisez une sortie ! | 12 S'informer sur un lieu · 13 Indiquer un chemin · 14 Proposer une sortie · 15 Techniques pour… |
-| 5 · Parlez de votre quotidien | 16 Décrire son quotidien · 17 Faire les courses · 18 Acheter des vêtements · 19 Techniques pour… |
-| Bonus (no unit) | 99 L'heure (from learner-shared infographics, not from the book; numbered 99 so it never clashes with a book lesson) |
-| 6 · Partagez vos expériences ! | 20 Faire une recette · 21 Commander au restaurant · 22 Raconter un événement · 23 Techniques pour… |
-| 7 · Donnez votre avis ! | 24 Conseiller · 25 Proposer un projet · 26 Raconter un voyage · 27 Techniques pour… |
-| 8 · Informez-vous ! | 28 Expliquer son cursus · 29 Décrire un travail · 30 Se loger · 31 Techniques pour… |
+| Level | Textbook | Files | Lessons |
+|---|---|---|---|
+| A1 | *Inspire 1* (Hachette) | `content/lessons/NN-<id>.json`, ids without prefix | 1–31 (+ bonus 99), 8 units |
+| A2 | *Inspire 2* (Hachette) | `content/lessons/a2-NN-<id>.json`, ids start with `a2-` | 1–32, 8 units |
+| B1, B2 | *Inspire 3 / 4* | same pattern with `b1-` / `b2-` | not added yet |
 
+Each lesson sets `level` ("A1" / "A2" / …), `number` (the lesson number **in its
+own book**), `order` (sort position **within the level**: A1 lessons use `order = number`,
+A2 lessons use `100 + number`, bonus lessons use 99), `unit`, `unitTitle` and
+`kicker` ("Unité 3 · Leçon 10"). Lesson ids must be unique across levels, hence the
+`a2-` prefix. Unit rule for A2: unit = ceil(number / 4) (3 lessons + a "Techniques pour…").
+
+A1 units (*Inspire 1*): 1 Découvrez ! (1–3) · 2 Entrez en contact ! (4–7) ·
+3 Faites connaissance ! (8–11) · 4 Organisez une sortie ! (12–15) ·
+5 Parlez de votre quotidien (16–19) · 6 Partagez vos expériences ! (20–23) ·
+7 Donnez votre avis ! (24–27) · 8 Informez-vous ! (28–31). Bonus (no unit): 99 L'heure.
+
+A2 units (*Inspire 2*): 1 Entrez en relation ! (1–4) · 2 Parlez de vous (5–8) ·
+3 Parlez de votre mode de vie (9–12) · 4 Envisagez l'avenir (13–16) ·
+5 Partagez (17–20) · 6 Engagez-vous (21–24) · 7 Réagissez (25–28) · 8 Voyagez (29–32).
 Sections keep stable ids because progress is saved per `lessonId/sectionId`. If
 a section ever moves to another lesson, add it to `SECTION_MOVES` in
 `src/state/store.ts` so saved progress follows it.
